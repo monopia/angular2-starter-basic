@@ -3,14 +3,11 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'my-app',
   styles: [`
-    
+    .active {
+      color: #FFF !important;
+    }
   `],
-  template: `
-    <div class="jumbotron text-center">
-      <h1>The App Lives!</h1>
-      <p>{{ message }}</p>
-    </div>
-  `
+  templateUrl: './app/app.component.html'
 })
 export class AppComponent {
   message = 'This is the sample message.';

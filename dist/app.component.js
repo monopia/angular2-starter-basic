@@ -16,8 +16,8 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            styles: ["\n    \n  "],
-            template: "\n    <div class=\"jumbotron text-center\">\n      <h1>The App Lives!</h1>\n      <p>{{ message }}</p>\n    </div>\n  "
+            styles: ["\n    .active {\n      color: #FFF !important;\n    }\n  "],
+            templateUrl: './app/app.component.html'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
