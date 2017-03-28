@@ -1,6 +1,5 @@
-import { Injectable } from '@angular/core';
-import { Hangul } from './hangul.service'; 
-import { Hanja } from './hanja.service'; 
+import { Hangul } from './hangul';
+import { Hanja } from './hanja';
 
 export class Letter {
   constructor(
@@ -12,9 +11,4 @@ export class Letter {
     public visible: boolean = true,
     public tag: number
   ) { }
-}
-
-@Injectable()
-export class LetterService {
-
 }

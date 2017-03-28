@@ -1,6 +1,8 @@
 import { Component, EventEmitter, Input, Output, SimpleChange } from '@angular/core';
-import { HanjaService, Hanja } from './hanja.service';
-import { Letter } from './letter.service';
+import { Hanja } from './models/hanja';
+import { Hangul } from './models/hangul';
+import { Letter } from './models/letter';
+import { HanjaService } from './hanja.service';
 
 @Component({
   moduleId: module.id,
@@ -10,7 +12,9 @@ import { Letter } from './letter.service';
   <button type="button" class="list-group-item"
     *ngFor="let hanja of hanjaList"
     (click)="selectLetter(hanja)">
-    <span style="font-size:2em">{{ hanja.key }}</span>&nbsp;&nbsp;&nbsp;
+    <span style="font-size:2em">{{ hanja.key }}</span>
+    &nbsp;[ {{ hanja.val }} ]
+    &nbsp;&nbsp;&nbsp;
     <span>{{ hanja.desc.join() }}</span>
   </button>
 </div>
@@ -20,17 +24,31 @@ import { Letter } from './letter.service';
 export class HanjaListComponent{
   constructor(private hanjaService: HanjaService) { }
 
-  @Input() letter: string;
+  @Input() hangul: Hangul;
+  @Input() tag: number;
   @Output() returnHanja = new EventEmitter<Hanja>();
 
   hanjaList: Hanja[];
 
   ngOnChanges(change: SimpleChange) {
-    let curr = JSON.stringify(change["letter"].currentValue);
-    let prev = JSON.stringify(change["letter"].previousValue);
-
-    if (curr != prev) {
-      this.hanjaList = this.hanjaService.getHanjaList(this.letter); // curr로 하면 안됨 ?
+    console.log(change);
+    let obj;
+    if (change["hangul"]) {
+      // obj = JSON.stringify(change["hangul"]);
+      obj = change["hangul"];
+    } else if (change["tag"]) {
+      // obj = JSON.stringify(change["tag"]);
+      obj = change["tag"];
+    } else {
+      obj = {};
+    }
+    console.log(obj);
+    if (obj.currentValue && obj.currentValue != obj.previousValue) {
+      if (change["hangul"]) {
+        this.hanjaList = this.hanjaService.getHanjaListByValue(this.hangul.val);
+      } else if (change["tag"]) {
+        this.hanjaList = this.hanjaService.getHanjaListByTag(this.tag);
+      }
     }
   }
 

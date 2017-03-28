@@ -1,4 +1,6 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Hangul } from './models/hangul';
+import { consonants } from './data/hangul-master';
 import { HangulService } from './hangul.service';
 
 @Component({
@@ -13,32 +15,33 @@ import { HangulService } from './hangul.service';
   <p></p>
   <div class="btn-group" role="group">
     <button type="button" class="btn btn-default"
-      *ngFor="let letter of selectedLetters"
-      (click)="selectLetter(letter)">{{ letter }}</button>
+      *ngFor="let hangulVal of selectedHangulVals"
+      (click)="selectHangul(hangulVal)">{{ hangulVal }}</button>
   </div>
   `,
   styles: ['{background-color: gray}']
 })
 
 export class HangulListComponent {
-  constructor(private hangulService: HangulService) { }
-
-  consonants = this.hangulService.getConsonants();
-
-  private selectedConsonant: string;
-  private selectedLetters: Object;
-
-  @Input() letter: string;
-  @Input() surname: boolean = false;
-  @Output() returnLetter = new EventEmitter<string>();
-
-  selectConsonant(consonant) {
-    this.returnLetter.emit("");
-    this.selectedConsonant = consonant;
-    this.selectedLetters = Object.keys(this.hangulService.getLetters(consonant, this.surname));
+  consonants;
+  selectedConsonant;
+  constructor(private hangulService: HangulService) { 
+    this.consonants = consonants;
   }
 
-  selectLetter(letter) {
-    this.returnLetter.emit(letter);
+  private selectedHangulVals: Object;
+
+  @Input() hangul;
+  @Input() surname: boolean = false;
+  @Output() returnHangul = new EventEmitter<Hangul>();
+
+  selectConsonant(consonant) {
+    this.selectedConsonant = consonant;
+    this.returnHangul.emit(this.hangulService.getEmptyHangul());
+    this.selectedHangulVals = Object.keys(this.hangulService.getHanguls(consonant, this.surname));
+  }
+
+  selectHangul(hangulVal) {
+    this.returnHangul.emit(this.hangulService.getHangul(this.selectedConsonant, hangulVal));
   }
 }

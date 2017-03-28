@@ -1,13 +1,14 @@
 import { Component, EventEmitter, Output, SimpleChange } from '@angular/core';
-import { Hanja, hanjaTags } from './hanja.service';
-import { Letter } from './letter.service';
+import { Letter } from './models/letter';
+import { hanjaTags } from './data/tag';
 
 @Component({
   moduleId: module.id,
   selector: 'tag-list',
   template: `
-<button class="btn btn-default" *ngFor="let key of tagKeys">
-  <span> {{ this.hanjaTags[key].desc }}
+<button class="btn btn-default" *ngFor="let key of tagKeys" (click)="selectTag(key)">
+  <span> {{ this.hanjaTags[key].desc }} </span>
+</button>
   `
 })
 
