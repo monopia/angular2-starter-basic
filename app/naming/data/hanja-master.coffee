@@ -2877,6 +2877,10 @@ hanjaMaster =
     val: '나'
     desc: [ '붙잡을' ]
     stroke: 9
+  '儺':
+    val: '나'
+    desc: ['푸닥거리']
+    stroke: 21
   '暖':
     val: '난'
     desc: [ '따뜻할' ]
@@ -3065,6 +3069,7 @@ hanjaMaster =
     desc: [ '오줌' ]
     initialVal: '요'
     stroke: 7
+    surname: true
   '耨':
     val: '누'
     desc: [ '김맬' ]
@@ -4014,11 +4019,19 @@ hanjaMaster =
     stroke: 11
     originStroke: 12
     tag: [ 310 ]
+  '凉':
+    val: '량'
+    desc: [ '서늘할' ]
+    initialVal: '양'
+    stroke: 10
+    tag: [ 310 ]
+    surname: true
   '梁':
     val: '량'
     desc: [ '들보' ]
     initialVal: '양'
     stroke: 11
+    surname: true
   '糧':
     val: '량'
     desc: [ '양식' ]
@@ -4035,6 +4048,7 @@ hanjaMaster =
     desc: [ '나그네' ]
     initialVal: '여'
     stroke: 10
+    surname: true
   '麗':
     val: '려'
     desc: [ '고울' ]
@@ -4093,6 +4107,7 @@ hanjaMaster =
     ]
     initialVal: '여'
     stroke: 19
+    surname: true
   '戾':
     val: '려'
     desc: [ '어그러질' ]
@@ -4110,6 +4125,7 @@ hanjaMaster =
     initialVal: '역'
     stroke: 2
     tag: [ 80 ]
+    surname: true
   '歷':
     val: '력'
     desc: [ '지날' ]
@@ -4152,6 +4168,7 @@ hanjaMaster =
     initialVal: '연'
     stroke: 11
     originStroke: 14
+    surname: true
   '練':
     val: '련'
     desc: [ '익힐' ]
@@ -4242,6 +4259,7 @@ hanjaMaster =
     initialVal: '염'
     stroke: 13
     tag: [ 125 ]
+    surname: true
   '濂':
     val: '렴'
     desc: [ '물이름' ]
@@ -4298,6 +4316,7 @@ hanjaMaster =
     initialVal: '영'
     stroke: 24
     tag: [ 500 ]
+    surname: true
   '伶':
     val: '령'
     desc: [ '영리할' ]
@@ -4369,6 +4388,7 @@ hanjaMaster =
     desc: [ '길' ]
     initialVal: '노'
     stroke: 13
+    surname: true
   '露':
     val: '로'
     desc: [ '이슬' ]
@@ -4399,6 +4419,7 @@ hanjaMaster =
     ]
     initialVal: '노'
     stroke: 15
+    surname: true
   '盧':
     val: '로'
     desc: [
@@ -4407,6 +4428,7 @@ hanjaMaster =
     ]
     initialVal: '노'
     stroke: 16
+    surname: true
   '鷺':
     val: '로'
     desc: [
@@ -4423,3 +4445,398 @@ hanjaMaster =
     stroke: 16
     originStroke: 17
     tag: [ 200 ]
+  '櫓':
+    val: '로'
+    desc: [ '배젓는','방패' ]
+    initialVal: '노'
+    stroke: 19
+    tag: [ 200 ]
+  '瀘':
+    val: '로'
+    desc: [ '물이름' ]
+    initialVal: '노'
+    stroke: 19
+    originStroke: 20
+    tag: [ 310 ]
+  '蘆':
+    val: '로'
+    desc: [ '갈대' ]
+    initialVal: '노'
+    stroke: 20
+    originStroke: 22
+    tag: [ 300 ]
+    surname: true
+  '虜':
+    val: '로'
+    desc: [ '사로잡을' ]
+    initialVal: '노'
+    stroke: 13
+  '綠':
+    val: '록'
+    desc: [ '푸를' ]
+    initialVal: '녹'
+    stroke: 14
+    tag: [ 160,300 ]
+    surname: true
+  '祿':
+    val: '록'
+    desc: [ '녹봉' ]
+    initialVal: '녹'
+    stroke: 13
+    tag: [ 40 ]
+  '錄':
+    val: '록'
+    desc: [ '기록할' ]
+    initialVal: '녹'
+    stroke: 16
+    tag: [ 70 ]
+  '彔':
+    val: '록'
+    desc: [ '새길' ]
+    initialVal: '녹'
+    stroke: 8
+    tag: [ 70 ]
+  '碌':
+    val: '록'
+    desc: [ '푸른돌','녹슬' ]
+    initialVal: '녹'
+    stroke: 13
+  '鹿':
+    val: '록'
+    desc: [ '사슴' ]
+    initialVal: '녹'
+    stroke: 11
+    tag: [ 200 ]
+  '弄':
+    val: '롱'
+    desc: [ '희롱할' ]
+    initialVal: '농'
+    stroke: 7
+    tag: [ 150 ]
+  '瓏':
+    val: '롱'
+    desc: [ '옥소리' ]
+    initialVal: '농'
+    stroke: 20
+    originStroke: 21
+    tag: [ 60 ]
+  '籠':
+    val: '롱'
+    desc: [ '대바구니' ]
+    initialVal: '농'
+    stroke: 22
+  '壟':
+    val: '롱'
+    desc: [ '밭두둑','농단할' ]
+    initialVal: '농'
+    stroke: 19
+  '朧':
+    val: '롱'
+    desc: [ '흐릿할' ]
+    initialVal: '농'
+    stroke: 20
+    originStroke: 22
+  '聾':
+    val: '롱'
+    desc: [ '귀먹을' ]
+    initialVal: '농'
+    stroke: 22
+  '雷':
+    val: '뢰'
+    desc: [ '우레' ]
+    initialVal: '뇌'
+    stroke: 13
+    surname: true
+  '賴':
+    val: '뢰'
+    desc: [ '의뢰할' ]
+    initialVal: '뇌'
+    stroke: 16
+    surname: true
+  '瀨':
+    val: '뢰'
+    desc: [ '여울' ]
+    initialVal: '뇌'
+    stroke: 19
+    originStroke: 20
+    tag: [310]
+  '儡':
+    val: '뢰'
+    desc: [ '꼭두각시' ]
+    initialVal: '뇌'
+    stroke: 17
+  '賂':
+    val: '뢰'
+    desc: [ '뇌물' ]
+    initialVal: '뇌'
+    stroke: 13
+  '料':
+    val: '료'
+    desc: [ '헤아릴' ]
+    initialVal: '요'
+    stroke: 10
+  '了':
+    val: '료'
+    desc: [ '마칠' ]
+    initialVal: '요'
+    stroke: 2
+  '僚':
+    val: '료'
+    desc: [ '동료','예쁠' ]
+    initialVal: '요'
+    stroke: 14
+    tag: [115]
+  '遼':
+    val: '료'
+    desc: [ '멀' ]
+    initialVal: '요'
+    stroke: 15
+    originStroke: 18
+    tag: [115]
+  '龍':
+    val: '룡'
+    desc: [ '용' ]
+    initialVal: '용'
+    stroke: 16
+    tag: [50,80]
+    surname: true
+  '累':
+    val: '루'
+    desc: [ '여러','자주' ]
+    initialVal: '누'
+    stroke: 11
+  '樓':
+    val: '루'
+    desc: [ '다락','층집' ]
+    initialVal: '누'
+    stroke: 15
+  '淚':
+    val: '루'
+    desc: [ '눈물' ]
+    initialVal: '누'
+    stroke: 11
+    originStroke: 12
+    tag: [310]
+  '漏':
+    val: '루'
+    desc: [ '셀' ]
+    initialVal: '누'
+    stroke: 14
+    originStroke: 15
+    tag: [310]
+  '壘':
+    val: '루'
+    desc: [ '보루' ]
+    initialVal: '누'
+    stroke: 18
+    tag: [330]
+  '婁':
+    val: '루'
+    desc: [ '별이름' ]
+    initialVal: '누'
+    stroke: 11
+    tag: [370]
+  '褸':
+    val: '루'
+    desc: [ '누더기' ]
+    initialVal: '누'
+    stroke: 16
+    originStroke: 17
+    tag: [125]
+  '柳':
+    val: '류'
+    desc: [ '버들' ]
+    initialVal: '유'
+    stroke: 9
+    tag: [300]
+    surname: true
+  '留':
+    val: '류'
+    desc: [ '머무를' ]
+    initialVal: '유'
+    stroke: 10
+  '流':
+    val: '류'
+    desc: [ '흐를' ]
+    initialVal: '유'
+    stroke: 10
+    originStroke: 11
+    tag: [310]
+  '類':
+    val: '류'
+    desc: [ '무리' ]
+    initialVal: '유'
+    stroke: 19
+  '琉':
+    val: '류'
+    desc: [ '유리' ]
+    initialVal: '유'
+    stroke: 11
+    originStroke: 12
+    tag: [60]
+  '劉':
+    val: '류'
+    desc: [ '죽일','베풀' ]
+    initialVal: '유'
+    stroke: 11
+    originStroke: 12
+    surname: true
+  '硫':
+    val: '류'
+    desc: [ '유황' ]
+    initialVal: '유'
+    stroke: 12
+    tag: [330]
+  '榴':
+    val: '류'
+    desc: [ '석류나무' ]
+    initialVal: '유'
+    stroke: 14
+    tag: [300]
+  '溜':
+    val: '류'
+    desc: [ '낙숫물' ]
+    initialVal: '유'
+    stroke: 13
+    originStroke: 14
+    tag: [310]
+  '瀏':
+    val: '류'
+    desc: [ '맑을' ]
+    initialVal: '유'
+    stroke: 18
+    originStroke: 19
+    tag: [310]
+  '謬':
+    val: '류'
+    desc: [ '그르칠' ]
+    initialVal: '유'
+    stroke: 18
+  '六':
+    val: '륙'
+    desc: [ '여섯' ]
+    initialVal: '육'
+    stroke: 4
+    originStroke: 6
+    surname: true
+  '陸':
+    val: '륙'
+    desc: [ '뭍' ]
+    initialVal: '육'
+    stroke: 11
+    originStroke: 16
+    tag: [330]
+    surname: true
+  '戮':
+    val: '륙'
+    desc: [ '죽일' ]
+    initialVal: '육'
+    stroke: 15
+  '倫':
+    val: '륜'
+    desc: [ '인륜' ]
+    initialVal: '윤'
+    stroke: 10
+    tag: [110]
+  '輪':
+    val: '륜'
+    desc: [ '바퀴' ]
+    initialVal: '윤'
+    stroke: 15
+  '綸':
+    val: '륜'
+    desc: [ '벼리' ]
+    initialVal: '윤'
+    stroke: 14
+  '淪':
+    val: '륜'
+    desc: [ '빠질','망할' ]
+    initialVal: '윤'
+    stroke: 11
+    originStroke: 12
+  '律':
+    val: '률'
+    desc: [ '법칙' ]
+    initialVal: '율'
+    stroke: 9
+    tag: [110]
+    surname: true
+  '栗':
+    val: '률'
+    desc: [ '밤' ]
+    initialVal: '율'
+    stroke: 10
+    tag: [300]
+  '慄':
+    val: '률'
+    desc: [ '떨릴' ]
+    initialVal: '율'
+    stroke: 13
+    originStroke: 14
+  '率':
+    val: '률'
+    desc: [ '비율' ]
+    initialVal: '율'
+    stroke: 11
+  '隆':
+    val: '륭'
+    desc: [ '높을' ]
+    initialVal: '융'
+    stroke: 12
+    originStroke: 17
+    tag: [40]
+  '勒':
+    val: '륵'
+    desc: [ '굴레' ]
+    initialVal: '늑'
+    stroke: 11
+    tag: [500]
+  '肋':
+    val: '륵'
+    desc: [ '갈빗대' ]
+    initialVal: '늑'
+    stroke: 6
+    originStroke: 8
+    tag: [350]
+  '凜':
+    val: '름'
+    desc: [ '차가울','늠름할' ]
+    initialVal: '늠'
+    stroke: 15
+    tag: [80]
+  '陵':
+    val: '릉'
+    desc: [ '언덕' ]
+    initialVal: '능'
+    stroke: 11
+    originStroke: 16
+    tag: [330]
+  '綾':
+    val: '릉'
+    desc: [ '비단' ]
+    initialVal: '능'
+    stroke: 14
+    tag: [10]
+  '菱':
+    val: '릉'
+    desc: [ '마름' ]
+    initialVal: '능'
+    stroke: 12
+    originStroke: 14
+    tag: [300]
+  '稜':
+    val: '릉'
+    desc: [ '모서리' ]
+    initialVal: '능'
+    stroke: 13
+  '凌':
+    val: '릉'
+    desc: [ '업신여길' ]
+    initialVal: '능'
+    stroke: 10
+  '凌':
+    val: '릉'
+    desc: [ '업신여길' ]
+    initialVal: '능'
+    stroke: 10
+
