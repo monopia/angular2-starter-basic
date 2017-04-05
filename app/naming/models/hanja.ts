@@ -1,3 +1,4 @@
+import { Material } from './material';
 export class Hanja {
   constructor(
     public key: string,
@@ -8,6 +9,6 @@ export class Hanja {
     public originStroke: number,
     public surname: boolean,
     public tag: number[],
-    public material: number
+    public material: Material
   ) { }
 }

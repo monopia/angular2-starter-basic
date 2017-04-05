@@ -1,32 +1,32 @@
 import { Injectable } from '@angular/core';
 import { Hanja } from './models/hanja';
-import { hanjaMaster } from './data/hanja-master'
-import { Theory } from './theory';
+import { hanjaMaster } from './data/hanja-master';
+import { TheoryService } from './theory.service';
 
 const FETCH_LATENCY = 500;
 
 @Injectable()
 export class HanjaService {
 
+  constructor(private theoryService: TheoryService) {};
+
   getEmptyHanja () {
-    return new Hanja('', '', '', [], 0, 0, false, [], 0);
+    return new Hanja('', '', '', [], 0, 0, false, [], null);
   }
 
   public valIndex = {};
   public initialValIndex = {};
   public tagIndex = {};
-  theory: Theory;
   
   init() {
 
-    this.theory = new Theory();
     let hanjaKeys = Object.keys(hanjaMaster);
 
     hanjaKeys.forEach( (key) => {
 
       let modulus, master: Hanja;
       master = hanjaMaster[key];
-      master.material = this.theory.getMaterialIndexByStroke(master.stroke);
+      master.material = this.theoryService.getMaterialByStroke(master.stroke);
 
       if (this.valIndex[master.val])
         this.valIndex[master.val].push(key);

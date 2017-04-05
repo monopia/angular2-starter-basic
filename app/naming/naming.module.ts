@@ -9,11 +9,12 @@ import { TagListComponent }    from './tag-list.component';
 import { HanjaListComponent }  from './hanja-list.component';
 import { HanjaService }        from './hanja.service';
 import { HangulService }       from './hangul.service';
+import { TheoryService }       from './theory.service';
 import { namingRouting }       from './naming.routing';
 
 @NgModule({
   imports:      [ CommonModule, namingRouting, SharedModule ],
   declarations: [ NamingComponent, HangulListComponent, HanjaListComponent, TagListComponent ],
-  providers:    [ HanjaService, HangulService ]
+  providers:    [ HanjaService, HangulService, TheoryService ]
 })
 export class NamingModule { }

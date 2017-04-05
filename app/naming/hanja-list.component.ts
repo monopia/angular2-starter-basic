@@ -16,6 +16,9 @@ import { HanjaService } from './hanja.service';
     &nbsp;[ {{ hanja.val }} ]
     &nbsp;&nbsp;&nbsp;
     <span>{{ hanja.desc.join() }}</span>
+    <div class="pull-right">
+      <span>{{ hanja.material.material }}</span>
+    </div>
   </button>
 </div>
   `
@@ -31,7 +34,6 @@ export class HanjaListComponent{
   hanjaList: Hanja[];
 
   ngOnChanges(change: SimpleChange) {
-    console.log(change);
     let obj;
     if (change["hangul"]) {
       // obj = JSON.stringify(change["hangul"]);
@@ -42,7 +44,6 @@ export class HanjaListComponent{
     } else {
       obj = {};
     }
-    console.log(obj);
     if (obj.currentValue && obj.currentValue != obj.previousValue) {
       if (change["hangul"]) {
         this.hanjaList = this.hanjaService.getHanjaListByValue(this.hangul.val);
