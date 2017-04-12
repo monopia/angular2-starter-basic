@@ -15,7 +15,8 @@ export class HanjaService {
   }
 
   public valIndex = {};
-  public initialValIndex = {};
+  public surnameValIndex = {};
+  //public initialValIndex = {};
   public tagIndex = {};
   
   init() {
@@ -33,10 +34,12 @@ export class HanjaService {
       else
         this.valIndex[master.val] = [key];
 
-      if (this.initialValIndex[master.initialVal])
-        this.initialValIndex[master.initialVal].push(key);
-      else
-        this.initialValIndex[master.initialVal] = [key];
+      if (master.surname) {
+        if (this.surnameValIndex[master.val])
+          this.surnameValIndex[master.val].push(key);
+        else
+          this.surnameValIndex[master.val] = [key];
+      }
 
       if (master.tag && typeof(master.tag) === 'object') {
         master.tag.forEach((tag) => {
@@ -55,8 +58,11 @@ export class HanjaService {
     });
   }
 
-  getHanjaListByValue(val: string) {
-    return this.getHanjaList(this.valIndex[val]);
+  getHanjaListByValue(val: string, surname=false) {
+    if (surname)
+      return this.getHanjaList(this.surnameValIndex[val]);
+    else
+      return this.getHanjaList(this.valIndex[val]);
   }
 
   getHanjaListByTag(tag: number) {

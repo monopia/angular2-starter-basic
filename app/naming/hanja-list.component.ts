@@ -13,10 +13,12 @@ import { HanjaService } from './hanja.service';
     *ngFor="let hanja of hanjaList"
     (click)="selectLetter(hanja)">
     <span style="font-size:2em">{{ hanja.key }}</span>
-    &nbsp;[ {{ hanja.val }} ]
-    &nbsp;&nbsp;&nbsp;
+    <span style="width:150px; display:inline-block">
+      &nbsp;[ {{ hanja.val }} ]
+      &nbsp;[ {{ hanja.stroke }}{{ hanja.originStroke ? "(" + hanja.originStroke + ")" : "" }} 획 ]
+    </span>
     <span>{{ hanja.desc.join() }}</span>
-    <div class="pull-right">
+    <div class="pull-right badge" [ngStyle]="{'background-color': hanja.material.color}">
       <span>{{ hanja.material.material }}</span>
     </div>
   </button>
@@ -29,6 +31,7 @@ export class HanjaListComponent{
 
   @Input() hangul: Hangul;
   @Input() tag: number;
+  @Input() surname: boolean = false;
   @Output() returnHanja = new EventEmitter<Hanja>();
 
   hanjaList: Hanja[];
@@ -46,7 +49,7 @@ export class HanjaListComponent{
     }
     if (obj.currentValue && obj.currentValue != obj.previousValue) {
       if (change["hangul"]) {
-        this.hanjaList = this.hanjaService.getHanjaListByValue(this.hangul.val);
+        this.hanjaList = this.hanjaService.getHanjaListByValue(this.hangul.val, this.surname);
       } else if (change["tag"]) {
         this.hanjaList = this.hanjaService.getHanjaListByTag(this.tag);
       }

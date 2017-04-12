@@ -18,8 +18,8 @@ import { HangulService } from './hangul.service';
         <div class="col-sm-1">
           <div [hidden]="!letter.visible" (click)="letterToggle(i)">
             <span class="letter-hanja">{{ letter.hanja.key || (letter.surname ? "姓" : "名") }} </span>
-            <span class="letter-hangul" *ngIf="letter.hangul.val">{{ letter.hangul.val }}</span>
-            <span class="letter-hangul" *ngIf="!letter.hangul.val"><i class='fa fa-hand-o-up' aria-hidden='true'></i></span>
+            <span class="letter-hangul" *ngIf="letter.hanja.val">{{ letter.hanja.val }}</span>
+            <span class="letter-hangul" *ngIf="!letter.hanja.val"><i class='fa fa-hand-o-up' aria-hidden='true'></i></span>
           </div>
         </div>
       </div>
@@ -80,6 +80,7 @@ import { HangulService } from './hangul.service';
             <hanja-list
               [hangul]="letter.hangul"
               [tag]="letter.tag"
+              [surname]="letter.surname"
               (returnHanja)="letter.hanja=$event">
             </hanja-list>
           </div>
@@ -121,11 +122,11 @@ export class NamingComponent implements OnInit {
 
   // hanjaMaster: Object;
 
-  surname1: Letter = new Letter("성1(姓)", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, true, true, null);
-  surname2: Letter = new Letter("성2(姓)", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, true, false, null);
-  name1: Letter = new Letter("이름1", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, false, true, null);
-  name2: Letter = new Letter("이름2", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, false, true, null);
-  name3: Letter = new Letter("이름3", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, false, false, null);
+  surname1: Letter = new Letter("성1(姓)", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, true, true, true, null);
+  surname2: Letter = new Letter("성2(姓)", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, true, false, false, null);
+  name1: Letter = new Letter("이름1", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, false, true, true, null);
+  name2: Letter = new Letter("이름2", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, false, false, true, null);
+  name3: Letter = new Letter("이름3", this.hangulService.getEmptyHangul(), this.hanjaService.getEmptyHanja(), 0, false, false, false, null);
 
   letters: Letter[] = [this.surname1, this.surname2, this.name1, this.name2, this.name3];
   toggles: boolean[] = [false,false,false,false,false];
