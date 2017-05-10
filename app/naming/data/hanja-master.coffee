@@ -3,6 +3,7 @@ hanjaMaster =
     val: '가'
     desc: [ '집' ]
     stroke: 10
+    tag: [115]
   '加':
     val: '가'
     desc: [ '더할' ]
@@ -14,15 +15,9 @@ hanjaMaster =
     tag: [ 10 ]
   '嘉':
     val: '가'
-    desc: [
-      '아름다울'
-      '기뻐할'
-    ]
+    desc: [ '아름다울','기뻐할' ]
     stroke: 14
-    tag: [
-      10
-      150
-    ]
+    tag: [10,150]
   '街':
     val: '가'
     desc: [ '거리' ]
@@ -41,10 +36,7 @@ hanjaMaster =
     surname: true
   '假':
     val: '가'
-    desc: [
-      '거짓'
-      '임시'
-    ]
+    desc: [ '거짓','임시' ]
     stroke: 11
   '暇':
     val: '가'
@@ -64,10 +56,7 @@ hanjaMaster =
     val: '가'
     desc: [ '노래' ]
     stroke: 14
-    tag: [
-      150
-      155
-    ]
+    tag: [150,155]
   '嫁':
     val: '가'
     desc: [ '시집갈' ]
@@ -77,33 +66,21 @@ hanjaMaster =
     val: '가'
     desc: [ '심을' ]
     stroke: 15
-    tag: [
-      10
-      120
-    ]
+    tag: [120]
   '架':
     val: '가'
-    desc: [ '시렁' ]
+    desc: [ '시렁','건너지르다' ]
     stroke: 9
   '駕':
     val: '가'
-    desc: [
-      '멍에'
-      '능가할'
-    ]
+    desc: [ '멍에','능가할' ]
     stroke: 15
     tag: [ 120 ]
   '伽':
     val: '가'
-    desc: [
-      '절(寺)'
-      '가야(伽倻)'
-    ]
+    desc: [ '절(寺)','가야(伽倻)' ]
     stroke: 7
-    tag: [
-      120
-      500
-    ]
+    tag: [500]
   '迦':
     val: '가'
     desc: [ '부처이름' ]
@@ -135,29 +112,17 @@ hanjaMaster =
     val: '가'
     desc: [ '노래' ]
     stroke: 17
-    tag: [
-      150
-      155
-    ]
+    tag: [150,155]
   '柯':
     val: '가'
-    desc: [
-      '가지'
-      '모밀잣밤나무'
-    ]
+    desc: [ '가지','모밀잣밤나무' ]
     stroke: 9
     tag: [ 300 ]
   '呵':
     val: '가'
-    desc: [
-      '꾸짖을'
-      '껄껄 웃을'
-    ]
+    desc: [ '꾸짖을','껄껄 웃을' ]
     stroke: 8
-    tag: [
-      90
-      140
-    ]
+    tag: [ 140 ]
   '訶':
     val: '가'
     desc: [ '꾸짖을' ]
@@ -165,43 +130,18 @@ hanjaMaster =
     tag: [ 140 ]
   '珂':
     val: '가'
-    desc: [
-      '마노'
-      '흰 옥돌'
-    ]
+    desc: [ '마노','흰 옥돌' ]
     stroke: 9
     originStroke: 10
     tag: [ 60 ]
   '苛':
     val: '가'
-    desc: [
-      '가혹할'
-      '옴'
-    ]
+    desc: [ '가혹할','옴' ]
     stroke: 9
     originStroke: 11
-    tag: [ 140 ]
-  '軻':
-    val: '가'
-    desc: [
-      '수레'
-      '맹자의 이름'
-    ]
-    stroke: 12
-  '舸':
-    val: '가'
-    desc: [ '배' ]
-    stroke: 11
-  '坷':
-    val: '가'
-    desc: [ '평탄하지 않을' ]
-    stroke: 8
   '榎':
     val: '가'
-    desc: [
-      '개오동나무'
-      '팽나무'
-    ]
+    desc: [ '개오동나무','팽나무' ]
     stroke: 14
     tag: [ 300 ]
   '各':
@@ -241,24 +181,10 @@ hanjaMaster =
     desc: [ '삼갈' ]
     stroke: 9
     originStroke: 10
-  '珏':
-    val: '각'
-    desc: [ '쌍옥' ]
-    stroke: 9
-    originStroke: 10
-    tag: [ 60 ]
   '殼':
     val: '각'
-    desc: [
-      '껍질'
-      '내려칠'
-    ]
+    desc: [ '껍질','내려칠' ]
     stroke: 12
-  '愨':
-    val: '각'
-    desc: [ '성실할' ]
-    stroke: 14
-    tag: [ 120 ]
   '慤':
     val: '각'
     desc: [ '성실할' ]
@@ -266,12 +192,8 @@ hanjaMaster =
     tag: [ 120 ]
   '干':
     val: '간'
-    desc: [
-      '방패'
-      '줄기'
-    ]
+    desc: [ '방패','줄기' ]
     stroke: 3
-    tag: [ 80 ]
     surname: true
   '間':
     val: '간'
@@ -301,15 +223,8 @@ hanjaMaster =
     stroke: 14
   '簡':
     val: '간'
-    desc: [
-      '대쪽'
-      '간략할'
-    ]
+    desc: [ '대쪽','간략할' ]
     stroke: 13
-    tag: [
-      80
-      140
-    ]
     surname: true
   '姦':
     val: '간'
@@ -321,10 +236,7 @@ hanjaMaster =
     stroke: 17
   '艮':
     val: '간'
-    desc: [
-      '괘이름'
-      '그칠'
-    ]
+    desc: [ '괘이름','그칠' ]
     stroke: 6
   '侃':
     val: '간'
@@ -338,18 +250,9 @@ hanjaMaster =
     tag: [ 80 ]
   '杆':
     val: '간'
-    desc: [
-      '몽둥이'
-      '박달나무'
-    ]
+    desc: [ '몽둥이','박달나무' ]
     stroke: 8
     tag: [ 300 ]
-  '玕':
-    val: '간'
-    desc: [ '옥돌' ]
-    stroke: 7
-    originStroke: 8
-    tag: [ 60 ]
   '竿':
     val: '간'
     desc: [ '낚싯대' ]
@@ -357,15 +260,12 @@ hanjaMaster =
     surname: true
   '揀':
     val: '간'
-    desc: [ '고를' ]
+    desc: [ '가릴','분간' ]
     stroke: 12
     originStroke: 13
   '柬':
     val: '간'
-    desc: [
-      '고를'
-      '간략할'
-    ]
+    desc: [ '고를','간략할' ]
     stroke: 9
   '諫':
     val: '간'
@@ -376,13 +276,6 @@ hanjaMaster =
     desc: [ '개간할' ]
     stroke: 16
     tag: [ 120 ]
-  '栞':
-    val: '간'
-    desc: [
-      '표할'
-      '벨'
-    ]
-    stroke: 10
   '奸':
     val: '간'
     desc: [ '간사할' ]
@@ -401,22 +294,12 @@ hanjaMaster =
     val: '간'
     desc: [ '어려울' ]
     stroke: 17
-  '慳':
-    val: '간'
-    desc: [ '아낄' ]
-    stroke: 14
-    originStroke: 15
   '茛':
     val: '간'
     desc: [ '미나리아재비' ]
     stroke: 10
     originStroke: 12
     tag: [ 300 ]
-  '衎':
-    val: '간'
-    desc: [ '즐길' ]
-    stroke: 9
-    tag: [ 150 ]
   '桿':
     val: '간'
     desc: [ '난간' ]
@@ -438,18 +321,10 @@ hanjaMaster =
     desc: [ '땅이름' ]
     stroke: 6
     surname: true
-  '碣':
-    val: '갈'
-    desc: [ '비석' ]
-    stroke: 14
   '喝':
     val: '갈'
     desc: [ '꾸짖을' ]
     stroke: 12
-  '曷':
-    val: '갈'
-    desc: [ '어찌' ]
-    stroke: 9
   '竭':
     val: '갈'
     desc: [ '다할' ]
@@ -472,7 +347,7 @@ hanjaMaster =
     stroke: 18
   '甘':
     val: '감'
-    desc: [ '달' ]
+    desc: [ '달다' ]
     stroke: 5
     surname: true
   '減':
@@ -490,31 +365,35 @@ hanjaMaster =
     stroke: 12
   '監':
     val: '감'
-    desc: [ '볼' ]
+    desc: [ '볼','감시' ]
     stroke: 14
   '鑑':
     val: '감'
-    desc: [ '거울' ]
+    desc: [ '거울','살펴볼','감상' ]
     stroke: 22
   '勘':
     val: '감'
-    desc: [ '헤아릴' ]
+    desc: [ '헤아릴','감안하다' ]
     stroke: 11
     tag: [ 70 ]
   '堪':
     val: '감'
-    desc: [ '견딜' ]
+    desc: [ '견딜','감당' ]
     stroke: 12
     tag: [ 80 ]
+  '瞰':
+    val: '감'
+    desc: [ '굽어볼','조감' ]
+    stroke: 16
   '坎':
     val: '감'
-    desc: [ '구덩이' ]
+    desc: [ '구덩이','감 괘' ]
     stroke: 7
-  '嵌':
+  '憾':
     val: '감'
-    desc: [ '산골짜기' ]
-    stroke: 7
-    tag: [ 330 ]
+    desc: [ '섭섭할','유감' ]
+    stroke: 16
+    originStroke: 17
   '戡':
     val: '감'
     desc: [ '이길' ]
@@ -532,17 +411,9 @@ hanjaMaster =
     tag: [ 300 ]
   '紺':
     val: '감'
-    desc: [
-      '감색'
-      '연보라'
-    ]
+    desc: [ '감색','연보라' ]
     stroke: 11
     tag: [ 160 ]
-  '邯':
-    val: '감'
-    desc: [ '땅이름' ]
-    stroke: 8
-    originStroke: 12
   '泔':
     val: '감'
     desc: [ '뜨물' ]
@@ -555,33 +426,9 @@ hanjaMaster =
     stroke: 11
     originStroke: 12
     tag: [ 310 ]
-  '澉':
-    val: '감'
-    desc: [ '싱거울' ]
-    stroke: 15
-    originStroke: 16
-  '酣':
-    val: '감'
-    desc: [ '흥겨울' ]
-    stroke: 12
-    tag: [ 150 ]
-  '鑒':
-    val: '감'
-    desc: [ '거울' ]
-    stroke: 22
-    tag: [ 70 ]
-  '玪':
-    val: '감'
-    desc: [ '옥 이름' ]
-    stroke: 8
-    originStroke: 9
-    tag: [ 60 ]
   '甲':
     val: '갑'
-    desc: [
-      '갑옷'
-      '첫째 천간'
-    ]
+    desc: [ '갑옷','첫째 천간' ]
     stroke: 5
     tag: [ 400 ]
   '鉀':
@@ -591,7 +438,7 @@ hanjaMaster =
     tag: [ 80 ]
   '匣':
     val: '갑'
-    desc: [ '갑' ]
+    desc: [ '갑','장갑','지갑' ]
     stroke: 7
   '岬':
     val: '갑'
@@ -638,15 +485,10 @@ hanjaMaster =
     tag: [ 80 ]
   '康':
     val: '강'
-    desc: [ '편안할' ]
+    desc: [ '편안할','건강' ]
     stroke: 11
     tag: [ 130 ]
     surname: true
-  '嫝':
-    val: '강'
-    desc: [ '편안할' ]
-    stroke: 14
-    tag: [ 130 ]
   '剛':
     val: '강'
     desc: [ '굳셀' ]
@@ -661,59 +503,35 @@ hanjaMaster =
     val: '강'
     desc: [ '강철' ]
     stroke: 16
-    tag: [
-      80
-      340
-    ]
+    tag: [ 80,340 ]
   '綱':
     val: '강'
-    desc: [ '벼리' ]
+    desc: [ '벼리','기강' ]
     stroke: 14
+    tag: [140]
   '杠':
     val: '강'
     desc: [ '외나무다리' ]
     stroke: 7
-  '堈':
-    val: '강'
-    desc: [ '언덕' ]
-    stroke: 11
-    tag: [ 330 ]
-  '岡':
-    val: '강'
-    desc: [ '산등성이' ]
-    stroke: 8
-    tag: [ 330 ]
-  '崗':
-    val: '강'
-    desc: [ '언덕' ]
-    stroke: 11
-    tag: [ 330 ]
   '姜':
     val: '강'
-    desc: [
-      '성씨'
-      '생강'
-    ]
+    desc: [ '성씨','생강' ]
     stroke: 9
     surname: true
   '橿':
     val: '강'
-    desc: [
-      '감탕나무'
-      '박달나무'
-    ]
+    desc: [ '감탕나무','박달나무' ]
     stroke: 17
     tag: [ 300 ]
   '慷':
     val: '강'
-    desc: [ '슬플' ]
+    desc: [ '슬플','강개' ]
     stroke: 14
     originStroke: 15
   '糠':
     val: '강'
-    desc: [ '겨' ]
+    desc: [ '겨','조강지처' ]
     stroke: 17
-    tag: [ 300 ]
   '絳':
     val: '강'
     desc: [ '진홍' ]
@@ -725,12 +543,6 @@ hanjaMaster =
     stroke: 17
     originStroke: 19
     tag: [ 300 ]
-  '玒':
-    val: '강'
-    desc: [ '옥이름' ]
-    stroke: 7
-    originStroke: 8
-    tag: [ 60 ]
   '罡':
     val: '강'
     desc: [ '북두칠성' ]
@@ -750,16 +562,16 @@ hanjaMaster =
     stroke: 10
   '開':
     val: '개'
-    desc: [ '열' ]
+    desc: [ '열다' ]
     stroke: 12
   '介':
     val: '개'
-    desc: [ '낄' ]
+    desc: [ '낄','소개','중개' ]
     stroke: 4
     surname: true
   '慨':
     val: '개'
-    desc: [ '슬퍼할' ]
+    desc: [ '슬퍼할','분개','개탄' ]
     stroke: 14
     originStroke: 15
   '槪':
@@ -772,17 +584,9 @@ hanjaMaster =
     stroke: 14
     originStroke: 16
     surname: true
-  '价':
-    val: '개'
-    desc: [ '클' ]
-    stroke: 6
-    tag: [ 90 ]
   '凱':
     val: '개'
-    desc: [
-      '이길'
-      '개선할'
-    ]
+    desc: [ '이길','개선할' ]
     stroke: 12
     tag: [ 45 ]
   '愷':
@@ -793,7 +597,7 @@ hanjaMaster =
     tag: [ 150 ]
   '漑':
     val: '개'
-    desc: [ '물댈' ]
+    desc: [ '물댈','관개' ]
     stroke: 14
     originStroke: 15
     tag: [ 310 ]
@@ -804,7 +608,7 @@ hanjaMaster =
     tag: [ 330 ]
   '愾':
     val: '개'
-    desc: [ '성낼' ]
+    desc: [ '성낼','적개심' ]
     stroke: 13
     originStroke: 14
   '芥':
@@ -813,15 +617,6 @@ hanjaMaster =
     stroke: 8
     originStroke: 10
     tag: [ 300 ]
-  '玠':
-    val: '개'
-    desc: [
-      '홀'
-      '서옥'
-    ]
-    stroke: 8
-    originStroke: 9
-    tag: [ 60 ]
   '豈':
     val: '개'
     desc: [ '승전악' ]
@@ -834,10 +629,7 @@ hanjaMaster =
     tag: [ 115 ]
   '坑':
     val: '갱'
-    desc: [
-      '구덩이'
-      '산등성이'
-    ]
+    desc: [ '구덩이','묻을' ]
     stroke: 7
     tag: [ 330 ]
   '更':
@@ -846,7 +638,7 @@ hanjaMaster =
     stroke: 13
   '醵':
     val: '갹'
-    desc: [ '추렴할' ]
+    desc: [ '추렴할','갹출' ]
     stroke: 20
   '去':
     val: '거'
@@ -859,61 +651,34 @@ hanjaMaster =
     tag: [ 50 ]
   '居':
     val: '거'
-    desc: [ '살' ]
+    desc: [ '살','주거' ]
     stroke: 8
   '擧':
     val: '거'
-    desc: [ '들' ]
+    desc: [ '들다','선거' ]
     stroke: 18
   '距':
     val: '거'
-    desc: [ '떨어져있을' ]
+    desc: [ '떨어져있을','(떨어진) 거리' ]
     stroke: 12
   '拒':
     val: '거'
-    desc: [ '막을' ]
+    desc: [ '막을','거부' ]
     stroke: 8
   '據':
     val: '거'
     desc: [ '근거' ]
     stroke: 16
     originStroke: 17
-  '鉅':
-    val: '거'
-    desc: [
-      '클'
-      '강할'
-    ]
-    stroke: 13
-    tag: [
-      80
-      90
-    ]
-  '炬':
-    val: '거'
-    desc: [ '횃불' ]
-    stroke: 9
-    tag: [
-      30
-      320
-    ]
   '倨':
     val: '거'
     desc: [ '거만할' ]
     stroke: 10
   '据':
     val: '거'
-    desc: [
-      '의지할'
-      '근거'
-    ]
+    desc: [ '의지할','거치' ]
     stroke: 11
     originStroke: 12
-  '昛':
-    val: '거'
-    desc: [ '밝을' ]
-    stroke: 9
-    tag: [ 30 ]
   '車':
     val: '거'
     desc: [ '수레' ]
@@ -925,10 +690,7 @@ hanjaMaster =
     tag: [ 120 ]
   '乾':
     val: '건'
-    desc: [
-      '하늘'
-      '마를'
-    ]
+    desc: [ '하늘','마를' ]
     stroke: 11
   '件':
     val: '건'
@@ -936,7 +698,7 @@ hanjaMaster =
     stroke: 6
   '健':
     val: '건'
-    desc: [ '굳셀' ]
+    desc: [ '굳셀','건강' ]
     stroke: 11
     tag: [ 80 ]
   '巾':
@@ -945,7 +707,7 @@ hanjaMaster =
     stroke: 3
   '虔':
     val: '건'
-    desc: [ '공경할' ]
+    desc: [ '공경할','경건' ]
     stroke: 10
     tag: [ 125 ]
   '楗':
@@ -989,7 +751,7 @@ hanjaMaster =
     val: '검'
     desc: [ '검사할' ]
     stroke: 17
-    tag: [ 40 ]
+    tag: [ 40,140 ]
   '瞼':
     val: '검'
     desc: [ '눈꺼풀' ]
@@ -1005,7 +767,7 @@ hanjaMaster =
     stroke: 8
   '憩':
     val: '게'
-    desc: [ '쉴' ]
+    desc: [ '쉴','휴게' ]
     stroke: 16
     tag: [ 130 ]
   '格':
@@ -1014,7 +776,7 @@ hanjaMaster =
     stroke: 10
   '擊':
     val: '격'
-    desc: [ '칠' ]
+    desc: [ '칠','타격' ]
     stroke: 17
     tag: [ 80 ]
   '激':
@@ -1025,7 +787,7 @@ hanjaMaster =
     tag: [ 80 ]
   '隔':
     val: '격'
-    desc: [ '사이뜰' ]
+    desc: [ '사이뜰','유격' ]
     stroke: 13
     originStroke: 18
   '犬':
@@ -1041,6 +803,7 @@ hanjaMaster =
     val: '견'
     desc: [ '굳을' ]
     stroke: 11
+    tag: [80]
     surname: true
   '肩':
     val: '견'
@@ -1054,24 +817,18 @@ hanjaMaster =
     stroke: 13
   '遣':
     val: '견'
-    desc: [ '보낼' ]
+    desc: [ '보낼','파견' ]
     stroke: 14
     originStroke: 17
   '牽':
     val: '견'
-    desc: [ '이끌' ]
+    desc: [ '이끌','견인' ]
     stroke: 11
   '鵑':
     val: '견'
-    desc: [
-      '두견'
-      '진달래'
-    ]
+    desc: [ '두견','진달래' ]
     stroke: 18
-    tag: [
-      200
-      300
-    ]
+    tag: [ 200,300 ]
   '甄':
     val: '견'
     desc: [ '질그릇' ]
@@ -1090,24 +847,18 @@ hanjaMaster =
     tag: [ 115 ]
   '潔':
     val: '결'
-    desc: [ '깨끗할' ]
+    desc: [ '깨끗할','정결' ]
     stroke: 15
     originStroke: 16
     tag: [ 100 ]
   '缺':
     val: '결'
-    desc: [ '이지러질' ]
+    desc: [ '이지러질','결핍' ]
     stroke: 10
   '訣  ':
     val: '결'
-    desc: [ '이별할' ]
+    desc: [ '이별할','결별' ]
     stroke: 11
-  '玦':
-    val: '결'
-    desc: [ '패옥' ]
-    stroke: 8
-    originStroke: 9
-    tag: [ 60 ]
   '兼':
     val: '겸'
     desc: [ '겸할' ]
@@ -1121,6 +872,7 @@ hanjaMaster =
     val: '겹'
     desc: [ '겹옷' ]
     stroke: 17
+    originStroke: 18
     surname: true
   '更':
     val: '경'
@@ -1141,16 +893,13 @@ hanjaMaster =
     val: '경'
     desc: [ '별' ]
     stroke: 8
-    tag: [ 370 ]
+    tag: [ 370,400 ]
     surname: true
   '經':
     val: '경'
-    desc: [
-      '지날'
-      '다스릴'
-      '글'
-    ]
+    desc: [ '지날','다스릴','글' ]
     stroke: 13
+    tag: [40]
   '耕':
     val: '경'
     desc: [ '밭 갈' ]
@@ -1160,10 +909,7 @@ hanjaMaster =
     val: '경'
     desc: [ '공경할' ]
     stroke: 13
-    tag: [
-      115
-      125
-    ]
+    tag: [115,125]
     surname: true
   '輕':
     val: '경'
@@ -1186,7 +932,7 @@ hanjaMaster =
     surname: true
   '競':
     val: '경'
-    desc: [ '다툴' ]
+    desc: [ '다툴','경쟁' ]
     stroke: 20
   '竟':
     val: '경'
@@ -1194,23 +940,19 @@ hanjaMaster =
     stroke: 11
   '境':
     val: '경'
-    desc: [ '지경' ]
+    desc: [ '지경','경우' ]
     stroke: 14
-    tag: [ 330 ]
   '鏡':
     val: '경'
     desc: [ '거울' ]
     stroke: 19
   '頃':
     val: '경'
-    desc: [
-      '잠간'
-      '이랑'
-    ]
+    desc: [ '잠간','경각' ]
     stroke: 11
   '傾':
     val: '경'
-    desc: [ '기울' ]
+    desc: [ '기울','경사' ]
     stroke: 13
   '硬':
     val: '경'
@@ -1238,10 +980,7 @@ hanjaMaster =
     surname: true
   '憬':
     val: '경'
-    desc: [
-      '깨달을'
-      '동경할'
-    ]
+    desc: [ '깨달을','동경할' ]
     stroke: 15
     originStroke: 16
     tag: [ 70 ]
@@ -1267,27 +1006,17 @@ hanjaMaster =
     val: '경'
     desc: [ '경계할' ]
     stroke: 15
-  '熲':
+    tag: [140]
+  '炅':
     val: '경'
     desc: [ '빛날' ]
-    stroke: 15
-    tag: [
-      30
-      320
-    ]
-  '冏':
-    val: '경'
-    desc: [ '빛날' ]
-    stroke: 7
-    tag: [ 30 ]
+    stroke: 8
+    tag: [ 30,320 ]
   '烱':
     val: '경'
     desc: [ '빛날' ]
     stroke: 11
-    tag: [
-      30
-      320
-    ]
+    tag: [ 30,320 ]
   '頸':
     val: '경'
     desc: [ '목' ]
@@ -1301,10 +1030,7 @@ hanjaMaster =
     tag: [ 200 ]
   '癸':
     val: '계'
-    desc: [
-      '북방'
-      '열째 천간'
-    ]
+    desc: [ '북방','열째 천간' ]
     stroke: 9
     tag: [ 400 ]
   '季':
@@ -1314,17 +1040,16 @@ hanjaMaster =
     surname: true
   '界':
     val: '계'
-    desc: [ '지경' ]
+    desc: [ '지경','세계' ]
     stroke: 9
-    tag: [ 330 ]
   '計':
     val: '계'
-    desc: [ '셀' ]
+    desc: [ '셀','계산' ]
     stroke: 9
     tag: [ 75 ]
   '溪':
     val: '계'
-    desc: [ '시내' ]
+    desc: [ '시내','계곡' ]
     stroke: 13
     originStroke: 14
     tag: [ 310 ]
@@ -1336,35 +1061,25 @@ hanjaMaster =
     tag: [ 200 ]
   '系':
     val: '계'
-    desc: [
-      '맬'
-      '이을'
-    ]
+    desc: [ '맬','이을','계통' ]
     stroke: 7
-    tag: [ 115 ]
   '係':
     val: '계'
-    desc: [
-      '맬'
-      '이을'
-    ]
+    desc: [ '맬','이을','관계' ]
     stroke: 9
     tag: [ 115 ]
   '繼':
     val: '계'
-    desc: [ '이을' ]
+    desc: [ '이을','계속' ]
     stroke: 20
     tag: [ 115 ]
   '繫':
     val: '계'
-    desc: [
-      '맬'
-      '이을'
-    ]
+    desc: [ '맬','이을','연계' ]
     stroke: 19
   '契':
     val: '계'
-    desc: [ '맺을' ]
+    desc: [ '맺을','계약' ]
     stroke: 9
   '戒':
     val: '계'
@@ -1387,16 +1102,13 @@ hanjaMaster =
     surname: true
   '啓':
     val: '계'
-    desc: [
-      '열'
-      '일깨우다'
-    ]
+    desc: [ '열','일깨우다','계몽' ]
     stroke: 11
     tag: [ 70 ]
     surname: true
   '階':
     val: '계'
-    desc: [ '섬돌' ]
+    desc: [ '섬돌','계단' ]
     stroke: 12
     originStroke: 17
   '古':
@@ -1416,7 +1128,7 @@ hanjaMaster =
     surname: true
   '苦':
     val: '고'
-    desc: [ '쓸' ]
+    desc: [ '쓸','힘들' ]
     stroke: 9
     originStroke: 11
   '高':
@@ -1426,10 +1138,7 @@ hanjaMaster =
     surname: true
   '考':
     val: '고'
-    desc: [
-      '생각할'
-      '살필'
-    ]
+    desc: [ '생각할','살필' ]
     stroke: 6
   '告':
     val: '고'
@@ -1447,7 +1156,6 @@ hanjaMaster =
     val: '고'
     desc: [ '시어머니' ]
     stroke: 8
-    tag: [ 115 ]
   '庫':
     val: '고'
     desc: [ '창고' ]
@@ -1464,21 +1172,15 @@ hanjaMaster =
     tag: [ 155 ]
   '稿':
     val: '고'
-    desc: [
-      '볏짚'
-      '원고'
-    ]
+    desc: [ '볏짚','원고' ]
     stroke: 15
   '顧':
     val: '고'
-    desc: [ '돌아볼' ]
+    desc: [ '돌아볼','고객' ]
     stroke: 21
   '叩':
     val: '고'
-    desc: [
-      '두드릴'
-      '조아릴'
-    ]
+    desc: [ '두드릴','조아릴' ]
     stroke: 5
   '敲':
     val: '고'
@@ -1534,10 +1236,7 @@ hanjaMaster =
     tag: [ 330 ]
   '昆':
     val: '곤'
-    desc: [
-      '맏'
-      '벌레'
-    ]
+    desc: [ '맏','벌레','곤충' ]
     stroke: 8
     tag: [ 200 ]
   '琨':
@@ -1548,15 +1247,9 @@ hanjaMaster =
     tag: [ 60 ]
   '棍':
     val: '곤'
-    desc: [ '몽둥이' ]
+    desc: [ '몽둥이','곤봉' ]
     stroke: 12
     tag: [ 80 ]
-  '滾':
-    val: '곤'
-    desc: [ '흐를' ]
-    stroke: 14
-    originStroke: 15
-    tag: [ 310 ]
   '衮':
     val: '곤'
     desc: [ '곤룡포' ]
@@ -1581,7 +1274,7 @@ hanjaMaster =
     tag: [ 200 ]
   '滑':
     val: '골'
-    desc: [ '익살스러울' ]
+    desc: [ '익살스러울','골계' ]
     stroke: 13
     originStroke: 14
     tag: [ 310 ]
@@ -1592,16 +1285,12 @@ hanjaMaster =
     tag: [ 75 ]
   '功':
     val: '공'
-    desc: [ '공' ]
+    desc: [ '공로','성공' ]
     stroke: 5
-    tag: [
-      40
-      50
-      120
-    ]
+    tag: [ 40,120 ]
   '空':
     val: '공'
-    desc: [ '빌' ]
+    desc: [ '빌','공간' ]
     stroke: 8
     surname: true
     tag: [ 500 ]
@@ -15182,6 +14871,7 @@ hanjaMaster =
     val: '호'
     desc: [ '좋을' ]
     stroke: 6
+    surname: true
   '虎':
     val: '호'
     desc: [ '범' ]
@@ -15191,3 +14881,647 @@ hanjaMaster =
     val: '호'
     desc: [ '이름','호칭' ]
     stroke: 13
+  '湖':
+    val: '호'
+    desc: [ '호수' ]
+    stroke: 12
+    originStroke: 13
+    tag: [310]
+  '互':
+    val: '호'
+    desc: [ '서로' ]
+    stroke: 4
+  '胡':
+    val: '호'
+    desc: [ '오랑캐' ]
+    stroke: 9
+    originStroke: 11
+    surname: true
+  '浩':
+    val: '호'
+    desc: [ '넓을' ]
+    stroke: 10
+    originStroke: 11
+    tag: [90]
+  '毫':
+    val: '호'
+    desc: [ '터럭' ]
+    stroke: 11
+  '豪':
+    val: '호'
+    desc: [ '호걸' ]
+    stroke: 14
+    tag: [20,90]
+  '護':
+    val: '호'
+    desc: [ '도울' ]
+    stroke: 21
+    tag: [115]
+  '晧':
+    val: '호'
+    desc: [ '밝을' ]
+    stroke: 11
+    tag: [30]
+  '皓':
+    val: '호'
+    desc: [ '희다','깨끗하다' ]
+    stroke: 12
+    tag: [100,160]
+  '濠':
+    val: '호'
+    desc: [ '호주(오스트레일리아)' ]
+    stroke: 17
+    originStroke: 18
+  '琥':
+    val: '호'
+    desc: [ '호박(보석)' ]
+    stroke: 12
+    originStroke: 13
+    tag: [60]
+  '瑚':
+    val: '호'
+    desc: [ '산호' ]
+    stroke: 13
+    originStroke: 14
+  '扈':
+    val: '호'
+    desc: [ '따를','파랑새','발호' ]
+    stroke: 11
+    surname: true
+  '弧':
+    val: '호'
+    desc: [ '활' ]
+    stroke: 8
+    tag: [80]
+  '狐':
+    val: '호'
+    desc: [ '여우' ]
+    stroke: 8
+    originStroke: 9
+    tag: [200]
+  '糊':
+    val: '호'
+    desc: [ '풀칠할','죽' ]
+    stroke: 15
+  '或':
+    val: '혹'
+    desc: [ '혹시' ]
+    stroke: 8
+  '惑':
+    val: '혹'
+    desc: [ '미혹할' ]
+    stroke: 12
+  '酷':
+    val: '혹'
+    desc: [ '심할' ]
+    stroke: 14
+  '婚':
+    val: '혼'
+    desc: [ '혼인할' ]
+    stroke: 11
+    tag: [115]
+  '混':
+    val: '혼'
+    desc: [ '섞을','혼돈' ]
+    stroke: 11
+  '昏':
+    val: '혼'
+    desc: [ '어두울','황혼' ]
+    stroke: 8
+  '魂':
+    val: '혼'
+    desc: [ '넋' ]
+    stroke: 13
+  '渾':
+    val: '혼'
+    desc: [ '흐릴','온통' ]
+    stroke: 12
+    originStroke: 13
+  '忽':
+    val: '홀'
+    desc: [ '갑자기','홀연' ]
+    stroke: 8
+  '惚':
+    val: '홀'
+    desc: [ '황홀할' ]
+    stroke: 11
+    originStroke: 12
+  '笏':
+    val: '홀'
+    desc: [ '홀' ]
+    stroke: 10
+  '紅':
+    val: '홍'
+    desc: [ '붉을' ]
+    stroke: 9
+    tag: [160]
+  '洪':
+    val: '홍'
+    desc: [ '넓을','홍수' ]
+    stroke: 9
+    originStroke: 10
+    tag: [90]
+    surname: true
+  '弘':
+    val: '홍'
+    desc: [ '클','넓을' ]
+    stroke: 5
+    tag: [90]
+    surname: true
+  '鴻':
+    val: '홍'
+    desc: [ '기러기' ]
+    stroke: 17
+    tag: [200]
+  '哄':
+    val: '홍'
+    desc: [ '떠들썩할' ]
+    stroke: 9
+  '火':
+    val: '화'
+    desc: [ '불' ]
+    stroke: 4
+    tag: [320]
+  '化':
+    val: '화'
+    desc: [ '될' ]
+    stroke: 4
+    surname: true
+  '花':
+    val: '화'
+    desc: [ '꽃' ]
+    stroke: 8
+    originStroke: 10
+    tag: [10,300]
+    surname: true
+  '貨':
+    val: '화'
+    desc: [ '재물' ]
+    stroke: 11
+    tag: [40]
+  '和':
+    val: '화'
+    desc: [ '화할' ]
+    stroke: 8
+    tag: [115]
+    surname: true
+  '話':
+    val: '화'
+    desc: [ '말씀' ]
+    stroke: 13
+  '畫':
+    val: '화'
+    desc: [ '그림' ]
+    stroke: 12
+    tag: [155]
+  '華':
+    val: '화'
+    desc: [ '빛날' ]
+    stroke: 11
+    originStroke: 13
+    tag: [20,30]
+    surname: true
+  '禾':
+    val: '화'
+    desc: [ '벼' ]
+    stroke: 5
+    tag: [300]
+  '禍':
+    val: '화'
+    desc: [ '재앙' ]
+    stroke: 12
+  '樺':
+    val: '화'
+    desc: [ '벚나무','자작나무' ]
+    stroke: 15
+    tag: [300]
+  '靴':
+    val: '화'
+    desc: [ '신발' ]
+    stroke: 13
+  '確':
+    val: '확'
+    desc: [ '굳을' ]
+    stroke: 15
+  '穫':
+    val: '확'
+    desc: [ '거둘' ]
+    stroke: 19
+  '擴':
+    val: '확'
+    desc: [ '넓힐' ]
+    stroke: 17
+    originStroke: 18
+    tag: [90]
+  '歡':
+    val: '환'
+    desc: [ '기쁠' ]
+    stroke: 22
+    tag: [150]
+  '患':
+    val: '환'
+    desc: [ '근심' ]
+    stroke: 11
+  '丸':
+    val: '환'
+    desc: [ '둥글' ]
+    stroke: 3
+  '換':
+    val: '환'
+    desc: [ '바꿀' ]
+    stroke: 12
+    originStroke: 13
+  '環':
+    val: '환'
+    desc: [ '고리' ]
+    stroke: 17
+    originStroke: 18
+  '還':
+    val: '환'
+    desc: [ '돌아올' ]
+    stroke: 16
+    originStroke: 19
+  '喚':
+    val: '환'
+    desc: [ '부를','소환' ]
+    stroke: 12
+  '奐':
+    val: '환'
+    desc: [ '빛날' ]
+    stroke: 9
+    tag: [30]
+  '煥':
+    val: '환'
+    desc: [ '불꽃','빛날' ]
+    stroke: 13
+    tag: [30,320]
+  '幻':
+    val: '환'
+    desc: [ '헛보일','환영' ]
+    stroke: 4
+  '桓':
+    val: '환'
+    desc: [ '굳셀','크다' ]
+    stroke: 10
+    tag: [80,90]
+  '桓':
+    val: '환'
+    desc: [ '굳셀','크다' ]
+    stroke: 10
+    tag: [90]
+    surname: true
+  '滑':
+    val: '활'
+    desc: [ '미끄러울','윤활' ]
+    stroke: 12
+    originStroke: 13
+  '活':
+    val: '활'
+    desc: [ '살','생활' ]
+    stroke: 9
+    originStroke: 10
+  '闊':
+    val: '활'
+    desc: [ '넓을' ]
+    stroke: 17
+    tag: [90]
+  '猾':
+    val: '활'
+    desc: [ '교활할' ]
+    stroke: 12
+    originStroke: 13
+  '黃':
+    val: '황'
+    desc: [ '누를' ]
+    stroke: 12
+    tag: [160]
+    surname: true
+  '皇':
+    val: '황'
+    desc: [ '임금','황제' ]
+    stroke: 9
+    tag: [20,40]
+    surname: true
+  '況':
+    val: '황'
+    desc: [ '상황' ]
+    stroke: 8
+    originStroke: 9
+  '荒':
+    val: '황'
+    desc: [ '거칠' ]
+    stroke: 10
+    originStroke: 12
+  '凰':
+    val: '황'
+    desc: [ '봉황(암컷)' ]
+    stroke: 11
+    tag: [20,40]
+  '晃':
+    val: '황'
+    desc: [ '밝을' ]
+    stroke: 10
+    tag: [30]
+  '滉':
+    val: '황'
+    desc: [ '깊을' ]
+    stroke: 13
+    originStroke: 14
+    tag: [310]
+  '煌':
+    val: '황'
+    desc: [ '빛날' ]
+    stroke: 13
+    tag: [30,320]
+  '徨':
+    val: '황'
+    desc: [ '헤맬','방황' ]
+    stroke: 12
+  '恍':
+    val: '황'
+    desc: [ '황홀할' ]
+    stroke: 9
+    originStroke: 10
+  '惶':
+    val: '황'
+    desc: [ '두려울','황송' ]
+    stroke: 12
+    originStroke: 13
+  '慌':
+    val: '황'
+    desc: [ '어리둥절할','당황' ]
+    stroke: 13
+    originStroke: 14
+  '回':
+    val: '회'
+    desc: [ '돌아올' ]
+    stroke: 6
+  '會':
+    val: '회'
+    desc: [ '모일' ]
+    stroke: 13
+    tag: [115]
+  '悔':
+    val: '회'
+    desc: [ '뉘우칠' ]
+    stroke: 10
+    originStroke: 11
+  '懷':
+    val: '회'
+    desc: [ '품을' ]
+    stroke: 19
+    originStroke: 20
+  '廻':
+    val: '회'
+    desc: [ '돌','선회' ]
+    stroke: 9
+  '恢':
+    val: '회'
+    desc: [ '넓을','회복할' ]
+    stroke: 9
+    originStroke: 10
+    tag: [90]
+  '檜':
+    val: '회'
+    desc: [ '전나무' ]
+    stroke: 17
+    tag: [300]
+  '繪':
+    val: '회'
+    desc: [ '그림','회화' ]
+    stroke: 19
+    tag: [155]
+  '徊':
+    val: '회'
+    desc: [ '머뭇거릴','배회' ]
+    stroke: 9
+  '淮':
+    val: '회'
+    desc: [ '물이름' ]
+    stroke: 11
+    originStroke: 12
+    tag: [310]
+  '膾':
+    val: '회'
+    desc: [ '회','얇게 썰다' ]
+    stroke: 17
+    originStroke: 19
+  '獲':
+    val: '획'
+    desc: [ '얻을','획득' ]
+    stroke: 17
+    originStroke: 18
+  '劃':
+    val: '획'
+    desc: [ '그을' ]
+    stroke: 14
+  '橫':
+    val: '횡'
+    desc: [ '가로' ]
+    stroke: 16
+  '孝':
+    val: '효'
+    desc: [ '효도' ]
+    stroke: 7
+    surname: true
+  '效':
+    val: '효'
+    desc: [ '본받을','효과' ]
+    stroke: 10
+  '曉':
+    val: '효'
+    desc: [ '새벽','깨닫다' ]
+    stroke: 16
+    tag: [70]
+  '爻':
+    val: '효'
+    desc: [ '사귀다','괘' ]
+    stroke: 4
+  '驍':
+    val: '효'
+    desc: [ '날랠' ]
+    stroke: 22
+    tag: [80]
+  '哮':
+    val: '효'
+    desc: [ '성낼','포효' ]
+    stroke: 10
+    tag: [80]
+  '酵':
+    val: '효'
+    desc: [ '삭힐','발효' ]
+    stroke: 14
+  '後':
+    val: '후'
+    desc: [ '뒤' ]
+    stroke: 9
+  '厚':
+    val: '후'
+    desc: [ '두터울' ]
+    stroke: 9
+  '侯':
+    val: '후'
+    desc: [ '제후' ]
+    stroke: 9
+  '候':
+    val: '후'
+    desc: [ '기후','징후','후보' ]
+    stroke: 10
+  '后':
+    val: '후'
+    desc: [ '왕후' ]
+    stroke: 6
+    tag: [20,40]
+    surname: true
+  '逅':
+    val: '후'
+    desc: [ '만날' ]
+    stroke: 9
+    originStroke: 12
+  '吼':
+    val: '후'
+    desc: [ '울부짖을','사자후' ]
+    stroke: 7
+    tag: [80]
+  '嗅':
+    val: '후'
+    desc: [ '맡을','후각' ]
+    stroke: 13
+  '朽':
+    val: '후'
+    desc: [ '썩을','노쇠할','노후' ]
+    stroke: 6
+  '喉':
+    val: '후'
+    desc: [ '목구멍' ]
+    stroke: 12
+    tag: [350]
+  '訓':
+    val: '훈'
+    desc: [ '가르칠' ]
+    stroke: 10
+    tag: [70]
+  '勳':
+    val: '훈'
+    desc: [ '공','훈장' ]
+    stroke: 16
+  '薰':
+    val: '훈'
+    desc: [ '향초','훈훈할','훈풍' ]
+    stroke: 18
+    originStroke: 20
+  '燻':
+    val: '훈'
+    desc: [ '연기낄','훈증' ]
+    stroke: 18
+    tag: [320]
+  '萱':
+    val: '훤'
+    desc: [ '원추리' ]
+    stroke: 13
+    originStroke: 15
+    tag: [300]
+  '毁':
+    val: '훼'
+    desc: [ '헐','훼손' ]
+    stroke: 13
+  '揮':
+    val: '휘'
+    desc: [ '휘두를' ]
+    stroke: 12
+    originStroke: 13
+    tag: [40]
+  '輝':
+    val: '휘'
+    desc: [ '빛날' ]
+    stroke: 15
+    tag: [30]
+  '彙':
+    val: '휘'
+    desc: [ '무리','어휘' ]
+    stroke: 13
+  '徽':
+    val: '휘'
+    desc: [ '아름다울' ]
+    stroke: 17
+    tag: [10]
+  '休':
+    val: '휴'
+    desc: [ '쉴' ]
+    stroke: 6
+    tag: [130]
+  '携':
+    val: '휴'
+    desc: [ '이끌다','휴대' ]
+    stroke: 13
+    originStroke: 14
+  '恤':
+    val: '휼'
+    desc: [ '불쌍할' ]
+    stroke: 9
+    originStroke: 10
+  '凶':
+    val: '흉'
+    desc: [ '흉할' ]
+    stroke: 4
+  '胸':
+    val: '흉'
+    desc: [ '가슴' ]
+    stroke: 10
+    originStroke: 12
+    tag: [350]
+  '欣':
+    val: '흔'
+    desc: [ '기쁠','흔쾌' ]
+    stroke: 8
+    tag: [150]
+  '吃':
+    val: '흘'
+    desc: [ '말더듬을','머뭇거리다' ]
+    stroke: 6
+  '欽':
+    val: '흠'
+    desc: [ '공경할','흠모' ]
+    stroke: 12
+  '欠':
+    val: '흠'
+    desc: [ '하품' ]
+    stroke: 4
+  '歆':
+    val: '흠'
+    desc: [ '흠향할' ]
+    stroke: 13
+  '吸':
+    val: '흡'
+    desc: [ '마실' ]
+    stroke: 7
+  '洽':
+    val: '흡'
+    desc: [ '흡족할' ]
+    stroke: 9
+    originStroke: 10
+  '恰':
+    val: '흡'
+    desc: [ '흡사할' ]
+    stroke: 9
+    originStroke: 10
+  '希':
+    val: '희'
+    desc: [ '바랄' ]
+    stroke: 7
+  '喜':
+    val: '희'
+    desc: [ '기쁠' ]
+    stroke: 12
+    tag: [150]
+    surname: true
+  '稀':
+    val: '희'
+    desc: [ '드물' ]
+    stroke: 12
+    tag: [60]
+  '詰':
+    val: '힐'
+    desc: [ '물을','힐문' ]
+    stroke: 13
+    tag: [140]
