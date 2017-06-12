@@ -319,7 +319,6 @@ export const hangulMaster =
       '얼': { stroke: 6 },
       '엄': { stroke: 6, surname: true },
       '업': { stroke: 7 },
-      '에': { stroke: 4 },
       '엔': { stroke: 5 },
       '여': { stroke: 4, surname: true },
       '역': { stroke: 5, surname: true },
@@ -476,7 +475,6 @@ export const hangulMaster =
       '탱': { stroke: 7 },
       '터': { stroke: 5 },
       '토': { stroke: 5 },
-      '톤': { stroke: 6 },
       '통': { stroke: 6 },
       '퇴': { stroke: 6 },
       '투': { stroke: 5 },
@@ -504,7 +502,6 @@ export const hangulMaster =
       '품': { stroke: 9 },
       '풍': { stroke: 7, surname: true },
       '피': { stroke: 5, surname: true },
-      '픽': { stroke: 6 },
       '필': { stroke: 8, surname: true },
       '핍': { stroke: 9 }
     }
@@ -548,8 +545,6 @@ export const hangulMaster =
       '효': { stroke: 6, surname: true },
       '후': { stroke: 5, surname: true },
       '훈': { stroke: 6 },
-      '훌': { stroke: 8 },
-      '훙': { stroke: 6 },
       '훤': { stroke: 8 },
       '훼': { stroke: 8 },
       '휘': { stroke: 6 },

@@ -2,15526 +2,15663 @@ hanjaMaster =
   '家':
     val: '가'
     desc: [ '집' ]
-    stroke: 10
+    str: 10
     tag: [115]
   '加':
     val: '가'
     desc: [ '더할' ]
-    stroke: 5
+    str: 5
   '佳':
     val: '가'
     desc: [ '아름다울' ]
-    stroke: 8
+    str: 8
     tag: [ 10 ]
   '嘉':
     val: '가'
     desc: [ '아름다울','기뻐할' ]
-    stroke: 14
+    str: 14
     tag: [10,150]
   '街':
     val: '가'
     desc: [ '거리' ]
-    stroke: 12
+    str: 12
   '賈':
     val: '가'
     desc: [ '값' ]
-    stroke: 13
+    str: 13
     tag: [ 40 ]
-    surname: true
+    fam: true
   '價':
     val: '가'
     desc: [ '값' ]
-    stroke: 15
+    str: 15
     tag: [ 40 ]
-    surname: true
+    fam: true
   '假':
     val: '가'
     desc: [ '거짓','임시' ]
-    stroke: 11
+    str: 11
   '暇':
     val: '가'
     desc: [ '한가할' ]
-    stroke: 13
+    str: 13
     tag: [ 130 ]
   '可':
     val: '가'
     desc: [ '옳을' ]
-    stroke: 5
+    str: 5
     tag: [ 110 ]
   '哥':
     val: '가'
     desc: [ '성씨(낮춤말)' ]
-    stroke: 10
+    str: 10
   '歌':
     val: '가'
     desc: [ '노래' ]
-    stroke: 14
+    str: 14
     tag: [150,155]
   '嫁':
     val: '가'
     desc: [ '시집갈' ]
-    stroke: 13
+    str: 13
     tag: [ 115 ]
   '稼':
     val: '가'
     desc: [ '심을' ]
-    stroke: 15
+    str: 15
     tag: [120]
   '架':
     val: '가'
     desc: [ '시렁','건너지르다' ]
-    stroke: 9
+    str: 9
   '駕':
     val: '가'
     desc: [ '멍에','능가할' ]
-    stroke: 15
+    str: 15
     tag: [ 120 ]
   '伽':
     val: '가'
     desc: [ '절(寺)','가야(伽倻)' ]
-    stroke: 7
+    str: 7
     tag: [500]
   '迦':
     val: '가'
     desc: [ '부처이름' ]
-    stroke: 9
-    originStroke: 12
+    str: 9
+    oStr: 12
     tag: [ 500 ]
   '袈':
     val: '가'
     desc: [ '가사(승려가 입는 법의)' ]
-    stroke: 11
+    str: 11
     tag: [ 500 ]
   '哿':
     val: '가'
     desc: [ '옳을' ]
-    stroke: 10
+    str: 10
     tag: [ 110 ]
   '檟':
     val: '가'
     desc: [ '개오동나무' ]
-    stroke: 17
+    str: 17
     tag: [ 300 ]
   '葭':
     val: '가'
     desc: [ '갈대' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [ 300 ]
   '謌':
     val: '가'
     desc: [ '노래' ]
-    stroke: 17
+    str: 17
     tag: [150,155]
   '柯':
     val: '가'
     desc: [ '가지','모밀잣밤나무' ]
-    stroke: 9
+    str: 9
     tag: [ 300 ]
   '呵':
     val: '가'
     desc: [ '꾸짖을','껄껄 웃을' ]
-    stroke: 8
+    str: 8
     tag: [ 140 ]
   '訶':
     val: '가'
     desc: [ '꾸짖을' ]
-    stroke: 12
+    str: 12
     tag: [ 140 ]
   '珂':
     val: '가'
     desc: [ '마노','흰 옥돌' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [ 60 ]
   '苛':
     val: '가'
     desc: [ '가혹할','옴' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
   '榎':
     val: '가'
     desc: [ '개오동나무','팽나무' ]
-    stroke: 14
+    str: 14
     tag: [ 300 ]
   '各':
     val: '각'
     desc: [ '각각' ]
-    stroke: 6
+    str: 6
   '閣':
     val: '각'
     desc: [ '집' ]
-    stroke: 14
+    str: 14
     tag: [ 115 ]
   '角':
     val: '각'
     desc: [ '뿔' ]
-    stroke: 7
+    str: 7
   '脚':
     val: '각'
     desc: [ '다리' ]
-    stroke: 11
-    originStroke: 13
+    str: 11
+    oStr: 13
     tag: [ 350 ]
   '却':
     val: '각'
     desc: [ '물리칠' ]
-    stroke: 7
+    str: 7
   '覺':
     val: '각'
     desc: [ '깨달을' ]
-    stroke: 20
+    str: 20
     tag: [ 70 ]
   '刻':
     val: '각'
     desc: [ '새길' ]
-    stroke: 8
+    str: 8
   '恪':
     val: '각'
     desc: [ '삼갈' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
   '殼':
     val: '각'
     desc: [ '껍질','내려칠' ]
-    stroke: 12
+    str: 12
   '慤':
     val: '각'
     desc: [ '성실할' ]
-    stroke: 15
+    str: 15
     tag: [ 120 ]
   '干':
     val: '간'
     desc: [ '방패','줄기' ]
-    stroke: 3
-    surname: true
+    str: 3
+    fam: true
   '間':
     val: '간'
     desc: [ '사이' ]
-    stroke: 12
+    str: 12
   '看':
     val: '간'
     desc: [ '볼' ]
-    stroke: 9
+    str: 9
   '刊':
     val: '간'
     desc: [ '새길' ]
-    stroke: 5
+    str: 5
   '肝':
     val: '간'
     desc: [ '간' ]
-    stroke: 7
-    originStroke: 9
+    str: 7
+    oStr: 9
     tag: [ 350 ]
   '幹':
     val: '간'
     desc: [ '줄기' ]
-    stroke: 13
+    str: 13
   '榦':
     val: '간'
     desc: [ '줄기' ]
-    stroke: 14
+    str: 14
   '簡':
     val: '간'
     desc: [ '대쪽','간략할' ]
-    stroke: 13
-    surname: true
+    str: 13
+    fam: true
   '姦':
     val: '간'
     desc: [ '간음할' ]
-    stroke: 9
+    str: 9
   '懇':
     val: '간'
     desc: [ '간절할' ]
-    stroke: 17
+    str: 17
   '艮':
     val: '간'
     desc: [ '괘이름','그칠' ]
-    stroke: 6
+    str: 6
   '侃':
     val: '간'
     desc: [ '굳셀' ]
-    stroke: 8
+    str: 8
     tag: [ 80 ]
   '偘':
     val: '간'
     desc: [ '굳셀' ]
-    stroke: 11
+    str: 11
     tag: [ 80 ]
   '杆':
     val: '간'
     desc: [ '몽둥이','박달나무' ]
-    stroke: 8
+    str: 8
     tag: [ 300 ]
   '竿':
     val: '간'
     desc: [ '낚싯대' ]
-    stroke: 9
-    surname: true
+    str: 9
+    fam: true
   '揀':
     val: '간'
     desc: [ '가릴','분간' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '柬':
     val: '간'
     desc: [ '고를','간략할' ]
-    stroke: 9
+    str: 9
   '諫':
     val: '간'
     desc: [ '간할' ]
-    stroke: 16
+    str: 16
   '墾':
     val: '간'
     desc: [ '개간할' ]
-    stroke: 16
+    str: 16
     tag: [ 120 ]
   '奸':
     val: '간'
     desc: [ '간사할' ]
-    stroke: 6
+    str: 6
   '澗':
     val: '간'
     desc: [ '산골 물' ]
-    stroke: 15
-    tag: [ 310 ]
-  '磵':
-    val: '간'
-    desc: [ '산골짜기 물' ]
-    stroke: 17
+    str: 15
     tag: [ 310 ]
   '艱':
     val: '간'
-    desc: [ '어려울' ]
-    stroke: 17
+    desc: [ '어려울','간난' ]
+    str: 17
   '茛':
     val: '간'
     desc: [ '미나리아재비' ]
-    stroke: 10
-    originStroke: 12
+    str: 10
+    oStr: 12
     tag: [ 300 ]
   '桿':
     val: '간'
     desc: [ '난간' ]
-    stroke: 11
+    str: 11
   '渴':
     val: '갈'
     desc: [ '목마를' ]
-    stroke: 12
+    str: 12
     tag: [ 320 ]
   '葛':
     val: '갈'
     desc: [ '칡' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [ 300 ]
-    surname: true
+    fam: true
   '乫':
     val: '갈'
     desc: [ '땅이름' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '喝':
     val: '갈'
     desc: [ '꾸짖을' ]
-    stroke: 12
-  '竭':
-    val: '갈'
-    desc: [ '다할' ]
-    stroke: 14
-    tag: [ 120 ]
+    str: 12
   '褐':
     val: '갈'
     desc: [ '갈색' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [ 160 ]
   '蝎':
     val: '갈'
     desc: [ '전갈' ]
-    stroke: 15
+    str: 15
     tag: [ 200 ]
   '鞨':
     val: '갈'
     desc: [ '말갈' ]
-    stroke: 18
+    str: 18
   '甘':
     val: '감'
     desc: [ '달다' ]
-    stroke: 5
-    surname: true
+    str: 5
+    fam: true
   '減':
     val: '감'
     desc: [ '덜' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '感':
     val: '감'
     desc: [ '느낄' ]
-    stroke: 13
+    str: 13
   '敢':
     val: '감'
     desc: [ '감히' ]
-    stroke: 12
+    str: 12
   '監':
     val: '감'
     desc: [ '볼','감시' ]
-    stroke: 14
+    str: 14
   '鑑':
     val: '감'
     desc: [ '거울','살펴볼','감상' ]
-    stroke: 22
+    str: 22
   '勘':
     val: '감'
     desc: [ '헤아릴','감안하다' ]
-    stroke: 11
+    str: 11
     tag: [ 70 ]
   '堪':
     val: '감'
     desc: [ '견딜','감당' ]
-    stroke: 12
+    str: 12
     tag: [ 80 ]
   '瞰':
     val: '감'
     desc: [ '굽어볼','조감' ]
-    stroke: 16
+    str: 16
   '坎':
     val: '감'
     desc: [ '구덩이','감 괘' ]
-    stroke: 7
+    str: 7
   '憾':
     val: '감'
     desc: [ '섭섭할','유감' ]
-    stroke: 16
-    originStroke: 17
+    str: 16
+    oStr: 17
   '戡':
     val: '감'
     desc: [ '이길' ]
-    stroke: 13
+    str: 13
     tag: [ 45 ]
   '柑':
     val: '감'
     desc: [ '귤' ]
-    stroke: 9
+    str: 9
     tag: [ 300 ]
   '橄':
     val: '감'
     desc: [ '감람나무' ]
-    stroke: 16
+    str: 16
     tag: [ 300 ]
   '紺':
     val: '감'
     desc: [ '감색','연보라' ]
-    stroke: 11
+    str: 11
     tag: [ 160 ]
   '泔':
     val: '감'
     desc: [ '뜨물' ]
-    stroke: 8
-    originStroke: 9
-    tag: [ 310 ]
-  '淦':
-    val: '감'
-    desc: [ '물이름' ]
-    stroke: 11
-    originStroke: 12
+    str: 8
+    oStr: 9
     tag: [ 310 ]
   '甲':
     val: '갑'
     desc: [ '갑옷','첫째 천간' ]
-    stroke: 5
+    str: 5
     tag: [ 400 ]
   '鉀':
     val: '갑'
     desc: [ '갑옷' ]
-    stroke: 5
+    str: 5
     tag: [ 80 ]
   '匣':
     val: '갑'
     desc: [ '갑','장갑','지갑' ]
-    stroke: 7
+    str: 7
   '岬':
     val: '갑'
     desc: [ '곶' ]
-    stroke: 8
+    str: 8
     tag: [ 330 ]
   '胛':
     val: '갑'
     desc: [ '어깨뼈' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
     tag: [ 350 ]
   '閘':
     val: '갑'
     desc: [ '수문' ]
-    stroke: 13
+    str: 13
   '江':
     val: '강'
     desc: [ '강' ]
-    stroke: 6
-    originStroke: 7
+    str: 6
+    oStr: 7
     tag: [ 310 ]
-    surname: true
+    fam: true
   '降':
     val: '강'
     desc: [ '내릴' ]
-    stroke: 9
-    originStroke: 14
+    str: 9
+    oStr: 14
   '講':
     val: '강'
     desc: [ '외울' ]
-    stroke: 17
+    str: 17
     tag: [ 70 ]
   '強':
     val: '강'
     desc: [ '강할' ]
-    stroke: 11
+    str: 11
     tag: [ 80 ]
-    surname: true
+    fam: true
   '强':
     val: '강'
     desc: [ '강할' ]
-    stroke: 12
+    str: 12
     tag: [ 80 ]
   '康':
     val: '강'
     desc: [ '편안할','건강' ]
-    stroke: 11
+    str: 11
     tag: [ 130 ]
-    surname: true
+    fam: true
   '剛':
     val: '강'
     desc: [ '굳셀' ]
-    stroke: 10
+    str: 10
     tag: [ 80 ]
   '彊':
     val: '강'
     desc: [ '굳셀' ]
-    stroke: 16
+    str: 16
     tag: [ 80 ]
   '鋼':
     val: '강'
     desc: [ '강철' ]
-    stroke: 16
+    str: 16
     tag: [ 80,340 ]
   '綱':
     val: '강'
     desc: [ '벼리','기강' ]
-    stroke: 14
+    str: 14
     tag: [140]
   '杠':
     val: '강'
     desc: [ '외나무다리' ]
-    stroke: 7
+    str: 7
   '姜':
     val: '강'
     desc: [ '성씨','생강' ]
-    stroke: 9
-    surname: true
+    str: 9
+    fam: true
   '橿':
     val: '강'
     desc: [ '감탕나무','박달나무' ]
-    stroke: 17
+    str: 17
     tag: [ 300 ]
   '慷':
     val: '강'
     desc: [ '슬플','강개' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '糠':
     val: '강'
     desc: [ '겨','조강지처' ]
-    stroke: 17
+    str: 17
   '絳':
     val: '강'
     desc: [ '진홍' ]
-    stroke: 12
+    str: 12
     tag: [ 160 ]
   '薑':
     val: '강'
     desc: [ '생강' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
     tag: [ 300 ]
   '罡':
     val: '강'
     desc: [ '북두칠성' ]
-    stroke: 10
+    str: 10
     tag: [ 370 ]
   '改':
     val: '개'
     desc: [ '고칠' ]
-    stroke: 7
+    str: 7
   '皆':
     val: '개'
     desc: [ '다' ]
-    stroke: 9
+    str: 9
   '個':
     val: '개'
     desc: [ '낱' ]
-    stroke: 10
+    str: 10
   '開':
     val: '개'
     desc: [ '열다' ]
-    stroke: 12
+    str: 12
   '介':
     val: '개'
     desc: [ '낄','소개','중개' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '慨':
     val: '개'
     desc: [ '슬퍼할','분개','개탄' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '槪':
     val: '개'
     desc: [ '대개' ]
-    stroke: 15
+    str: 15
   '蓋':
     val: '개'
     desc: [ '덮을' ]
-    stroke: 14
-    originStroke: 16
-    surname: true
+    str: 14
+    oStr: 16
+    fam: true
   '凱':
     val: '개'
     desc: [ '이길','개선할' ]
-    stroke: 12
+    str: 12
     tag: [ 45 ]
   '愷':
     val: '개'
     desc: [ '편안할' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [ 150 ]
   '漑':
     val: '개'
     desc: [ '물댈','관개' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [ 310 ]
   '塏':
     val: '개'
     desc: [ '높은땅' ]
-    stroke: 13
+    str: 13
     tag: [ 330 ]
   '愾':
     val: '개'
     desc: [ '성낼','적개심' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
   '芥':
     val: '개'
     desc: [ '겨자' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [ 300 ]
   '豈':
     val: '개'
     desc: [ '승전악' ]
-    stroke: 10
+    str: 10
     tag: [ 45 ]
   '客':
     val: '객'
     desc: [ '손' ]
-    stroke: 9
+    str: 9
     tag: [ 115 ]
   '坑':
     val: '갱'
     desc: [ '구덩이','묻을' ]
-    stroke: 7
+    str: 7
     tag: [ 330 ]
   '更':
     val: '갱'
     desc: [ '고칠' ]
-    stroke: 13
+    str: 13
   '醵':
     val: '갹'
     desc: [ '추렴할','갹출' ]
-    stroke: 20
+    str: 20
   '去':
     val: '거'
     desc: [ '갈' ]
-    stroke: 5
+    str: 5
   '巨':
     val: '거'
     desc: [ '클' ]
-    stroke: 5
+    str: 5
     tag: [ 50 ]
   '居':
     val: '거'
     desc: [ '살','주거' ]
-    stroke: 8
+    str: 8
   '擧':
     val: '거'
     desc: [ '들다','선거' ]
-    stroke: 18
+    str: 18
   '距':
     val: '거'
     desc: [ '떨어져있을','(떨어진) 거리' ]
-    stroke: 12
+    str: 12
   '拒':
     val: '거'
     desc: [ '막을','거부' ]
-    stroke: 8
+    str: 8
   '據':
     val: '거'
     desc: [ '근거' ]
-    stroke: 16
-    originStroke: 17
+    str: 16
+    oStr: 17
   '倨':
     val: '거'
     desc: [ '거만할' ]
-    stroke: 10
+    str: 10
   '据':
     val: '거'
     desc: [ '의지할','거치' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '車':
     val: '거'
     desc: [ '수레' ]
-    stroke: 7
+    str: 7
   '建':
     val: '건'
     desc: [ '세울' ]
-    stroke: 9
+    str: 9
     tag: [ 120 ]
   '乾':
     val: '건'
     desc: [ '하늘','마를' ]
-    stroke: 11
+    str: 11
   '件':
     val: '건'
     desc: [ '물건' ]
-    stroke: 6
+    str: 6
   '健':
     val: '건'
     desc: [ '굳셀','건강' ]
-    stroke: 11
+    str: 11
     tag: [ 80 ]
   '巾':
     val: '건'
     desc: [ '수건' ]
-    stroke: 3
+    str: 3
   '虔':
     val: '건'
     desc: [ '공경할','경건' ]
-    stroke: 10
+    str: 10
     tag: [ 125 ]
   '楗':
     val: '건'
     desc: [ '문빗장' ]
-    stroke: 13
+    str: 13
   '鍵':
     val: '건'
     desc: [ '열쇠' ]
-    stroke: 17
+    str: 17
   '騫':
     val: '건'
     desc: [ '이지러질' ]
-    stroke: 20
-    surname: true
+    str: 20
+    fam: true
   '傑':
     val: '걸'
     desc: [ '뛰어날' ]
-    stroke: 12
+    str: 12
     tag: [ 20 ]
   '杰':
     val: '걸'
     desc: [ '뛰어날' ]
-    stroke: 8
+    str: 8
     tag: [ 20 ]
   '乞':
     val: '걸'
     desc: [ '빌' ]
-    stroke: 3
+    str: 3
   '儉':
     val: '검'
     desc: [ '검소할' ]
-    stroke: 15
+    str: 15
     tag: [ 125 ]
   '劍':
     val: '검'
     desc: [ '칼' ]
-    stroke: 15
+    str: 15
     tag: [ 80 ]
   '檢':
     val: '검'
     desc: [ '검사할' ]
-    stroke: 17
+    str: 17
     tag: [ 40,140 ]
   '瞼':
     val: '검'
     desc: [ '눈꺼풀' ]
-    stroke: 18
+    str: 18
     tag: [ 350 ]
   '劫':
     val: '겁'
     desc: [ '위협할' ]
-    stroke: 7
+    str: 7
   '怯':
     val: '겁'
     desc: [ '겁낼' ]
-    stroke: 8
+    str: 8
+    oStr: 9
   '憩':
     val: '게'
     desc: [ '쉴','휴게' ]
-    stroke: 16
+    str: 16
     tag: [ 130 ]
   '格':
     val: '격'
     desc: [ '격식' ]
-    stroke: 10
+    str: 10
   '擊':
     val: '격'
     desc: [ '칠','타격' ]
-    stroke: 17
+    str: 17
     tag: [ 80 ]
   '激':
     val: '격'
     desc: [ '격할' ]
-    stroke: 16
-    originStroke: 17
-    tag: [ 80 ]
+    str: 16
+    oStr: 17
   '隔':
     val: '격'
     desc: [ '사이뜰','유격' ]
-    stroke: 13
-    originStroke: 18
+    str: 13
+    oStr: 18
   '犬':
     val: '견'
     desc: [ '개' ]
-    stroke: 4
+    str: 4
     tag: [ 200 ]
   '見':
     val: '견'
     desc: [ '볼' ]
-    stroke: 7
+    str: 7
   '堅':
     val: '견'
     desc: [ '굳을' ]
-    stroke: 11
+    str: 11
     tag: [80]
-    surname: true
+    fam: true
   '肩':
     val: '견'
     desc: [ '어깨' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [ 350 ]
   '絹':
     val: '견'
     desc: [ '비단' ]
-    stroke: 13
+    str: 13
   '遣':
     val: '견'
     desc: [ '보낼','파견' ]
-    stroke: 14
-    originStroke: 17
+    str: 14
+    oStr: 17
   '牽':
     val: '견'
     desc: [ '이끌','견인' ]
-    stroke: 11
+    str: 11
   '鵑':
     val: '견'
     desc: [ '두견','진달래' ]
-    stroke: 18
+    str: 18
     tag: [ 200,300 ]
   '甄':
     val: '견'
     desc: [ '질그릇' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '決':
     val: '결'
     desc: [ '결단할' ]
-    stroke: 7
-    originStroke: 8
-    surname: true
+    str: 7
+    oStr: 8
+    fam: true
   '結':
     val: '결'
     desc: [ '맺을' ]
-    stroke: 12
+    str: 12
     tag: [ 115 ]
   '潔':
     val: '결'
     desc: [ '깨끗할','정결' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
     tag: [ 100 ]
   '缺':
     val: '결'
     desc: [ '이지러질','결핍' ]
-    stroke: 10
+    str: 10
   '訣  ':
     val: '결'
     desc: [ '이별할','결별' ]
-    stroke: 11
+    str: 11
   '兼':
     val: '겸'
     desc: [ '겸할' ]
-    stroke: 10
+    str: 10
   '謙':
     val: '겸'
     desc: [ '겸손할' ]
-    stroke: 17
+    str: 17
     tag: [ 125 ]
   '袷':
     val: '겹'
     desc: [ '겹옷' ]
-    stroke: 17
-    originStroke: 18
-    surname: true
+    str: 17
+    oStr: 18
+    fam: true
   '更':
     val: '경'
     desc: [ '고칠' ]
-    stroke: 7
+    str: 7
   '京':
     val: '경'
     desc: [ '서울' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '景':
     val: '경'
     desc: [ '별' ]
-    stroke: 12
+    str: 12
     tag: [ 370 ]
-    surname: true
+    fam: true
   '庚':
     val: '경'
     desc: [ '별' ]
-    stroke: 8
+    str: 8
     tag: [ 370,400 ]
-    surname: true
+    fam: true
   '經':
     val: '경'
     desc: [ '지날','다스릴','글' ]
-    stroke: 13
+    str: 13
     tag: [40]
   '耕':
     val: '경'
     desc: [ '밭 갈' ]
-    stroke: 10
+    str: 10
     tag: [ 120 ]
   '敬':
     val: '경'
     desc: [ '공경할' ]
-    stroke: 13
+    str: 13
     tag: [115,125]
-    surname: true
+    fam: true
   '輕':
     val: '경'
     desc: [ '가벼울' ]
-    stroke: 14
+    str: 14
   '驚':
     val: '경'
     desc: [ '놀랄' ]
-    stroke: 23
+    str: 23
   '警':
     val: '경'
     desc: [ '깨우칠' ]
-    stroke: 20
+    str: 20
     tag: [ 70 ]
   '慶':
     val: '경'
     desc: [ '경사' ]
-    stroke: 15
+    str: 15
     tag: [ 150 ]
-    surname: true
+    fam: true
   '競':
     val: '경'
     desc: [ '다툴','경쟁' ]
-    stroke: 20
+    str: 20
   '竟':
     val: '경'
     desc: [ '마침내' ]
-    stroke: 11
+    str: 11
   '境':
     val: '경'
     desc: [ '지경','경우' ]
-    stroke: 14
+    str: 14
   '鏡':
     val: '경'
     desc: [ '거울' ]
-    stroke: 19
+    str: 19
   '頃':
     val: '경'
     desc: [ '잠간','경각' ]
-    stroke: 11
+    str: 11
   '傾':
     val: '경'
     desc: [ '기울','경사' ]
-    stroke: 13
+    str: 13
   '硬':
     val: '경'
     desc: [ '굳을' ]
-    stroke: 12
+    str: 12
   '徑':
     val: '경'
     desc: [ '지름길' ]
-    stroke: 10
+    str: 10
   '卿':
     val: '경'
     desc: [ '벼슬' ]
-    stroke: 12
+    str: 12
     tag: [ 40 ]
   '鯨':
     val: '경'
     desc: [ '고래' ]
-    stroke: 19
+    str: 19
     tag: [ 200 ]
   '耿':
     val: '경'
     desc: [ '빛' ]
-    stroke: 10
+    str: 10
     tag: [ 30 ]
-    surname: true
+    fam: true
   '憬':
     val: '경'
     desc: [ '깨달을','동경할' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
     tag: [ 70 ]
   '璟':
     val: '경'
     desc: [ '옥빛' ]
-    stroke: 16
-    originStroke: 17
+    str: 16
+    oStr: 17
     tag: [ 60 ]
   '瓊':
     val: '경'
     desc: [ '구슬' ]
-    stroke: 19
-    originStroke: 20
+    str: 19
+    oStr: 20
     tag: [ 60 ]
   '璥':
     val: '경'
     desc: [ '경옥' ]
-    stroke: 17
-    originStroke: 18
+    str: 17
+    oStr: 18
     tag: [ 60 ]
   '儆':
     val: '경'
     desc: [ '경계할' ]
-    stroke: 15
+    str: 15
     tag: [140]
   '炅':
     val: '경'
     desc: [ '빛날' ]
-    stroke: 8
+    str: 8
     tag: [ 30,320 ]
   '烱':
     val: '경'
     desc: [ '빛날' ]
-    stroke: 11
+    str: 11
     tag: [ 30,320 ]
   '頸':
     val: '경'
     desc: [ '목' ]
-    stroke: 16
-    originStroke: 21
+    str: 16
+    oStr: 21
     tag: [ 350 ]
   '鶊':
     val: '경'
     desc: [ '꾀꼬리' ]
-    stroke: 19
+    str: 19
     tag: [ 200 ]
   '癸':
     val: '계'
     desc: [ '북방','열째 천간' ]
-    stroke: 9
+    str: 9
     tag: [ 400 ]
   '季':
     val: '계'
     desc: [ '계절' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '界':
     val: '계'
     desc: [ '지경','세계' ]
-    stroke: 9
+    str: 9
   '計':
     val: '계'
     desc: [ '셀','계산' ]
-    stroke: 9
+    str: 9
     tag: [ 75 ]
   '溪':
     val: '계'
     desc: [ '시내','계곡' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [ 310 ]
-    surname: true
+    fam: true
   '鷄':
     val: '계'
     desc: [ '닭' ]
-    stroke: 21
+    str: 21
     tag: [ 200 ]
   '系':
     val: '계'
     desc: [ '맬','이을','계통' ]
-    stroke: 7
+    str: 7
   '係':
     val: '계'
     desc: [ '맬','이을','관계' ]
-    stroke: 9
+    str: 9
     tag: [ 115 ]
   '繼':
     val: '계'
     desc: [ '이을','계속' ]
-    stroke: 20
+    str: 20
     tag: [ 115 ]
   '繫':
     val: '계'
     desc: [ '맬','이을','연계' ]
-    stroke: 19
+    str: 19
   '契':
     val: '계'
     desc: [ '맺을','계약' ]
-    stroke: 9
+    str: 9
   '戒':
     val: '계'
     desc: [ '경계할' ]
-    stroke: 7
+    str: 7
   '誡':
     val: '계'
     desc: [ '경계할' ]
-    stroke: 14
+    str: 14
   '械':
     val: '계'
     desc: [ '기계' ]
-    stroke: 11
+    str: 11
     tag: [ 75 ]
   '桂':
     val: '계'
     desc: [ '계수나무' ]
-    stroke: 10
+    str: 10
     tag: [ 300 ]
-    surname: true
+    fam: true
   '啓':
     val: '계'
     desc: [ '열','일깨우다','계몽' ]
-    stroke: 11
+    str: 11
     tag: [ 70 ]
-    surname: true
+    fam: true
   '階':
     val: '계'
     desc: [ '섬돌','계단' ]
-    stroke: 12
-    originStroke: 17
+    str: 12
+    oStr: 17
   '古':
     val: '고'
     desc: [ '옛' ]
-    stroke: 5
+    str: 5
     tag: [135]
   '故':
     val: '고'
     desc: [ '연고' ]
-    stroke: 9
+    str: 9
     tag: [ 115 ]
   '固':
     val: '고'
     desc: [ '굳을' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '苦':
     val: '고'
     desc: [ '쓸','힘들' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
   '高':
     val: '고'
     desc: [ '높을' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '考':
     val: '고'
     desc: [ '생각할','살필' ]
-    stroke: 6
+    str: 6
   '告':
     val: '고'
     desc: [ '고할' ]
-    stroke: 7
+    str: 7
   '誥':
     val: '고'
     desc: [ '고할' ]
-    stroke: 14
+    str: 14
   '枯':
     val: '고'
     desc: [ '마를' ]
-    stroke: 9
+    str: 9
   '姑':
     val: '고'
     desc: [ '시어머니' ]
-    stroke: 8
+    str: 8
   '庫':
     val: '고'
     desc: [ '창고' ]
-    stroke: 10
+    str: 10
   '孤':
     val: '고'
     desc: [ '외로울' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '鼓':
     val: '고'
     desc: [ '북' ]
-    stroke: 13
+    str: 13
     tag: [ 155 ]
-  '稿':
-    val: '고'
-    desc: [ '볏짚','원고' ]
-    stroke: 15
-  '顧':
-    val: '고'
-    desc: [ '돌아볼','고객' ]
-    stroke: 21
-  '叩':
-    val: '고'
-    desc: [ '두드릴','조아릴' ]
-    stroke: 5
   '敲':
     val: '고'
     desc: [ '두드릴' ]
-    stroke: 14
+    str: 14
+  '叩':
+    val: '고'
+    desc: [ '두드릴','조아릴' ]
+    str: 5
+  '稿':
+    val: '고'
+    desc: [ '볏짚','원고' ]
+    str: 15
+  '顧':
+    val: '고'
+    desc: [ '돌아볼','고객' ]
+    str: 21
   '股':
     val: '고'
     desc: [ '넓적다리' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [ 350 ]
   '膏':
     val: '고'
     desc: [ '기름' ]
-    stroke: 14
-    originStroke: 16
+    str: 14
+    oStr: 16
   '杲':
     val: '고'
     desc: [ '밝을' ]
-    stroke: 8
+    str: 8
     tag: [ 30 ]
   '谷':
     val: '곡'
     desc: [ '골' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '曲':
     val: '곡'
     desc: [ '굽을' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '穀':
     val: '곡'
     desc: [ '곡식' ]
-    stroke: 15
+    str: 15
   '哭':
     val: '곡'
     desc: [ '울' ]
-    stroke: 10
+    str: 10
   '鵠':
     val: '곡'
     desc: [ '고니' ]
-    stroke: 18
+    str: 18
     tag: [ 200 ]
   '困':
     val: '곤'
     desc: [ '곤할' ]
-    stroke: 7
+    str: 7
   '坤':
     val: '곤'
     desc: [ '땅' ]
-    stroke: 8
+    str: 8
     tag: [ 330 ]
   '昆':
     val: '곤'
     desc: [ '맏','벌레','곤충' ]
-    stroke: 8
+    str: 8
     tag: [ 200 ]
   '琨':
     val: '곤'
     desc: [ '옥돌' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [ 60 ]
   '棍':
     val: '곤'
     desc: [ '몽둥이','곤봉' ]
-    stroke: 12
+    str: 12
     tag: [ 80 ]
   '衮':
     val: '곤'
     desc: [ '곤룡포' ]
-    stroke: 10
+    str: 10
     tag: [ 40 ]
   '骨':
     val: '골'
     desc: [ '뼈' ]
-    stroke: 10
+    str: 10
     tag: [ 350 ]
-    surname: true
+    fam: true
   '汨':
     val: '골'
     desc: [ '골몰할' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
     tag: [ 310 ]
   '鶻':
     val: '골'
     desc: [ '송골매' ]
-    stroke: 21
+    str: 21
     tag: [ 200 ]
   '滑':
     val: '골'
     desc: [ '익살스러울','골계' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [ 310 ]
   '工':
     val: '공'
     desc: [ '장인' ]
-    stroke: 3
+    str: 3
     tag: [ 75 ]
   '功':
     val: '공'
     desc: [ '공로','성공' ]
-    stroke: 5
+    str: 5
     tag: [ 40,120 ]
   '空':
     val: '공'
     desc: [ '빌','공간' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
     tag: [ 500 ]
   '共':
     val: '공'
     desc: [ '한가지' ]
-    stroke: 6
+    str: 6
   '公':
     val: '공'
-    desc: [
-      '공평할'
-      '벼슬'
-    ]
-    stroke: 4
+    desc: [ '공평할','벼슬' ]
+    str: 4
     tag: [ 40 ]
-    surname: true
+    fam: true
   '孔':
     val: '공'
-    desc: [
-      '구멍'
-      '공자의 이름'
-    ]
-    stroke: 4
-    surname: true
+    desc: [ '구멍','공자의 이름' ]
+    str: 4
+    fam: true
   '供':
     val: '공'
     desc: [ '이바지할' ]
-    stroke: 8
+    str: 8
     tag: [ 120 ]
   '恭':
     val: '공'
     desc: [ '공손할' ]
-    stroke: 10
+    str: 10
     tag: [ 125 ]
   '攻':
     val: '공'
     desc: [ '칠' ]
-    stroke: 7
+    str: 7
     tag: [ 80 ]
   '恐':
     val: '공'
     desc: [ '두려워할' ]
-    stroke: 10
+    str: 10
   '貢':
     val: '공'
     desc: [ '바칠' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '珙':
     val: '공'
     desc: [ '옥' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
     tag: [ 60 ]
   '控':
     val: '공'
-    desc: [
-      '당길'
-      '던질'
-    ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '당길','던질','공제' ]
+    str: 11
+    oStr: 12
   '果':
     val: '과'
     desc: [ '열매' ]
-    stroke: 8
+    str: 8
   '課':
     val: '과'
-    desc: [
-      '공부할'
-      '과정'
-    ]
-    stroke: 15
+    desc: [ '공부할','과정' ]
+    str: 15
     tag: [ 70 ]
   '科':
     val: '과'
     desc: [ '과목' ]
-    stroke: 9
+    str: 9
   '過':
     val: '과'
     desc: [ '지날' ]
-    stroke: 13
-    originStroke: 16
+    str: 13
+    oStr: 16
   '誇':
     val: '과'
     desc: [ '자랑할' ]
-    stroke: 13
+    str: 13
   '寡':
     val: '과'
-    desc: [
-      '적을'
-      '과부'
-    ]
-    stroke: 14
+    desc: [ '적을','과부' ]
+    str: 14
   '戈':
     val: '과'
     desc: [ '창' ]
-    stroke: 4
+    str: 4
     tag: [ 80 ]
   '瓜':
     val: '과'
     desc: [ '오이' ]
-    stroke: 5
+    str: 5
     tag: [ 300 ]
-    surname: true
+    fam: true
   '郭':
     val: '곽'
-    desc: [ '둘레' ]
-    stroke: 11
-    originStroke: 15
-    surname: true
+    desc: [ '둘레','성곽' ]
+    str: 11
+    oStr: 15
+    fam: true
   '廓':
     val: '곽'
-    desc: [ '둘레' ]
-    stroke: 14
+    desc: [ '둘레','외곽' ]
+    str: 14
   '藿':
     val: '곽'
-    desc: [
-      '콩잎'
-      '미역'
-    ]
-    stroke: 20
-    originStroke: 22
-    surname: true
+    desc: [ '콩잎','미역' ]
+    str: 20
+    oStr: 22
+    fam: true
   '官':
     val: '관'
     desc: [ '벼슬' ]
-    stroke: 8
+    str: 8
     tag: [ 40 ]
-    surname: true
+    fam: true
   '觀':
     val: '관'
     desc: [ '볼' ]
-    stroke: 25
+    str: 25
     tag: [ 500 ]
   '關':
     val: '관'
     desc: [ '관계할' ]
-    stroke: 19
+    str: 19
     tag: [ 115 ]
   '館':
     val: '관'
     desc: [ '집' ]
-    stroke: 16
-    tag: [ 115 ]
-  '舘':
-    val: '관'
-    desc: [ '집' ]
-    stroke: 16
+    str: 16
     tag: [ 115 ]
   '管':
     val: '관'
-    desc: [
-      '대롱'
-      '주관할'
-    ]
-    stroke: 14
+    desc: [ '대롱','주관할' ]
+    str: 14
   '貫':
     val: '관'
-    desc: [ '꿸' ]
-    stroke: 11
+    desc: [ '꿸','관통' ]
+    str: 11
   '慣':
     val: '관'
-    desc: [ '익숙할' ]
-    stroke: 14
-    originStroke: 15
+    desc: [ '익숙할','습관' ]
+    str: 14
+    oStr: 15
   '冠':
     val: '관'
     desc: [ '갓' ]
-    stroke: 9
+    str: 9
     tag: [ 40 ]
   '寬':
     val: '관'
-    desc: [ '너그러울' ]
-    stroke: 15
-    surname: true
-  '寛':
-    val: '관'
-    desc: [ '너그러울' ]
-    stroke: 14
+    desc: [ '너그러울','관용' ]
+    str: 15
+    fam: true
   '款':
     val: '관'
-    desc: [
-      '항목'
-      '돈'
-      '정성'
-    ]
-    stroke: 12
+    desc: [ '항목','돈','정성','약관' ]
+    str: 12
   '琯':
     val: '관'
     desc: [ '옥피리' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [ 155 ]
   '灌':
     val: '관'
-    desc: [ '물댈' ]
-    stroke: 21
-    originStroke: 22
+    desc: [ '물댈','관개' ]
+    str: 21
+    oStr: 22
     tag: [ 310 ]
   '串':
     val: '관'
-    desc: [
-      '꿸'
-      '꼬챙이'
-    ]
-    stroke: 7
+    desc: [ '꿸','꼬챙이' ]
+    str: 7
   '棺':
     val: '관'
     desc: [ '널' ]
-    stroke: 12
+    str: 12
   '括':
     val: '괄'
-    desc: [ '묶을' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '묶을','일괄' ]
+    str: 9
+    oStr: 10
   '刮':
     val: '괄'
-    desc: [
-      '긁을'
-      '비빌'
-    ]
-    stroke: 8
+    desc: [ '긁을','비빌','괄목상대' ]
+    str: 8
   '光':
     val: '광'
     desc: [ '빛' ]
-    stroke: 6
+    str: 6
     tag: [ 30 ]
-    surname: true
+    fam: true
   '廣':
     val: '광'
     desc: [ '넓을' ]
-    stroke: 15
+    str: 15
     tag: [ 90 ]
-    surname: true
+    fam: true
   '鑛':
     val: '광'
     desc: [ '쇳돌' ]
-    stroke: 23
+    str: 23
     tag: [ 340 ]
   '狂':
     val: '광'
     desc: [ '미칠' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
   '匡':
     val: '광'
     desc: [ '바를' ]
-    stroke: 6
+    str: 6
     tag: [ 110 ]
   '筐':
     val: '광'
     desc: [ '광주리' ]
-    stroke: 12
+    str: 12
   '炚':
     val: '광'
     desc: [ '빛' ]
-    stroke: 8
-    tag: [
-      30
-      320
-    ]
+    str: 8
+    tag: [ 30,320 ]
   '掛':
     val: '괘'
     desc: [ '걸' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '卦':
     val: '괘'
     desc: [ '점괘' ]
-    stroke: 8
+    str: 8
   '塊':
     val: '괴'
     desc: [ '덩어리' ]
-    stroke: 13
+    str: 13
     tag: [ 330 ]
   '愧':
     val: '괴'
     desc: [ '부끄러울' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
   '怪':
     val: '괴'
     desc: [ '괴이할' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '壞':
     val: '괴'
-    desc: [ '무너질' ]
-    stroke: 19
+    desc: [ '무너질','파괴' ]
+    str: 19
     tag: [ 330 ]
   '傀':
     val: '괴'
-    desc: [ '허수아비' ]
-    stroke: 12
+    desc: [ '허수아비','괴뢰' ]
+    str: 12
   '槐':
     val: '괴'
     desc: [ '회화나무' ]
-    stroke: 14
+    str: 14
     tag: [ 300 ]
-    surname: true
+    fam: true
   '瑰':
     val: '괴'
     desc: [ '구슬이름' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [ 60 ]
   '璝':
     val: '괴'
     desc: [ '구슬이름' ]
-    stroke: 16
-    originStroke: 17
+    str: 16
+    oStr: 17
     tag: [ 60 ]
   '宏':
     val: '굉'
     desc: [ '클' ]
-    stroke: 7
+    str: 7
     tag: [ 90 ]
   '肱':
     val: '굉'
     desc: [ '팔뚝' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [ 350 ]
   '轟':
     val: '굉'
-    desc: [ '울릴' ]
-    stroke: 21
+    desc: [ '울릴','굉음' ]
+    str: 21
   '交':
     val: '교'
     desc: [ '사귈' ]
-    stroke: 6
+    str: 6
     tag: [ 115 ]
   '校':
     val: '교'
     desc: [ '학교' ]
-    stroke: 10
+    str: 10
     tag: [ 70 ]
   '橋':
     val: '교'
     desc: [ '다리' ]
-    stroke: 16
+    str: 16
   '敎':
     val: '교'
     desc: [ '가르칠' ]
-    stroke: 11
+    str: 11
     tag: [ 70 ]
   '郊':
     val: '교'
-    desc: [
-      '야외'
-      '들'
-    ]
-    stroke: 9
-    originStroke: 13
+    desc: [ '들','교외' ]
+    str: 9
+    oStr: 13
   '較':
     val: '교'
     desc: [ '견줄' ]
-    stroke: 13
+    str: 13
   '巧':
     val: '교'
     desc: [ '공교할' ]
-    stroke: 5
-    tag: [
-      10
-      70
-      75
-    ]
+    str: 5
   '矯':
     val: '교'
     desc: [ '바로잡을' ]
-    stroke: 17
+    str: 17
     tag: [ 110 ]
   '佼':
     val: '교'
     desc: [ '예쁠' ]
-    stroke: 8
+    str: 8
     tag: [ 10 ]
   '喬':
     val: '교'
-    desc: [ '높을' ]
-    stroke: 12
+    desc: [ '높을','교목' ]
+    str: 12
   '嬌':
     val: '교'
     desc: [ '아리따울' ]
-    stroke: 15
+    str: 15
     tag: [ 10 ]
   '憍':
     val: '교'
     desc: [ '교만할' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
   '膠':
     val: '교'
     desc: [ '아교' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
   '晈':
     val: '교'
     desc: [ '달빛' ]
-    stroke: 10
+    str: 10
     tag: [ 30 ]
   '皎':
     val: '교'
     desc: [ '달밝을' ]
-    stroke: 11
+    str: 11
     tag: [ 30 ]
   '蛟':
     val: '교'
     desc: [ '교룡' ]
-    stroke: 12
+    str: 12
     tag: [ 200 ]
   '九':
     val: '구'
     desc: [ '아홉' ]
-    stroke: 2
-    originStroke: 9
+    str: 2
+    oStr: 9
   '口':
     val: '구'
     desc: [ '입' ]
-    stroke: 3
+    str: 3
     tag: [ 350 ]
   '句':
     val: '구'
     desc: [ '글귀' ]
-    stroke: 5
+    str: 5
   '求':
     val: '구'
     desc: [ '구할' ]
-    stroke: 7
+    str: 7
   '救':
     val: '구'
     desc: [ '구원할' ]
-    stroke: 11
+    str: 11
   '究':
     val: '구'
     desc: [ '연구할' ]
-    stroke: 7
-    tag: [
-      70
-      75
-    ]
+    str: 7
+    tag: [ 70,75 ]
   '久':
     val: '구'
     desc: [ '오랠' ]
-    stroke: 3
+    str: 3
     tag: [135]
   '舊':
     val: '구'
     desc: ['예','옛']
-    stroke: 18
+    str: 18
     tag: [135]
   '具':
     val: '구'
-    desc: [ '갖출' ]
-    stroke: 8
-    surname: true
+    desc: [ '갖출','도구' ]
+    str: 8
+    fam: true
   '俱':
     val: '구'
-    desc: [
-      '갖출'
-      '함께'
-    ]
-    stroke: 10
+    desc: [ '갖출','함께','구현' ]
+    str: 10
   '區':
     val: '구'
-    desc: [
-      '구분할'
-      '지경'
-    ]
-    stroke: 11
+    desc: [ '구분할','지경' ]
+    str: 11
   '驅':
     val: '구'
-    desc: [
-      '몰'
-      '빨리 달릴'
-    ]
-    stroke: 21
+    desc: [ '몰','빨리 달릴','내쫓다' ]
+    str: 21
   '苟':
     val: '구'
-    desc: [
-      '진실로'
-      '구차할'
-    ]
-    stroke: 9
-    originStroke: 11
+    desc: [ '진실로','구차할' ]
+    str: 9
+    oStr: 11
   '拘':
     val: '구'
-    desc: [
-      '잡을'
-      '구부릴'
-    ]
-    stroke: 8
-    originStroke: 9
+    desc: [ '잡을','구부릴','구속' ]
+    str: 8
+    oStr: 9
   '狗':
     val: '구'
-    desc: [
-      '개'
-      '강아지'
-    ]
-    stroke: 8
-    originStroke: 9
+    desc: [ '개','강아지' ]
+    str: 8
+    oStr: 9
     tag: [ 200 ]
   '丘':
     val: '구'
-    desc: [ '언덕' ]
-    stroke: 5
+    desc: [ '언덕','구릉' ]
+    str: 5
     tag: [ 330 ]
-    surname: true
+    fam: true
   '邱':
     val: '구'
-    desc: [ '언덕' ]
-    stroke: 8
-    originStroke: 12
+    desc: [ '언덕','대구' ]
+    str: 8
+    oStr: 12
     tag: [ 330 ]
-    surname: true
+    fam: true
   '懼':
     val: '구'
-    desc: [ '두려워할' ]
-    stroke: 21
-    originStroke: 22
+    desc: [ '두려워할','송구' ]
+    str: 21
+    oStr: 22
   '瞿':
     val: '구'
     desc: [ '놀랄' ]
-    stroke: 18
-    surname: true
+    str: 18
+    fam: true
   '構':
     val: '구'
-    desc: [
-      '얽을'
-      '닥나무'
-    ]
-    stroke: 14
+    desc: [ '얽을','닥나무' ]
+    str: 14
     tag: [ 300 ]
   '球':
     val: '구'
     desc: [ '공' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '毆':
     val: '구'
-    desc: [ '때릴' ]
-    stroke: 15
+    desc: [ '때릴','구타' ]
+    str: 15
   '玖':
     val: '구'
     desc: [ '옥돌' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
     tag: [ 60 ]
   '臼':
     val: '구'
     desc: [ '절구' ]
-    stroke: 6
+    str: 6
   '鳩':
     val: '구'
     desc: [ '비둘기' ]
-    stroke: 13
+    str: 13
     tag: [ 200 ]
   '鷗':
     val: '구'
     desc: [ '갈매기' ]
-    stroke: 22
+    str: 22
     tag: [ 200 ]
   '鸜':
     val: '구'
     desc: [ '구관조' ]
-    stroke: 29
+    str: 29
     tag: [ 200 ]
   '枸':
     val: '구'
     desc: [ '구기자' ]
-    stroke: 9
+    str: 9
     tag: [ 300 ]
   '仇':
     val: '구'
     desc: [ '원수' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '歐':
     val: '구'
     desc: [ '구라파(유럽)' ]
-    stroke: 15
+    str: 15
   '釦':
     val: '구'
     desc: [ '금테두를' ]
-    stroke: 11
+    str: 11
     tag: [ 40 ]
   '裘':
     val: '구'
     desc: [ '갖옷' ]
-    stroke: 13
-    surname: true
+    str: 13
+    fam: true
   '龜':
     val: '구'
     desc: [ '땅이름' ]
-    stroke: 16
+    str: 16
   '國':
     val: '국'
     desc: [ '나라' ]
-    stroke: 11
-    surname: true
+    str: 11
+    fam: true
   '菊':
     val: '국'
     desc: [ '국화' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
     tag: [ 300 ]
   '局':
     val: '국'
-    desc: [
-      '판'
-      '관청'
-      '모임'
-    ]
-    stroke: 7
+    desc: [ '판','관청','모임' ]
+    str: 7
   '鞠':
     val: '국'
-    desc: [
-      '가죽 공'
-      '국화'
-    ]
-    stroke: 17
-    surname: true
+    desc: [ '가죽 공','국화' ]
+    str: 17
+    fam: true
   '麴':
     val: '국'
-    desc: [
-      '누룩'
-      '술'
-    ]
-    stroke: 19
+    desc: [ '누룩','술','국선생' ]
+    str: 19
   '君':
     val: '군'
     desc: [ '임금' ]
-    stroke: 7
+    str: 7
     tag: [ 40 ]
-    surname: true
+    fam: true
   '郡':
     val: '군'
     desc: [ '고을' ]
-    stroke: 10
-    originStroke: 14
+    str: 10
+    oStr: 14
   '軍':
     val: '군'
     desc: [ '군사' ]
-    stroke: 9
+    str: 9
     tag: [ 80 ]
   '屈':
     val: '굴'
-    desc: [ '굽힐' ]
-    stroke: 8
+    desc: [ '굽힐','굴복','굴절' ]
+    str: 8
   '窟':
     val: '굴'
-    desc: [ '굴' ]
-    stroke: 13
+    desc: [ '굴','동굴' ]
+    str: 13
   '掘':
     val: '굴'
-    desc: [ '팔' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '파다','채굴' ]
+    str: 11
+    oStr: 12
   '弓':
     val: '궁'
     desc: [ '활' ]
-    stroke: 3
-    surname: true
+    str: 3
+    fam: true
   '宮':
     val: '궁'
     desc: [ '집' ]
-    stroke: 10
+    str: 10
     tag: [ 115 ]
-    surname: true
+    fam: true
   '窮':
     val: '궁'
-    desc: [
-      '다할'
-      '궁할'
-    ]
-    stroke: 15
-    tag: [
-      120
-      125
-    ]
+    desc: [ '다할','궁할','궁극' ]
+    str: 15
+    tag: [ 120,125 ]
   '鴌':
     val: '궉'
     desc: [ '꿩' ]
-    stroke: 15
+    str: 15
     tag: [ 200 ]
-    surname: true
+    fam: true
   '券':
     val: '권'
-    desc: [ '문서' ]
-    stroke: 8
+    desc: [ '문서','증권' ]
+    str: 8
     tag: [ 70 ]
   '權':
     val: '권'
     desc: [ '권세' ]
-    stroke: 22
+    str: 22
     tag: [ 40 ]
-    surname: true
+    fam: true
   '勸':
     val: '권'
     desc: [ '권할' ]
-    stroke: 20
+    str: 20
   '卷':
     val: '권'
-    desc: [
-      '책'
-      '두루마리'
-    ]
-    stroke: 8
+    desc: [ '책','두루마리' ]
+    str: 8
     tag: [ 70 ]
   '拳':
     val: '권'
     desc: [ '주먹' ]
-    stroke: 10
+    str: 10
     tag: [ 80 ]
   '眷':
     val: '권'
-    desc: [ '돌볼' ]
-    stroke: 11
+    desc: [ '돌볼','권속' ]
+    str: 11
+    tag: [115]
   '圈':
     val: '권'
-    desc: [
-      '우리'
-      '경계'
-    ]
-    stroke: 11
+    desc: [ '우리','경계' ]
+    str: 11
   '厥':
     val: '궐'
     desc: [ '그' ]
-    stroke: 12
+    str: 12
   '闕':
     val: '궐'
     desc: [ '대궐' ]
-    stroke: 18
+    str: 18
     tag: [ 40 ]
   '獗':
     val: '궐'
-    desc: [ '날뛸' ]
-    stroke: 15
-    originStroke: 16
+    desc: [ '날뛸','창궐' ]
+    str: 15
+    oStr: 16
   '軌':
     val: '궤'
-    desc: [
-      '바퀴자국'
-      '궤도'
-    ]
-    stroke: 15
+    desc: [ '바퀴자국','궤도' ]
+    str: 15
   '机':
     val: '궤'
     desc: [ '책상' ]
-    stroke: 4
+    str: 4
   '貴':
     val: '귀'
     desc: [ '귀할' ]
-    stroke: 12
+    str: 12
     tag: [ 40 ]
   '歸':
     val: '귀'
     desc: [ '돌아갈' ]
-    stroke: 18
-    surname: true
+    str: 18
+    fam: true
   '鬼':
     val: '귀'
     desc: [ '귀신' ]
-    stroke: 9
+    str: 9
   '龜':
     val: '귀'
     desc: [ '거북' ]
-    stroke: 16
+    str: 16
     tag: [ 120,135,200 ]
   '叫':
     val: '규'
     desc: [ '부르짖을' ]
-    stroke: 5
+    str: 5
   '規':
     val: '규'
     desc: [ '법' ]
-    stroke: 11
+    str: 11
     tag: [ 70 ]
   '糾':
     val: '규'
-    desc: [
-      '얽힐'
-      '바로잡을'
-    ]
-    stroke: 8
+    desc: [ '얽힐','규명','규탄' ]
+    str: 8
   '圭':
     val: '규'
-    desc: [
-      '서옥'
-      '홀'
-    ]
-    stroke: 6
-    tag: [ 60 ]
-  '珪':
-    val: '규'
-    desc: [
-      '서옥'
-      '홀'
-    ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '서옥','홀' ]
+    str: 6
     tag: [ 60 ]
   '硅':
     val: '규'
     desc: [ '규소' ]
-    stroke: 11
+    str: 11
     tag: [ 330 ]
   '奎':
     val: '규'
     desc: [ '별' ]
-    stroke: 9
+    str: 9
     tag: [ 370 ]
   '葵':
     val: '규'
-    desc: [
-      '해바라기'
-      '접시꽃'
-    ]
-    stroke: 13
-    originStroke: 15
+    desc: [ '해바라기','접시꽃','규화보전' ]
+    str: 13
+    oStr: 15
     tag: [ 300 ]
   '槻':
     val: '규'
     desc: [ '물푸레나무' ]
-    stroke: 15
+    str: 15
     tag: [ 300 ]
   '菌':
     val: '균'
     desc: [ '버섯' ]
-    stroke: 12
-    originStroke: 14
-  '畇':
-    val: '균'
-    desc: [ '개간할' ]
-    stroke: 9
+    str: 12
+    oStr: 14
   '均':
     val: '균'
-    desc: [
-      '고를'
-      '같을'
-    ]
-    stroke: 7
+    desc: [ '고를','균등' ]
+    str: 7
   '勻':
     val: '균'
-    desc: [
-      '고를'
-      '같을'
-    ]
-    stroke: 4
-  '匀':
-    val: '균'
-    desc: [
-      '고를'
-      '같을'
-    ]
-    stroke: 4
+    desc: [ '고를','같을' ]
+    str: 4
   '龜':
     val: '균'
-    desc: [ '터질' ]
-    stroke: 16
+    desc: [ '터질','균열' ]
+    str: 16
   '橘':
     val: '균'
     desc: [ '귤' ]
-    stroke: 16
+    str: 16
     tag: [ 300 ]
   '極':
     val: '극'
     desc: [ '극진할' ]
-    stroke: 13
+    str: 13
     tag: [ 120 ]
   '克':
     val: '극'
     desc: [ '이길' ]
-    stroke: 7
+    str: 7
     tag: [ 45 ]
-    surname: true
+    fam: true
   '劇':
     val: '극'
-    desc: [ '심할' ]
-    stroke: 15
+    desc: [ '심할','연극' ]
+    str: 15
   '戟':
     val: '극'
     desc: [ '창' ]
-    stroke: 12
+    str: 12
     tag: [ 80 ]
   '棘':
     val: '극'
     desc: [ '가시' ]
-    stroke: 12
+    str: 12
   '近':
     val: '근'
     desc: [ '가까울' ]
-    stroke: 8
-    originStroke: 11
+    str: 8
+    oStr: 11
   '勤':
     val: '근'
-    desc: [
-      '부지런할'
-      '근심할'
-    ]
-    stroke: 13
+    desc: [ '부지런할','근심할' ]
+    str: 13
     tag: [ 120 ]
   '懃':
     val: '근'
-    desc: [
-      '은근할'
-      '수고할'
-    ]
-    stroke: 17
+    desc: [ '은근할','수고할' ]
+    str: 17
     tag: [ 120 ]
   '根':
     val: '근'
     desc: [ '뿌리' ]
-    stroke: 10
+    str: 10
   '斤':
     val: '근'
     desc: [ '도끼' ]
-    stroke: 4
+    str: 4
     tag: [ 80 ]
-    surname: true
+    fam: true
   '僅':
     val: '근'
     desc: [ '겨우' ]
-    stroke: 13
+    str: 13
   '謹':
     val: '근'
     desc: [ '삼갈' ]
-    stroke: 18
+    str: 18
     tag: [ 140 ]
   '槿':
     val: '근'
     desc: [ '무궁화' ]
-    stroke: 15
+    str: 15
     tag: [ 300 ]
   '瑾':
     val: '근'
     desc: [ '붉은옥' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
     tag: [ 60 ]
   '筋':
     val: '근'
     desc: [ '힘줄' ]
-    stroke: 12
+    str: 12
     tag: [ 350 ]
   '芹':
     val: '근'
     desc: [ '미나리' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [ 300 ]
   '饉':
     val: '근'
-    desc: [
-      '주릴'
-      '흉년'
-    ]
-    stroke: 19
+    desc: [ '주릴','흉년' ]
+    str: 19
   '金':
     val: '금'
     desc: [ '쇠' ]
-    stroke: 8
+    str: 8
     tag: [ 340 ]
   '今':
     val: '금'
     desc: [ '이제' ]
-    stroke: 4
+    str: 4
   '禁':
     val: '금'
     desc: [ '금할' ]
-    stroke: 13
+    str: 13
   '錦':
     val: '금'
     desc: [ '비단' ]
-    stroke: 16
+    str: 16
+    tag: [ 10,40,60 ]
   '禽':
     val: '금'
-    desc: [
-      '날짐승'
-      '사로잡을'
-    ]
-    stroke: 13
+    desc: [ '날짐승','사로잡을' ]
+    str: 13
   '琴':
     val: '금'
     desc: [ '거문고' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
     tag: [ 155 ]
-    surname: true
+    fam: true
   '衾':
     val: '금'
     desc: [ '이불' ]
-    stroke: 10
+    str: 10
   '昑':
     val: '금'
     desc: [ '밝을' ]
-    stroke: 8
+    str: 8
     tag: [ 30 ]
   '檎':
     val: '금'
     desc: [ '능금나무' ]
-    stroke: 17
+    str: 17
     tag: [ 300 ]
   '及':
     val: '급'
-    desc: [ '미칠' ]
-    stroke: 4
+    desc: [ '미칠','언급' ]
+    str: 4
   '給':
     val: '급'
-    desc: [ '줄' ]
-    stroke: 12
+    desc: [ '줄','급여' ]
+    str: 12
   '急':
     val: '급'
     desc: [ '급할' ]
-    stroke: 9
+    str: 9
   '級':
     val: '급'
     desc: [ '등급' ]
-    stroke: 10
+    str: 10
   '肯':
     val: '긍'
-    desc: [ '즐길' ]
-    stroke: 10
+    desc: [ '즐길','긍정' ]
+    str: 10
     tag: [ 150 ]
   '兢':
     val: '긍'
-    desc: [
-      '떨리다'
-      '삼갈'
-    ]
-    stroke: 14
+    desc: [ '떨리다','삼갈','전전긍긍' ]
+    str: 14
   '豈':
     val: '기'
-    desc: [
-      '어찌'
-      '그'
-    ]
-    stroke: 10
+    desc: [ '어찌','그' ]
+    str: 10
+  '其':
+    val: '기'
+    desc: [ '그','기타' ]
+    str: 8
   '己':
     val: '기'
     desc: [ '몸' ]
-    stroke: 3
+    str: 3
   '記':
     val: '기'
     desc: [ '기록할' ]
-    stroke: 10
+    str: 10
   '起':
     val: '기'
     desc: [ '일어날' ]
-    stroke: 10
-    surname: true
-  '其':
-    val: '기'
-    desc: [ '그' ]
-    stroke: 8
+    str: 10
+    fam: true
   '期':
     val: '기'
     desc: [ '기약할' ]
-    stroke: 12
+    str: 12
   '基':
     val: '기'
-    desc: [ '터' ]
-    stroke: 11
+    desc: [ '터','기초' ]
+    str: 11
     tag: [ 330 ]
   '氣':
     val: '기'
     desc: [ '기운' ]
-    stroke: 10
+    str: 10
   '技':
     val: '기'
-    desc: [ '재주' ]
-    stroke: 7
-    originStroke: 8
+    desc: [ '재주','기술' ]
+    str: 7
+    oStr: 8
+    tag: [75]
   '幾':
     val: '기'
     desc: [ '몇' ]
-    stroke: 12
+    str: 12
   '旣':
     val: '기'
     desc: [ '이미' ]
-    stroke: 11
+    str: 11
   '紀':
     val: '기'
-    desc: [
-      '벼리'
-      '세월'
-      '적다'
-    ]
-    stroke: 9
+    desc: [ '벼리','기강','세기' ]
+    str: 9
   '忌':
     val: '기'
-    desc: [ '꺼릴' ]
-    stroke: 7
+    desc: [ '꺼릴','기피' ]
+    str: 7
   '旗':
     val: '기'
     desc: [ '깃발' ]
-    stroke: 14
+    str: 14
   '欺':
     val: '기'
-    desc: [ '속일' ]
-    stroke: 12
+    desc: [ '속일','사기' ]
+    str: 12
   '奇':
     val: '기'
-    desc: [ '기특할' ]
-    stroke: 8
-    surname: true
+    desc: [ '기묘','기적','기발' ]
+    str: 8
+    fam: true
   '騎':
     val: '기'
-    desc: [ '말탈' ]
-    stroke: 18
+    desc: [ '말탈','기마' ]
+    str: 18
   '寄':
     val: '기'
-    desc: [ '부칠' ]
-    stroke: 11
+    desc: [ '부칠','기부','기여' ]
+    str: 11
   '棄':
     val: '기'
-    desc: [ '버릴' ]
-    stroke: 12
+    desc: [ '버릴','포기' ]
+    str: 12
   '祈':
     val: '기'
-    desc: [
-      '빌'
-      '기원할'
-    ]
-    stroke: 9
-    surname: true
+    desc: [ '빌','기원할' ]
+    str: 9
+    fam: true
   '企':
     val: '기'
-    desc: [ '꾀할' ]
-    stroke: 6
+    desc: [ '꾀할','기업' ]
+    str: 6
   '畿':
     val: '기'
-    desc: [ '경기' ]
-    stroke: 15
+    desc: [ '경기도' ]
+    str: 15
   '飢':
     val: '기'
-    desc: [ '주릴' ]
-    stroke: 10
+    desc: [ '주릴','기아' ]
+    str: 10
   '器':
     val: '기'
     desc: [ '그릇' ]
-    stroke: 16
+    str: 16
   '機':
     val: '기'
-    desc: [
-      '틀'
-      '기계'
-    ]
-    stroke: 16
+    desc: [ '틀','기계' ]
+    str: 16
   '沂':
     val: '기'
     desc: [ '물이름' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
     tag: [ 310 ]
   '琪':
     val: '기'
     desc: [ '아름다운 옥' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [ 60 ]
   '棋':
     val: '기'
     desc: [ '바둑' ]
-    stroke: 12
+    str: 12
   '璣':
     val: '기'
-    desc: [
-      '구슬'
-      '별이름'
-    ]
-    stroke: 16
-    originStroke: 17
-    tag: [
-      60
-      370
-    ]
+    desc: [ '구슬','별이름' ]
+    str: 16
+    oStr: 17
+    tag: [ 60,370 ]
   '麒':
     val: '기'
     desc: [ '기린' ]
-    stroke: 19
+    str: 19
     tag: [ 200 ]
   '玘':
     val: '기'
     desc: [ '패옥' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
     tag: [ 60 ]
   '杞':
     val: '기'
     desc: [ '구기자' ]
-    stroke: 7
+    str: 7
     tag: [ 300 ]
-  '伎':
-    val: '기'
-    desc: [ '재간' ]
-    stroke: 6
-    tag: [ 75 ]
   '妓':
     val: '기'
     desc: [ '기생' ]
-    stroke: 7
+    str: 7
   '琦':
     val: '기'
     desc: [ '옥이름' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [ 60 ]
   '岐':
     val: '기'
-    desc: [ '갈림길' ]
-    stroke: 7
+    desc: [ '갈림길','기로' ]
+    str: 7
+  '崎':
+    val: '기'
+    desc: [ '험할','기구할' ]
+    str: 11
   '饑':
     val: '기'
-    desc: [ '주릴' ]
-    stroke: 20
+    desc: [ '주릴','기아' ]
+    str: 20
   '箕':
     val: '기'
-    desc: [
-      '키'
-      '삼태기'
-      '별이름'
-    ]
-    stroke: 14
+    desc: [ '키','삼태기','별이름' ]
+    str: 14
     tag: [ 370 ]
-    surname: true
+    fam: true
   '緊':
     val: '긴'
     desc: [ '긴할' ]
-    stroke: 14
+    str: 14
   '吉':
     val: '길'
     desc: [ '길할' ]
-    stroke: 6
+    str: 6
     tag: [ 50 ]
-    surname: true
+    fam: true
   '桔':
     val: '길'
     desc: [ '도라지' ]
-    stroke: 10
+    str: 10
     tag: [ 300 ]
   '金':
     val: '김'
     desc: [ '성씨' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '喫':
     val: '끽'
-    desc: [ '먹을' ]
-    stroke: 12
+    desc: [ '먹을','끽연' ]
+    str: 12
   '那':
     val: '나'
     desc: [ '어찌' ]
-    stroke: 7
-    originStroke: 11
-    surname: true
+    str: 7
+    oStr: 11
+    fam: true
   '娜':
     val: '나'
     desc: [ '아름다울' ]
-    stroke: 10
+    str: 10
     tag: [ 10 ]
   '懦':
     val: '나'
     desc: [ '나약할' ]
-    stroke: 17
-    originStroke: 18
+    str: 17
+    oStr: 18
   '拿':
     val: '나'
-    desc: [ '잡을' ]
-    stroke: 10
+    desc: [ '잡을','나포' ]
+    str: 10
   '拏':
     val: '나'
-    desc: [ '붙잡을' ]
-    stroke: 9
+    desc: [ '붙잡을','한라산' ]
+    str: 9
   '儺':
     val: '나'
-    desc: ['푸닥거리']
-    stroke: 21
+    desc: [ '푸닥거리','나례' ]
+    str: 21
   '暖':
     val: '난'
     desc: [ '따뜻할' ]
-    stroke: 13
-    tag: [ 320 ]
+    str: 13
   '煖':
     val: '난'
     desc: [ '더울' ]
-    stroke: 13
+    str: 13
     tag: [ 320 ]
   '難':
     val: '난'
     desc: [ '어려울' ]
-    stroke: 19
+    str: 19
   '捺':
     val: '날'
-    desc: [ '누를' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '누를','날인' ]
+    str: 11
+    oStr: 12
   '捏':
     val: '날'
-    desc: [ '꾸밀' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '꾸밀','날조' ]
+    str: 10
+    oStr: 11
   '南':
     val: '남'
     desc: [ '남녘' ]
-    stroke: 9
-    surname: true
+    str: 9
+    fam: true
   '男':
     val: '남'
     desc: [ '사내' ]
-    stroke: 7
+    str: 7
   '楠':
     val: '남'
     desc: [ '녹나무' ]
-    stroke: 13
+    str: 13
     tag: [ 300 ]
   '納':
     val: '납'
-    desc: [ '들일' ]
-    stroke: 10
+    desc: [ '들일','수납' ]
+    str: 10
   '衲':
     val: '납'
-    desc: [ '기울' ]
-    stroke: 9
+    desc: [ '기울','납의' ]
+    str: 9
     tag: [ 500 ]
   '囊':
     val: '낭'
     desc: [ '주머니' ]
-    stroke: 22
+    str: 22
   '內':
     val: '내'
     desc: [ '안' ]
-    stroke: 4
+    str: 4
   '乃':
     val: '내'
-    desc: [
-      '이에'
-      '그래서'
-    ]
-    stroke: 2
-    surname: true
+    desc: [ '이에','그래서' ]
+    str: 2
+    fam: true
   '奈':
     val: '내'
     desc: [ '어찌' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '耐':
     val: '내'
-    desc: [ '견딜' ]
-    stroke: 9
-  '奶':
-    val: '내'
-    desc: [ '젖' ]
-    stroke: 5
+    desc: [ '견딜','인내' ]
+    str: 9
   '柰':
     val: '내'
-    desc: [
-      '능금나무'
-      '말리'
-    ]
-    stroke: 9
+    desc: [ '능금나무','말리' ]
+    str: 9
     tag: [ 300 ]
   '女':
     val: '녀'
     desc: [ '여자' ]
-    initialVal: '여'
-    stroke: 3
+    iVal: '여'
+    str: 3
   '年':
     val: '년'
     desc: [ '해' ]
-    initialVal: '연'
-    stroke: 6
+    iVal: '연'
+    str: 6
   '念':
     val: '념'
     desc: [ '생각할' ]
-    initialVal: '염'
-    stroke: 8
+    iVal: '염'
+    str: 8
   '恬':
     val: '념'
-    desc: [ '편안할' ]
-    initialVal: '염'
-    stroke: 9
-    originStroke: 10
+    desc: [ '편안할','조용할' ]
+    iVal: '염'
+    str: 9
+    oStr: 10
     tag: [ 130 ]
   '拈':
     val: '념'
-    desc: [ '집을' ]
-    initialVal: '염'
-    stroke: 8
-    originStroke: 9
+    desc: [ '집을','염화미소' ]
+    iVal: '염'
+    str: 8
+    oStr: 9
     tag: [ 500 ]
   '捻':
     val: '념'
-    desc: [ '비틀' ]
-    initialVal: '염'
-    stroke: 11
-    originStroke: 12
+    desc: [ '비틀','염좌','염출' ]
+    iVal: '염'
+    str: 11
+    oStr: 12
   '寧':
     val: '녕'
     desc: [ '편안할' ]
-    initialVal: '영'
-    stroke: 14
+    iVal: '영'
+    str: 14
     tag: [ 130 ]
   '寗':
     val: '녕'
     desc: [ '차라리' ]
-    initialVal: '영'
-    stroke: 13
-    surname: true
+    iVal: '영'
+    str: 13
+    fam: true
   '怒':
     val: '노'
-    desc: [ '성낼' ]
-    stroke: 9
+    desc: [ '성낼','진노' ]
+    str: 9
   '奴':
     val: '노'
-    desc: [ '종' ]
-    stroke: 5
+    desc: [ '종','노예' ]
+    str: 5
   '努':
     val: '노'
-    desc: [ '힘쓸' ]
-    stroke: 7
+    desc: [ '힘쓸','노력' ]
+    str: 7
     tag: [ 120 ]
   '弩':
     val: '노'
     desc: [ '쇠뇌' ]
-    stroke: 8
+    str: 8
     tag: [ 80 ]
   '瑙':
     val: '노'
     desc: [ '마노' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [ 60 ]
-  '駑':
-    val: '노'
-    desc: [ '둔한 말' ]
-    stroke: 15
   '農':
     val: '농'
     desc: [ '농사' ]
-    stroke: 13
+    str: 13
   '膿':
     val: '농'
     desc: [ '고름' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
   '濃':
     val: '농'
-    desc: [ '짙을' ]
-    stroke: 16
-    originStroke: 17
+    desc: [ '짙을','농후','농축' ]
+    str: 16
+    oStr: 17
   '腦':
     val: '뇌'
     desc: [ '골' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
+    tag: [350]
   '惱':
     val: '뇌'
     desc: [ '번뇌할' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '尿':
     val: '뇨'
     desc: [ '오줌' ]
-    initialVal: '요'
-    stroke: 7
-    surname: true
+    iVal: '요'
+    str: 7
+    fam: true
   '耨':
     val: '누'
     desc: [ '김맬' ]
-    stroke: 16
+    str: 16
   '嫩':
     val: '눈'
     desc: [ '어릴' ]
-    stroke: 14
+    str: 14
   '訥':
     val: '눌'
-    desc: [ '말 더듬거릴' ]
-    stroke: 11
+    desc: [ '말 더듬거릴','눌변' ]
+    str: 11
   '紐':
     val: '뉴'
-    desc: [ '맺을' ]
-    initialVal: '유'
-    stroke: 10
+    desc: [ '맺을','유대' ]
+    iVal: '유'
+    str: 10
   '能':
     val: '능'
     desc: [ '능할' ]
-    stroke: 10
-    originStroke: 12
-    surname: true
+    str: 10
+    oStr: 12
+    fam: true
   '泥':
     val: '니'
     desc: [ '진흙' ]
-    initialVal: '이'
-    stroke: 8
-    originStroke: 9
+    iVal: '이'
+    str: 8
+    oStr: 9
   '尼':
     val: '니'
     desc: [ '여승' ]
-    initialVal: '이'
-    stroke: 5
+    iVal: '이'
+    str: 5
     tag: [ 500 ]
   '匿':
     val: '닉'
-    desc: [ '숨길' ]
-    initialVal: '익'
-    stroke: 11
+    desc: [ '숨길','은닉' ]
+    iVal: '익'
+    str: 11
   '溺':
     val: '닉'
-    desc: [ '빠질' ]
-    initialVal: '익'
-    stroke: 13
-    originStroke: 14
+    desc: [ '빠질','탐닉','익사' ]
+    iVal: '익'
+    str: 13
+    oStr: 14
   '昵':
     val: '닐'
-    desc: [
-      '친할'
-      '친근할'
-    ]
-    initialVal: '일'
-    stroke: 9
+    desc: [ '친할','친근할' ]
+    iVal: '일'
+    str: 9
     tag: [ 115 ]
   '多':
     val: '다'
     desc: [ '많을' ]
-    stroke: 6
+    str: 6
   '丹':
     val: '단'
     desc: [ '붉을' ]
-    stroke: 4
+    str: 4
     tag: [ 160 ]
   '但':
     val: '단'
     desc: [ '다만' ]
-    stroke: 7
+    str: 7
   '單':
     val: '단'
     desc: [ '홑' ]
-    stroke: 12
-    surname: true
+    str: 12
+    fam: true
   '短':
     val: '단'
     desc: [ '짧을' ]
-    stroke: 12
+    str: 12
   '端':
     val: '단'
     desc: [ '끝' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '旦':
     val: '단'
     desc: [ '아침' ]
-    stroke: 5
+    str: 5
   '段':
     val: '단'
-    desc: [ '층계' ]
-    stroke: 9
-    surname: true
+    desc: [ '계단' ]
+    str: 9
+    fam: true
   '壇':
     val: '단'
     desc: [ '제단' ]
-    stroke: 16
+    str: 16
   '檀':
     val: '단'
     desc: [ '박달나무' ]
-    stroke: 17
+    str: 17
     tag: [ 300 ]
   '椴':
     val: '단'
     desc: [ '자작나무' ]
-    stroke: 13
+    str: 13
     tag: [ 300 ]
   '斷':
     val: '단'
     desc: [ '끊을' ]
-    stroke: 18
+    str: 18
   '團':
     val: '단'
-    desc: [ '둥글' ]
-    stroke: 14
+    desc: [ '둥글','단체' ]
+    str: 14
   '緞':
     val: '단'
     desc: [ '비단' ]
-    stroke: 15
+    str: 15
+    tag: [10]
   '鍛':
     val: '단'
-    desc: [
-      '불릴'
-      '두드릴'
-    ]
-    stroke: 17
+    desc: [ '불릴','두드릴','단련' ]
+    str: 17
   '湍':
     val: '단'
     desc: [ '여울' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [ 310 ]
   '蛋':
     val: '단'
     desc: [ '새알' ]
-    stroke: 11
+    str: 11
   '達':
     val: '달'
     desc: [ '통달할' ]
-    stroke: 13
+    str: 13
     tag: [ 75 ]
   '撻':
     val: '달'
-    desc: [ '때릴' ]
-    stroke: 16
-    originStroke: 17
+    desc: [ '때릴','편달' ]
+    str: 16
+    oStr: 17
   '獺':
     val: '달'
     desc: [ '수달' ]
-    stroke: 19
-    originStroke: 20
+    str: 19
+    oStr: 20
+    tag: [200]
   '談':
     val: '담'
     desc: [ '말씀' ]
-    stroke: 15
+    str: 15
   '淡':
     val: '담'
     desc: [ '맑을' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
     tag: [ 100 ]
   '澹':
     val: '담'
-    desc: [ '맑을' ]
-    stroke: 16
-    originStroke: 17
+    desc: [ '맑을','조용할','암담' ]
+    str: 16
+    oStr: 17
     tag: [ 100 ]
   '擔':
     val: '담'
-    desc: [ '멜' ]
-    stroke: 16
-    originStroke: 17
+    desc: [ '멜','담당' ]
+    str: 16
+    oStr: 17
   '膽':
     val: '담'
     desc: [ '쓸개' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
     tag: [ 350 ]
   '答':
     val: '답'
     desc: [ '대답' ]
-    stroke: 12
+    str: 12
   '畓':
     val: '답'
     desc: [ '논' ]
-    stroke: 9
+    str: 9
   '踏':
     val: '답'
-    desc: [ '밟을' ]
-    stroke: 15
+    desc: [ '밟을','답사' ]
+    str: 15
   '堂':
     val: '당'
     desc: [ '집' ]
-    stroke: 11
+    str: 11
     tag: [ 115 ]
   '當':
     val: '당'
-    desc: [ '마땅' ]
-    stroke: 13
+    desc: [ '마땅','당연' ]
+    str: 13
   '黨':
     val: '당'
     desc: [ '무리' ]
-    stroke: 20
+    str: 20
   '唐':
     val: '당'
-    desc: [
-      '당나라'
-      '당황할'
-    ]
-    stroke: 10
-    surname: true
+    desc: [ '당나라','당황할' ]
+    str: 10
+    fam: true
   '糖':
     val: '당'
     desc: [ '엿' ]
-    stroke: 16
+    str: 16
   '蟷':
     val: '당'
-    desc: [ '사마귀' ]
-    stroke: 19
+    desc: [ '사마귀','당랑거철' ]
+    str: 19
     tag: [ 200 ]
   '大':
     val: '대'
     desc: [ '클' ]
-    stroke: 3
+    str: 3
     tag: [ 90 ]
-    surname: true
+    fam: true
   '代':
     val: '대'
     desc: [ '대신할' ]
-    stroke: 5
+    str: 5
   '待':
     val: '대'
     desc: [ '기다릴' ]
-    stroke: 9
+    str: 9
   '對':
     val: '대'
     desc: [ '대할' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '帶':
     val: '대'
     desc: [ '띠' ]
-    stroke: 11
+    str: 11
   '臺':
     val: '대'
     desc: [ '대' ]
-    stroke: 14
+    str: 14
   '貸':
     val: '대'
-    desc: [ '빌릴' ]
-    stroke: 12
+    desc: [ '빌릴','대출' ]
+    str: 12
   '隊':
     val: '대'
-    desc: [ '무리' ]
-    stroke: 12
-    originStroke: 17
+    desc: [ '무리','부대' ]
+    str: 12
+    oStr: 17
   '垈':
     val: '대'
-    desc: [ '집터' ]
-    stroke: 8
+    desc: [ '집터','대지' ]
+    str: 8
   '袋':
     val: '대'
-    desc: [ '자루' ]
-    stroke: 11
+    desc: [ '자루','포대' ]
+    str: 11
   '戴':
     val: '대'
-    desc: [ '머리에 일' ]
-    stroke: 17
-    surname: true
+    desc: [ '머리에 일','추대' ]
+    str: 17
+    fam: true
   '旲':
     val: '대'
     desc: [ '햇빛' ]
-    stroke: 7
+    str: 7
     tag: [ 30 ]
   '宅':
     val: '댁'
     desc: [ '댁' ]
-    stroke: 6
+    str: 6
   '德':
     val: '덕'
     desc: [ '덕' ]
-    stroke: 15
-    tag: [
-      50
-      100
-      110
-      125
-    ]
-    surname: true
+    str: 15
+    tag: [ 50,100,110,125 ]
+    fam: true
   '刀':
     val: '도'
     desc: [ '칼' ]
-    stroke: 2
+    str: 2
     tag: [ 80 ]
   '度':
     val: '도'
-    desc: [ '법도' ]
-    stroke: 9
-    tag: [
-      40
-      70
-    ]
+    desc: [ '법도','정도' ]
+    str: 9
+    tag: [ 40,70 ]
   '到':
     val: '도'
     desc: [ '이를' ]
-    stroke: 8
+    str: 8
   '道':
     val: '도'
     desc: [ '길' ]
-    stroke: 13
-    originStroke: 16
-    surname: true
+    str: 13
+    oStr: 16
+    fam: true
   '途':
     val: '도'
-    desc: [ '길' ]
-    stroke: 11
-    originStroke: 14
+    desc: [ '길','용도' ]
+    str: 11
+    oStr: 14
   '導':
     val: '도'
     desc: [ '인도할' ]
-    stroke: 16
-    tag: [
-      70
-      110
-    ]
+    str: 16
+    tag: [ 70,110 ]
   '島':
     val: '도'
     desc: [ '섬' ]
-    stroke: 10
+    str: 10
   '徒':
     val: '도'
     desc: [ '무리' ]
-    stroke: 10
+    str: 10
   '圖':
     val: '도'
     desc: [ '그림' ]
-    stroke: 14
+    str: 14
   '倒':
     val: '도'
     desc: [ '넘어질' ]
-    stroke: 10
+    str: 10
   '都':
     val: '도'
     desc: [ '도읍' ]
-    stroke: 12
-    originStroke: 16
-    surname: true
+    str: 12
+    oStr: 16
+    fam: true
   '桃':
     val: '도'
     desc: [ '복숭아' ]
-    stroke: 10
+    str: 10
     tag: [ 300 ]
   '挑':
     val: '도'
-    desc: [ '돋울' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '돋울','도전' ]
+    str: 9
+    oStr: 10
   '跳':
     val: '도'
-    desc: [ '뛸' ]
-    stroke: 13
+    desc: [ '뛸','도약' ]
+    str: 13
   '逃':
     val: '도'
     desc: [ '도망할' ]
-    stroke: 10
-    originStroke: 13
+    str: 10
+    oStr: 13
   '渡':
     val: '도'
     desc: [ '건널' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '陶':
     val: '도'
     desc: [ '질그릇' ]
-    stroke: 11
-    originStroke: 15
-    surname: true
+    str: 11
+    oStr: 15
+    fam: true
   '稻':
     val: '도'
     desc: [ '벼' ]
-    stroke: 15
+    str: 15
   '盜':
     val: '도'
     desc: [ '도둑' ]
-    stroke: 12
+    str: 12
   '塗':
     val: '도'
-    desc: [ '칠할' ]
-    stroke: 13
+    desc: [ '칠할','도배' ]
+    str: 13
   '堵':
     val: '도'
-    desc: [ '담' ]
-    stroke: 12
+    desc: [ '담','도열' ]
+    str: 12
   '鍍':
     val: '도'
     desc: [ '도금할' ]
-    stroke: 17
+    str: 17
     tag: [ 340 ]
   '悼':
     val: '도'
-    desc: [ '슬퍼할' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '슬퍼할','애도' ]
+    str: 11
+    oStr: 12
+  '掉':
+    val: '도'
+    desc: [ '흔들' ]
+    str: 11
+    oStr: 12
   '萄':
     val: '도'
     desc: [ '포도' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
     tag: [ 300 ]
   '洮':
     val: '도'
     desc: [ '씻을' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [ 310 ]
   '讀':
     val: '독'
     desc: [ '읽을' ]
-    stroke: 22
+    str: 22
     tag: [ 70 ]
   '獨':
     val: '독'
     desc: [ '홀로' ]
-    stroke: 16
-    originStroke: 17
-    surname: true
+    str: 16
+    oStr: 17
+    fam: true
   '毒':
     val: '독'
     desc: [ '독' ]
-    stroke: 9
+    str: 9
   '篤':
     val: '독'
-    desc: [ '도타울' ]
-    stroke: 16
+    desc: [ '도타울','돈독' ]
+    str: 16
     tag: [ 115 ]
   '瀆':
     val: '독'
-    desc: [
-      '도랑'
-      '더럽힐'
-    ]
-    stroke: 18
-    originStroke: 19
+    desc: [ '도랑','모독' ]
+    str: 18
+    oStr: 19
   '禿':
     val: '독'
     desc: [ '대머리' ]
-    stroke: 7
+    str: 7
   '豚':
     val: '돈'
     desc: [ '돼지' ]
-    stroke: 11
+    str: 11
     tag: [ 200 ]
-    surname: true
+    fam: true
   '敦':
     val: '돈'
-    desc: [ '도타울' ]
-    stroke: 12
+    desc: [ '도타울','돈독' ]
+    str: 12
     tag: [ 115 ]
-    surname: true
-  '惇':
-    val: '돈'
-    desc: [ '도타울' ]
-    stroke: 11
-    originStroke: 12
-    tag: [ 115 ]
+    fam: true
   '暾':
     val: '돈'
     desc: [ '아침해' ]
-    stroke: 16
+    str: 16
     tag: [ 30 ]
   '燉':
     val: '돈'
     desc: [ '불빛' ]
-    stroke: 16
-    tag: [
-      30
-      320
-    ]
+    str: 16
+    tag: [ 30,320 ]
   '旽':
     val: '돈'
     desc: [ '밝을' ]
-    stroke: 8
-    tag: [
-      30
-      115
-    ]
+    str: 8
+    tag: [ 30 ]
   '頓':
     val: '돈'
-    desc: [
-      '조아릴'
-      '갑자기'
-    ]
-    stroke: 13
+    desc: [ '조아릴','갑자기','돈오' ]
+    str: 13
     tag: [ 500 ]
-    surname: true
+    fam: true
   '突':
     val: '돌'
-    desc: [ '갑자기' ]
-    stroke: 9
+    desc: [ '갑자기','돌연' ]
+    str: 9
   '乭':
     val: '돌'
-    desc: [
-      '이름'
-      '돌'
-    ]
-    stroke: 6
+    desc: [ '(음한자)','돌' ]
+    str: 6
   '同':
     val: '동'
     desc: [ '한가지' ]
-    stroke: 6
+    str: 6
   '童':
     val: '동'
     desc: [ '아이' ]
-    stroke: 12
-    tag: [ 115 ]
-    surname: true
+    str: 12
+    fam: true
   '冬':
     val: '동'
     desc: [ '겨울' ]
-    stroke: 5
-    tag: [ 310 ]
+    str: 5
   '凍':
     val: '동'
     desc: [ '얼' ]
-    stroke: 10
+    str: 10
     tag: [ 310 ]
   '東':
     val: '동'
     desc: [ '동녘' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '動':
     val: '동'
     desc: [ '움직일' ]
-    stroke: 11
+    str: 11
   '銅':
     val: '동'
     desc: [ '구리' ]
-    stroke: 14
+    str: 14
     tag: [ 340 ]
   '瞳':
     val: '동'
     desc: [ '눈동자' ]
-    stroke: 17
+    str: 17
     tag: [ 350 ]
   '憧':
     val: '동'
     desc: [ '동경할' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
   '桐':
     val: '동'
     desc: [ '오동나무' ]
-    stroke: 10
+    str: 10
     tag: [ 300 ]
   '洞':
     val: '동'
     desc: [ '동네' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [ 115 ]
   '董':
     val: '동'
-    desc: [ '감독할' ]
-    stroke: 13
-    originStroke: 15
-    surname: true
+    desc: [ '감독할','골동품' ]
+    str: 13
+    oStr: 15
+    fam: true
   '斗':
     val: '두'
-    desc: [ '말' ]
-    stroke: 4
+    desc: [ '말(도량단위)','북두' ]
+    str: 4
     tag: [ 370 ]
   '豆':
     val: '두'
     desc: [ '콩' ]
-    stroke: 7
+    str: 7
     tag: [ 300 ]
   '頭':
     val: '두'
     desc: [ '머리' ]
-    stroke: 16
+    str: 16
     tag: [ 350 ]
   '杜':
     val: '두'
-    desc: [ '막을' ]
-    stroke: 7
-    surname: true
+    desc: [ '막을','두문불출','두보' ]
+    str: 7
+    fam: true
   '鈍':
     val: '둔'
     desc: [ '둔할' ]
-    stroke: 12
+    str: 12
   '屯':
     val: '둔'
-    desc: [ '진 칠' ]
-    stroke: 4
+    desc: [ '진 칠','주둔' ]
+    str: 4
   '遁':
     val: '둔'
-    desc: [ '숨을' ]
-    stroke: 13
-    originStroke: 16
+    desc: [ '숨을','은둔' ]
+    str: 13
+    oStr: 16
   '臀':
     val: '둔'
-    desc: [ '볼기' ]
-    stroke: 17
-    originStroke: 19
+    desc: [ '볼기','둔부' ]
+    str: 17
+    oStr: 19
     tag: [ 350 ]
   '乧':
     val: '둘'
     desc: [ '음역자' ]
-    stroke: 5
+    str: 5
   '得':
     val: '득'
     desc: [ '얻을' ]
-    stroke: 11
-    tag: [ 70 ]
+    str: 11
   '等':
     val: '등'
     desc: [ '무리' ]
-    stroke: 12
+    str: 12
   '登':
     val: '등'
-    desc: [ '오를' ]
-    stroke: 12
+    desc: [ '오를','등산' ]
+    str: 12
     tag: [ 120 ]
-    surname: true
+    fam: true
   '燈':
     val: '등'
-    desc: [ '등' ]
-    stroke: 16
+    desc: [ '등불' ]
+    str: 16
     tag: [ 320 ]
   '騰':
     val: '등'
-    desc: [ '오를' ]
-    stroke: 20
+    desc: [ '오를','급등' ]
+    str: 20
     tag: [ 120 ]
   '藤':
     val: '등'
     desc: [ '등나무' ]
-    stroke: 19
-    originStroke: 21
+    str: 19
+    oStr: 21
     tag: [ 300 ]
   '謄':
     val: '등'
-    desc: [ '베낄' ]
-    stroke: 17
+    desc: [ '베낄','등사' ]
+    str: 17
   '喇':
     val: '라'
     desc: [ '나팔' ]
-    initialVal: '나'
-    stroke: 12
+    iVal: '나'
+    str: 12
   '羅':
     val: '라'
-    desc: [
-      '벌일'
-      '그물'
-    ]
-    initialVal: '나'
-    stroke: 19
-    surname: true
+    desc: [ '벌일','그물','신라','망라' ]
+    iVal: '나'
+    str: 19
+    fam: true
   '螺':
     val: '라'
     desc: [ '소라' ]
-    initialVal: '나'
-    stroke: 17
+    iVal: '나'
+    str: 17
+    tag: [200]
   '懶':
     val: '라'
-    desc: [ '게으를' ]
-    initialVal: '나'
-    stroke: 19
-    originStroke: 20
+    desc: [ '게으를','나태' ]
+    iVal: '나'
+    str: 19
+    oStr: 20
   '諾':
     val: '락'
     desc: [ '허락할' ]
-    initialVal: '낙'
-    stroke: 16
+    iVal: '낙'
+    str: 16
   '落':
     val: '락'
     desc: [ '떨어질' ]
-    initialVal: '낙'
-    stroke: 13
-    originStroke: 15
+    iVal: '낙'
+    str: 13
+    oStr: 15
   '絡':
     val: '락'
-    desc: [ '이을' ]
-    initialVal: '낙'
-    stroke: 12
+    desc: [ '이을','연락' ]
+    iVal: '낙'
+    str: 12
   '珞':
     val: '락'
     desc: [ '구슬' ]
-    initialVal: '낙'
-    stroke: 10
-    originStroke: 11
+    iVal: '낙'
+    str: 10
+    oStr: 11
     tag: [ 60 ]
   '酪':
     val: '락'
-    desc: [ '소젓' ]
-    initialVal: '낙'
-    stroke: 13
+    desc: [ '소젓','낙농' ]
+    iVal: '낙'
+    str: 13
   '駱':
     val: '락'
     desc: [ '낙타' ]
-    initialVal: '낙'
-    stroke: 16
+    iVal: '낙'
+    str: 16
     tag: [ 200 ]
   '洛':
     val: '락'
     desc: [ '물이름' ]
-    initialVal: '낙'
-    stroke: 9
-    originStroke: 10
+    iVal: '낙'
+    str: 9
+    oStr: 10
     tag: [ 310 ]
   '樂':
     val: '락'
     desc: [ '즐길' ]
-    initialVal: '낙'
-    stroke: 15
+    iVal: '낙'
+    str: 15
     tag: [ 150 ]
   '卵':
     val: '란'
     desc: [ '알' ]
-    initialVal: '난'
-    stroke: 7
+    iVal: '난'
+    str: 7
   '亂':
     val: '란'
     desc: [ '어지러울' ]
-    initialVal: '난'
-    stroke: 13
+    iVal: '난'
+    str: 13
   '蘭':
     val: '란'
     desc: [ '난초' ]
-    initialVal: '난'
-    stroke: 21
-    originStroke: 23
+    iVal: '난'
+    str: 21
+    oStr: 23
     tag: [ 300 ]
   '欄':
     val: '란'
     desc: [ '난간' ]
-    initialVal: '난'
-    stroke: 21
+    iVal: '난'
+    str: 21
   '瀾':
     val: '란'
-    desc: [ '물결' ]
-    initialVal: '난'
-    stroke: 20
-    originStroke: 21
+    desc: [ '물결','파란' ]
+    iVal: '난'
+    str: 20
+    oStr: 21
     tag: [ 310 ]
   '爛':
     val: '란'
-    desc: [
-      '빛날'
-      '흐드러질'
-    ]
-    initialVal: '난'
-    stroke: 21
+    desc: [ '빛날','흐드러질','찬란' ]
+    iVal: '난'
+    str: 21
     tag: [ 30 ]
   '瓓':
     val: '란'
     desc: [ '옥광채' ]
-    initialVal: '난'
-    stroke: 21
-    originStroke: 22
+    iVal: '난'
+    str: 21
+    oStr: 22
     tag: [ 60 ]
   '剌':
     val: '랄'
     desc: [ '발랄할' ]
-    initialVal: '날'
-    stroke: 9
+    iVal: '날'
+    str: 9
+    tag: [150]
   '辣':
     val: '랄'
-    desc: [ '매울' ]
-    initialVal: '날'
-    stroke: 14
+    desc: [ '매울','신랄' ]
+    iVal: '날'
+    str: 14
+    tag: [140]
   '覽':
     val: '람'
-    desc: [ '볼' ]
-    initialVal: '남'
-    stroke: 21
+    desc: [ '볼','관람' ]
+    iVal: '남'
+    str: 21
   '濫':
     val: '람'
-    desc: [ '넘칠' ]
-    initialVal: '남'
-    stroke: 17
-    originStroke: 18
+    desc: [ '넘칠','범람' ]
+    iVal: '남'
+    str: 17
+    oStr: 18
     tag: [ 310 ]
   '欖':
     val: '람'
     desc: [ '감람나무' ]
-    initialVal: '남'
-    stroke: 25
+    iVal: '남'
+    str: 25
     tag: [ 500 ]
   '籃':
     val: '람'
-    desc: [ '대바구니' ]
-    initialVal: '남'
-    stroke: 20
+    desc: [ '대바구니','요람' ]
+    iVal: '남'
+    str: 20
   '藍':
     val: '람'
-    desc: [ '쪽' ]
-    initialVal: '남'
-    stroke: 18
-    originStroke: 20
-    tag: [
-      160
-      300
-    ]
+    desc: [ '쪽','청출어람' ]
+    iVal: '남'
+    str: 18
+    oStr: 20
+    tag: [ 160,300 ]
   '㛦':
     val: '람'
     desc: [ '예쁠' ]
-    initialVal: '남'
-    stroke: 11
+    iVal: '남'
+    str: 11
     tag: [ 10 ]
   '拉':
     val: '랍'
-    desc: [ '끌' ]
-    initialVal: '납'
-    stroke: 8
-    originStroke: 9
+    desc: [ '끌','납치' ]
+    iVal: '납'
+    str: 8
+    oStr: 9
   '蠟':
     val: '랍'
     desc: [ '밀랍' ]
-    initialVal: '납'
-    stroke: 21
+    iVal: '납'
+    str: 21
   '娘':
     val: '랑'
     desc: [ '여자' ]
-    initialVal: '낭'
-    stroke: 10
+    iVal: '낭'
+    str: 10
   '郞':
     val: '랑'
     desc: [ '사내' ]
-    initialVal: '낭'
-    stroke: 10
-    originStroke: 14
+    iVal: '낭'
+    str: 10
+    oStr: 14
   '浪':
     val: '랑'
-    desc: [ '물결' ]
-    initialVal: '낭'
-    stroke: 10
-    originStroke: 11
-    surname: true
+    desc: [ '물결','파랑' ]
+    iVal: '낭'
+    str: 10
+    oStr: 11
+    fam: true
   '廊':
     val: '랑'
     desc: [ '사랑채' ]
-    initialVal: '낭'
-    stroke: 13
+    iVal: '낭'
+    str: 13
   '朗':
     val: '랑'
-    desc: [ '밝을' ]
-    initialVal: '낭'
-    stroke: 11
-    tag: [ 30 ]
+    desc: [ '밝을','명랑' ]
+    iVal: '낭'
+    str: 11
+    tag: [ 150 ]
   '烺':
     val: '랑'
     desc: [ '빛밝을' ]
-    initialVal: '낭'
-    stroke: 11
-    tag: [
-      30
-      320
-    ]
+    iVal: '낭'
+    str: 11
+    tag: [ 30,320 ]
   '琅':
     val: '랑'
     desc: [ '옥돌' ]
-    initialVal: '낭'
-    stroke: 11
-    originStroke: 12
+    iVal: '낭'
+    str: 11
+    oStr: 12
     tag: [ 60 ]
   '瑯':
     val: '랑'
     desc: [ '옥돌' ]
-    initialVal: '낭'
-    stroke: 14
-    originStroke: 15
+    iVal: '낭'
+    str: 14
+    oStr: 15
     tag: [ 60 ]
   '狼':
     val: '랑'
-    desc: [ '이리' ]
-    initialVal: '낭'
-    stroke: 10
-    originStroke: 11
+    desc: [ '이리','낭패' ]
+    iVal: '낭'
+    str: 10
+    oStr: 11
     tag: [ 200 ]
   '螂':
     val: '랑'
-    desc: [ '사마귀' ]
-    initialVal: '낭'
-    stroke: 16
+    desc: [ '사마귀','당랑거철' ]
+    iVal: '낭'
+    str: 16
     tag: [ 200 ]
   '來':
     val: '래'
     desc: [ '올' ]
-    initialVal: '내'
-    stroke: 8
-    surname: true
+    iVal: '내'
+    str: 8
+    fam: true
   '崍':
     val: '래'
     desc: [ '산이름' ]
-    initialVal: '내'
-    stroke: 11
+    iVal: '내'
+    str: 11
     tag: [ 330 ]
   '淶':
     val: '래'
     desc: [ '강이름' ]
-    initialVal: '내'
-    stroke: 11
-    originStroke: 12
+    iVal: '내'
+    str: 11
+    oStr: 12
     tag: [ 310 ]
   '冷':
     val: '랭'
     desc: [ '찰' ]
-    initialVal: '냉'
-    stroke: 7
+    iVal: '냉'
+    str: 7
     tag: [ 310 ]
   '略':
     val: '략'
     desc: [ '간략할' ]
-    initialVal: '약'
-    stroke: 11
+    iVal: '약'
+    str: 11
   '掠':
     val: '략'
     desc: [ '노략질할' ]
-    initialVal: '약'
-    stroke: 11
-    originStroke: 12
-    tag: [ 45,80 ]
+    iVal: '약'
+    str: 11
+    oStr: 12
   '良':
     val: '량'
-    desc: [ '어질' ]
-    initialVal: '양'
-    stroke: 7
+    desc: [ '어질','선량' ]
+    iVal: '양'
+    str: 7
     tag: [ 110 ]
-    surname: true
+    fam: true
   '兩':
     val: '량'
     desc: [ '두' ]
-    initialVal: '양'
-    stroke: 8
+    iVal: '양'
+    str: 8
   '量':
     val: '량'
     desc: [ '헤아릴' ]
-    initialVal: '양'
-    stroke: 12
-    tag: [ 70 ]
+    iVal: '양'
+    str: 12
   '涼':
     val: '량'
     desc: [ '서늘할' ]
-    initialVal: '양'
-    stroke: 11
-    originStroke: 12
+    iVal: '양'
+    str: 11
+    oStr: 12
     tag: [ 310 ]
   '凉':
     val: '량'
-    desc: [ '서늘할' ]
-    initialVal: '양'
-    stroke: 10
+    desc: [ '서늘할','청량' ]
+    iVal: '양'
+    str: 10
     tag: [ 310 ]
-    surname: true
+    fam: true
   '梁':
     val: '량'
-    desc: [ '들보' ]
-    initialVal: '양'
-    stroke: 11
-    surname: true
+    desc: [ '들보','교량' ]
+    iVal: '양'
+    str: 11
+    fam: true
   '糧':
     val: '량'
     desc: [ '양식' ]
-    initialVal: '양'
-    stroke: 18
+    iVal: '양'
+    str: 18
   '亮':
     val: '량'
     desc: [ '밝을' ]
-    initialVal: '양'
-    stroke: 9
-    tag: [ 30 ]
+    iVal: '양'
+    str: 9
+    tag: [ 30,70 ]
+    ex: ['제갈량(諸葛亮)']
   '旅':
     val: '려'
-    desc: [ '나그네' ]
-    initialVal: '여'
-    stroke: 10
-    surname: true
+    desc: [ '나그네','여행' ]
+    iVal: '여'
+    str: 10
+    fam: true
   '麗':
     val: '려'
-    desc: [ '고울' ]
-    initialVal: '여'
-    stroke: 19
+    desc: [ '고울','고려' ]
+    iVal: '여'
+    str: 19
     tag: [ 10 ]
   '慮':
     val: '려'
-    desc: [ '생각할' ]
-    initialVal: '여'
-    stroke: 15
-    tag: [ 70 ]
+    desc: [ '생각할','염려' ]
+    iVal: '여'
+    str: 15
   '勵':
     val: '려'
     desc: [ '힘쓸' ]
-    initialVal: '여'
-    stroke: 17
-    tag: [115,120]
+    iVal: '여'
+    str: 17
+    tag: [120]
   '呂':
     val: '려'
     desc: [ '성씨' ]
-    initialVal: '여'
-    stroke: 7
-    surname: true
+    iVal: '여'
+    str: 7
+    fam: true
   '侶':
     val: '려'
-    desc: [ '짝' ]
-    initialVal: '여'
-    stroke: 9
-    tag: [ 115 ]
-  '儷':
-    val: '려'
-    desc: [ '짝' ]
-    initialVal: '여'
-    stroke: 21
+    desc: [ '짝','반려자' ]
+    iVal: '여'
+    str: 9
     tag: [ 115 ]
   '閭':
     val: '려'
-    desc: [ '마을' ]
-    initialVal: '여'
-    stroke: 15
+    desc: [ '마을','여염' ]
+    iVal: '여'
+    str: 15
   '黎':
     val: '려'
-    desc: [ '검을' ]
-    initialVal: '여'
-    stroke: 15
-    tag: [ 160 ]
+    desc: [ '검을','여명' ]
+    iVal: '여'
+    str: 15
   '廬':
     val: '려'
-    desc: [ '농막집','주막' ]
-    initialVal: '여'
-    stroke: 19
-    surname: true
+    desc: [ '농막집','주막','초려' ]
+    iVal: '여'
+    str: 19
+    fam: true
   '戾':
     val: '려'
-    desc: [ '어그러질' ]
-    initialVal: '여'
-    stroke: 8
+    desc: [ '어그러질','반려' ]
+    iVal: '여'
+    str: 8
   '櫚':
     val: '려'
     desc: [ '종려' ]
-    initialVal: '여'
-    stroke: 19
+    iVal: '여'
+    str: 19
     tag: [ 300 ]
   '力':
     val: '력'
     desc: [ '힘' ]
-    initialVal: '역'
-    stroke: 2
+    iVal: '역'
+    str: 2
     tag: [ 80 ]
-    surname: true
+    fam: true
   '歷':
     val: '력'
-    desc: [ '지날' ]
-    initialVal: '역'
-    stroke: 16
+    desc: [ '지날','역사' ]
+    iVal: '역'
+    str: 16
   '曆':
     val: '력'
-    desc: [ '책력' ]
-    initialVal: '역'
-    stroke: 16
+    desc: [ '책력','달력' ]
+    iVal: '역'
+    str: 16
   '瀝':
     val: '력'
-    desc: [ '스밀' ]
-    initialVal: '역'
-    stroke: 19
-    originStroke: 20
-    tag: [ 310 ]
+    desc: [ '스밀','역청' ]
+    iVal: '역'
+    str: 19
+    oStr: 20
   '礫':
     val: '력'
     desc: [ '조약돌' ]
-    initialVal: '역'
-    stroke: 20
-    tag: [ 330 ]
+    iVal: '역'
+    str: 20
   '轢':
     val: '력'
-    desc: [ '칠','억누를' ]
-    initialVal: '역'
-    stroke: 22
+    desc: [ '칠','억누를','알력' ]
+    iVal: '역'
+    str: 22
   '靂':
     val: '력'
-    desc: [ '벼락' ]
-    initialVal: '역'
-    stroke: 24
+    desc: [ '벼락','벽력' ]
+    iVal: '역'
+    str: 24
+    tag: [80]
   '連':
     val: '련'
-    desc: [ '잇닿을' ]
-    initialVal: '연'
-    stroke: 11
-    originStroke: 14
-    surname: true
+    desc: [ '잇닿을','연속' ]
+    iVal: '연'
+    str: 11
+    oStr: 14
+    fam: true
   '練':
     val: '련'
-    desc: [ '익힐' ]
-    initialVal: '연'
-    stroke: 15
+    desc: [ '익힐','연습' ]
+    iVal: '연'
+    str: 15
     tag: [70,120]
   '鍊':
     val: '련'
     desc: ['불릴','단련할']
-    initialVal: '연'
-    stroke: 17
+    iVal: '연'
+    str: 17
     tag: [75,120]
   '憐':
     val: '련'
-    desc: [ '불쌍히 여길' ]
-    initialVal: '연'
-    stroke: 15
-    originStroke: 16
+    desc: [ '불쌍히 여길','연민' ]
+    iVal: '연'
+    str: 15
+    oStr: 16
   '聯':
     val: '련'
-    desc: [ '연이을' ]
-    initialVal: '연'
-    stroke: 17
+    desc: [ '연이을','관련' ]
+    iVal: '연'
+    str: 17
   '戀':
     val: '련'
-    desc: [ '그리워할' ]
-    initialVal: '연'
-    stroke: 23
+    desc: [ '그리워할','연모' ]
+    iVal: '연'
+    str: 23
   '蓮':
     val: '련'
     desc: [ '연꽃' ]
-    initialVal: '연'
-    stroke: 15
-    originStroke: 17
+    iVal: '연'
+    str: 15
+    oStr: 17
     tag: [ 300 ]
   '鰱':
     val: '련'
     desc: [ '연어' ]
-    initialVal: '연'
-    stroke: 22
+    iVal: '연'
+    str: 22
     tag: [ 200 ]
   '列':
     val: '렬'
-    desc: [ '벌일' ]
-    initialVal: '열'
-    stroke: 6
+    desc: [ '벌일','나열' ]
+    iVal: '열'
+    str: 6
   '烈':
     val: '렬'
-    desc: [ '매울' ]
-    initialVal: '열'
-    stroke: 10
-    tag: [ 80 ]
+    desc: [ '매울','치열' ]
+    iVal: '열'
+    str: 10
+    tag: [ 120 ]
   '裂':
     val: '렬'
-    desc: [ '찢을' ]
-    initialVal: '열'
-    stroke: 12
+    desc: [ '찢을','균열' ]
+    iVal: '열'
+    str: 12
   '劣':
     val: '렬'
-    desc: ['못할','모자랄']
-    initialVal: '열'
-    stroke: 6
+    desc: ['못할','모자랄','열등']
+    iVal: '열'
+    str: 6
   '洌':
     val: '렬'
     desc: ['맑을','찰']
-    initialVal: '열'
-    stroke: 9
-    originStroke: 10
-    tag: [ 310 ]
+    iVal: '열'
+    str: 9
+    oStr: 10
+    tag: [ 100,310 ]
   '廉':
     val: '렴'
     desc: [ '청렴할' ]
-    initialVal: '염'
-    stroke: 13
+    iVal: '염'
+    str: 13
     tag: [ 125 ]
-    surname: true
-  '濂':
-    val: '렴'
-    desc: [ '물이름' ]
-    initialVal: '염'
-    stroke: 16
-    originStroke: 17
-    tag: [ 310 ]
+    fam: true
   '斂':
     val: '렴'
     desc: [ '거둘' ]
-    initialVal: '염'
-    stroke: 17
+    iVal: '염'
+    str: 17
   '殮':
     val: '렴'
     desc: [ '염할' ]
-    initialVal: '염'
-    stroke: 17
+    iVal: '염'
+    str: 17
   '獵':
     val: '렵'
-    desc: [ '사냥' ]
-    initialVal: '엽'
-    stroke: 18
-    originStroke: 19
+    desc: [ '사냥','수렵' ]
+    iVal: '엽'
+    str: 18
+    oStr: 19
     tag: [ 80 ]
   '令':
     val: '령'
     desc: [ '하여금' ]
-    initialVal: '영'
-    stroke: 5
-    tag: [ 80 ]
+    iVal: '영'
+    str: 5
   '領':
     val: '령'
-    desc: [ '거느릴' ]
-    initialVal: '영'
-    stroke: 14
+    desc: [ '거느릴','영역' ]
+    iVal: '영'
+    str: 14
     tag: [ 40 ]
   '嶺':
     val: '령'
     desc: [ '고개' ]
-    initialVal: '영'
-    stroke: 17
+    iVal: '영'
+    str: 17
     tag: [ 330 ]
   '零':
     val: '령'
-    desc: [
-      '떨어지다'
-      '영(0)'
-    ]
-    initialVal: '영'
-    stroke: 13
+    desc: [ '떨어지다','영(0)' ]
+    iVal: '영'
+    str: 13
   '靈':
     val: '령'
     desc: [ '신령','영혼' ]
-    initialVal: '영'
-    stroke: 24
+    iVal: '영'
+    str: 24
     tag: [ 500 ]
-    surname: true
+    fam: true
   '伶':
     val: '령'
     desc: [ '영리할' ]
-    initialVal: '영'
-    stroke: 7
+    iVal: '영'
+    str: 7
     tag: [ 70 ]
   '姈':
     val: '령'
     desc: [ '슬기로울' ]
-    initialVal: '영'
-    stroke: 8
+    iVal: '영'
+    str: 8
     tag: [ 70 ]
   '玲':
     val: '령'
     desc: [ '옥소리' ]
-    initialVal: '영'
-    stroke: 9
-    originStroke: 10
+    iVal: '영'
+    str: 9
+    oStr: 10
     tag: [ 60 ]
   '昤':
     val: '령'
     desc: [ '햇빛' ]
-    initialVal: '영'
-    stroke: 9
+    iVal: '영'
+    str: 9
     tag: [ 30 ]
   '鈴':
     val: '령'
-    desc: [ '방울' ]
-    initialVal: '영'
-    stroke: 13
+    desc: [ '방울','아령' ]
+    iVal: '영'
+    str: 13
     tag: [ 340 ]
   '齡':
     val: '령'
-    desc: [ '나이' ]
-    initialVal: '영'
-    stroke: 20
+    desc: [ '나이','연령' ]
+    iVal: '영'
+    str: 20
   '囹':
     val: '령'
-    desc: [ '감옥' ]
-    initialVal: '영'
-    stroke: 8
+    desc: [ '감옥','영어' ]
+    iVal: '영'
+    str: 8
   '羚':
     val: '령'
     desc: [ '영양' ]
-    initialVal: '영'
-    stroke: 11
+    iVal: '영'
+    str: 11
     tag: [ 200 ]
   '例':
     val: '례'
     desc: [ '법식' ]
-    initialVal: '예'
-    stroke: 8
+    iVal: '예'
+    str: 8
   '禮':
     val: '례'
     desc: [ '예도' ]
-    initialVal: '예'
-    stroke: 18
+    iVal: '예'
+    str: 18
     tag: [ 110 ]
   '隷':
     val: '례'
-    desc: [
-      '종'
-      '노예'
-    ]
-    initialVal: '예'
-    stroke: 16
+    desc: [ '종','노예' ]
+    iVal: '예'
+    str: 16
   '路':
     val: '로'
     desc: [ '길' ]
-    initialVal: '노'
-    stroke: 13
-    surname: true
+    iVal: '노'
+    str: 13
+    fam: true
   '露':
     val: '로'
     desc: [ '이슬' ]
-    initialVal: '노'
-    stroke: 21
+    iVal: '노'
+    str: 21
+    tag: [310]
   '老':
     val: '로'
     desc: [ '늙을' ]
-    initialVal: '노'
-    stroke: 6
+    iVal: '노'
+    str: 6
   '勞':
     val: '로'
     desc: [ '일할' ]
-    initialVal: '노'
-    stroke: 12
+    iVal: '노'
+    str: 12
     tag: [ 120 ]
   '爐':
     val: '로'
     desc: [ '화로' ]
-    initialVal: '노'
-    stroke: 20
+    iVal: '노'
+    str: 20
     tag: [ 320 ]
   '魯':
     val: '로'
-    desc: [
-      '노나라'
-      '노둔할'
-    ]
-    initialVal: '노'
-    stroke: 15
-    surname: true
+    desc: [ '노나라','노둔할' ]
+    iVal: '노'
+    str: 15
+    fam: true
   '盧':
     val: '로'
-    desc: [
-      '성씨'
-      '목로'
-    ]
-    initialVal: '노'
-    stroke: 16
-    surname: true
+    desc: [ '성씨','목로' ]
+    iVal: '노'
+    str: 16
+    fam: true
   '鷺':
     val: '로'
-    desc: [
-      '해오라기'
-      '백로'
-    ]
-    initialVal: '노'
-    stroke: 24
+    desc: [ '해오라기','백로' ]
+    iVal: '노'
+    str: 24
     tag: [ 200 ]
   '擄':
     val: '로'
     desc: [ '노략질할' ]
-    initialVal: '노'
-    stroke: 16
-    originStroke: 17
+    iVal: '노'
+    str: 16
+    oStr: 17
     tag: [ 200 ]
   '櫓':
     val: '로'
     desc: [ '배젓는','방패' ]
-    initialVal: '노'
-    stroke: 19
-    tag: [ 200 ]
+    iVal: '노'
+    str: 19
   '瀘':
     val: '로'
     desc: [ '물이름' ]
-    initialVal: '노'
-    stroke: 19
-    originStroke: 20
+    iVal: '노'
+    str: 19
+    oStr: 20
     tag: [ 310 ]
   '蘆':
     val: '로'
-    desc: [ '갈대' ]
-    initialVal: '노'
-    stroke: 20
-    originStroke: 22
+    desc: [ '갈대','노원구' ]
+    iVal: '노'
+    str: 20
+    oStr: 22
     tag: [ 300 ]
-    surname: true
+    fam: true
   '虜':
     val: '로'
-    desc: [ '사로잡을' ]
-    initialVal: '노'
-    stroke: 13
+    desc: [ '사로잡을','포로' ]
+    iVal: '노'
+    str: 13
   '綠':
     val: '록'
     desc: [ '푸를' ]
-    initialVal: '녹'
-    stroke: 14
+    iVal: '녹'
+    str: 14
     tag: [ 160,300 ]
-    surname: true
+    fam: true
   '祿':
     val: '록'
     desc: [ '녹봉' ]
-    initialVal: '녹'
-    stroke: 13
+    iVal: '녹'
+    str: 13
     tag: [ 40 ]
   '錄':
     val: '록'
     desc: [ '기록할' ]
-    initialVal: '녹'
-    stroke: 16
-    tag: [ 70 ]
+    iVal: '녹'
+    str: 16
   '彔':
     val: '록'
     desc: [ '새길' ]
-    initialVal: '녹'
-    stroke: 8
-    tag: [ 70 ]
+    iVal: '녹'
+    str: 8
   '碌':
     val: '록'
     desc: [ '푸른돌','녹슬' ]
-    initialVal: '녹'
-    stroke: 13
+    iVal: '녹'
+    str: 13
   '鹿':
     val: '록'
     desc: [ '사슴' ]
-    initialVal: '녹'
-    stroke: 11
+    iVal: '녹'
+    str: 11
     tag: [ 200 ]
   '弄':
     val: '롱'
     desc: [ '희롱할' ]
-    initialVal: '농'
-    stroke: 7
+    iVal: '농'
+    str: 7
     tag: [ 150 ]
   '瓏':
     val: '롱'
-    desc: [ '옥소리' ]
-    initialVal: '농'
-    stroke: 20
-    originStroke: 21
+    desc: [ '옥소리','영롱' ]
+    iVal: '농'
+    str: 20
+    oStr: 21
     tag: [ 60 ]
   '籠':
     val: '롱'
     desc: [ '대바구니' ]
-    initialVal: '농'
-    stroke: 22
+    iVal: '농'
+    str: 22
   '壟':
     val: '롱'
     desc: [ '밭두둑','농단할' ]
-    initialVal: '농'
-    stroke: 19
+    iVal: '농'
+    str: 19
   '朧':
     val: '롱'
-    desc: [ '흐릿할' ]
-    initialVal: '농'
-    stroke: 20
-    originStroke: 22
+    desc: [ '흐릿할','몽롱' ]
+    iVal: '농'
+    str: 20
+    oStr: 22
   '聾':
     val: '롱'
-    desc: [ '귀먹을' ]
-    initialVal: '농'
-    stroke: 22
+    desc: [ '귀먹을','농아' ]
+    iVal: '농'
+    str: 22
   '雷':
     val: '뢰'
     desc: [ '우레' ]
-    initialVal: '뇌'
-    stroke: 13
-    surname: true
+    iVal: '뇌'
+    str: 13
+    fam: true
   '賴':
     val: '뢰'
     desc: [ '의뢰할' ]
-    initialVal: '뇌'
-    stroke: 16
-    surname: true
-  '瀨':
-    val: '뢰'
-    desc: [ '여울' ]
-    initialVal: '뇌'
-    stroke: 19
-    originStroke: 20
-    tag: [310]
+    iVal: '뇌'
+    str: 16
+    fam: true
   '儡':
     val: '뢰'
-    desc: [ '꼭두각시' ]
-    initialVal: '뇌'
-    stroke: 17
+    desc: [ '꼭두각시','괴뢰' ]
+    iVal: '뇌'
+    str: 17
   '賂':
     val: '뢰'
     desc: [ '뇌물' ]
-    initialVal: '뇌'
-    stroke: 13
+    iVal: '뇌'
+    str: 13
   '料':
     val: '료'
-    desc: [ '헤아릴' ]
-    initialVal: '요'
-    stroke: 10
+    desc: [ '헤아릴','재료' ]
+    iVal: '요'
+    str: 10
   '了':
     val: '료'
-    desc: [ '마칠' ]
-    initialVal: '요'
-    stroke: 2
+    desc: [ '마칠','종료' ]
+    iVal: '요'
+    str: 2
   '僚':
     val: '료'
     desc: [ '동료','예쁠' ]
-    initialVal: '요'
-    stroke: 14
+    iVal: '요'
+    str: 14
     tag: [115]
   '遼':
     val: '료'
-    desc: [ '멀' ]
-    initialVal: '요'
-    stroke: 15
-    originStroke: 18
-    tag: [115]
+    desc: [ '멀','요원' ]
+    iVal: '요'
+    str: 15
+    oStr: 18
   '龍':
     val: '룡'
     desc: [ '용' ]
-    initialVal: '용'
-    stroke: 16
+    iVal: '용'
+    str: 16
     tag: [50,80]
-    surname: true
+    fam: true
   '累':
     val: '루'
     desc: [ '여러','자주' ]
-    initialVal: '누'
-    stroke: 11
+    iVal: '누'
+    str: 11
   '樓':
     val: '루'
     desc: [ '다락','층집' ]
-    initialVal: '누'
-    stroke: 15
+    iVal: '누'
+    str: 15
   '淚':
     val: '루'
     desc: [ '눈물' ]
-    initialVal: '누'
-    stroke: 11
-    originStroke: 12
+    iVal: '누'
+    str: 11
+    oStr: 12
     tag: [310]
   '漏':
     val: '루'
-    desc: [ '셀' ]
-    initialVal: '누'
-    stroke: 14
-    originStroke: 15
-    tag: [310]
+    desc: [ '셀','누설' ]
+    iVal: '누'
+    str: 14
+    oStr: 15
   '壘':
     val: '루'
     desc: [ '보루' ]
-    initialVal: '누'
-    stroke: 18
+    iVal: '누'
+    str: 18
     tag: [330]
   '婁':
     val: '루'
     desc: [ '별이름' ]
-    initialVal: '누'
-    stroke: 11
+    iVal: '누'
+    str: 11
     tag: [370]
   '褸':
     val: '루'
-    desc: [ '누더기' ]
-    initialVal: '누'
-    stroke: 16
-    originStroke: 17
+    desc: [ '누더기','남루' ]
+    iVal: '누'
+    str: 16
+    oStr: 17
     tag: [125]
   '柳':
     val: '류'
     desc: [ '버들' ]
-    initialVal: '유'
-    stroke: 9
+    iVal: '유'
+    str: 9
     tag: [300]
-    surname: true
+    fam: true
   '留':
     val: '류'
-    desc: [ '머무를' ]
-    initialVal: '유'
-    stroke: 10
+    desc: [ '머무를','체류' ]
+    iVal: '유'
+    str: 10
   '流':
     val: '류'
     desc: [ '흐를' ]
-    initialVal: '유'
-    stroke: 10
-    originStroke: 11
+    iVal: '유'
+    str: 10
+    oStr: 11
     tag: [310]
   '類':
     val: '류'
-    desc: [ '무리' ]
-    initialVal: '유'
-    stroke: 19
+    desc: [ '무리','종류' ]
+    iVal: '유'
+    str: 19
   '琉':
     val: '류'
     desc: [ '유리' ]
-    initialVal: '유'
-    stroke: 11
-    originStroke: 12
+    iVal: '유'
+    str: 11
+    oStr: 12
     tag: [60]
   '劉':
     val: '류'
     desc: [ '죽일','베풀' ]
-    initialVal: '유'
-    stroke: 11
-    originStroke: 12
-    surname: true
+    iVal: '유'
+    str: 11
+    oStr: 12
+    fam: true
   '硫':
     val: '류'
     desc: [ '유황' ]
-    initialVal: '유'
-    stroke: 12
-    tag: [330]
+    iVal: '유'
+    str: 12
   '榴':
     val: '류'
     desc: [ '석류나무' ]
-    initialVal: '유'
-    stroke: 14
+    iVal: '유'
+    str: 14
     tag: [300]
   '溜':
     val: '류'
-    desc: [ '낙숫물' ]
-    initialVal: '유'
-    stroke: 13
-    originStroke: 14
+    desc: [ '낙숫물','증류' ]
+    iVal: '유'
+    str: 13
+    oStr: 14
     tag: [310]
   '瀏':
     val: '류'
     desc: [ '맑을' ]
-    initialVal: '유'
-    stroke: 18
-    originStroke: 19
-    tag: [310]
+    iVal: '유'
+    str: 18
+    oStr: 19
+    tag: [100,310]
   '謬':
     val: '류'
-    desc: [ '그르칠' ]
-    initialVal: '유'
-    stroke: 18
+    desc: [ '그르칠','오류' ]
+    iVal: '유'
+    str: 18
   '六':
     val: '륙'
     desc: [ '여섯' ]
-    initialVal: '육'
-    stroke: 4
-    originStroke: 6
-    surname: true
+    iVal: '육'
+    str: 4
+    oStr: 6
+    fam: true
   '陸':
     val: '륙'
-    desc: [ '뭍' ]
-    initialVal: '육'
-    stroke: 11
-    originStroke: 16
+    desc: [ '뭍','육지' ]
+    iVal: '육'
+    str: 11
+    oStr: 16
     tag: [330]
-    surname: true
+    fam: true
   '戮':
     val: '륙'
-    desc: [ '죽일' ]
-    initialVal: '육'
-    stroke: 15
+    desc: [ '죽일','육살','도륙' ]
+    iVal: '육'
+    str: 15
   '倫':
     val: '륜'
     desc: [ '인륜' ]
-    initialVal: '윤'
-    stroke: 10
+    iVal: '윤'
+    str: 10
     tag: [110]
   '輪':
     val: '륜'
     desc: [ '바퀴' ]
-    initialVal: '윤'
-    stroke: 15
+    iVal: '윤'
+    str: 15
   '綸':
     val: '륜'
-    desc: [ '벼리' ]
-    initialVal: '윤'
-    stroke: 14
+    desc: [ '벼리','경륜' ]
+    iVal: '윤'
+    str: 14
   '淪':
     val: '륜'
-    desc: [ '빠질','망할' ]
-    initialVal: '윤'
-    stroke: 11
-    originStroke: 12
+    desc: [ '빠질','망할','윤락' ]
+    iVal: '윤'
+    str: 11
+    oStr: 12
   '律':
     val: '률'
-    desc: [ '법칙' ]
-    initialVal: '율'
-    stroke: 9
+    desc: [ '법칙','법률' ]
+    iVal: '율'
+    str: 9
     tag: [110]
-    surname: true
+    fam: true
   '栗':
     val: '률'
     desc: [ '밤' ]
-    initialVal: '율'
-    stroke: 10
+    iVal: '율'
+    str: 10
     tag: [300]
   '慄':
     val: '률'
-    desc: [ '떨릴' ]
-    initialVal: '율'
-    stroke: 13
-    originStroke: 14
+    desc: [ '떨릴','전률' ]
+    iVal: '율'
+    str: 13
+    oStr: 14
   '率':
     val: '률'
     desc: [ '비율' ]
-    initialVal: '율'
-    stroke: 11
+    iVal: '율'
+    str: 11
   '隆':
     val: '륭'
-    desc: [ '높을' ]
-    initialVal: '융'
-    stroke: 12
-    originStroke: 17
+    desc: [ '높을','융성','융숭' ]
+    iVal: '융'
+    str: 12
+    oStr: 17
     tag: [40]
   '勒':
     val: '륵'
-    desc: [ '굴레' ]
-    initialVal: '늑'
-    stroke: 11
+    desc: [ '굴레','미륵' ]
+    iVal: '늑'
+    str: 11
     tag: [500]
   '肋':
     val: '륵'
-    desc: [ '갈빗대' ]
-    initialVal: '늑'
-    stroke: 6
-    originStroke: 8
+    desc: [ '갈빗대','늑골' ]
+    iVal: '늑'
+    str: 6
+    oStr: 8
     tag: [350]
   '凜':
     val: '름'
     desc: [ '차가울','늠름할' ]
-    initialVal: '늠'
-    stroke: 15
-    tag: [80]
+    iVal: '늠'
+    str: 15
+    tag: [20,80]
   '陵':
     val: '릉'
     desc: [ '언덕' ]
-    initialVal: '능'
-    stroke: 11
-    originStroke: 16
+    iVal: '능'
+    str: 11
+    oStr: 16
     tag: [330]
-  '綾':
-    val: '릉'
-    desc: [ '비단' ]
-    initialVal: '능'
-    stroke: 14
-    tag: [10]
-  '菱':
-    val: '릉'
-    desc: [ '마름' ]
-    initialVal: '능'
-    stroke: 12
-    originStroke: 14
-    tag: [300]
   '稜':
     val: '릉'
-    desc: [ '모서리' ]
-    initialVal: '능'
-    stroke: 13
+    desc: [ '모서리','능선' ]
+    iVal: '능'
+    str: 13
   '凌':
     val: '릉'
-    desc: [ '업신여길' ]
-    initialVal: '능'
-    stroke: 10
-  '凌':
-    val: '릉'
-    desc: [ '업신여길' ]
-    initialVal: '능'
-    stroke: 10
+    desc: [ '업신여길','능멸' ]
+    iVal: '능'
+    str: 10
   '里':
     val: '리'
     desc: [ '마을','속' ]
-    initialVal: '이'
-    stroke: 7
+    iVal: '이'
+    str: 7
   '理':
     val: '리'
     desc: [ '다스릴' ]
-    initialVal: '이'
-    stroke: 11
-    originStroke: 12
-    tag: [40]
+    iVal: '이'
+    str: 11
+    oStr: 12
   '利':
     val: '리'
     desc: [ '이로울' ]
-    initialVal: '이'
-    stroke: 7
+    iVal: '이'
+    str: 7
     tag: [40]
   '梨':
     val: '리'
     desc: [ '배나무' ]
-    initialVal: '이'
-    stroke: 11
+    iVal: '이'
+    str: 11
     tag: [300]
   '李':
     val: '리'
     desc: [ '오얏','자두나무' ]
-    initialVal: '이'
-    stroke: 7
+    iVal: '이'
+    str: 7
     tag: [300]
-    surname: true
+    fam: true
   '吏':
     val: '리'
     desc: [ '벼슬','관리' ]
-    initialVal: '이'
-    stroke: 6
+    iVal: '이'
+    str: 6
     tag: [40]
   '離':
     val: '리'
-    desc: [ '떠날','갈라지다' ]
-    initialVal: '이'
-    stroke: 19
-    surname: true
+    desc: [ '떠날','갈라지다','이별' ]
+    iVal: '이'
+    str: 19
+    fam: true
   '裏':
     val: '리'
     desc: [ '속','안쪽' ]
-    initialVal: '이'
-    stroke: 13
+    iVal: '이'
+    str: 13
   '履':
     val: '리'
-    desc: [ '밟을','신' ]
-    initialVal: '이'
-    stroke: 15
+    desc: [ '밟을','신','이력' ]
+    iVal: '이'
+    str: 15
   '莉':
     val: '리'
     desc: [ '말리','자스민' ]
-    initialVal: '이'
-    stroke: 11
-    originStroke: 13
+    iVal: '이'
+    str: 11
+    oStr: 13
     tag: [300]
   '璃':
     val: '리'
     desc: [ '유리' ]
-    initialVal: '이'
-    stroke: 15
-    originStroke: 16
+    iVal: '이'
+    str: 15
+    oStr: 16
     tag: [60]
   '悧':
     val: '리'
     desc: [ '영리할' ]
-    initialVal: '이'
-    stroke: 10
-    originStroke: 11
+    iVal: '이'
+    str: 10
+    oStr: 11
     tag: [70]
   '浬':
     val: '리'
     desc: [ '해리' ]
-    initialVal: '이'
-    stroke: 10
-    originStroke: 11
+    iVal: '이'
+    str: 10
+    oStr: 11
   '狸':
     val: '리'
     desc: [ '삵' ]
-    initialVal: '이'
-    stroke: 10
-    originStroke: 11
+    iVal: '이'
+    str: 10
+    oStr: 11
     tag: [200]
   '痢':
     val: '리'
     desc: [ '설사','이질' ]
-    initialVal: '이'
-    stroke: 12
+    iVal: '이'
+    str: 12
     tag: [360]
-  '籬':
-    val: '리'
-    desc: [ '울타리' ]
-    initialVal: '이'
-    stroke: 25
   '罹':
     val: '리'
-    desc: [ '병걸릴','앓다' ]
-    initialVal: '이'
-    stroke: 16
-    tag: [360]
-  '羸':
-    val: '리'
-    desc: [ '파리할' ]
-    initialVal: '이'
-    stroke: 19
+    desc: [ '걸릴','앓다','이재[민]' ]
+    iVal: '이'
+    str: 16
     tag: [360]
   '鯉':
     val: '리'
     desc: [ '잉어' ]
-    initialVal: '이'
-    stroke: 18
+    iVal: '이'
+    str: 18
     tag: [200]
   '鄰':
     val: '린'
-    desc: [ '이웃' ]
-    initialVal: '인'
-    stroke: 15
-    originStroke: 19
+    desc: [ '이웃','인근' ]
+    iVal: '인'
+    str: 15
+    oStr: 19
     tag: [115]
   '潾':
     val: '린'
     desc: [ '맑을' ]
-    initialVal: '인'
-    stroke: 15
-    originStroke: 16
-    tag: [310]
+    iVal: '인'
+    str: 15
+    oStr: 16
+    tag: [100]
   '璘':
     val: '린'
     desc: [ '옥빛' ]
-    initialVal: '인'
-    stroke: 16
-    originStroke: 17
+    iVal: '인'
+    str: 16
+    oStr: 17
     tag: [60]
   '麟':
     val: '린'
     desc: [ '기린' ]
-    initialVal: '인'
-    stroke: 23
+    iVal: '인'
+    str: 23
     tag: [200]
   '吝':
     val: '린'
-    desc: [ '아낄' ]
-    initialVal: '인'
-    stroke: 7
+    desc: [ '아낄','인색' ]
+    iVal: '인'
+    str: 7
     tag: [125]
   '燐':
     val: '린'
     desc: [ '도깨비불' ]
-    initialVal: '인'
-    stroke: 16
+    iVal: '인'
+    str: 16
     tag: [320]
   '躪':
     val: '린'
-    desc: [ '짓밟을' ]
-    initialVal: '인'
-    stroke: 27
+    desc: [ '짓밟을','유린' ]
+    iVal: '인'
+    str: 27
   '鱗':
     val: '린'
-    desc: [ '비늘' ]
-    initialVal: '인'
-    stroke: 23
+    desc: [ '비늘','편린' ]
+    iVal: '인'
+    str: 23
     tag: [200]
   '林':
     val: '림'
     desc: [ '수풀' ]
-    initialVal: '임'
-    stroke: 8
+    iVal: '임'
+    str: 8
     tag: [300]
-    surname: true
+    fam: true
   '臨':
     val: '림'
     desc: [ '임할' ]
-    initialVal: '임'
-    stroke: 17
+    iVal: '임'
+    str: 17
     tag: [300]
   '琳':
     val: '림'
     desc: [ '옥' ]
-    initialVal: '임'
-    stroke: 12
-    originStroke: 13
+    iVal: '임'
+    str: 12
+    oStr: 13
     tag: [60]
   '霖':
     val: '림'
     desc: [ '장마' ]
-    initialVal: '임'
-    stroke: 16
+    iVal: '임'
+    str: 16
     tag: [310]
   '淋':
     val: '림'
     desc: [ '장마','임질' ]
-    initialVal: '임'
-    stroke: 16
+    iVal: '임'
+    str: 16
     tag: [310,360]
   '立':
     val: '립'
     desc: [ '설' ]
-    initialVal: '입'
-    stroke: 5
+    iVal: '입'
+    str: 5
   '笠':
     val: '립'
     desc: [ '삿갓' ]
-    initialVal: '입'
-    stroke: 11
+    iVal: '입'
+    str: 11
   '粒':
     val: '립'
-    desc: [ '낟알' ]
-    initialVal: '입'
-    stroke: 11
+    desc: [ '낟알','입자' ]
+    iVal: '입'
+    str: 11
   '馬':
     val: '마'
     desc: [ '말' ]
-    stroke: 10
+    str: 10
     tag: [200]
-    surname: true
+    fam: true
   '麻':
     val: '마'
     desc: [ '삼','참깨' ]
-    stroke: 11
+    str: 11
     tag: [300]
-    surname: true
+    fam: true
   '磨':
     val: '마'
     desc: [ '갈','연마' ]
-    stroke: 16
+    str: 16
     tag: [120]
   '瑪':
     val: '마'
     desc: [ '차돌','마노','석영' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [60,330]
   '摩':
     val: '마'
     desc: [ '문지를','마찰' ]
-    stroke: 15
+    str: 15
     tag: [500]
   '痲':
     val: '마'
     desc: [ '저릴','마비' ]
-    stroke: 15
+    str: 15
   '魔':
     val: '마'
     desc: [ '마귀' ]
-    stroke: 20
+    str: 20
     tag: [500]
   '莫':
     val: '막'
-    desc: [ '없을' ]
-    stroke: 11
-    originStroke: 13
+    desc: [ '없을','삭막' ]
+    str: 11
+    oStr: 13
   '幕':
     val: '막'
     desc: [ '장막' ]
-    stroke: 14
+    str: 14
   '漠':
     val: '막'
     desc: [ '넓을','사막' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [90]
   '寞':
     val: '막'
-    desc: [ '고요할' ]
-    stroke: 14
+    desc: [ '고요할','적막' ]
+    str: 14
     tag: [130]
   '膜':
     val: '막'
     desc: [ '꺼풀','막' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
     tag: [350]
   '萬':
     val: '만'
     desc: [ '일만' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [350]
-    surname: true
+    fam: true
   '晩':
     val: '만'
     desc: [ '늦을' ]
-    stroke: 12
+    str: 12
   '滿':
     val: '만'
     desc: [ '찰' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '慢':
     val: '만'
     desc: [ '거만할' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '漫':
     val: '만'
-    desc: [ '흩어질' ]
-    stroke: 14
-    originStroke: 15
+    desc: [ '흩어질','방만' ]
+    str: 14
+    oStr: 15
   '蔓':
     val: '만'
     desc: [ '덩굴' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
     tag: [300]
   '曼':
     val: '만'
-    desc: [ '길게 끌' ]
-    stroke: 11
+    desc: [ '길게 끌','만다라' ]
+    str: 11
     tag: [500]
   '卍':
     val: '만'
     desc: [ '만자' ]
-    stroke: 6
+    str: 6
     tag: [500]
   '娩':
     val: '만'
-    desc: [ '낳을' ]
-    stroke: 10
+    desc: [ '낳을','분만' ]
+    str: 10
   '巒':
     val: '만'
     desc: [ '메','산' ]
-    stroke: 22
+    str: 22
     tag: [330]
   '灣':
     val: '만'
-    desc: [ '물굽이' ]
-    stroke: 25
-    originStroke: 26
+    desc: [ '물굽이','대만' ]
+    str: 25
+    oStr: 26
     tag: [310]
   '挽':
     val: '만'
-    desc: [ '당길' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '당길','만회','만류' ]
+    str: 10
+    oStr: 11
   '瞞':
     val: '만'
-    desc: [ '속일' ]
-    stroke: 16
+    desc: [ '속일','기만' ]
+    str: 16
   '饅':
     val: '만'
     desc: [ '만두' ]
-    stroke: 19
+    str: 19
   '鰻':
     val: '만'
     desc: [ '뱀장어' ]
-    stroke: 22
+    str: 22
     tag: [200]
   '蠻':
     val: '만'
-    desc: [ '오랑캐' ]
-    stroke: 25
+    desc: [ '오랑캐','남만' ]
+    str: 25
   '末':
-    val: '만'
+    val: '말'
     desc: [ '끝' ]
-    stroke: 5
+    str: 5
   '茉':
-    val: '만'
+    val: '말'
     desc: [ '말리','자스민' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
     tag: [300]
   '靺':
-    val: '만'
+    val: '말'
     desc: [ '말갈' ]
-    stroke: 14
+    str: 14
   '亡':
     val: '망'
     desc: [ '망할' ]
-    stroke: 3
+    str: 3
   '忙':
     val: '망'
-    desc: [ '바쁠' ]
-    stroke: 6
-    originStroke: 7
+    desc: [ '바쁠','다망','망중[한]' ]
+    str: 6
+    oStr: 7
   '忘':
     val: '망'
-    desc: [ '잊을' ]
-    stroke: 7
+    desc: [ '잊을','망각' ]
+    str: 7
   '望':
     val: '망'
-    desc: [ '바랄' ]
-    stroke: 11
+    desc: [ '바랄','희망' ]
+    str: 11
   '茫':
     val: '망'
-    desc: [ '아득할' ]
-    stroke: 10
-    originStroke: 12
+    desc: [ '아득할','망망[대해]','망막' ]
+    str: 10
+    oStr: 12
   '妄':
     val: '망'
     desc: [ '망령될' ]
-    stroke: 6
+    str: 6
   '網':
     val: '망'
     desc: [ '그물' ]
-    stroke: 14
+    str: 14
   '汒':
     val: '망'
     desc: [ '황급할' ]
-    stroke: 6
-    originStroke: 7
+    str: 6
+    oStr: 7
   '每':
     val: '매'
     desc: [ '매양','늘' ]
-    stroke: 7
+    str: 7
   '買':
     val: '매'
-    desc: [ '살' ]
-    stroke: 12
+    desc: [ '살','구매' ]
+    str: 12
   '賣':
     val: '매'
-    desc: [ '팔' ]
-    stroke: 15
+    desc: [ '팔','판매' ]
+    str: 15
   '妹':
     val: '매'
-    desc: [ '누이' ]
-    stroke: 8
+    desc: [ '누이','자매' ]
+    str: 8
   '梅':
     val: '매'
     desc: [ '매화' ]
-    stroke: 11
+    str: 11
     tag: [300]
-    surname: true
+    fam: true
   '埋':
     val: '매'
-    desc: [ '묻을' ]
-    stroke: 10
+    desc: [ '묻을','매장' ]
+    str: 10
     tag: [330]
   '媒':
     val: '매'
     desc: [ '중매' ]
-    stroke: 12
-  '媒':
-    val: '매'
-    desc: [ '중매' ]
-    stroke: 12
+    str: 12
   '寐':
     val: '매'
-    desc: [ '잠잘' ]
-    stroke: 12
+    desc: [ '잠잘','몽매','오매[불망]' ]
+    str: 12
   '昧':
     val: '매'
-    desc: [ '어두울' ]
-    stroke: 9
+    desc: [ '어두울','애매' ]
+    str: 9
   '枚':
     val: '매'
-    desc: [ '낱' ]
-    stroke: 8
+    desc: [ '낱','~매' ]
+    str: 8
   '罵':
     val: '매'
-    desc: [ '꾸짖을' ]
-    stroke: 15
+    desc: [ '꾸짖을','매도' ]
+    str: 15
   '邁':
     val: '매'
-    desc: [ '멀리갈' ]
-    stroke: 16
-    originStroke: 19
+    desc: [ '멀리갈','매진' ]
+    str: 16
+    oStr: 19
     tag: [120]
   '魅':
     val: '매'
     desc: [ '매혹할' ]
-    stroke: 14
+    str: 14
     tag: [10]
   '楳':
     val: '매'
     desc: [ '매화나무' ]
-    stroke: 13
+    str: 13
     tag: [300]
   '麥':
     val: '맥'
     desc: [ '보리' ]
-    stroke: 11
+    str: 11
     tag: [300]
   '脈':
     val: '맥'
-    desc: [ '줄기' ]
-    stroke: 10
-    originStroke: 12
+    desc: [ '줄기','맥락' ]
+    str: 10
+    oStr: 12
     tag: [300]
   '孟':
     val: '맹'
     desc: [ '맏이','맹자' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '猛':
     val: '맹'
-    desc: [ '사나울' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '사나울','맹수' ]
+    str: 11
+    oStr: 12
     tag: [80]
   '盟':
     val: '맹'
     desc: [ '맹세' ]
-    stroke: 13
+    str: 13
     tag: [110]
   '盲':
     val: '맹'
-    desc: [ '소경' ]
-    stroke: 8
+    desc: [ '소경','맹인' ]
+    str: 8
   '萌':
     val: '맹'
-    desc: [ '움','싹' ]
-    stroke: 12
-    originStroke: 14
+    desc: [ '움','싹','맹아' ]
+    str: 12
+    oStr: 14
     tag: [300]
   '冪':
     val: '멱'
-    desc: [ '덮을' ]
-    stroke: 16
+    desc: [ '덮을','멱수' ]
+    str: 16
   '免':
     val: '면'
-    desc: [ '면할' ]
-    stroke: 7
+    desc: [ '면할','면제','방면' ]
+    str: 7
   '勉':
     val: '면'
-    desc: [ '힘쓸' ]
-    stroke: 9
+    desc: [ '힘쓸','근면' ]
+    str: 9
     tag: [120]
   '面':
     val: '면'
     desc: [ '낯' ]
-    stroke: 9
+    str: 9
   '眠':
     val: '면'
-    desc: [ '잘' ]
-    stroke: 10
-  '綿':
-    val: '면'
-    desc: [ '솜' ]
-    stroke: 14
+    desc: [ '잘','수면' ]
+    str: 10
   '冕':
     val: '면'
     desc: [ '면류관' ]
-    stroke: 11
+    str: 11
     tag: [40]
+  '綿':
+    val: '면'
+    desc: [ '솜' ]
+    str: 14
   '棉':
     val: '면'
     desc: [ '목화' ]
-    stroke: 12
+    str: 12
     tag: [300]
   '沔':
     val: '면'
     desc: [ '물이름' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
     tag: [310]
   '眄':
     val: '면'
-    desc: [ '곁눈질할' ]
-    stroke: 9
+    desc: [ '곁눈질할','좌고우면' ]
+    str: 9
   '麪':
     val: '면'
     desc: [ '밀가루' ]
-    stroke: 15
+    str: 15
   '滅':
     val: '멸'
     desc: [ '꺼질','멸할' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
   '蔑':
     val: '멸'
-    desc: [ '업신여길' ]
-    stroke: 15
-    originStroke: 17
+    desc: [ '업신여길','멸시' ]
+    str: 15
+    oStr: 17
   '名':
     val: '명'
-    desc: [ '업신여길' ]
-    stroke: 6
+    desc: [ '이름' ]
+    str: 6
   '命':
     val: '명'
-    desc: [ '목숨' ]
-    stroke: 8
+    desc: [ '목숨','수명' ]
+    str: 8
     tag: [135]
   '明':
     val: '명'
     desc: [ '밝을' ]
-    stroke: 8
+    str: 8
     tag: [30]
-    surname: true
+    fam: true
   '鳴':
     val: '명'
     desc: [ '울' ]
-    stroke: 14
+    str: 14
   '銘':
     val: '명'
-    desc: [ '새길' ]
-    stroke: 14
+    desc: [ '새길','명심','좌우명' ]
+    str: 14
   '冥':
     val: '명'
-    desc: [ '어두울' ]
-    stroke: 10
+    desc: [ '어두울','명복','명상' ]
+    str: 10
   '袂':
     val: '몌'
     desc: [ '소매' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
   '母':
     val: '모'
     desc: [ '어머니' ]
-    stroke: 5
+    str: 5
     tag: [115]
   '毛':
     val: '모'
     desc: [ '털' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '暮':
     val: '모'
-    desc: [ '저물' ]
-    stroke: 15
+    desc: [ '저물','조삼모사' ]
+    str: 15
   '某':
     val: '모'
     desc: [ '아무' ]
-    stroke: 9
+    str: 9
   '謀':
     val: '모'
-    desc: [ '꾀' ]
-    stroke: 16
+    desc: [ '꾀','참모' ]
+    str: 16
     tag: [70]
   '模':
     val: '모'
     desc: [ '본뜰','모양' ]
-    stroke: 15
+    str: 15
   '摸':
     val: '모'
     desc: [ '본뜰','모색' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '貌':
     val: '모'
     desc: [ '용모' ]
-    stroke: 14
+    str: 14
   '募':
     val: '모'
-    desc: [ '모을' ]
-    stroke: 13
+    desc: [ '모을','모집' ]
+    str: 13
   '慕':
     val: '모'
     desc: [ '사모할' ]
-    stroke: 15
+    str: 15
   '冒':
     val: '모'
     desc: [ '무릅쓸','모험' ]
-    stroke: 9
+    str: 9
     tag: [90]
   '侮':
     val: '모'
-    desc: [ '업신여길' ]
-    stroke: 9
+    desc: [ '업신여길','모멸' ]
+    str: 9
   '牟':
     val: '모'
-    desc: [ '소 우는 소리' ]
-    stroke: 6
+    desc: [ '소 우는 소리','석가모니' ]
+    str: 6
     tag: [500]
-    surname: true
-  '摸':
-    val: '모'
-    desc: [ '본뜰','모색' ]
-    stroke: 14
-    originStroke: 15
+    fam: true
   '帽':
     val: '모'
     desc: [ '모자' ]
-    stroke: 12
+    str: 12
   '牡':
     val: '모'
     desc: [ '수컷','모란' ]
-    stroke: 7
+    str: 7
+    tag: [300]
+  '茅':
+    val: '모'
+    desc: [ '띠','풀','모옥' ]
+    str: 9
+    oStr: 11
     tag: [300]
   '矛':
     val: '모'
-    desc: [ '창' ]
-    stroke: 5
+    desc: [ '창','모순' ]
+    str: 5
     tag: [80]
-  '茅':
-    val: '모'
-    desc: [ '띠' ]
-    stroke: 9
-    originStroke: 11
-    tag: [300]
-  '茅':
-    val: '모'
-    desc: [ '띠' ]
-    stroke: 9
-    originStroke: 11
-    tag: [300]
   '木':
     val: '목'
     desc: [ '나무' ]
-    stroke: 4
+    str: 4
     tag: [300]
-    surname: true
+    fam: true
   '目':
     val: '목'
     desc: [ '눈' ]
-    stroke: 5
+    str: 5
     tag: [350]
   '牧':
     val: '목'
-    desc: [ '기를','다스릴' ]
-    stroke: 8
+    desc: [ '기를','다스릴','목사' ]
+    str: 8
     tag: [40]
   '睦':
     val: '목'
     desc: [ '화목할' ]
-    stroke: 13
+    str: 13
     tag: [115]
-    surname: true
+    fam: true
   '沐':
     val: '목'
-    desc: [ '머리감을' ]
-    stroke: 7
-    originStroke: 8
+    desc: [ '머리감을','목욕' ]
+    str: 7
+    oStr: 8
     tag: [310]
   '沒':
     val: '몰'
-    desc: [ '빠질' ]
-    stroke: 7
-    originStroke: 8
-  '歿':
-    val: '몰'
-    desc: [ '죽을' ]
-    stroke: 8
+    desc: [ '빠질','몰입' ]
+    str: 7
+    oStr: 8
   '夢':
     val: '몽'
     desc: [ '꿈' ]
-    stroke: 14
+    str: 14
   '蒙':
     val: '몽'
-    desc: [ '어두울' ]
-    stroke: 14
-    originStroke: 16
-    surname: true
+    desc: [ '어두울','계몽' ]
+    str: 14
+    oStr: 16
+    fam: true
   '朦':
     val: '몽'
     desc: [ '흐릴','몽롱할' ]
-    stroke: 18
+    str: 18
   '卯':
     val: '묘'
     desc: [ '토끼' ]
-    stroke: 5
+    str: 5
     tag: [200,400]
   '妙':
     val: '묘'
     desc: [ '묘할' ]
-    stroke: 7
+    str: 7
   '苗':
     val: '묘'
-    desc: [ '모' ]
-    stroke: 9
-    originStroke: 11
+    desc: [ '모','묘목' ]
+    str: 9
+    oStr: 11
     tag: [300]
   '廟':
     val: '묘'
-    desc: [ '사당' ]
-    stroke: 15
+    desc: [ '사당','종묘[사직]' ]
+    str: 15
+    tag: [500]
   '墓':
     val: '묘'
     desc: [ '무덤' ]
-    stroke: 14
+    str: 14
   '描':
     val: '묘'
-    desc: [ '그릴' ]
-    stroke: 12
-    originStroke: 13
+    desc: [ '그릴','묘사' ]
+    str: 12
+    oStr: 13
   '杳':
     val: '묘'
     desc: [ '아득할','묘연할' ]
-    stroke: 8
+    str: 8
   '猫':
     val: '묘'
     desc: [ '고양이' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [200]
   '戊':
     val: '무'
     desc: [ '천간' ]
-    stroke: 5
+    str: 5
     tag: [400]
   '茂':
     val: '무'
     desc: [ '무성할' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
     tag: [300]
   '武':
     val: '무'
-    desc: [ '호반' ]
-    stroke: 8
+    desc: [ '호반','무인' ]
+    str: 8
     tag: [80]
   '務':
     val: '무'
-    desc: [ '힘쓸' ]
-    stroke: 10
+    desc: [ '힘쓸','업무' ]
+    str: 10
     tag: [120]
   '無':
     val: '무'
     desc: [ '없을' ]
-    stroke: 12
+    str: 12
   '舞':
     val: '무'
     desc: [ '춤출' ]
-    stroke: 14
+    str: 14
     tag: [150]
   '貿':
     val: '무'
     desc: [ '무역할' ]
-    stroke: 12
-    tag: [40]
+    str: 12
   '霧':
     val: '무'
     desc: [ '안개' ]
-    stroke: 19
+    str: 19
   '巫':
     val: '무'
     desc: [ '무당' ]
-    stroke: 7
+    str: 7
     tag: [500]
   '誣':
     val: '무'
-    desc: [ '속일' ]
-    stroke: 14
+    desc: [ '속일','무고' ]
+    str: 14
   '鵡':
     val: '무'
     desc: [ '앵무새' ]
-    stroke: 19
+    str: 19
     tag: [200]
   '墨':
     val: '묵'
     desc: [ '먹' ]
-    stroke: 15
-    surname: true
+    str: 15
+    fam: true
   '默':
     val: '묵'
-    desc: [ '잠잠할' ]
-    stroke: 16
+    desc: [ '잠잠할','침묵' ]
+    str: 16
     tag: [130]
   '門':
     val: '문'
     desc: [ '문' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '問':
     val: '문'
-    desc: [ '물을' ]
-    stroke: 11
+    desc: [ '물을','질문' ]
+    str: 11
   '聞':
     val: '문'
-    desc: [ '들을' ]
-    stroke: 14
+    desc: [ '들을','청문' ]
+    str: 14
   '文':
     val: '문'
     desc: [ '글월' ]
-    stroke: 4
+    str: 4
     tag: [70]
-    surname: true
+    fam: true
   '汶':
     val: '문'
     desc: [ '물이름' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
     tag: [310]
   '紋':
     val: '문'
-    desc: [ '무늬' ]
-    stroke: 10
+    desc: [ '무늬','문양' ]
+    str: 10
   '刎':
     val: '문'
-    desc: [ '목벨' ]
-    stroke: 6
+    desc: [ '목벨','문경지교' ]
+    str: 6
   '吻':
     val: '문'
     desc: [ '입술' ]
-    stroke: 7
+    str: 7
     tag: [350]
   '紊':
     val: '문'
     desc: [ '어지러울','문란할' ]
-    stroke: 10
+    str: 10
   '蚊':
     val: '문'
     desc: [ '모기' ]
-    stroke: 10
+    str: 10
     tag: [200]
   '勿':
     val: '물'
     desc: [ '아니할' ]
-    stroke: 4
+    str: 4
   '物':
     val: '물'
     desc: [ '물건' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '米':
     val: '미'
     desc: [ '쌀' ]
-    stroke: 6
+    str: 6
     tag: [300]
-    surname: true
+    fam: true
   '未':
     val: '미'
     desc: [ '아닐','아직' ]
-    stroke: 5
+    str: 5
   '味':
     val: '미'
     desc: [ '맛' ]
-    stroke: 8
+    str: 8
   '美':
     val: '미'
     desc: [ '아름다울' ]
-    stroke: 9
+    str: 9
     tag: [10]
   '尾':
     val: '미'
     desc: [ '꼬리' ]
-    stroke: 7
+    str: 7
   '迷':
     val: '미'
     desc: [ '미혹할' ]
-    stroke: 9
-    originStroke: 12
+    str: 9
+    oStr: 12
   '微':
     val: '미'
     desc: [ '작을' ]
-    stroke: 13
+    str: 13
   '眉':
     val: '미'
     desc: [ '눈썹' ]
-    stroke: 9
+    str: 9
     tag: [350]
   '薇':
     val: '미'
     desc: [ '장미' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
     tag: [10,300]
   '彌':
     val: '미'
     desc: [ '미륵' ]
-    stroke: 17
+    str: 17
     tag: [500]
-    surname: true
+    fam: true
   '民':
     val: '민'
     desc: [ '백성' ]
-    stroke: 5
+    str: 5
   '敏':
     val: '민'
     desc: [ '민첩할' ]
-    stroke: 11
+    str: 11
   '憫':
     val: '민'
     desc: [ '민망할' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
+  '玟':
+    val: '민'
+    desc: [ '아름다운 돌' ]
+    str: 8
+    oStr: 9
+    tag: [60]
+  '旻':
+    val: '민'
+    desc: [ '하늘' ]
+    str: 8
+    tag: [90]
+  '旼':
+    val: '민'
+    desc: [ '하늘','온화할' ]
+    str: 8
+    tag: [90,115]
   '閔':
     val: '민'
     desc: [ '성씨' ]
-    stroke: 12
-    surname: true
+    str: 12
+    fam: true
   '悶':
     val: '민'
-    desc: [ '답답할' ]
-    stroke: 12
+    desc: [ '답답할','고민','번민' ]
+    str: 12
   '密':
     val: '밀'
-    desc: [ '빽빽할' ]
-    stroke: 11
+    desc: [ '빽빽할','정밀' ]
+    str: 11
   '蜜':
     val: '밀'
-    desc: [ '꿀' ]
-    stroke: 14
+    desc: [ '꿀','밀랍' ]
+    str: 14
+  '謐':
+    val: '밀'
+    desc: [ '고요할' ]
+    str: 17
+    tag: [130]
   '泊':
     val: '박'
-    desc: [ '머무를' ]
-    stroke: 8
-    originStroke: 9
+    desc: [ '머무를','정박','숙박' ]
+    str: 8
+    oStr: 9
   '拍':
     val: '박'
     desc: [ '칠','박자' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '迫':
     val: '박'
     desc: [ '핍박할' ]
-    stroke: 8
-    originStroke: 11
+    str: 8
+    oStr: 11
   '朴':
     val: '박'
     desc: [ '성씨' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '博':
     val: '박'
-    desc: [ '넓을' ]
-    stroke: 12
+    desc: [ '넓을','박사' ]
+    str: 12
     tag: [70]
   '薄':
     val: '박'
-    desc: [ '엷을' ]
-    stroke: 17
-    originStroke: 19
+    desc: [ '엷을','경박' ]
+    str: 17
+    oStr: 19
   '撲':
     val: '박'
-    desc: [ '칠','두드릴' ]
-    stroke: 15
-    originStroke: 16
+    desc: [ '칠','두드릴','타박' ]
+    str: 15
+    oStr: 16
   '舶':
     val: '박'
     desc: [ '배','선박' ]
-    stroke: 11
+    str: 11
   '雹':
     val: '박'
     desc: [ '우박' ]
-    stroke: 13
+    str: 13
   '駁':
     val: '박'
     desc: [ '논박할' ]
-    stroke: 14
+    str: 14
   '珀':
     val: '박'
     desc: [ '호박' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [60]
   '剝':
     val: '박'
     desc: [ '벗길','박제' ]
-    stroke: 10
+    str: 10
   '反':
     val: '반'
     desc: [ '돌이킬' ]
-    stroke: 4
+    str: 4
   '飯':
     val: '반'
     desc: [ '밥' ]
-    stroke: 12
+    str: 12
   '半':
     val: '반'
     desc: [ '절반' ]
-    stroke: 5
+    str: 5
   '般':
     val: '반'
     desc: [ '일반' ]
-    stroke: 10
+    str: 10
   '盤':
     val: '반'
     desc: [ '소반' ]
-    stroke: 15
+    str: 15
   '班':
     val: '반'
     desc: [ '나눌' ]
-    stroke: 10
-    originStroke: 11
-    surname: true
+    str: 10
+    oStr: 11
+    fam: true
   '返':
     val: '반'
     desc: [ '돌이킬' ]
-    stroke: 7
-    originStroke: 10
+    str: 7
+    oStr: 10
   '叛':
     val: '반'
     desc: [ '배반할' ]
-    stroke: 9
+    str: 9
   '伴':
     val: '반'
     desc: [ '짝' ]
-    stroke: 7
+    str: 7
     tag: [115]
   '頒':
     val: '반'
     desc: [ '나눌','반포할' ]
-    stroke: 13
+    str: 13
   '潘':
     val: '반'
     desc: [ '성씨' ]
-    stroke: 15
-    originStroke: 16
-    surname: true
+    str: 15
+    oStr: 16
+    fam: true
   '搬':
     val: '반'
-    desc: [ '옮길' ]
-    stroke: 13
-    originStroke: 14
-  '拌':
-    val: '반'
-    desc: [ '버릴','쪼갤' ]
-    stroke: 8
-    originStroke: 9
-  '磐':
-    val: '반'
-    desc: [ '너럭바위' ]
-    stroke: 15
-    tag: [90]
+    desc: [ '옮길','운반' ]
+    str: 13
+    oStr: 14
   '攀':
     val: '반'
     desc: [ '더위잡을','등반' ]
-    stroke: 19
+    str: 19
   '斑':
     val: '반'
     desc: [ '아롱질','반점' ]
-    stroke: 12
+    str: 12
   '槃':
     val: '반'
     desc: [ '쟁반','열반' ]
-    stroke: 14
+    str: 14
     tag: [500]
   '泮':
     val: '반'
     desc: [ '물가' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
     tag: [310]
   '瘢':
     val: '반'
     desc: [ '흉터','반창' ]
-    stroke: 15
+    str: 15
     tag: [360]
   '盼':
     val: '반'
     desc: [ '눈예쁠' ]
-    stroke: 9
+    str: 9
     tag: [10]
   '礬':
     val: '반'
     desc: [ '명반','백반' ]
-    stroke: 20
+    str: 20
     tag: [330]
   '絆':
     val: '반'
     desc: [ '얽어맬','각반' ]
-    stroke: 11
+    str: 11
   '發':
     val: '발'
     desc: [ '필','쏘다' ]
-    stroke: 12
+    str: 12
   '拔':
     val: '발'
-    desc: [ '뽑을' ]
-    stroke: 8
-    originStroke: 9
+    desc: [ '뽑을','발탁' ]
+    str: 8
+    oStr: 9
     tag: [20]
   '髮':
     val: '발'
-    desc: [ '터럭' ]
-    stroke: 15
+    desc: [ '터럭','모발' ]
+    str: 15
     tag: [350]
   '潑':
     val: '발'
     desc: [ '물뿌릴','활발' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
     tag: [90,310]
   '鉢':
     val: '발'
     desc: [ '바리때','사발' ]
-    stroke: 13
+    str: 13
     tag: [500]
   '渤':
     val: '발'
     desc: [ '바다이름','발해' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '勃':
     val: '발'
     desc: [ '노할','발끈하다' ]
-    stroke: 9
+    str: 9
   '撥':
     val: '발'
-    desc: [ '다스릴' ]
-    stroke: 15
-    originStroke: 16
+    desc: [ '다스릴','반발' ]
+    str: 15
+    oStr: 16
     tag: [40]
   '跋':
     val: '발'
-    desc: [ '밟을' ]
-    stroke: 12
+    desc: [ '밟을','발호' ]
+    str: 12
   '醱':
     val: '발'
     desc: [ '술 괼','발효' ]
-    stroke: 19
+    str: 19
   '魃':
     val: '발'
-    desc: [ '가뭄' ]
-    stroke: 14
+    desc: [ '가뭄','한발' ]
+    str: 14
   '方':
     val: '방'
     desc: [ '네모','방향','장소' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '房':
     val: '방'
     desc: [ '방' ]
-    stroke: 8
+    str: 8
   '防':
     val: '방'
-    desc: [ '막을' ]
-    stroke: 7
-    originStroke: 12
+    desc: [ '막을','방위' ]
+    str: 7
+    oStr: 12
     tag: [80]
   '放':
     val: '방'
-    desc: [ '놓을' ]
-    stroke: 8
+    desc: [ '놓을','방목' ]
+    str: 8
     tag: [500]
   '訪':
     val: '방'
-    desc: [ '찾을' ]
-    stroke: 11
+    desc: [ '찾을','방문' ]
+    str: 11
   '芳':
     val: '방'
-    desc: [ '꽃다울' ]
-    stroke: 8
-    originStroke: 10
+    desc: [ '꽃다울','방년' ]
+    str: 8
+    oStr: 10
     tag: [10]
-    surname: true
+    fam: true
   '傍':
     val: '방'
-    desc: [ '곁','옆' ]
-    stroke: 12
+    desc: [ '곁','옆','방점' ]
+    str: 12
   '妨':
     val: '방'
     desc: [ '방해할' ]
-    stroke: 7
+    str: 7
   '倣':
     val: '방'
-    desc: [ '본뜰' ]
-    stroke: 10
+    desc: [ '본뜰','모방' ]
+    str: 10
   '邦':
     val: '방'
     desc: [ '나라' ]
-    stroke: 7
-    originStroke: 12
-    surname: true
+    str: 7
+    oStr: 12
+    fam: true
   '坊':
     val: '방'
-    desc: [ '동네' ]
-    stroke: 7
+    desc: [ '동네','방방곡곡' ]
+    str: 7
   '彷':
     val: '방'
     desc: [ '방황할' ]
-    stroke: 7
+    str: 7
   '昉':
     val: '방'
     desc: [ '밝을','찾을' ]
-    stroke: 8
+    str: 8
     tag: [30]
   '肪':
     val: '방'
-    desc: [ '살찔' ]
-    stroke: 8
+    desc: [ '살찔','지방' ]
+    str: 8
   '紡':
     val: '방'
-    desc: [ '길쌈' ]
-    stroke: 10
+    desc: [ '길쌈','방적' ]
+    str: 10
   '膀':
     val: '방'
     desc: [ '방광' ]
-    stroke: 14
-    originStroke: 16
+    str: 14
+    oStr: 16
     tag: [350]
   '舫':
     val: '방'
     desc: [ '방주' ]
-    stroke: 10
+    str: 10
     tag: [500]
   '謗':
     val: '방'
     desc: [ '헐뜯을','비방' ]
-    stroke: 17
-  '幇':
+    str: 17
+  '帮':
     val: '방'
     desc: [ '도울' ]
-    stroke: 12
+    str: 10
+    tag: [115]
   '魴':
     val: '방'
-    desc: [ '방어' ]
-    stroke: 15
+    desc: [ '(물고기)방어' ]
+    str: 15
     tag: [200]
   '龐':
     val: '방'
     desc: [ '어지러울' ]
-    stroke: 19
-    surname: true
+    str: 19
+    fam: true
   '拜':
     val: '배'
     desc: [ '절할' ]
-    stroke: 9
+    str: 9
     tag: [110]
   '杯':
     val: '배'
     desc: [ '잔' ]
-    stroke: 8
+    str: 8
   '倍':
     val: '배'
     desc: [ '곱하다','더하다' ]
-    stroke: 10
+    str: 10
   '培':
     val: '배'
     desc: [ '북돋을','배양' ]
-    stroke: 11
+    str: 11
   '配':
     val: '배'
     desc: [ '나눌','짝' ]
-    stroke: 10
+    str: 10
     tag: [115]
   '排':
     val: '배'
-    desc: [ '밀칠','풀무','배척' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '밀칠','배척','안배' ]
+    str: 11
+    oStr: 12
   '輩':
     val: '배'
-    desc: [ '무리' ]
-    stroke: 15
+    desc: [ '무리','선후배' ]
+    str: 15
     tag: [115]
   '背':
     val: '배'
-    desc: [ '등' ]
-    stroke: 9
-    originStroke: 11
+    desc: [ '등','배경','위배' ]
+    str: 9
+    oStr: 11
     tag: [350]
   '陪':
     val: '배'
     desc: [ '모실','배석' ]
-    stroke: 11
-    originStroke: 16
+    str: 11
+    oStr: 16
     tag: [110]
   '湃':
     val: '배'
     desc: [ '물결칠','팽배' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [310]
   '俳':
     val: '배'
     desc: [ '배우','가배' ]
-    stroke: 10
+    str: 10
     tag: [150]
   '徘':
     val: '배'
     desc: [ '배회할' ]
-    stroke: 11
+    str: 11
   '焙':
     val: '배'
     desc: [ '불쬘','배롱' ]
-    stroke: 12
+    str: 12
     tag: [320]
   '胚':
     val: '배'
-    desc: [ '임신할' ]
-    stroke: 9
-    originStroke: 11
+    desc: [ '임신할','배아' ]
+    str: 9
+    oStr: 11
   '褙':
     val: '배'
-    desc: [ '속적삼' ]
-    stroke: 14
+    desc: [ '속적삼','도배' ]
+    str: 14
+    oStr: 15
   '賠':
     val: '배'
     desc: [ '물어줄','배상' ]
-    stroke: 15
+    str: 15
   '裵':
     val: '배'
     desc: [ '성씨' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '白':
     val: '백'
     desc: [ '흰' ]
-    stroke: 5
+    str: 5
     tag: [160]
-    surname: true
+    fam: true
   '百':
     val: '백'
     desc: [ '일백' ]
-    stroke: 6
+    str: 6
   '伯':
     val: '백'
-    desc: [ '맏','우두머리' ]
-    stroke: 7
+    desc: [ '맏','우두머리','백부' ]
+    str: 7
   '帛':
     val: '백'
-    desc: [ '비단' ]
-    stroke: 8
+    desc: [ '비단','폐백' ]
+    str: 8
   '魄':
     val: '백'
-    desc: [ '넋' ]
-    stroke: 14
+    desc: [ '넋','혼백' ]
+    str: 14
     tag: [500]
   '柏':
     val: '백'
-    desc: [ '측백' ]
-    stroke: 9
+    desc: [ '측백나무' ]
+    str: 9
     tag: [300]
-    surname: true
+    fam: true
   '番':
     val: '번'
-    desc: [ '차례' ]
-    stroke: 12
+    desc: [ '차례','순번' ]
+    str: 12
   '煩':
     val: '번'
     desc: [ '번거로울' ]
-    stroke: 13
+    str: 13
   '繁':
     val: '번'
     desc: [ '번성할' ]
-    stroke: 17
+    str: 17
   '飜':
     val: '번'
     desc: [ '번역할','날다' ]
-    stroke: 21
+    str: 21
   '蕃':
     val: '번'
     desc: [ '우거질','번식' ]
-    stroke: 16
-    originStroke: 18
+    str: 16
+    oStr: 18
   '燔':
     val: '번'
-    desc: [ '불사를' ]
-    stroke: 16
+    desc: [ '불사를','번제' ]
+    str: 16
     tag: [320,500]
   '伐':
     val: '벌'
     desc: [ '칠','정벌할' ]
-    stroke: 6
+    str: 6
     tag: [45,80]
   '罰':
     val: '벌'
     desc: [ '벌할' ]
-    stroke: 14
+    str: 14
   '閥':
     val: '벌'
     desc: [ '문벌' ]
-    stroke: 14
+    str: 14
   '筏':
     val: '벌'
-    desc: [ '뗏목' ]
-    stroke: 12
+    desc: [ '뗏목','벌교' ]
+    str: 12
   '凡':
     val: '범'
     desc: [ '무릇' ]
-    stroke: 3
-    surname: true
+    str: 3
+    fam: true
   '犯':
     val: '범'
     desc: [ '범할' ]
-    stroke: 5
-    originStroke: 6
+    str: 5
+    oStr: 6
   '範':
     val: '범'
     desc: [ '법','모범' ]
-    stroke: 15
+    str: 15
     tag: [20,110]
   '帆':
     val: '범'
-    desc: [ '돛' ]
-    stroke: 6
+    desc: [ '돛','범선' ]
+    str: 6
   '氾':
     val: '범'
-    desc: [ '넘칠' ]
-    stroke: 5
-    originStroke: 6
+    desc: [ '넘칠','범람' ]
+    str: 5
+    oStr: 6
     tag: [310]
   '范':
     val: '범'
     desc: [ '성씨' ]
-    stroke: 9
-    originStroke: 11
-    surname: true
+    str: 9
+    oStr: 11
+    fam: true
   '梵':
     val: '범'
-    desc: [ '불경' ]
-    stroke: 11
+    desc: [ '불경','범어' ]
+    str: 11
     tag: [500]
   '汎':
     val: '범'
     desc: [ '넓을','대범' ]
-    stroke: 6
+    str: 6
     tag: [90]
   '泛':
     val: '범'
     desc: [ '뜰','넓다','대범' ]
-    stroke: 8
+    str: 8
     tag: [90]
-    surname: true
+    fam: true
   '法':
     val: '법'
     desc: [ '법' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
     tag: [40]
   '琺':
     val: '법'
     desc: [ '법랑' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '壁':
     val: '벽'
     desc: [ '벽' ]
-    stroke: 16
+    str: 16
   '碧':
     val: '벽'
-    desc: [ '푸를' ]
-    stroke: 14
+    desc: [ '푸를','상전벽해' ]
+    str: 14
     tag: [160]
   '璧':
     val: '벽'
-    desc: [ '구슬' ]
-    stroke: 18
-    originStroke: 19
+    desc: [ '구슬','화씨벽' ]
+    str: 18
+    oStr: 19
     tag: [60]
   '闢':
     val: '벽'
     desc: [ '열','개벽' ]
-    stroke: 21
+    str: 21
     tag: [90]
   '劈':
     val: '벽'
-    desc: [ '쪼갤' ]
-    stroke: 15
+    desc: [ '쪼갤','벽두' ]
+    str: 15
     tag: [80]
   '霹':
     val: '벽'
-    desc: [ '벼락' ]
-    stroke: 21
+    desc: [ '벼락','벽력' ]
+    str: 21
     tag: [80]
   '甓':
     val: '벽'
     desc: [ '벽돌' ]
-    stroke: 18
+    str: 18
   '變':
     val: '변'
     desc: [ '변할' ]
-    stroke: 23
+    str: 23
   '辯':
     val: '변'
-    desc: [ '말씀' ]
-    stroke: 21
+    desc: [ '말씀','변호사' ]
+    str: 21
   '辨':
     val: '변'
-    desc: [ '분별할' ]
-    stroke: 16
+    desc: [ '분별할','변별' ]
+    str: 16
   '邊':
     val: '변'
     desc: [ '가','옆','변방' ]
-    stroke: 18
-    originStroke: 21
-    surname: true
+    str: 18
+    oStr: 21
+    fam: true
   '卞':
     val: '변'
     desc: [ '성씨' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '弁':
     val: '변'
-    desc: [ '고깔' ]
-    stroke: 5
+    desc: [ '고깔','변한(3한)' ]
+    str: 5
   '別':
     val: '별'
     desc: [ '나눌' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '瞥':
     val: '별'
-    desc: [ '깜짝할' ]
-    stroke: 16
+    desc: [ '깜짝할','별안간' ]
+    str: 16
   '鼈':
     val: '별'
-    desc: [ '자라' ]
-    stroke: 24
+    desc: [ '자라','별주부' ]
+    str: 24
     tag: [200]
   '丙':
     val: '병'
     desc: [ '남녘' ]
-    stroke: 5
+    str: 5
     tag: [400]
   '病':
     val: '병'
     desc: [ '병','아플' ]
-    stroke: 10
+    str: 10
     tag: [360]
   '兵':
     val: '병'
     desc: [ '병사' ]
-    stroke: 7
+    str: 7
     tag: [80]
   '竝':
     val: '병'
-    desc: [ '나란히' ]
-    stroke: 10
+    desc: [ '나란히','병행' ]
+    str: 10
     tag: [115]
   '屛':
     val: '병'
     desc: [ '병풍' ]
-    stroke: 11
+    str: 11
   '倂':
     val: '병'
-    desc: [ '아우를' ]
-    stroke: 10
+    desc: [ '아우를','병합' ]
+    str: 10
   '幷':
     val: '병'
     desc: [ '아우를' ]
-    stroke: 8
+    str: 8
   '甁':
     val: '병'
     desc: [ '병','단지' ]
-    stroke: 13
+    str: 13
   '炳':
     val: '병'
     desc: [ '불꽃','밝을' ]
-    stroke: 9
-    tag: [320]
+    str: 9
+    tag: [30,320]
   '昞':
     val: '병'
     desc: [ '불꽃','밝을' ]
-    stroke: 9
-    tag: [320]
+    str: 9
+    tag: [30]
   '柄':
     val: '병'
-    desc: [ '자루' ]
-    stroke: 9
+    desc: [ '자루','신병' ]
+    str: 9
   '餠':
     val: '병'
-    desc: [ '떡' ]
-    stroke: 16
+    desc: [ '떡','전병' ]
+    str: 16
   '保':
     val: '보'
-    desc: [ '지킬' ]
-    stroke: 9
+    desc: [ '지킬','보호' ]
+    str: 9
   '步':
     val: '보'
     desc: [ '걸음' ]
-    stroke: 7
+    str: 7
   '報':
     val: '보'
-    desc: [ '갚을','알릴' ]
-    stroke: 12
+    desc: [ '갚을','알릴','보도' ]
+    str: 12
   '普':
     val: '보'
-    desc: [ '넓을' ]
-    stroke: 12
+    desc: [ '넓을','보통' ]
+    str: 12
     tag: [90]
   '補':
     val: '보'
-    desc: [ '기울','도울' ]
-    stroke: 12
-    originStroke: 13
-    tag: [115]
+    desc: [ '기울','도울','후보','보완' ]
+    str: 12
+    oStr: 13
   '譜':
     val: '보'
     desc: [ '족보' ]
-    stroke: 19
+    str: 19
   '寶':
     val: '보'
     desc: [ '보배' ]
-    stroke: 20
+    str: 20
     tag: [40,60]
   '堡':
     val: '보'
-    desc: [ '작은성','둑' ]
-    stroke: 12
+    desc: [ '작은성','둑','보루' ]
+    str: 12
     tag: [330]
   '菩':
     val: '보'
     desc: [ '보살' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
     tag: [500]
   '洑':
     val: '보'
     desc: [ '보','물가둠' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [310]
   '褓':
     val: '보'
     desc: [ '포대기' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '甫':
     val: '보'
     desc: [ '클' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
+    ex: ['두보(杜甫)']
   '復':
     val: '복'
-    desc: [ '회복할' ]
-    stroke: 12
+    desc: [ '회복할','반복' ]
+    str: 12
   '輻':
     val: '복'
-    desc: [ '바퀴살' ]
-    stroke: 16
+    desc: [ '바퀴살','복사' ]
+    str: 16
   '福':
     val: '복'
     desc: [ '복' ]
-    stroke: 13
+    str: 13
     tag: [50]
   '伏':
     val: '복'
     desc: [ '엎드릴' ]
-    stroke: 6
+    str: 6
+    tag: [125]
   '服':
     val: '복'
     desc: [ '옷' ]
-    stroke: 8
+    str: 8
   '腹':
     val: '복'
     desc: [ '배' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [350]
   '複':
     val: '복'
-    desc: [ '겹칠' ]
-    stroke: 14
-    originStroke: 15
+    desc: [ '겹칠','중복' ]
+    str: 14
+    oStr: 15
   '卜':
     val: '복'
     desc: [ '점' ]
-    stroke: 2
-    surname: true
+    str: 2
+    fam: true
   '覆':
     val: '복'
-    desc: [ '다시','덮을' ]
-    stroke: 18
+    desc: [ '덮을','번복','전복' ]
+    str: 18
   '僕':
     val: '복'
     desc: [ '종' ]
-    stroke: 14
+    str: 14
   '鰒':
     val: '복'
     desc: [ '전복' ]
-    stroke: 20
+    str: 20
     tag: [200]
   '乶':
     val: '볼'
     desc: [ '음역자' ]
-    stroke: 8
+    str: 8
   '奉':
     val: '봉'
-    desc: [ '받들' ]
-    stroke: 8
-    tag: [125]
-    surname: true
+    desc: [ '받들','봉사' ]
+    str: 8
+    tag: [115,125]
+    fam: true
   '逢':
     val: '봉'
-    desc: [ '만날' ]
-    stroke: 10
-    originStroke: 13
+    desc: [ '만날','상봉' ]
+    str: 10
+    oStr: 13
   '峯':
     val: '봉'
     desc: [ '봉우리' ]
-    stroke: 10
+    str: 10
     tag: [330]
   '蜂':
     val: '봉'
-    desc: [ '벌' ]
-    stroke: 13
+    desc: [ '벌','양봉','봉기' ]
+    str: 13
     tag: [200]
   '封':
     val: '봉'
-    desc: [ '봉할' ]
-    stroke: 9
+    desc: [ '봉할','봉투' ]
+    str: 9
   '鳳':
     val: '봉'
     desc: [ '봉새' ]
-    stroke: 14
+    str: 14
     tag: [40,200]
-    surname: true
+    fam: true
   '俸':
     val: '봉'
-    desc: [ '녹' ]
-    stroke: 10
+    desc: [ '녹','봉급' ]
+    str: 10
   '捧':
     val: '봉'
-    desc: [ '받들' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '받들','봉납' ]
+    str: 11
+    oStr: 12
     tag: [125]
   '棒':
     val: '봉'
     desc: [ '막대' ]
-    stroke: 12
+    str: 12
   '烽':
     val: '봉'
     desc: [ '봉화' ]
-    stroke: 11
+    str: 11
     tag: [320]
   '蓬':
     val: '봉'
-    desc: [ '쑥' ]
-    stroke: 14
-    originStroke: 16
+    desc: [ '쑥','마중지봉' ]
+    str: 14
+    oStr: 16
     tag: [300]
   '鋒':
     val: '봉'
-    desc: [ '칼날' ]
-    stroke: 15
+    desc: [ '칼날','선봉' ]
+    str: 15
     tag: [80]
   '縫':
     val: '봉'
-    desc: [ '꿰맬' ]
-    stroke: 16
+    desc: [ '꿰맬','재봉' ]
+    str: 16
   '夫':
     val: '부'
-    desc: [ '지아비' ]
-    stroke: 4
+    desc: [ '지아비','부부' ]
+    str: 4
     tag: [115]
-    surname: true
+    fam: true
   '扶':
     val: '부'
-    desc: [ '도울' ]
-    stroke: 7
-    originStroke: 8
-    tag: [120]
+    desc: [ '도울','부조' ]
+    str: 7
+    oStr: 8
   '父':
     val: '부'
     desc: [ '아버지' ]
-    stroke: 4
+    str: 4
     tag: [115]
   '富':
     val: '부'
     desc: [ '부유할' ]
-    stroke: 12
+    str: 12
     tag: [40,50]
   '部':
     val: '부'
-    desc: [ '떼','거느릴' ]
-    stroke: 11
-    originStroke: 15
-    surname: true
+    desc: [ '떼','거느릴','부문' ]
+    str: 11
+    oStr: 15
+    fam: true
   '婦':
     val: '부'
-    desc: [ '며느리' ]
-    stroke: 11
+    desc: [ '며느리','부부' ]
+    str: 11
     tag: [115]
   '否':
     val: '부'
-    desc: [ '아닐' ]
-    stroke: 7
+    desc: [ '아닐','부정' ]
+    str: 7
   '浮':
     val: '부'
-    desc: [ '뜰' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '뜰','부상' ]
+    str: 10
+    oStr: 11
   '付':
     val: '부'
-    desc: [ '줄' ]
-    stroke: 5
+    desc: [ '줄','부탁' ]
+    str: 5
   '符':
     val: '부'
     desc: [ '부호','기호' ]
-    stroke: 11
+    str: 11
   '附':
     val: '부'
-    desc: [ '붙을' ]
-    stroke: 8
-    originStroke: 12
-    surname: true
+    desc: [ '붙을','부여' ]
+    str: 8
+    oStr: 12
+    fam: true
   '府':
     val: '부'
-    desc: [ '마을' ]
-    stroke: 8
+    desc: [ '마을','부락' ]
+    str: 8
     tag: [115]
   '腐':
     val: '부'
-    desc: [ '썩을' ]
-    stroke: 14
+    desc: [ '썩을','부패' ]
+    str: 14
   '負':
     val: '부'
-    desc: [ '질','떠맡다' ]
-    stroke: 9
+    desc: [ '질','떠맡다','부담' ]
+    str: 9
   '副':
     val: '부'
     desc: [ '버금','둘째' ]
-    stroke: 11
+    str: 11
   '簿':
     val: '부'
     desc: [ '문서','장부' ]
-    stroke: 19
+    str: 19
   '赴':
     val: '부'
-    desc: [ '다다를' ]
-    stroke: 9
+    desc: [ '다다를','부임' ]
+    str: 9
   '賦':
     val: '부'
     desc: [ '부과할' ]
-    stroke: 15
+    str: 15
   '賻':
     val: '부'
     desc: [ '부의할' ]
-    stroke: 17
+    str: 17
   '芙':
     val: '부'
-    desc: [ '연꽃' ]
-    stroke: 8
-    originStroke: 10
+    desc: [ '연꽃','부용' ]
+    str: 8
+    oStr: 10
     tag: [300]
   '趺':
     val: '부'
     desc: [ '책상다리','가부좌' ]
-    stroke: 11
+    str: 11
   '傅':
     val: '부'
-    desc: [ '스승' ]
-    stroke: 12
-    surname: true
+    desc: [ '스승','사부' ]
+    str: 12
+    fam: true
   '釜':
     val: '부'
-    desc: [ '가마' ]
-    stroke: 10
+    desc: [ '가마','부산' ]
+    str: 10
   '阜':
     val: '부'
     desc: [ '언덕' ]
-    stroke: 8
+    str: 8
     tag: [330]
   '敷':
     val: '부'
     desc: [ '펼','부지' ]
-    stroke: 15
+    str: 15
   '駙':
     val: '부'
     desc: [ '곁마','부마' ]
-    stroke: 15
+    str: 15
     tag: [40]
   '膚':
     val: '부'
     desc: [ '살갗','피부' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
     tag: [350]
   '俯':
     val: '부'
-    desc: [ '구부릴' ]
-    stroke: 10
+    desc: [ '구부릴','부각' ]
+    str: 10
   '剖':
     val: '부'
-    desc: [ '쪼갤' ]
-    stroke: 10
+    desc: [ '쪼갤','해부' ]
+    str: 10
   '埠':
     val: '부'
     desc: [ '부두' ]
-    stroke: 11
+    str: 11
   '孵':
     val: '부'
     desc: [ '부화할' ]
-    stroke: 14
+    str: 14
   '斧':
     val: '부'
     desc: [ '도끼' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '北':
     val: '북'
     desc: [ '북녘' ]
-    stroke: 5
-    surname: true
+    str: 5
+    fam: true
   '分':
     val: '분'
     desc: [ '나눌' ]
-    stroke: 4
+    str: 4
   '紛':
     val: '분'
-    desc: [ '어지러울' ]
-    stroke: 10
+    desc: [ '어지러울','분란','분실' ]
+    str: 10
   '粉':
     val: '분'
     desc: [ '가루' ]
-    stroke: 10
+    str: 10
   '奔':
     val: '분'
-    desc: [ '달릴' ]
-    stroke: 8
+    desc: [ '달릴','분주' ]
+    str: 8
   '墳':
     val: '분'
-    desc: [ '무덤' ]
-    stroke: 15
+    desc: [ '무덤','고분' ]
+    str: 15
   '憤':
     val: '분'
     desc: [ '분할' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
   '奮':
     val: '분'
-    desc: [ '떨칠' ]
-    stroke: 16
+    desc: [ '떨칠','흥분' ]
+    str: 16
   '芬':
     val: '분'
     desc: [ '향기' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
   '盆':
     val: '분'
     desc: [ '동일','화분' ]
-    stroke: 9
+    str: 9
   '噴':
     val: '분'
-    desc: [ '뿜을' ]
-    stroke: 15
+    desc: [ '뿜을','분수' ]
+    str: 15
   '扮':
     val: '분'
-    desc: [ '꾸밀' ]
-    stroke: 7
-    originStroke: 8
+    desc: [ '꾸밀','분장' ]
+    str: 7
+    oStr: 8
+    tag: [10]
   '佛':
     val: '불'
     desc: [ '부처' ]
-    stroke: 7
+    str: 7
     tag: [500]
   '拂':
     val: '불'
     desc: [ '떨칠','지불할' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '彿':
     val: '불'
-    desc: [ '비슷할' ]
-    stroke: 8
+    desc: [ '비슷할','방불' ]
+    str: 8
   '弗':
     val: '불'
     desc: [ '아닐' ]
-    stroke: 5
+    str: 5
   '朋':
     val: '붕'
     desc: [ '벗' ]
-    stroke: 8
+    str: 8
     tag: [115]
   '崩':
     val: '붕'
     desc: [ '무너질' ]
-    stroke: 11
+    str: 11
     tag: [330]
   '鵬':
     val: '붕'
     desc: [ '붕새','대붕' ]
-    stroke: 19
-    tag: [200]
+    str: 19
+    tag: [40,200]
   '繃':
     val: '붕'
-    desc: [ '묶을' ]
-    stroke: 17
+    desc: [ '묶을','붕대' ]
+    str: 17
   '比':
     val: '비'
-    desc: [ '견줄' ]
-    stroke: 4
+    desc: [ '견줄','비교' ]
+    str: 4
   '非':
     val: '비'
     desc: [ '아닐' ]
-    stroke: 8
+    str: 8
   '悲':
     val: '비'
     desc: [ '슬플' ]
-    stroke: 12
+    str: 12
   '飛':
     val: '비'
     desc: [ '날' ]
-    stroke: 9
+    str: 9
   '鼻':
     val: '비'
     desc: [ '코' ]
-    stroke: 14
+    str: 14
     tag: [350]
   '備':
     val: '비'
-    desc: [ '갖출' ]
-    stroke: 12
+    desc: [ '갖출','장비' ]
+    str: 12
     tag: [120]
   '批':
     val: '비'
     desc: [ '비평할' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
   '卑':
     val: '비'
-    desc: [ '낮을' ]
-    stroke: 8
+    desc: [ '낮을','비천할' ]
+    str: 8
     tag: [125]
   '碑':
     val: '비'
     desc: [ '비석' ]
-    stroke: 13
+    str: 13
   '妃':
     val: '비'
     desc: [ '왕비' ]
-    stroke: 6
+    str: 6
     tag: [10,20]
   '肥':
     val: '비'
     desc: [ '살찔' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
   '祕':
     val: '비'
     desc: [ '숨길' ]
-    stroke: 9
+    str: 9
   '費':
     val: '비'
     desc: [ '쓸','비용' ]
-    stroke: 12
+    str: 12
   '琵':
     val: '비'
     desc: [ '비파' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [155]
   '譬':
     val: '비'
     desc: [ '비유할' ]
-    stroke: 20
+    str: 20
   '庇':
     val: '비'
     desc: [ '덮을','비호할' ]
-    stroke: 7
+    str: 7
   '丕':
     val: '비'
     desc: [ '클' ]
-    stroke: 5
-    surname: true
+    str: 5
+    fam: true
   '匕':
     val: '비'
     desc: [ '비수' ]
-    stroke: 2
+    str: 2
   '匪':
     val: '비'
     desc: [ '비적','비류' ]
-    stroke: 10
+    str: 10
+  '斐':
+    val: '비'
+    desc: [ '문채 날','화려할' ]
+    str: 12
+    tag: [20]
   '榧':
     val: '비'
     desc: [ '비자나무' ]
-    stroke: 14
+    str: 14
     tag: [300]
   '毖':
     val: '비'
     desc: [ '삼갈' ]
-    stroke: 9
+    str: 9
     tag: [125]
   '緋':
     val: '비'
     desc: [ '비단' ]
-    stroke: 14
+    str: 14
+    tag: [10]
   '翡':
     val: '비'
     desc: [ '물총새','비취' ]
-    stroke: 14
+    str: 14
     tag: [60,200]
   '脾':
     val: '비'
     desc: [ '지라','비장' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
     tag: [350]
   '貧':
     val: '빈'
-    desc: [ '가난할' ]
-    stroke: 11
+    desc: [ '가난할','빈곤' ]
+    str: 11
     tag: [125]
   '賓':
     val: '빈'
     desc: [ '손님' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '頻':
     val: '빈'
     desc: [ '자주','빈도' ]
-    stroke: 16
+    str: 16
   '彬':
     val: '빈'
     desc: [ '빛날' ]
-    stroke: 11
+    str: 11
     tag: [30]
-    surname: true
+    fam: true
   '嬪':
     val: '빈'
     desc: [ '궁녀' ]
-    stroke: 17
+    str: 17
     tag: [10,20]
   '氷':
     val: '빙'
     desc: [ '얼음' ]
-    stroke: 5
+    str: 5
     tag: [310]
-    surname: true
+    fam: true
   '聘':
     val: '빙'
     desc: [ '부를','초빙' ]
-    stroke: 13
+    str: 13
   '憑':
     val: '빙'
-    desc: [ '기댈','빙자할' ]
-    stroke: 16
-  '憑':
-    val: '빙'
-    desc: [ '기댈','빙자할' ]
-    stroke: 16
+    desc: [ '기댈','빙자할','빙의' ]
+    str: 16
   '四':
     val: '사'
     desc: [ '넉' ]
-    stroke: 5
-    originStroke: 4
+    str: 5
+    oStr: 4
   '巳':
     val: '사'
     desc: [ '뱀' ]
-    stroke: 3
+    str: 3
     tag: [200]
   '士':
     val: '사'
     desc: [ '선비' ]
-    stroke: 3
-    tag: [20,70,110,125]
+    str: 3
+    tag: [20,70,110]
   '仕':
     val: '사'
-    desc: [ '섬길' ]
-    stroke: 5
+    desc: [ '섬길','봉사' ]
+    str: 5
     tag: [110,120,125]
   '寺':
     val: '사'
     desc: [ '절' ]
-    stroke: 6
+    str: 6
     tag: [500]
   '史':
     val: '사'
     desc: [ '역사' ]
-    stroke: 5
+    str: 5
     tag: [70]
-    surname: true
+    fam: true
   '使':
     val: '사'
-    desc: [ '부릴' ]
-    stroke: 8
-    tag: [40]
+    desc: [ '부릴','사용' ]
+    str: 8
   '舍':
     val: '사'
     desc: [ '집' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '射':
     val: '사'
-    desc: [ '쏠' ]
-    stroke: 10
+    desc: [ '쏠','사격' ]
+    str: 10
   '謝':
     val: '사'
-    desc: [ '사례할' ]
-    stroke: 17
-    surname: true
+    desc: [ '사례할','감사' ]
+    str: 17
+    fam: true
   '師':
     val: '사'
     desc: [ '스승' ]
-    stroke: 10
+    str: 10
     tag: [70]
   '死':
     val: '사'
     desc: [ '죽을' ]
-    stroke: 6
+    str: 6
   '私':
     val: '사'
     desc: [ '사사로울' ]
-    stroke: 7
+    str: 7
   '絲':
     val: '사'
-    desc: [ '실' ]
-    stroke: 12
+    desc: [ '실','끈' ]
+    str: 12
   '思':
     val: '사'
     desc: [ '생각' ]
-    stroke: 9
-    surname: true
+    str: 9
+    fam: true
   '事':
     val: '사'
     desc: [ '일' ]
-    stroke: 8
+    str: 8
     tag: [120]
   '司':
     val: '사'
-    desc: [ '맡을' ]
-    stroke: 5
-    surname: true
+    desc: [ '맡을','사령' ]
+    str: 5
+    fam: true
   '詞':
     val: '사'
-    desc: [ '말','글' ]
-    stroke: 12
+    desc: [ '말','명사','가사' ]
+    str: 12
     tag: [70]
   '蛇':
     val: '사'
     desc: [ '긴 뱀' ]
-    stroke: 11
+    str: 11
     tag: [200]
   '捨':
     val: '사'
-    desc: [ '버릴' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '버릴','취사선택' ]
+    str: 11
+    oStr: 12
   '邪':
     val: '사'
     desc: [ '간사할' ]
-    stroke: 7
-    originStroke: 11
+    str: 7
+    oStr: 11
   '賜':
     val: '사'
     desc: [ '줄','하사할' ]
-    stroke: 15
+    str: 15
     tag: [40]
   '斜':
     val: '사'
     desc: [ '비낄','경사' ]
-    stroke: 11
+    str: 11
   '詐':
     val: '사'
-    desc: [ '속일' ]
-    stroke: 12
+    desc: [ '속일','사기' ]
+    str: 12
   '社':
     val: '사'
-    desc: [ '모일','토지 신' ]
-    stroke: 7
+    desc: [ '모일','회사','토지 신','사직' ]
+    str: 7
     tag: [500]
   '沙':
     val: '사'
-    desc: [ '모래' ]
-    stroke: 7
-    originStroke: 8
+    desc: [ '모래','사막' ]
+    str: 7
+    oStr: 8
   '砂':
     val: '사'
     desc: [ '모래','사탕' ]
-    stroke: 9
+    str: 9
   '似':
     val: '사'
-    desc: [ '닮을' ]
-    stroke: 7
+    desc: [ '닮을','유사' ]
+    str: 7
   '査':
     val: '사'
     desc: [ '조사할' ]
-    stroke: 9
+    str: 9
     tag: [140]
   '寫':
     val: '사'
-    desc: [ '베낄' ]
-    stroke: 15
+    desc: [ '베낄','사진' ]
+    str: 15
   '辭':
     val: '사'
-    desc: [ '말씀' ]
-    stroke: 19
+    desc: [ '말씀','사퇴' ]
+    str: 19
   '斯':
     val: '사'
     desc: [ '이','천할' ]
-    stroke: 12
+    str: 12
   '祀':
     val: '사'
     desc: [ '제사' ]
-    stroke: 7
+    str: 7
     tag: [500]
   '泗':
     val: '사'
     desc: [ '물이름' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
     tag: [310]
   '紗':
     val: '사'
-    desc: [ '비단' ]
-    stroke: 10
+    desc: [ '비단','깁','사모관대' ]
+    str: 10
   '娑':
     val: '사'
     desc: [ '춤출','사바' ]
-    stroke: 10
+    str: 10
     tag: [500]
   '徙':
     val: '사'
     desc: [ '옮길','이사' ]
-    stroke: 11
+    str: 11
   '奢':
     val: '사'
     desc: [ '사치할' ]
-    stroke: 11
+    str: 11
   '嗣':
     val: '사'
     desc: [ '대이을','후사' ]
-    stroke: 13
+    str: 13
   '唆':
     val: '사'
-    desc: [ '부추길' ]
-    stroke: 10
+    desc: [ '부추길','시사' ]
+    str: 10
   '獅':
     val: '사'
     desc: [ '사자' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [200]
   '祠':
     val: '사'
     desc: [ '사당' ]
-    stroke: 9
+    str: 9
     tag: [500]
   '飼':
     val: '사'
     desc: [ '기를','사육' ]
-    stroke: 13
+    str: 13
   '麝':
     val: '사'
     desc: [ '사향노루' ]
-    stroke: 21
+    str: 21
     tag: '200'
   '削':
     val: '삭'
-    desc: [ '깎을' ]
-    stroke: 9
+    desc: [ '깎을','삭제' ]
+    str: 9
     tag: '140'
   '朔':
     val: '삭'
-    desc: [ '초하루' ]
-    stroke: 10
+    desc: [ '초하루','삭망' ]
+    str: 10
   '爍':
     val: '삭'
     desc: [ '빛날' ]
-    stroke: 19
+    str: 19
     tag: [30]
-  '鑠':
-    val: '삭'
-    desc: [ '녹일' ]
-    stroke: 23
   '山':
     val: '산'
     desc: [ '메','산' ]
-    stroke: 3
+    str: 3
     tag: [330]
-    surname: true
+    fam: true
   '産':
     val: '산'
-    desc: [ '낳을' ]
-    stroke: 11
+    desc: [ '낳을','출산','산업' ]
+    str: 11
     tag: [115]
   '散':
     val: '산'
-    desc: [ '흩을' ]
-    stroke: 12
+    desc: [ '흩을','산만' ]
+    str: 12
   '算':
     val: '산'
-    desc: [ '셈' ]
-    stroke: 14
+    desc: [ '셈','계산' ]
+    str: 14
     tag: [70,75,140]
   '珊':
     val: '산'
     desc: [ '산호' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [60]
   '傘':
     val: '산'
     desc: [ '우산' ]
-    stroke: 12
+    str: 12
   '蒜':
     val: '산'
     desc: [ '마늘' ]
-    stroke: 14
-    originStroke: 16
+    str: 14
+    oStr: 16
     tag: [300]
   '酸':
     val: '산'
     desc: [ '시다','식초' ]
-    stroke: 14
-    tag: [140]
+    str: 14
   '殺':
     val: '살'
     desc: [ '죽일' ]
-    stroke: 10
-    tag: [80]
+    str: 10
   '薩':
     val: '살'
     desc: [ '보살' ]
-    stroke: 18
-    originStroke: 20
+    str: 18
+    oStr: 20
     tag: [500]
   '乷':
     val: '살'
     desc: [ '음역자' ]
-    stroke: 8
+    str: 8
   '撒':
     val: '살'
-    desc: [ '뿌릴' ]
-    stroke: 15
-    originStroke: 16
+    desc: [ '뿌릴','살포' ]
+    str: 15
+    oStr: 16
   '三':
     val: '삼'
     desc: [ '석' ]
-    stroke: 3
+    str: 3
   '蔘':
     val: '삼'
-    desc: [ '삼' ]
-    stroke: 15
-    originStroke: 17
+    desc: [ '삼','인삼','산삼' ]
+    str: 15
+    oStr: 17
     tag: [300]
   '杉':
     val: '삼'
     desc: [ '삼나무' ]
-    stroke: 7
+    str: 7
     tag: [300]
   '森':
     val: '삼'
     desc: [ '수풀','삼림' ]
-    stroke: 12
+    str: 12
     tag: [300]
-    surname: true
+    fam: true
   '揷':
     val: '삽'
-    desc: [ '꽂을' ]
-    stroke: 12
-    originStroke: 13
+    desc: [ '꽂을','삽입' ]
+    str: 12
+    oStr: 13
   '上':
     val: '상'
     desc: [ '윗' ]
-    stroke: 3
+    str: 3
   '尙':
     val: '상'
-    desc: [ '오히려' ]
-    stroke: 8
-    surname: true
+    desc: [ '오히려','숭상' ]
+    str: 8
+    fam: true
   '常':
     val: '상'
     desc: [ '떳떳할','항상' ]
-    stroke: 11
-    surname: true
+    str: 11
+    fam: true
   '賞':
     val: '상'
     desc: [ '상줄' ]
-    stroke: 15
+    str: 15
     tag: [40]
   '商':
     val: '상'
-    desc: [ '장사' ]
-    stroke: 11
+    desc: [ '장사','상업' ]
+    str: 11
     tag: [75]
   '相':
     val: '상'
     desc: [ '서로' ]
-    stroke: 9
+    str: 9
     tag: [115]
-    surname: true
+    fam: true
   '霜':
     val: '상'
-    desc: [ '서리' ]
-    stroke: 17
+    desc: [ '서리','풍상','상강' ]
+    str: 17
     tag: [140,310]
   '想':
     val: '상'
-    desc: [ '생각' ]
-    stroke: 13
+    desc: [ '생각','상상' ]
+    str: 13
   '傷':
     val: '상'
-    desc: [ '다칠' ]
-    stroke: 13
+    desc: [ '다칠','상처' ]
+    str: 13
   '喪':
     val: '상'
-    desc: [ '잃을' ]
-    stroke: 12
+    desc: [ '잃을','상실' ]
+    str: 12
   '嘗':
     val: '상'
-    desc: [ '맛볼' ]
-    stroke: 14
-    surname: true
+    desc: [ '맛볼','와신상담' ]
+    str: 14
+    fam: true
   '裳':
     val: '상'
-    desc: [ '치마' ]
-    stroke: 14
+    desc: [ '치마','의상실' ]
+    str: 14
   '詳':
     val: '상'
-    desc: [ '자세할' ]
-    stroke: 13
+    desc: [ '자세할','상세' ]
+    str: 13
   '祥':
     val: '상'
     desc: [ '상서로울' ]
-    stroke: 10
+    str: 10
     tag: [50]
   '象':
     val: '상'
     desc: [ '코끼리' ]
-    stroke: 11
+    str: 11
     tag: [200]
-    surname: true
+    fam: true
   '像':
     val: '상'
-    desc: [ '모양' ]
-    stroke: 13
+    desc: [ '모양','영상' ]
+    str: 13
   '床':
     val: '상'
     desc: [ '평상','책상' ]
-    stroke: 7
+    str: 7
   '桑':
     val: '상'
-    desc: [ '뽕나무' ]
-    stroke: 10
+    desc: [ '뽕나무','상전벽해' ]
+    str: 10
     tag: [300]
-    surname: true
+    fam: true
   '狀':
     val: '상'
-    desc: [ '형상' ]
-    stroke: 8
+    desc: [ '형상','상태' ]
+    str: 8
   '償':
     val: '상'
-    desc: [ '갚을' ]
-    stroke: 17
+    desc: [ '갚을','보상' ]
+    str: 17
   '箱':
     val: '상'
     desc: [ '상자' ]
-    stroke: 15
+    str: 15
   '翔':
     val: '상'
     desc: [ '날다','비상' ]
-    stroke: 12
+    str: 12
     tag: [90]
   '爽':
     val: '상'
-    desc: [ '시원할' ]
-    stroke: 11
+    desc: [ '시원할','상쾌' ]
+    str: 11
     tag: [150]
   '孀':
     val: '상'
     desc: [ '홀어머니','청상' ]
-    stroke: 20
+    str: 20
   '橡':
     val: '상'
     desc: [ '상수리나무' ]
-    stroke: 15
+    str: 15
     tag: [200]
   '塞':
     val: '새'
-    desc: [ '변방' ]
-    stroke: 13
+    desc: [ '변방','요새' ]
+    str: 13
   '璽':
     val: '새'
     desc: [ '옥새' ]
-    stroke: 19
+    str: 19
     tag: [60]
   '索':
     val: '색'
-    desc: [ '찾을' ]
-    stroke: 10
-    tag: [140]
-    surname: true
+    desc: [ '찾을','탐색' ]
+    str: 10
+    fam: true
   '色':
     val: '색'
     desc: [ '빛' ]
-    stroke: 6
+    str: 6
     tag: [160]
   '嗇':
     val: '색'
     desc: [ '인색할' ]
-    stroke: 13
+    str: 13
     tag: [125]
   '穡':
     val: '색'
     desc: [ '거둘','아낄' ]
-    stroke: 18
+    str: 18
     tag: [125]
+    ex: ['이색(李穡)']
   '生':
     val: '생'
     desc: [ '날' ]
-    stroke: 5
+    str: 5
   '牲':
     val: '생'
     desc: [ '희생' ]
-    stroke: 9
+    str: 9
     tag: [110]
   '甥':
     val: '생'
-    desc: [ '생질' ]
-    stroke: 12
+    desc: [ '생질','조카' ]
+    str: 12
     tag: [115]
   '省':
     val: '생'
-    desc: [ '덜' ]
-    stroke: 9
+    desc: [ '덜','생략' ]
+    str: 9
   '笙':
     val: '생'
     desc: [ '생황' ]
-    stroke: 11
+    str: 11
     tag: [155]
   '西':
     val: '서'
     desc: [ '서녘' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '序':
     val: '서'
-    desc: [ '차례' ]
-    stroke: 7
+    desc: [ '차례','순서' ]
+    str: 7
     tag: [140]
   '書':
     val: '서'
     desc: [ '글' ]
-    stroke: 10
+    str: 10
     tag: [70]
-    surname: true
+    fam: true
   '署':
     val: '서'
     desc: [ '마을','관청','부서' ]
-    stroke: 13
+    str: 13
   '敍':
     val: '서'
     desc: [ '펼','서술' ]
-    stroke: 11
+    str: 11
   '徐':
     val: '서'
-    desc: [ '천천히' ]
-    stroke: 10
+    desc: [ '천천히','서행' ]
+    str: 10
     tag: [130]
-    surname: true
+    fam: true
   '庶':
     val: '서'
     desc: [ '서민','서자' ]
-    stroke: 11
+    str: 11
   '恕':
     val: '서'
     desc: [ '용서할' ]
-    stroke: 10
+    str: 10
     tag: [125]
   '暑':
     val: '서'
-    desc: [ '더울' ]
-    stroke: 12
+    desc: [ '더울','피서' ]
+    str: 12
   '緖':
     val: '서'
-    desc: [ '실마리' ]
-    stroke: 15
+    desc: [ '실마리','단서' ]
+    str: 15
   '誓':
     val: '서'
     desc: [ '맹세할' ]
-    stroke: 14
+    str: 14
   '抒':
     val: '서'
     desc: [ '풀','서정' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
   '舒':
     val: '서'
     desc: [ '펼' ]
-    stroke: 12
+    str: 12
   '瑞':
     val: '서'
     desc: [ '상서로울' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [50]
   '棲':
     val: '서'
-    desc: [ '깃들일' ]
-    stroke: 12
+    desc: [ '깃들일','서식' ]
+    str: 12
   '曙':
     val: '서'
-    desc: [ '새벽' ]
-    stroke: 17
+    desc: [ '새벽','서광' ]
+    str: 17
+  '壻':
+    val: '서'
+    desc: [ '사위' ]
+    str: 12
+    tag: [115]
+  '嶼':
+    val: '서'
+    desc: [ '섬','도서' ]
+    str: 17
+    tag: [330]
+  '犀':
+    val: '서'
+    desc: [ '무소','코뿔소','목서' ]
+    str: 12
+    tag: [200]
   '薯':
     val: '서'
     desc: [ '감자' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
     tag: [300]
-  '犀':
-    val: '서'
-    desc: [ '무소','코뿔소' ]
-    stroke: 12
-    tag: [200]
-  '鼠':
-    val: '서'
-    desc: [ '쥐' ]
-    stroke: 13
-    tag: [200]
   '黍':
     val: '서'
     desc: [ '기장' ]
-    stroke: 12
+    str: 12
     tag: [300]
+  '鼠':
+    val: '서'
+    desc: [ '쥐' ]
+    str: 13
+    tag: [200]
   '石':
     val: '석'
     desc: [ '돌' ]
-    stroke: 5
+    str: 5
     tag: [330]
-    surname: true
+    fam: true
   '夕':
     val: '석'
     desc: [ '저녁' ]
-    stroke: 3
+    str: 3
   '昔':
     val: '석'
     desc: [ '옛' ]
-    stroke: 8
+    str: 8
     tag: [135]
-    surname: true
+    fam: true
   '惜':
     val: '석'
-    desc: [ '아낄' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '아낄','애석' ]
+    str: 11
+    oStr: 12
   '席':
     val: '석'
-    desc: [ '자리' ]
-    stroke: 10
-    surname: true
+    desc: [ '자리','좌석' ]
+    str: 10
+    fam: true
   '析':
     val: '석'
     desc: [ '쪼갤','분석' ]
-    stroke: 8
+    str: 8
     tag: [140]
   '釋':
     val: '석'
-    desc: [ '풀','해석' ]
-    stroke: 20
-    surname: true
+    desc: [ '풀','해석','석가모니' ]
+    str: 20
+    fam: true
+    tag: [500]
   '碩':
     val: '석'
     desc: [ '클','석학' ]
-    stroke: 14
+    str: 14
     tag: [70]
   '汐':
     val: '석'
-    desc: [ '조수' ]
-    stroke: 3
-    originStroke: 4
+    desc: [ '조수','조석' ]
+    str: 3
+    oStr: 4
     tag: [310]
   '晳':
     val: '석'
-    desc: [ '밝을' ]
-    stroke: 12
-    tag: [30]
+    desc: [ '밝을','명석' ]
+    str: 12
+    tag: [30,70]
   '錫':
     val: '석'
     desc: [ '주석' ]
-    stroke: 16
+    str: 16
+    tag: [340]
   '先':
     val: '선'
     desc: [ '먼저' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '仙':
     val: '선'
     desc: [ '신선' ]
-    stroke: 5
-    tag: [90]
+    str: 5
+    tag: [90,135]
   '線':
     val: '선'
     desc: [ '줄','선' ]
-    stroke: 15
+    str: 15
   '鮮':
     val: '선'
     desc: [ '고울','생선' ]
-    stroke: 17
-    surname: true
+    str: 17
+    fam: true
   '善':
     val: '선'
     desc: [ '착할' ]
-    stroke: 12
+    str: 12
     tag: [110]
-    surname: true
+    fam: true
   '船':
     val: '선'
-    desc: [ '배' ]
-    stroke: 11
+    desc: [ '배','선박' ]
+    str: 11
   '選':
     val: '선'
-    desc: [ '가릴' ]
-    stroke: 15
-    originStroke: 18
+    desc: [ '가릴','선택' ]
+    str: 15
+    oStr: 18
   '宣':
     val: '선'
-    desc: [ '베풀' ]
-    stroke: 9
+    desc: [ '베풀','선전' ]
+    str: 9
     tag: [110]
-    surname: true
+    fam: true
   '旋':
     val: '선'
-    desc: [ '돌','선회' ]
-    stroke: 11
+    desc: [ '돌','선회','알선' ]
+    str: 11
   '禪':
     val: '선'
     desc: [ '선','좌선' ]
-    stroke: 16
-    tag: [500]
+    str: 16
+    tag: [135,500]
   '扇':
     val: '선'
-    desc: [ '부채' ]
-    stroke: 10
+    desc: [ '부채','선풍기' ]
+    str: 10
   '膳':
     val: '선'
     desc: [ '선물' ]
-    stroke: 16
-    originStroke: 18
+    str: 16
+    oStr: 18
   '繕':
     val: '선'
     desc: [ '기울','수선' ]
-    stroke: 18
+    str: 18
     tag: [125]
   '羨':
     val: '선'
     desc: [ '부러워할','선망' ]
-    stroke: 13
+    str: 13
   '銑':
     val: '선'
     desc: [ '무쇠' ]
-    stroke: 14
-    tag: [80]
+    str: 14
+    tag: [340]
   '煽':
     val: '선'
     desc: [ '부채질할','선동' ]
-    stroke: 14
+    str: 14
   '腺':
     val: '선'
     desc: [ '샘' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
+  '蘚':
+    val: '선'
+    desc: '이끼'
+    ex: '선태류'
+    str: 13
+    oStr: 15
   '蟬':
     val: '선'
     desc: [ '매미' ]
-    stroke: 18
+    str: 18
     tag: [200]
   '雪':
     val: '설'
     desc: [ '눈' ]
-    stroke: 11
+    str: 11
     tag: [310]
   '說':
     val: '설'
     desc: [ '말씀' ]
-    stroke: 14
+    str: 14
   '設':
     val: '설'
-    desc: [ '베풀' ]
-    stroke: 11
-    tag: [90]
+    desc: [ '베풀','시설','설치' ]
+    str: 11
   '舌':
     val: '설'
     desc: [ '혀' ]
-    stroke: 6
+    str: 6
     tag: [350]
   '薛':
     val: '설'
     desc: [ '성씨' ]
-    stroke: 17
-    originStroke: 19
-    surname: true
+    str: 17
+    oStr: 19
+    fam: true
   '楔':
     val: '설'
-    desc: [ '문설주' ]
-    stroke: 13
-    surname: true
+    desc: [ '문설주','쐐기','설형문자' ]
+    str: 13
+    fam: true
   '屑':
     val: '설'
-    desc: [ '가루' ]
-    stroke: 10
+    desc: [ '가루','설탕' ]
+    str: 10
   '泄':
     val: '설'
     desc: [ '샐','설사' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
+  '洩':
+    val: '설'
+    desc: [ '샐','누설' ]
+    str: 9
+    oStr: 10
   '卨':
     val: '설'
     desc: [ '사람 이름' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '纖':
     val: '섬'
-    desc: [ '가늘' ]
-    stroke: 23
+    desc: [ '가늘','섬유' ]
+    str: 23
     tag: [140]
   '蟾':
     val: '섬'
     desc: [ '두꺼비' ]
-    stroke: 19
+    str: 19
     tag: [200]
   '涉':
     val: '섭'
-    desc: [ '건널' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '건널','교섭' ]
+    str: 10
+    oStr: 11
   '攝':
     val: '섭'
-    desc: [ '다스릴','잡을' ]
-    stroke: 21
-    originStroke: 22
-    surname: true
+    desc: [ '다스릴','잡을','섭취','섭리' ]
+    str: 21
+    oStr: 22
+    fam: true
   '燮':
     val: '섭'
-    desc: [ '불꽃','섭리' ]
-    stroke: 17
+    desc: [ '불꽃' ]
+    str: 17
     tag: [320]
   '葉':
     val: '섭'
     desc: [ '땅이름' ]
-    stroke: 13
-    originStroke: 15
-    surname: true
+    str: 13
+    oStr: 15
+    fam: true
   '姓':
     val: '성'
     desc: [ '성씨' ]
-    stroke: 8
+    str: 8
   '性':
     val: '성'
     desc: [ '성품' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '成':
     val: '성'
-    desc: [ '이룰' ]
-    stroke: 6
-    tag: [45]
-    surname: true
+    desc: [ '이룰','성공' ]
+    str: 6
+    tag: [40,45]
+    fam: true
   '城':
     val: '성'
     desc: [ '재','성' ]
-    stroke: 9
-    tag: [330]
+    str: 9
   '誠':
     val: '성'
     desc: [ '정성' ]
-    stroke: 13
+    str: 13
     tag: [120]
   '盛':
     val: '성'
-    desc: [ '성할' ]
-    stroke: 11
+    desc: [ '성할','번성' ]
+    str: 11
   '聖':
     val: '성'
     desc: [ '성인' ]
-    stroke: 13
+    str: 13
     tag: [20,50,110]
   '聲':
     val: '성'
     desc: [ '소리' ]
-    stroke: 17
+    str: 17
   '星':
     val: '성'
     desc: [ '별' ]
-    stroke: 9
-    tag: [30,50]
+    str: 9
+    tag: [30,50,370]
   '珹':
     val: '성'
     desc: [ '옥이름' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
     tag: [60]
   '醒':
     val: '성'
     desc: [ '깰','각성' ]
-    stroke: 16
+    str: 16
   '猩':
     val: '성'
     desc: [ '성성이','오랑우탄' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [200]
   '晟':
     val: '성'
     desc: [ '밝을' ]
-    stroke: 10
+    str: 10
     tag: [30]
+  '省':
+    val: '성'
+    desc: [ '살필','성찰' ]
+    str: 9
+    tag: [125,140]
   '世':
     val: '세'
-    desc: [ '인간','대' ]
-    stroke: 5
+    desc: [ '인간','세대' ]
+    str: 5
   '稅':
     val: '세'
     desc: [ '세금' ]
-    stroke: 12
+    str: 12
   '細':
     val: '세'
-    desc: [ '가늘' ]
-    stroke: 11
+    desc: [ '가늘','상세' ]
+    str: 11
     tag: [140]
   '勢':
     val: '세'
     desc: [ '형세','세력' ]
-    stroke: 13
+    str: 13
     tag: [80]
   '歲':
     val: '세'
     desc: [ '해' ]
-    stroke: 13
+    str: 13
   '貰':
     val: '세'
-    desc: [ '세낼' ]
-    stroke: 12
+    desc: [ '세낼','전세' ]
+    str: 12
   '笹':
     val: '세'
     desc: [ '조릿대' ]
-    stroke: 11
+    str: 11
     tag: [300]
   '洗':
     val: '세'
-    desc: [ '씻을' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '씻을','세탁' ]
+    str: 9
+    oStr: 10
   '小':
     val: '소'
     desc: [ '작을' ]
-    stroke: 3
+    str: 3
   '少':
     val: '소'
     desc: [ '적을' ]
-    stroke: 4
+    str: 4
   '所':
     val: '소'
-    desc: [ '바' ]
-    stroke: 8
+    desc: [ '바','장소' ]
+    str: 8
   '消':
     val: '소'
-    desc: [ '사라질' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '사라질','소멸' ]
+    str: 10
+    oStr: 11
   '素':
     val: '소'
-    desc: [ '본디','흴' ]
-    stroke: 10
+    desc: [ '본디','흴','소질','소복' ]
+    str: 10
     tag: [160]
-    surname: true
+    fam: true
   '笑':
     val: '소'
-    desc: [ '웃음' ]
-    stroke: 10
+    desc: [ '웃음','미소' ]
+    str: 10
     tag: [150]
   '召':
     val: '소'
-    desc: [ '부를' ]
-    stroke: 5
-    surname: true
+    desc: [ '부를','소환' ]
+    str: 5
+    fam: true
   '蘇':
     val: '소'
     desc: [ '되살아날','소생' ]
-    stroke: 20
-    originStroke: 22
-    surname: true
+    str: 20
+    oStr: 22
+    fam: true
   '騷':
     val: '소'
-    desc: [ '떠들' ]
-    stroke: 19
+    desc: [ '떠들','소란' ]
+    str: 19
   '燒':
     val: '소'
-    desc: [ '불사를' ]
-    stroke: 16
+    desc: [ '불사를','연소' ]
+    str: 16
     tag: [320]
   '訴':
     val: '소'
     desc: [ '호소할' ]
-    stroke: 12
+    str: 12
   '掃':
     val: '소'
     desc: [ '쓸','청소' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '疏':
     val: '소'
     desc: [ '소통할' ]
-    stroke: 12
+    str: 12
   '蔬':
     val: '소'
     desc: [ '나물','채소' ]
-    stroke: 16
-    originStroke: 18
+    str: 16
+    oStr: 18
     tag: [300]
   '沼':
     val: '소'
     desc: [ '못' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
     tag: [310]
   '炤':
     val: '소'
     desc: [ '밝을' ]
-    stroke: 9
+    str: 9
     tag: [30,320]
   '逍':
     val: '소'
     desc: [ '노닐','소풍' ]
-    stroke: 10
-    originStroke: 13
+    str: 10
+    oStr: 13
     tag: [130,150]
-    surname: true
+    fam: true
   '紹':
     val: '소'
     desc: [ '이을','소개' ]
-    stroke: 11
-  '銷':
-    val: '소'
-    desc: [ '녹일' ]
-    stroke: 15
+    str: 11
   '巢':
     val: '소'
-    desc: [ '새집' ]
-    stroke: 11
+    desc: [ '새집','소굴' ]
+    str: 11
   '遡':
     val: '소'
     desc: [ '거스를','소급' ]
-    stroke: 13
-    originStroke: 16
+    str: 13
+    oStr: 16
   '塑':
     val: '소'
     desc: [ '흙빚을','소조' ]
-    stroke: 13
+    str: 13
   '簫':
     val: '소'
     desc: [ '퉁소' ]
-    stroke: 19
+    str: 19
     tag: [155]
-  '邵':
-    val: '소'
-    desc: [ '땅이름','성씨' ]
-    stroke: 8
-    originStroke: 12
   '俗':
     val: '속'
     desc: [ '풍속' ]
-    stroke: 9
+    str: 9
   '速':
     val: '속'
-    desc: [ '빠를' ]
-    stroke: 10
-    originStroke: 13
+    desc: [ '빠를','속도' ]
+    str: 10
+    oStr: 13
   '續':
     val: '속'
-    desc: [ '이을' ]
-    stroke: 21
+    desc: [ '이을','연속' ]
+    str: 21
   '束':
     val: '속'
-    desc: [ '묶을' ]
-    stroke: 7
+    desc: [ '묶을','구속' ]
+    str: 7
   '粟':
     val: '속'
     desc: [ '조' ]
-    stroke: 12
+    ex: ['창해일속(滄海一粟)']
+    str: 12
     tag: [300]
   '屬':
     val: '속'
-    desc: [ '무리' ]
-    stroke: 21
+    desc: [ '무리','소속' ]
+    str: 21
   '贖':
     val: '속'
     desc: [ '속죄할' ]
-    stroke: 22
+    str: 22
   '孫':
     val: '손'
     desc: [ '손자' ]
-    stroke: 10
+    str: 10
     tag: [115]
-    surname: true
+    fam: true
   '損':
     val: '손'
-    desc: [ '덜' ]
-    stroke: 13
-    originStroke: 14
+    desc: [ '덜','손해' ]
+    str: 13
+    oStr: 14
   '遜':
     val: '손'
     desc: [ '겸손할' ]
-    stroke: 13
-    originStroke: 16
+    str: 13
+    oStr: 16
     tag: [125]
   '率':
     val: '솔'
-    desc: [ '거느릴' ]
-    stroke: 11
+    desc: [ '거느릴','솔선수범' ]
+    str: 11
     tag: [40]
   '松':
     val: '송'
     desc: [ '소나무' ]
-    stroke: 8
-    tag: [300]
+    str: 8
+    tag: [135,300]
   '送':
     val: '송'
-    desc: [ '보낼' ]
-    stroke: 9
-    originStroke: 12
+    desc: [ '보낼','방송' ]
+    str: 9
+    oStr: 12
   '頌':
     val: '송'
     desc: [ '칭송할' ]
-    stroke: 13
+    str: 13
     tag: [20]
   '訟':
     val: '송'
     desc: [ '송사할' ]
-    stroke: 11
+    str: 11
   '誦':
     val: '송'
-    desc: [ '외울' ]
-    stroke: 14
+    desc: [ '외울','암송' ]
+    str: 14
   '宋':
     val: '송'
     desc: [ '성씨' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '悚':
     val: '송'
     desc: [ '두려울','송구할' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
     tag: [125]
   '刷':
     val: '쇄'
     desc: [ '인쇄할' ]
-    stroke: 8
+    str: 8
   '鎖':
     val: '쇄'
-    desc: [ '쇠사슬' ]
-    stroke: 18
-    tag: [340]
+    desc: [ '쇠사슬','연쇄' ]
+    str: 18
   '碎':
     val: '쇄'
-    desc: [ '부술' ]
-    stroke: 13
-    tag: [330]
+    desc: [ '부술','분쇄' ]
+    str: 13
   '衰':
     val: '쇠'
-    desc: [ '쇠할' ]
-    stroke: 10
+    desc: [ '쇠할','쇠퇴' ]
+    str: 10
   '釗':
     val: '쇠'
     desc: [ '쇠' ]
-    stroke: 10
+    str: 10
     tag: [340]
   '水':
     val: '수'
     desc: [ '물' ]
-    stroke: 4
+    str: 4
     tag: [310]
-    surname: true
+    fam: true
   '手':
     val: '수'
     desc: [ '손' ]
-    stroke: 4
+    str: 4
   '受':
     val: '수'
-    desc: [ '받을' ]
-    stroke: 8
+    desc: [ '받을','수업' ]
+    str: 8
   '授':
     val: '수'
-    desc: [ '줄' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '줄','수여' ]
+    str: 11
+    oStr: 12
   '首':
     val: '수'
-    desc: [ '머리' ]
-    stroke: 9
-    tag: [350]
+    desc: [ '머리','수석' ]
+    str: 9
+    tag: [20,350]
   '守':
     val: '수'
-    desc: [ '지킬' ]
-    stroke: 6
+    desc: [ '지킬','파수' ]
+    str: 6
     tag: [80]
-    surname: true
+    fam: true
   '收':
     val: '수'
-    desc: [ '거둘' ]
-    stroke: 6
+    desc: [ '거둘','수확' ]
+    str: 6
   '誰':
     val: '수'
     desc: [ '누구' ]
-    stroke: 15
+    str: 15
   '須':
     val: '수'
-    desc: [ '모름지기','수염' ]
-    stroke: 12
+    desc: [ '모름지기','필수' ]
+    str: 12
   '雖':
     val: '수'
     desc: [ '비록' ]
-    stroke: 17
+    str: 17
   '愁':
     val: '수'
-    desc: [ '근심' ]
-    stroke: 13
+    desc: [ '근심','수심' ]
+    str: 13
   '樹':
     val: '수'
-    desc: [ '나무' ]
-    stroke: 16
+    desc: [ '나무','가로수','수립' ]
+    str: 16
     tag: [300]
   '壽':
     val: '수'
-    desc: [ '목숨' ]
-    stroke: 14
-    surname: true
+    desc: [ '목숨','수명' ]
+    str: 14
+    tag: [135]
+    fam: true
   '修':
     val: '수'
     desc: [ '닦을','수련' ]
-    stroke: 9
+    str: 9
     tag: [120]
   '秀':
     val: '수'
     desc: [ '빼어날' ]
-    stroke: 7
+    str: 7
     tag: [20]
   '囚':
     val: '수'
-    desc: [ '가둘' ]
-    stroke: 5
+    desc: [ '가둘','죄수' ]
+    str: 5
   '殊':
     val: '수'
-    desc: [ '다를' ]
-    stroke: 10
+    desc: [ '다를','특수','수상' ]
+    str: 10
   '隨':
     val: '수'
-    desc: [ '따를' ]
-    stroke: 15
-    originStroke: 20
-    surname: true
+    desc: [ '따를','수시','수필' ]
+    str: 15
+    oStr: 20
+    fam: true
   '輸':
     val: '수'
     desc: [ '보낼','수출' ]
-    stroke: 16
-    surname: true
+    str: 16
+    fam: true
   '獸':
     val: '수'
-    desc: [ '짐승' ]
-    stroke: 19
+    desc: [ '짐승','금수' ]
+    str: 19
     tag: [200]
   '睡':
     val: '수'
-    desc: [ '졸음' ]
-    stroke: 13
+    desc: [ '졸음','수면' ]
+    str: 13
   '遂':
     val: '수'
     desc: [ '따를','수행' ]
-    stroke: 12
-    originStroke: 15
+    str: 12
+    oStr: 15
   '垂':
     val: '수'
     desc: [ '드리울','수직' ]
-    stroke: 8
+    str: 8
   '搜':
     val: '수'
-    desc: [ '찾을' ]
-    stroke: 12
-    originStroke: 13
+    desc: [ '찾을','수사' ]
+    str: 12
+    oStr: 13
     tag: [140]
   '洙':
     val: '수'
     desc: [ '물가' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [310]
-    surname: true
+    fam: true
   '綏':
     val: '수'
     desc: [ '편안할' ]
-    stroke: 13
+    str: 13
     tag: [130]
+  '琇':
+    val: '수'
+    desc: [ '옥돌' ]
+    str: 11
+    oStr: 12
+    tag: [60]
   '羞':
     val: '수'
-    desc: [ '부끄러울' ]
-    stroke: 10
+    desc: [ '부끄러울','수치' ]
+    str: 10
   '銖':
     val: '수'
     desc: [ '저울눈','치수' ]
-    stroke: 14
+    str: 14
     tag: [140]
   '粹':
     val: '수'
     desc: [ '순수할' ]
-    stroke: 14
+    str: 14
     tag: [100]
   '茱':
     val: '수'
-    desc: [ '수유' ]
-    stroke: 10
-    originStroke: 12
-    tag: [300]
-  '穗':
-    val: '수'
-    desc: [ '이삭' ]
-    stroke: 17
+    desc: [ '산수유' ]
+    str: 10
+    oStr: 12
     tag: [300]
   '蒐':
     val: '수'
     desc: [ '모을','수집' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
   '繡':
     val: '수'
     desc: [ '수놓을' ]
-    stroke: 19
+    str: 19
     tag: [10,75]
   '隋':
     val: '수'
     desc: [ '수나라' ]
-    stroke: 12
-    tag: [17]
+    str: 12
+    oStr: 17
   '髓':
     val: '수'
-    desc: [ '뼛골' ]
-    stroke: 21
+    desc: [ '뼛골','골수' ]
+    str: 21
     tag: [350]
   '袖':
     val: '수'
-    desc: [ '소매' ]
-    stroke: 10
+    desc: [ '소매','영수' ]
+    str: 10
   '狩':
     val: '수'
-    desc: [ '사냥할' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '사냥할','수렵' ]
+    str: 9
+    oStr: 10
     tag: [80]
   '讎':
     val: '수'
     desc: [ '원수' ]
-    stroke: 23
+    str: 23
   '數':
     val: '수'
-    desc: [ '셈' ]
-    stroke: 15
+    desc: [ '셈','숫자' ]
+    str: 15
   '帥':
     val: '수'
-    desc: [ '장수' ]
-    stroke: 9
+    desc: [ '장수','통수권' ]
+    str: 9
     tag: [80]
   '需':
     val: '수'
     desc: [ '쓰일','수요' ]
-    stroke: 14
+    str: 14
   '叔':
     val: '숙'
-    desc: [ '아저씨' ]
-    stroke: 8
+    desc: [ '아저씨','숙부' ]
+    str: 8
     tag: [115]
   '淑':
     val: '숙'
-    desc: [ '맑을' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '맑을','숙녀' ]
+    str: 11
+    oStr: 12
     tag: [100]
   '孰':
     val: '숙'
     desc: [ '누구' ]
-    stroke: 11
+    str: 11
   '熟':
     val: '숙'
-    desc: [ '익을' ]
-    stroke: 15
+    desc: [ '익을','숙련' ]
+    str: 15
+    tag: [75,120]
   '肅':
     val: '숙'
     desc: [ '엄숙할' ]
-    stroke: 13
+    str: 13
+    tag: [140]
   '菽':
     val: '숙'
-    desc: [ '콩' ]
-    stroke: 12
-    originStroke: 14
+    desc: [ '콩','숙맥' ]
+    str: 12
+    oStr: 14
     tag: [300]
   '順':
     val: '순'
     desc: [ '순할' ]
-    stroke: 12
-    tag: [100]
+    str: 12
   '旬':
     val: '순'
     desc: [ '열흘' ]
-    stroke: 6
+    str: 6
   '殉':
     val: '순'
-    desc: [ '따라죽을' ]
-    stroke: 10
+    desc: [ '따라죽을','순장' ]
+    str: 10
   '循':
     val: '순'
     desc: [ '돌','순환' ]
-    stroke: 12
+    str: 12
   '脣':
     val: '순'
     desc: [ '입술' ]
-    stroke: 11
-    originStroke: 13
+    str: 11
+    oStr: 13
     tag: [350]
   '瞬':
     val: '순'
     desc: [ '깜빡일','순간' ]
-    stroke: 17
+    str: 17
   '巡':
     val: '순'
     desc: [ '돌','순회' ]
-    stroke: 6
+    str: 6
   '筍':
     val: '순'
     desc: [ '죽순' ]
-    stroke: 12
+    str: 12
     tag: [300]
   '荀':
     val: '순'
     desc: [ '풀이름' ]
-    stroke: 10
-    originStroke: 12
+    str: 10
+    oStr: 12
     tag: [300]
-    surname: true
+    fam: true
   '舜':
     val: '순'
     desc: [ '순임금' ]
-    stroke: 12
+    str: 12
     tag: [20,100]
-    surname: true
+    fam: true
   '淳':
     val: '순'
     desc: [ '순박할' ]
-    stroke: 11
-    originStroke: 12
-    tag: [125]
+    str: 11
+    oStr: 12
+    tag: [100,125]
   '純':
     val: '순'
     desc: [ '순수할' ]
-    stroke: 10
-    tag: [100]
+    str: 10
+    tag: [100,125]
   '戌':
     val: '술'
     desc: [ '개' ]
-    stroke: 6
-    tag: [400]
+    str: 6
+    tag: [200,400]
   '述':
     val: '술'
     desc: [ '펼','서술' ]
-    stroke: 8
-    originStroke: 11
-    tag: [70]
+    str: 8
+    oStr: 11
   '術':
     val: '술'
-    desc: [ '재주' ]
-    stroke: 11
+    desc: [ '재주','기술' ]
+    str: 11
     tag: [75]
   '崇':
     val: '숭'
-    desc: [ '높을' ]
-    stroke: 11
+    desc: [ '높을','숭상' ]
+    str: 11
     tag: [40]
   '瑟':
     val: '슬'
-    desc: [ '큰 거문고' ]
-    stroke: 13
-    originStroke: 14
+    desc: [ '큰 거문고','금슬' ]
+    str: 13
+    oStr: 14
     tag: [155]
   '膝':
     val: '슬'
-    desc: [ '무릎' ]
-    stroke: 15
-    originStroke: 17
+    desc: [ '무릎','슬하' ]
+    str: 15
+    oStr: 17
     tag: [350]
   '習':
     val: '습'
-    desc: [ '익힐' ]
-    stroke: 11
+    desc: [ '익힐','연습' ]
+    str: 11
     tag: [70,120]
   '濕':
     val: '습'
-    desc: [ '젖을' ]
-    stroke: 17
-    originStroke: 18
+    desc: [ '젖을','습기' ]
+    str: 17
+    oStr: 18
     tag: [310]
   '襲':
     val: '습'
     desc: [ '엄습할' ]
-    stroke: 22
+    str: 22
+    tag: [80]
   '褶':
     val: '습'
-    desc: [ '주름' ]
-    stroke: 16
+    desc: [ '주름','습곡' ]
+    str: 16
   '乘':
     val: '승'
-    desc: [ '탈' ]
-    stroke: 10
-    surname: true
+    desc: [ '탈','편승' ]
+    str: 10
+    fam: true
   '承':
     val: '승'
-    desc: [ '이을' ]
-    stroke: 8
-    surname: true
+    desc: [ '이을','승계','승인' ]
+    str: 8
+    fam: true
   '勝':
     val: '승'
-    desc: [ '이길' ]
-    stroke: 12
+    desc: [ '이길','승리' ]
+    str: 12
     tag: [40,45]
-    surname: true
+    fam: true
   '昇':
     val: '승'
-    desc: [ '오를' ]
-    stroke: 8
-    surname: true
+    desc: [ '오를','상승','승진' ]
+    str: 8
+    tag: [40,45]
+    fam: true
   '僧':
     val: '승'
     desc: [ '중','승려' ]
-    stroke: 14
+    str: 14
     tag: [500]
-    surname: true
+    fam: true
   '丞':
     val: '승'
     desc: [ '정승','도울' ]
-    stroke: 6
+    str: 6
     tag: [40,120]
   '市':
     val: '시'
     desc: [ '저자','시장' ]
-    stroke: 5
+    str: 5
   '示':
     val: '시'
     desc: [ '보일' ]
-    stroke: 5
+    str: 5
   '是':
     val: '시'
     desc: [ '이','옳을' ]
-    stroke: 9
+    str: 9
     tag: [110]
   '時':
     val: '시'
     desc: [ '때' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '詩':
     val: '시'
     desc: [ '시' ]
-    stroke: 13
+    str: 13
     tag: [130]
   '施':
     val: '시'
-    desc: [ '베풀' ]
-    stroke: 9
-    tag: [110,115,125]
-    surname: true
+    desc: [ '베풀','시설','시행' ]
+    str: 9
+    fam: true
   '試':
     val: '시'
     desc: [ '시험' ]
-    stroke: 13
+    str: 13
   '始':
     val: '시'
-    desc: [ '비로소' ]
-    stroke: 8
+    desc: [ '비로소','시작' ]
+    str: 8
   '矢':
     val: '시'
-    desc: [ '화살' ]
-    stroke: 5
+    desc: [ '화살','효시' ]
+    str: 5
     tag: [80]
   '侍':
     val: '시'
-    desc: [ '모실' ]
-    stroke: 8
+    desc: [ '모실','시종' ]
+    str: 8
     tag: [115,125]
   '視':
     val: '시'
     desc: [ '볼' ]
-    stroke: 11
+    str: 11
   '柴':
     val: '시'
     desc: [ '섶','땔나무' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '媤':
     val: '시'
-    desc: [ '시집' ]
-    stroke: 12
+    desc: [ '시집','시댁' ]
+    str: 12
     tag: [115]
   '尸':
     val: '시'
     desc: [ '주검' ]
-    stroke: 3
+    str: 3
+  '屍':
+    val: '시'
+    desc: [ '주검','시체' ]
+    str: 9
   '屎':
     val: '시'
-    desc: [ '똥' ]
-    stroke: 9
+    desc: [ '똥','시뇨' ]
+    str: 9
   '猜':
     val: '시'
     desc: [ '시기할' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '豕':
     val: '시'
     desc: [ '돼지' ]
-    stroke: 7
+    str: 7
     tag: [200]
   '豺':
     val: '시'
-    desc: [ '승냥이' ]
-    stroke: 10
+    desc: [ '승냥이','시랑' ]
+    str: 10
     tag: [200]
   '豉':
     val: '시'
     desc: [ '메주' ]
-    stroke: 11
+    str: 11
   '柹':
     val: '시'
-    desc: [ '감나무' ]
-    stroke: 9
+    desc: [ '감나무','홍시' ]
+    str: 9
     tag: [300]
   '食':
     val: '식'
     desc: [ '밥' ]
-    stroke: 9
+    str: 9
   '式':
     val: '식'
-    desc: [ '법' ]
-    stroke: 6
+    desc: [ '법','예식' ]
+    str: 6
   '植':
     val: '식'
-    desc: [ '심을' ]
-    stroke: 12
-    tag: [300]
+    desc: [ '심을','식목' ]
+    str: 12
   '識':
     val: '식'
-    desc: [ '알' ]
-    stroke: 19
+    desc: [ '알','지식' ]
+    str: 19
     tag: [70]
   '息':
     val: '식'
-    desc: [ '쉴' ]
-    stroke: 10
+    desc: [ '쉴','휴식' ]
+    str: 10
     tag: [130]
   '飾':
     val: '식'
-    desc: [ '꾸밀' ]
-    stroke: 13
+    desc: [ '꾸밀','장식' ]
+    str: 13
   '殖':
     val: '식'
-    desc: [ '불릴' ]
-    stroke: 12
-  '湜':
-    val: '식'
-    desc: [ '물맑을' ]
-    stroke: 12
-    originStroke: 13
-    tag: [100,310]
+    desc: [ '불릴','증식' ]
+    str: 12
   '蝕':
     val: '식'
-    desc: [ '좀먹을' ]
-    stroke: 14
+    desc: [ '좀먹을','침식','일식' ]
+    str: 14
     tag: [370]
   '身':
     val: '신'
     desc: [ '몸' ]
-    stroke: 7
+    str: 7
     tag: [350]
   '申':
     val: '신'
     desc: [ '거듭','원숭이' ]
-    stroke: 5
+    str: 5
     tag: [200,400]
-    surname: true
+    fam: true
   '神':
     val: '신'
     desc: [ '귀신' ]
-    stroke: 9
+    str: 9
     tag: [500]
   '臣':
     val: '신'
     desc: [ '신하' ]
-    stroke: 6
+    str: 6
   '信':
     val: '신'
     desc: [ '믿을' ]
-    stroke: 9
+    str: 9
     tag: [110,500]
   '辛':
     val: '신'
-    desc: [ '메울' ]
-    stroke: 7
+    desc: [ '메울','신랄' ]
+    str: 7
     tag: [140]
-    surname: true
+    fam: true
   '新':
     val: '신'
-    desc: [ '새' ]
-    stroke: 13
-    surname: true
+    desc: [ '새로울' ]
+    str: 13
+    fam: true
   '伸':
     val: '신'
-    desc: [ '펼' ]
-    stroke: 7
+    desc: [ '펼','신축' ]
+    str: 7
   '晨':
     val: '신'
-    desc: [ '새벽' ]
-    stroke: 11
+    desc: [ '새벽','신성(금성)' ]
+    str: 11
+    tag: [370]
   '愼':
     val: '신'
-    desc: [ '삼갈' ]
-    stroke: 13
-    originStroke: 14
-    tag: [110,125]
-    surname: true
+    desc: [ '삼갈','신중' ]
+    str: 13
+    oStr: 14
+    tag: [110,125,140]
+    fam: true
   '紳':
     val: '신'
-    desc: [ '큰띠','신사' ]
-    stroke: 11
+    desc: [ '큰띠','신사(gentleman)' ]
+    str: 11
     tag: [20]
   '莘':
     val: '신'
     desc: [ '족두리','족두리풀' ]
-    stroke: 11
-    originStroke: 13
+    str: 11
+    oStr: 13
     tag: [300]
-    surname: true
+    fam: true
   '薪':
     val: '신'
     desc: [ '섶','장작' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
   '迅':
     val: '신'
     desc: [ '빠를','신속할' ]
-    stroke: 6
-    originStroke: 9
+    str: 6
+    oStr: 9
   '訊':
     val: '신'
     desc: [ '물을','신문할' ]
-    stroke: 10
+    str: 10
     tag: [140]
   '娠':
     val: '신'
-    desc: [ '아이 밸' ]
-    stroke: 10
+    desc: [ '아이 밸','임신' ]
+    str: 10
     tag: [115]
   '腎':
     val: '신'
-    desc: [ '콩팥' ]
-    stroke: 12
-    originStroke: 14
+    desc: [ '콩팥','신장' ]
+    str: 12
+    oStr: 14
     tag: [350]
   '蜃':
     val: '신'
-    desc: [ '큰조개' ]
-    stroke: 13
+    desc: [ '큰조개','신기루' ]
+    str: 13
     tag: [200]
   '辰':
     val: '신'
-    desc: [ '때' ]
-    stroke: 7
+    desc: [ '때','신시' ]
+    str: 7
     tag: [400]
   '失':
     val: '실'
-    desc: [ '잃을' ]
-    stroke: 5
+    desc: [ '잃을','분실' ]
+    str: 5
   '室':
     val: '실'
-    desc: [ '집' ]
-    stroke: 9
-    tag: [115]
+    desc: [ '집','실내' ]
+    str: 9
   '實':
     val: '실'
     desc: [ '열매' ]
-    stroke: 14
+    str: 14
     tag: [120]
-    surname: true
+    fam: true
   '心':
     val: '심'
     desc: [ '마음' ]
-    stroke: 4
+    str: 4
   '甚':
     val: '심'
     desc: [ '심할' ]
-    stroke: 9
+    str: 9
     tag: [140]
   '深':
     val: '심'
     desc: [ '깊을' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
+    tag: [70,110]
   '尋':
     val: '심'
-    desc: [ '찾을' ]
-    stroke: 12
-    surname: true
+    desc: [ '찾을','심문' ]
+    str: 12
+    fam: true
   '審':
     val: '심'
-    desc: [ '살필' ]
-    stroke: 15
+    desc: [ '살필','심판' ]
+    str: 15
     tag: [110,140]
   '沁':
     val: '심'
     desc: [ '스며들' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
   '瀋':
     val: '심'
-    desc: [ '즙낼','성씨' ]
-    stroke: 18
-    originStroke: 19
-  '芯':
-    val: '심'
-    desc: [ '골풀' ]
-    stroke: 8
-    originStroke: 10
-    tag: [300]
+    desc: [ '즙낼' ]
+    str: 18
+    oStr: 19
   '葚':
     val: '심'
-    desc: [ '오디' ]
-    stroke: 13
-    originStroke: 15
+    desc: [ '오디(뽕나무 열매)' ]
+    str: 13
+    oStr: 15
     tag: [300]
   '沈':
     val: '심'
     desc: [ '성씨' ]
-    stroke: 7
-    originStroke: 8
-    surname: true
+    str: 7
+    oStr: 8
+    fam: true
   '十':
     val: '십'
     desc: [ '열' ]
-    stroke: 2
-    originStroke: 10
+    str: 2
+    oStr: 10
   '什':
     val: '십'
-    desc: [ '열 사람' ]
-    stroke: 4
+    desc: [ '열 사람','십장' ]
+    str: 4
+    oStr: 10
   '拾':
     val: '십'
     desc: [ '열' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
   '雙':
     val: '쌍'
     desc: [ '두' ]
-    stroke: 18
-    surname: true
+    str: 18
+    fam: true
   '我':
     val: '아'
     desc: [ '나' ]
-    stroke: 7
+    str: 7
   '牙':
     val: '아'
     desc: [ '어금니' ]
-    stroke: 4
+    str: 4
     tag: [350]
   '芽':
     val: '아'
-    desc: [ '싹' ]
-    stroke: 8
-    originStroke: 10
+    desc: [ '싹','맹아' ]
+    str: 8
+    oStr: 10
     tag: [300]
   '雅':
     val: '아'
     desc: [ '맑을','바를' ]
-    stroke: 12
+    str: 12
     tag: [100,110]
   '亞':
     val: '아'
-    desc: [ '버금' ]
-    stroke: 8
+    desc: [ '버금','아세아' ]
+    str: 8
   '餓':
     val: '아'
-    desc: [ '주릴' ]
-    stroke: 15
+    desc: [ '주릴','기아' ]
+    str: 15
   '娥':
     val: '아'
     desc: [ '예쁠' ]
-    stroke: 10
+    str: 10
     tag: [10]
   '峨':
     val: '아'
     desc: [ '높을' ]
-    stroke: 10
+    str: 10
     tag: [90]
   '衙':
     val: '아'
-    desc: [ '마을' ]
-    stroke: 13
+    desc: [ '마을','관아','아전' ]
+    str: 13
   '啞':
     val: '아'
-    desc: [ '벙어리' ]
-    stroke: 11
+    desc: [ '벙어리','아령' ]
+    str: 11
   '莪':
     val: '아'
     desc: [ '쑥' ]
-    stroke: 11
-    originStroke: 13
+    str: 11
+    oStr: 13
     tag: [300]
   '訝':
     val: '아'
-    desc: [ '의심할' ]
-    stroke: 11
+    desc: [ '의심할','의아' ]
+    str: 11
     tag: [140]
   '鴉':
     val: '아'
     desc: [ '갈까마귀' ]
-    stroke: 15
+    str: 15
     tag: [200]
   '鵝':
     val: '아'
     desc: [ '거위' ]
-    stroke: 18
+    str: 18
     tag: [200]
   '阿':
     val: '아'
-    desc: [ '언덕' ]
-    stroke: 8
-    originStroke: 13
-  '婀':
-    val: '아'
-    desc: [ '아리따울' ]
-    stroke: 11
-    tag: [10]
+    desc: [ '언덕','아부','아수라' ]
+    str: 8
+    oStr: 13
   '兒':
     val: '아'
     desc: [ '아이' ]
-    stroke: 8
+    str: 8
   '惡':
     val: '악'
     desc: [ '악할' ]
-    stroke: 12
+    str: 12
   '岳':
     val: '악'
     desc: [ '큰 산' ]
-    stroke: 8
+    str: 8
     tag: [330]
-    surname: true
+    fam: true
   '樂':
     val: '악'
     desc: [ '노래' ]
-    stroke: 15
+    str: 15
     tag: [150]
   '愕':
     val: '악'
-    desc: [ '놀랄' ]
-    stroke: 12
-    originStroke: 13
+    desc: [ '놀랄','경악' ]
+    str: 12
+    oStr: 13
   '握':
     val: '악'
-    desc: [ '쥘' ]
-    stroke: 12
-    originStroke: 13
-    tag: [80]
+    desc: [ '쥘','장악','악수' ]
+    str: 12
+    oStr: 13
   '安':
     val: '안'
     desc: [ '편안' ]
-    stroke: 6
+    str: 6
     tag: [130]
-    surname: true
+    fam: true
   '案':
     val: '안'
-    desc: [ '책상' ]
-    stroke: 10
+    desc: [ '책상','기안' ]
+    str: 10
   '顔':
     val: '안'
-    desc: [ '낯' ]
-    stroke: 18
+    desc: [ '낯','안면' ]
+    str: 18
     tag: [350]
   '眼':
     val: '안'
     desc: [ '눈' ]
-    stroke: 11
+    str: 11
     tag: [350]
   '岸':
     val: '안'
-    desc: [ '언덕' ]
-    stroke: 8
+    desc: [ '언덕','해안' ]
+    str: 8
     tag: [330]
   '雁':
     val: '안'
     desc: [ '기러기' ]
-    stroke: 12
+    str: 12
     tag: [200]
   '晏':
     val: '안'
-    desc: [ '늦을' ]
-    stroke: 10
+    desc: [ '늦을','편안할' ]
+    str: 10
     tag: [130]
-    surname: true
+    fam: true
   '按':
     val: '안'
-    desc: [ '누를' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '누를','안마','안배' ]
+    str: 9
+    oStr: 10
   '鞍':
     val: '안'
     desc: [ '안장' ]
-    stroke: 15
+    str: 15
   '謁':
     val: '알'
-    desc: [ '뵐' ]
-    stroke: 16
+    desc: [ '뵐','알현' ]
+    str: 16
   '斡':
     val: '알'
     desc: [ '돌','알선' ]
-    stroke: 14
+    str: 14
   '軋':
     val: '알'
     desc: [ '삐걱거릴','알력' ]
-    stroke: 8
+    str: 8
   '暗':
     val: '암'
-    desc: [ '어두울' ]
-    stroke: 13
+    desc: [ '어두울','명암','암기' ]
+    str: 13
   '巖':
     val: '암'
     desc: [ '바위' ]
-    stroke: 22
+    str: 22
     tag: [330]
   '庵':
     val: '암'
     desc: [ '암자','초막' ]
-    stroke: 11
+    str: 11
   '菴':
     val: '암'
     desc: [ '암자','초막' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
   '癌':
     val: '암'
-    desc: [ '암' ]
-    stroke: 17
+    desc: [ '암(질환)' ]
+    str: 17
     tag: [360]
   '壓':
     val: '압'
     desc: [ '누를','압력' ]
-    stroke: 17
+    str: 17
   '押':
     val: '압'
     desc: [ '누를','압수' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '鴨':
     val: '압'
     desc: [ '오리' ]
-    stroke: 16
+    str: 16
     tag: [200]
   '仰':
     val: '앙'
-    desc: [ '우러를' ]
-    stroke: 6
-    surname: true
+    desc: [ '우러를','숭앙' ]
+    str: 6
+    fam: true
   '央':
     val: '앙'
-    desc: [ '가운데' ]
-    stroke: 5
+    desc: [ '가운데','중앙' ]
+    str: 5
   '殃':
     val: '앙'
     desc: [ '재앙' ]
-    stroke: 9
+    str: 9
   '鴦':
     val: '앙'
     desc: [ '원앙' ]
-    stroke: 16
+    str: 16
     tag: [115,200]
   '怏':
     val: '앙'
     desc: [ '원망할' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '愛':
     val: '애'
     desc: [ '사랑' ]
-    stroke: 13
+    str: 13
     tag: [115]
   '哀':
     val: '애'
     desc: [ '슬플' ]
-    stroke: 9
+    str: 9
   '涯':
     val: '애'
-    desc: [ '물가','한계' ]
-    stroke: 11
-    originStroke: 12
-  '厓':
-    val: '애'
-    desc: [ '언덕' ]
-    stroke: 8
+    desc: [ '물가','생애','천애' ]
+    str: 11
+    oStr: 12
   '崖':
     val: '애'
-    desc: [ '언덕' ]
-    stroke: 11
+    desc: [ '언덕','경계' ]
+    str: 11
     tag: [330]
   '埃':
     val: '애'
-    desc: [ '티끌','이집트' ]
-    stroke: 10
+    desc: [ '티끌','애급(이집트)' ]
+    str: 10
   '艾':
     val: '애'
     desc: [ '쑥' ]
-    stroke: 6
-    originStroke: 8
+    str: 6
+    oStr: 8
     tag: [300]
-    surname: true
+    fam: true
   '厄':
     val: '액'
-    desc: [ '액' ]
-    stroke: 4
+    desc: [ '액','재액' ]
+    str: 4
   '額':
     val: '액'
     desc: [ '이마','금액' ]
-    stroke: 18
+    str: 18
   '液':
     val: '액'
     desc: [ '진','즙' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '鶯':
     val: '앵'
     desc: [ '꾀꼬리' ]
-    stroke: 21
+    str: 21
     tag: [200]
   '櫻':
     val: '앵'
     desc: [ '앵두' ]
-    stroke: 21
+    str: 21
     tag: [300]
   '鸚':
     val: '앵'
     desc: [ '앵무새' ]
-    stroke: 28
+    str: 28
     tag: [200]
   '也':
     val: '야'
     desc: [ '잇기' ]
-    stroke: 3
+    str: 3
   '夜':
     val: '야'
     desc: [ '밤' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '野':
     val: '야'
-    desc: [ '들' ]
-    stroke: 11
+    desc: [ '들','야외' ]
+    str: 11
   '耶':
     val: '야'
     desc: [ '어조사','야소' ]
-    stroke: 11
+    str: 11
     tag: [500]
   '冶':
     val: '야'
-    desc: [ '풀무' ]
-    stroke: 7
+    desc: [ '풀무','야장' ]
+    str: 7
     tag: [75]
   '倻':
     val: '야'
     desc: [ '가야' ]
-    stroke: 11
+    str: 11
   '惹':
     val: '야'
-    desc: [ '이끌' ]
-    stroke: 13
+    desc: [ '이끌','야기' ]
+    str: 13
   '椰':
     val: '야'
     desc: [ '야자나무' ]
-    stroke: 13
+    str: 13
     tag: [300]
   '揶':
     val: '야'
     desc: [ '야유할' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '弱':
     val: '약'
     desc: [ '약할' ]
-    stroke: 10
+    str: 10
   '約':
     val: '약'
-    desc: [ '맺을' ]
-    stroke: 9
+    desc: [ '맺을','약속' ]
+    str: 9
   '藥':
     val: '약'
     desc: [ '약' ]
-    stroke: 19
-    originStroke: 21
+    str: 19
+    oStr: 21
   '躍':
     val: '약'
-    desc: [ '뛸' ]
-    stroke: 21
+    desc: [ '뛸','도약' ]
+    str: 21
   '葯':
     val: '약'
     desc: [ '꽃밥' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [300]
   '羊':
     val: '양'
     desc: [ '양' ]
-    stroke: 6
+    str: 6
     tag: [200]
   '洋':
     val: '양'
-    desc: [ '큰바다' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '큰바다','해양' ]
+    str: 9
+    oStr: 10
     tag: [310]
   '養':
     val: '양'
-    desc: [ '기를' ]
-    stroke: 14
+    desc: [ '기를','양육' ]
+    str: 14
     tag: [115,120]
   '揚':
     val: '양'
-    desc: [ '날릴','드러나다' ]
-    stroke: 12
-    originStroke: 13
+    desc: [ '날릴','게양','찬양','부양' ]
+    str: 12
+    oStr: 13
   '陽':
     val: '양'
-    desc: [ '볕' ]
-    stroke: 12
-    originStroke: 17
+    desc: [ '볕','태양' ]
+    str: 12
+    oStr: 17
     tag: [30]
-    surname: true
+    fam: true
   '讓':
     val: '양'
     desc: [ '사양할' ]
-    stroke: 24
+    str: 24
     tag: [125]
   '壤':
     val: '양'
     desc: [ '흙덩이','토양' ]
-    stroke: 20
+    str: 20
     tag: [330]
   '楊':
     val: '양'
     desc: [ '버들' ]
-    stroke: 13
+    str: 13
     tag: [300]
-    surname: true
+    fam: true
   '襄':
     val: '양'
     desc: [ '도울' ]
-    stroke: 17
+    str: 17
   '孃':
     val: '양'
     desc: [ '아가씨' ]
-    stroke: 20
+    str: 20
   '暘':
     val: '양'
     desc: [ '해돋이' ]
-    stroke: 13
+    str: 13
     tag: [30]
   '瘍':
     val: '양'
     desc: [ '헐','궤양' ]
-    stroke: 14
+    str: 14
     tag: [360]
   '眻':
     val: '양'
     desc: [ '눈 아름다울','소 위' ]
-    stroke: 11
+    str: 11
   '魚':
     val: '어'
     desc: [ '물고기' ]
-    stroke: 11
+    str: 11
     tag: [200]
-    surname: true
+    fam: true
   '漁':
     val: '어'
-    desc: [ '고기잡을' ]
-    stroke: 14
-    originStroke: 15
+    desc: [ '고기잡을','어부' ]
+    str: 14
+    oStr: 15
     tag: [120]
   '於':
     val: '어'
     desc: [ '어조사' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '語':
     val: '어'
-    desc: [ '말씀' ]
-    stroke: 14
+    desc: [ '말씀','어록','국어' ]
+    str: 14
   '御':
     val: '어'
     desc: [ '거느릴','제어','어사' ]
-    stroke: 12
+    str: 12
     tag: [40]
   '圄':
     val: '어'
-    desc: [ '감옥' ]
-    stroke: 10
+    desc: [ '감옥','영어' ]
+    str: 10
   '禦':
     val: '어'
     desc: [ '막을','방어' ]
-    stroke: 17
+    str: 17
   '億':
     val: '억'
-    desc: [ '억' ]
-    stroke: 15
+    desc: [ '억(단위)' ]
+    str: 15
     tag: [40]
   '憶':
     val: '억'
-    desc: [ '생각할' ]
-    stroke: 16
-    originStroke: 17
+    desc: [ '생각할','기억' ]
+    str: 16
+    oStr: 17
   '抑':
     val: '억'
-    desc: [ '누를' ]
-    stroke: 7
-    originStroke: 8
+    desc: [ '누를','억제' ]
+    str: 7
+    oStr: 8
   '言':
     val: '언'
     desc: [ '말씀' ]
-    stroke: 7
+    str: 7
   '焉':
     val: '언'
-    desc: [ '어찌' ]
-    stroke: 11
+    desc: [ '어찌','언감생심' ]
+    str: 11
   '諺':
     val: '언'
     desc: [ '언문' ]
-    stroke: 16
-  '孼':
-    val: '얼'
-    desc: [ '서자' ]
-    stroke: 19
+    str: 16
   '臬':
     val: '얼'
-    desc: [ '말뚝' ]
-    stroke: 10
+    desc: [ '말뚝','기둥','과녁' ]
+    str: 10
   '嚴':
     val: '엄'
     desc: [ '엄할' ]
-    stroke: 19
+    str: 19
     tag: [140]
-    surname: true
+    fam: true
   '奄':
     val: '엄'
     desc: [ '문득' ]
-    stroke: 8
-    tag: [140]
+    str: 8
   '俺':
     val: '엄'
-    desc: [ '클' ]
-    stroke: 10
+    desc: [ '클','나(우리)[암]' ]
+    str: 10
   '掩':
     val: '엄'
     desc: [ '가릴','엄폐' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '儼':
     val: '엄'
     desc: [ '염연할' ]
-    stroke: 21
+    str: 21
     tag: [140]
   '業':
     val: '업'
     desc: [ '업','직업' ]
-    stroke: 13
+    str: 13
     tag: [120]
-  '恚':
-    val: '에'
-    desc: [ '성낼' ]
-    stroke: 10
   '円':
     val: '엔'
     desc: [ '화폐단위' ]
-    stroke: 4
+    str: 4
   '余':
     val: '여'
     desc: [ '나' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '餘':
     val: '여'
-    desc: [ '남을' ]
-    stroke: 15
+    desc: [ '남을','잉여','여분' ]
+    str: 15
     tag: [130]
   '如':
     val: '여'
-    desc: [ '같을' ]
-    stroke: 6
+    desc: [ '같을','여전' ]
+    str: 6
   '汝':
     val: '여'
     desc: [ '너' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '與':
     val: '여'
-    desc: [ '더불' ]
-    stroke: 14
+    desc: [ '더불','참여' ]
+    str: 14
   '予':
     val: '여'
-    desc: [ '나','줄' ]
-    stroke: 4
+    desc: [ '나','줄','여탈' ]
+    str: 4
   '輿':
     val: '여'
-    desc: [ '수레' ]
-    stroke: 17
+    desc: [ '수레','여론' ]
+    str: 17
   '亦':
     val: '역'
-    desc: [ '또' ]
-    stroke: 6
+    desc: [ '또','역시' ]
+    str: 6
   '易':
     val: '역'
-    desc: [ '바꿀' ]
-    stroke: 8
+    desc: [ '바꿀','교역' ]
+    str: 8
   '逆':
     val: '역'
-    desc: [ '거스를' ]
-    stroke: 9
-    originStroke: 12
+    desc: [ '거스를','반역' ]
+    str: 9
+    oStr: 12
   '譯':
     val: '역'
     desc: [ '번역할' ]
-    stroke: 20
+    str: 20
   '驛':
     val: '역'
-    desc: [ '역' ]
-    stroke: 23
+    desc: [ '역','정거장' ]
+    str: 23
   '役':
     val: '역'
-    desc: [ '부릴' ]
-    stroke: 7
+    desc: [ '부릴','역할' ]
+    str: 7
   '疫':
     val: '역'
-    desc: [ '전염병' ]
-    stroke: 9
+    desc: [ '전염병','역병' ]
+    str: 9
     tag: [360]
   '域':
     val: '역'
     desc: [ '지경','영역' ]
-    stroke: 11
+    str: 11
     tag: [330]
   '繹':
     val: '역'
-    desc: [ '풀' ]
-    stroke: 19
+    desc: [ '풀','연역법' ]
+    str: 19
   '然':
     val: '연'
-    desc: [ '그럴' ]
-    stroke: 12
+    desc: [ '그럴','자연' ]
+    str: 12
   '煙':
     val: '연'
     desc: [ '연기' ]
-    stroke: 13
+    str: 13
     tag: [320]
   '硏':
     val: '연'
     desc: [ '갈','연구' ]
-    stroke: 11
+    str: 11
     tag: [70,120]
   '延':
     val: '연'
-    desc: [ '늘일' ]
-    stroke: 7
-    surname: true
+    desc: [ '늘일','연장' ]
+    str: 7
+    fam: true
   '燃':
     val: '연'
     desc: [ '탈','연소' ]
-    stroke: 16
+    str: 16
     tag: [320]
   '燕':
     val: '연'
     desc: [ '제비','연나라' ]
-    stroke: 16
+    str: 16
     tag: [200]
-    surname: true
+    fam: true
   '沿':
     val: '연'
     desc: [ '물따라갈','연안' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
     tag: [310]
   '鉛':
     val: '연'
-    desc: [ '납' ]
-    stroke: 13
+    desc: [ '납','아연' ]
+    str: 13
     tag: [330]
   '宴':
     val: '연'
-    desc: [ '잔치' ]
-    stroke: 10
+    desc: [ '잔치','연회' ]
+    str: 10
     tag: [150]
   '軟':
     val: '연'
-    desc: [ '연할' ]
-    stroke: 11
+    desc: [ '연할','부드러울' ]
+    str: 11
     tag: [130]
   '演':
     val: '연'
     desc: [ '펼','연극' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [150]
   '緣':
     val: '연'
     desc: [ '인연' ]
-    stroke: 15
+    str: 15
     tag: [115]
   '衍':
     val: '연'
-    desc: [ '넓을' ]
-    stroke: 9
+    desc: [ '넓을','부연설명' ]
+    str: 9
     tag: [90]
   '淵':
     val: '연'
     desc: [ '연못' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [310]
   '姸':
     val: '연'
     desc: [ '고울' ]
-    stroke: 9
+    str: 9
     tag: [10]
   '娟':
     val: '연'
     desc: [ '예쁠' ]
-    stroke: 10
+    str: 10
     tag: [10]
   '熱':
     val: '열'
     desc: [ '더울' ]
-    stroke: 15
+    str: 15
     tag: [320]
   '悅':
     val: '열'
-    desc: [ '기쁠' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '기쁠','희열' ]
+    str: 10
+    oStr: 11
     tag: [150]
   '閱':
     val: '열'
     desc: [ '볼','열람' ]
-    stroke: 15
+    str: 15
   '染':
     val: '염'
-    desc: [ '물들' ]
-    stroke: 9
+    desc: [ '물들','염색' ]
+    str: 9
     tag: [310]
   '鹽':
     val: '염'
     desc: [ '소금' ]
-    stroke: 24
+    str: 24
   '厭':
     val: '염'
-    desc: [ '싫어할' ]
-    stroke: 14
+    desc: [ '싫어할','염증' ]
+    str: 14
   '焰':
     val: '염'
-    desc: [ '불꽃' ]
-    stroke: 12
+    desc: [ '불꽃','화염' ]
+    str: 12
     tag: [320]
   '炎':
     val: '염'
     desc: [ '불꽃' ]
-    stroke: 8
+    str: 8
     tag: [320]
   '閻':
     val: '염'
     desc: [ '마을','여염' ]
-    stroke: 16
+    str: 16
     tag: [115]
-    surname: true
+    fam: true
   '燁':
     val: '엽'
     desc: [ '빛날' ]
-    stroke: 15
+    str: 15
     tag: [30,320]
   '曄':
     val: '엽'
     desc: [ '빛날' ]
-    stroke: 15
+    str: 15
     tag: [30,320]
   '葉':
     val: '엽'
-    desc: [ '잎' ]
-    stroke: 13
-    originStroke: 15
+    desc: [ '잎','엽서','낙엽' ]
+    str: 13
+    oStr: 15
     tag: [300]
-    surname: true
+    fam: true
   '永':
     val: '영'
     desc: [ '길','읊을' ]
-    stroke: 5
+    str: 5
     tag: [135]
-    surname: true
+    fam: true
   '英':
     val: '영'
     desc: [ '꽃부리','영웅' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
     tag: [20,40,45,80,90]
-    surname: true
+    fam: true
   '迎':
     val: '영'
     desc: [ '맞을','영접' ]
-    stroke: 8
-    originStroke: 11
+    str: 8
+    oStr: 11
     tag: [115]
   '榮':
     val: '영'
     desc: [ '영화로울','꽃' ]
-    stroke: 14
+    str: 14
     tag: [40,110]
-    surname: true
+    fam: true
   '泳':
     val: '영'
-    desc: [ '헤엄칠' ]
-    stroke: 8
+    desc: [ '헤엄칠','수영' ]
+    str: 8
     tag: [310]
   '詠':
     val: '영'
     desc: [ '읊을' ]
-    stroke: 12
+    str: 12
   '營':
     val: '영'
     desc: [ '경영할' ]
-    stroke: 16
+    str: 16
     tag: [40,70]
   '影':
     val: '영'
-    desc: [ '그림자' ]
-    stroke: 15
+    desc: [ '그림자','영향' ]
+    str: 15
   '映':
     val: '영'
     desc: [ '비칠','영상' ]
-    stroke: 9
+    str: 9
   '渶':
     val: '영'
     desc: [ '물맑을' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [100,310]
   '煐':
     val: '영'
     desc: [ '빛날' ]
-    stroke: 13
+    str: 13
     tag: [30]
   '盈':
     val: '영'
     desc: [ '가득찰' ]
-    stroke: 9
-    tag: [40,130]
+    str: 9
   '嬰':
     val: '영'
     desc: [ '어린아이','영해' ]
-    stroke: 17
+    str: 17
   '藝':
     val: '예'
     desc: [ '재주','예술' ]
-    stroke: 19
-    originStroke: 21
+    str: 19
+    oStr: 21
     tag: [155]
   '豫':
     val: '예'
     desc: [ '미리','예상' ]
-    stroke: 15
+    str: 15
   '譽':
     val: '예'
     desc: [ '기릴','명예' ]
-    stroke: 21
+    str: 21
     tag: [40]
   '銳':
     val: '예'
-    desc: [ '날카로울' ]
-    stroke: 15
+    desc: [ '날카로울','예리' ]
+    str: 15
     tag: [140]
   '預':
     val: '예'
     desc: [ '예금' ]
-    stroke: 13
+    str: 13
   '芮':
     val: '예'
     desc: [ '성씨' ]
-    stroke: 8
-    originStroke: 10
-    surname: true
+    str: 8
+    oStr: 10
+    fam: true
   '乂':
     val: '예'
     desc: [ '벨' ]
-    stroke: 2
-    surname: true
+    str: 2
+    fam: true
   '倪':
     val: '예'
     desc: [ '어린이' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '五':
     val: '오'
     desc: [ '다섯' ]
-    stroke: 4
-    originStroke: 5
+    str: 4
+    oStr: 5
   '吾':
     val: '오'
     desc: [ '나' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '伍':
     val: '오'
     desc: [ '다섯사람' ]
-    stroke: 6
-    surname: true
+    str: 6
+    oStr: 5
+    fam: true
   '悟':
     val: '오'
-    desc: [ '깨달을' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '깨달을','오성','각오' ]
+    str: 10
+    oStr: 11
     tag: [70]
   '午':
     val: '오'
-    desc: [ '낮' ]
-    stroke: 4
+    desc: [ '낮','오전','오후' ]
+    str: 4
   '誤':
     val: '오'
-    desc: [ '그르칠' ]
-    stroke: 14
+    desc: [ '그르칠','오류' ]
+    str: 14
   '烏':
     val: '오'
-    desc: [ '까마귀' ]
-    stroke: 10
+    desc: [ '까마귀','오합지졸' ]
+    str: 10
     tag: [200]
   '汚':
     val: '오'
-    desc: [ '더러울' ]
-    stroke: 6
-    originStroke: 7
+    desc: [ '더러울','오물' ]
+    str: 6
+    oStr: 7
   '嗚':
     val: '오'
-    desc: [ '슬플' ]
-    stroke: 13
+    desc: [ '슬플','오열' ]
+    str: 13
   '娛':
     val: '오'
-    desc: [ '즐길' ]
-    stroke: 10
+    desc: [ '즐길','오락' ]
+    str: 10
     tag: [150]
   '傲':
     val: '오'
-    desc: [ '거만할' ]
-    stroke: 12
+    desc: [ '거만할','오만' ]
+    str: 12
   '吳':
     val: '오'
     desc: [ '성씨' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '旿':
     val: '오'
     desc: [ '밝을' ]
-    stroke: 8
+    str: 8
     tag: [30]
   '奧':
     val: '오'
-    desc: [ '깊을' ]
-    stroke: 13
+    desc: [ '깊을','심오' ]
+    str: 13
   '梧':
     val: '오'
     desc: [ '오동나무' ]
-    stroke: 11
+    str: 11
     tag: [300]
   '玉':
     val: '옥'
     desc: [ '구슬' ]
-    stroke: 5
+    str: 5
     tag: [60]
-    surname: true
+    fam: true
   '屋':
     val: '옥'
     desc: [ '집' ]
-    stroke: 9
-    tag: [115]
+    str: 9
   '獄':
     val: '옥'
     desc: [ '감옥' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '沃':
     val: '옥'
-    desc: [ '기름질' ]
-    stroke: 7
-    originStroke: 8
+    desc: [ '기름질','비옥' ]
+    str: 7
+    oStr: 8
   '溫':
     val: '온'
-    desc: [ '따뜻할' ]
-    stroke: 13
-    originStroke: 14
+    desc: [ '따뜻할','온기' ]
+    str: 13
+    oStr: 14
     tag: [320]
-    surname: true
+    fam: true
   '穩':
     val: '온'
-    desc: [ '편안할' ]
-    stroke: 19
+    desc: [ '편안할','온화','평온' ]
+    str: 19
     tag: [130]
   '兀':
     val: '올'
     desc: [ '우뚝할' ]
-    stroke: 3
+    str: 3
   '翁':
     val: '옹'
     desc: [ '늙은이' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '擁':
     val: '옹'
     desc: [ '포옹','옹립' ]
-    stroke: 16
-    originStroke: 17
+    str: 16
+    oStr: 17
     tag: [115]
-  '雍':
-    val: '옹'
-    desc: [ '화할' ]
-    stroke: 13
   '壅':
     val: '옹'
-    desc: [ '막을','옹고집' ]
-    stroke: 16
+    desc: [ '막을','옹고집','옹졸' ]
+    str: 16
   '甕':
     val: '옹'
     desc: [ '독','옹기' ]
-    stroke: 18
+    str: 18
   '邕':
     val: '옹'
-    desc: [ '막힐' ]
-    stroke: 10
-    surname: true
+    desc: [ '막힐','성씨' ]
+    str: 10
+    fam: true
   '瓦':
     val: '와'
     desc: [ '기와' ]
-    stroke: 5
+    str: 5
   '臥':
     val: '와'
     desc: [ '누울' ]
-    stroke: 8
-  '窩':
-    val: '와'
-    desc: [ '움집' ]
-    stroke: 13
-    tag: [115]
+    str: 8
   '蛙':
     val: '와'
     desc: [ '개구리' ]
-    stroke: 12
+    str: 12
     tag: [200]
   '完':
     val: '완'
     desc: [ '완전할' ]
-    stroke: 7
+    str: 7
     tag: [140]
   '緩':
     val: '완'
-    desc: [ '느릴' ]
-    stroke: 15
+    desc: [ '느릴','완행' ]
+    str: 15
     tag: [130]
   '玩':
     val: '완'
     desc: [ '희롱할','애완' ]
-    stroke: 8
-    originStroke: 9
-    tag: [115]
+    str: 8
+    oStr: 9
+    tag: [150]
   '莞':
     val: '완'
     desc: [ '빙그레 웃을','왕골' ]
-    stroke: 11
-    originStroke: 13
+    str: 11
+    oStr: 13
+    tag: [150]
   '腕':
     val: '완'
     desc: [ '팔뚝' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [350]
   '王':
     val: '왕'
     desc: [ '임금' ]
-    stroke: 4
-    originStroke: 5
+    str: 4
+    oStr: 5
     tag: [40]
-    surname: true
+    fam: true
   '往':
     val: '왕'
     desc: [ '갈' ]
-    stroke: 8
+    str: 8
   '旺':
     val: '왕'
     desc: [ '왕성할' ]
-    stroke: 8
+    str: 8
   '汪':
     val: '왕'
     desc: [ '넓을' ]
-    stroke: 7
-    originStroke: 8
+    str: 7
+    oStr: 8
     tag: [90]
   '倭':
     val: '왜'
     desc: [ '왜나라' ]
-    stroke: 10
+    str: 10
   '外':
     val: '외'
     desc: [ '바깥' ]
-    stroke: 5
+    str: 5
   '畏':
     val: '외'
-    desc: [ '두려워할' ]
-    stroke: 9
+    desc: [ '두려워할','경외' ]
+    str: 9
   '猥':
     val: '외'
     desc: [ '외람할' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '要':
     val: '요'
-    desc: [ '요긴할' ]
-    stroke: 9
-    surname: true
+    desc: [ '요긴할','중요' ]
+    str: 9
+    fam: true
   '腰':
     val: '요'
-    desc: [ '허리' ]
-    stroke: 13
-    originStroke: 15
+    desc: [ '허리','요통','요대' ]
+    str: 13
+    oStr: 15
     tag: [350]
   '搖':
     val: '요'
     desc: [ '흔들','요람' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
   '遙':
     val: '요'
-    desc: [ '멀','거닐다' ]
-    stroke: 13
-    originStroke: 16
+    desc: [ '멀','거닐다','요원','소요' ]
+    str: 13
+    oStr: 16
   '謠':
     val: '요'
     desc: [ '노래' ]
-    stroke: 17
+    str: 17
     tag: [150,155]
   '夭':
     val: '요'
-    desc: [ '일찍 죽을','어릴' ]
-    stroke: 4
+    desc: [ '일찍 죽을','어릴','요절' ]
+    str: 4
   '堯':
     val: '요'
     desc: [ '요임금' ]
-    stroke: 12
-    surname: true
+    str: 12
+    fam: true
   '饒':
     val: '요'
-    desc: [ '넉넉할' ]
-    stroke: 20
+    desc: [ '넉넉할','풍요' ]
+    str: 20
     tag: [130]
   '曜':
     val: '요'
-    desc: [ '빛날' ]
-    stroke: 18
+    desc: [ '빛날','요일' ]
+    str: 18
     tag: [30]
   '耀':
     val: '요'
     desc: [ '빛날' ]
-    stroke: 20
+    str: 20
     tag: [30]
   '僥':
     val: '요'
     desc: [ '요행' ]
-    stroke: 14
+    str: 14
   '凹':
     val: '요'
-    desc: [ '오목할' ]
-    stroke: 5
+    desc: [ '오목할','요철' ]
+    str: 5
   '妖':
     val: '요'
     desc: [ '요사할' ]
-    stroke: 7
+    str: 7
   '窈':
     val: '요'
     desc: [ '고요할' ]
-    stroke: 10
-  '窈':
-    val: '요'
-    desc: [ '고요할' ]
-    stroke: 10
+    str: 10
   '姚':
     val: '요'
     desc: [ '예쁠' ]
-    stroke: 9
-    surname: true
+    str: 9
+    fam: true
   '欲':
     val: '욕'
-    desc: [ '하고자할' ]
-    stroke: 11
+    desc: [ '하고자 할','욕구' ]
+    str: 11
   '浴':
     val: '욕'
     desc: [ '목욕할' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
     tag: [310]
   '慾':
     val: '욕'
     desc: [ '욕심' ]
-    stroke: 15
+    str: 15
   '辱':
     val: '욕'
-    desc: [ '욕될' ]
-    stroke: 10
+    desc: [ '욕될','치욕' ]
+    str: 10
   '用':
     val: '용'
     desc: [ '쓸' ]
-    stroke: 5
+    str: 5
   '勇':
     val: '용'
-    desc: [ '날랠' ]
-    stroke: 9
+    desc: [ '날랠','용감' ]
+    str: 9
     tag: [80]
   '容':
     val: '용'
-    desc: [ '얼굴' ]
-    stroke: 10
-    tag: [350]
+    desc: [ '얼굴','미용' ]
+    str: 10
   '庸':
     val: '용'
-    desc: [ '떳떳할' ]
-    stroke: 11
-    tag: [125]
+    desc: [ '떳떳할','중용' ]
+    str: 11
+    tag: [110,125]
   '宂':
     val: '용'
     desc: [ '한가로울' ]
-    stroke: 5
+    str: 5
     tag: [130]
   '溶':
     val: '용'
-    desc: [ '녹을' ]
-    stroke: 13
-    originStroke: 14
+    desc: [ '녹을','용해' ]
+    str: 13
+    oStr: 14
   '鎔':
     val: '용'
-    desc: [ '쇠녹일' ]
-    stroke: 18
+    desc: [ '쇠녹일','용광로' ]
+    str: 18
   '涌':
     val: '용'
-    desc: [ '물솟을' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '물솟을','용천수' ]
+    str: 10
+    oStr: 11
     tag: [310]
   '蓉':
     val: '용'
     desc: [ '연꽃','부용' ]
-    stroke: 14
-    originStroke: 16
+    str: 14
+    oStr: 16
     tag: [300]
   '于':
     val: '우'
     desc: [ '어조사' ]
-    stroke: 3
+    str: 3
   '宇':
     val: '우'
-    desc: [ '집' ]
-    stroke: 6
-    tag: [115]
+    desc: [ '집','우주' ]
+    str: 6
   '右':
     val: '우'
     desc: [ '오른쪽' ]
-    stroke: 5
+    str: 5
   '牛':
     val: '우'
     desc: [ '소' ]
-    stroke: 4
+    str: 4
     tag: [200]
   '友':
     val: '우'
-    desc: [ '소' ]
-    stroke: 4
+    desc: [ '벗','친구' ]
+    str: 4
     tag: [115]
   '雨':
     val: '우'
     desc: [ '비' ]
-    stroke: 8
+    str: 8
     tag: [310]
   '憂':
     val: '우'
-    desc: [ '근심' ]
-    stroke: 15
+    desc: [ '근심','우환','기우' ]
+    str: 15
   '又':
     val: '우'
-    desc: [ '또' ]
-    stroke: 2
+    desc: [ '또','우일신' ]
+    str: 2
   '尤':
     val: '우'
     desc: [ '더욱' ]
-    stroke: 4
+    str: 4
   '遇':
     val: '우'
-    desc: [ '만날' ]
-    stroke: 12
-    originStroke: 15
+    desc: [ '만날','경우' ]
+    str: 12
+    oStr: 15
     tag: [115]
-    surname: true
+    fam: true
   '羽':
     val: '우'
     desc: [ '깃' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
+    ex: ['항우(項羽)']
   '郵':
     val: '우'
     desc: [ '우편' ]
-    stroke: 11
-    originStroke: 15
+    str: 11
+    oStr: 15
   '愚':
     val: '우'
-    desc: [ '어리석을' ]
-    stroke: 13
+    desc: [ '어리석을','우매' ]
+    str: 13
   '偶':
     val: '우'
-    desc: [ '짝' ]
-    stroke: 11
+    desc: [ '짝','배우자' ]
+    str: 11
     tag: [115]
   '優':
     val: '우'
-    desc: [ '넉넉할','뛰어날' ]
-    stroke: 17
+    desc: [ '넉넉할','뛰어날','우등' ]
+    str: 17
     tag: [20]
   '佑':
     val: '우'
-    desc: [ '도울' ]
-    stroke: 7
-    tag: [115]
+    desc: [ '도울','보우' ]
+    str: 7
   '禹':
     val: '우'
-    desc: [ '성씨' ]
-    stroke: 9
-    surname: true
+    desc: [ '성씨','우임금' ]
+    str: 9
+    fam: true
   '祐':
     val: '우'
     desc: [ '복','도울' ]
-    stroke: 9
+    str: 9
     tag: [50]
-    surname: true
+    fam: true
+    ex: ['곽재우(郭再祐)']
   '旭':
     val: '욱'
-    desc: [ '아침해' ]
-    stroke: 6
+    desc: [ '아침해','욱일승천' ]
+    str: 6
     tag: [30]
   '昱':
     val: '욱'
     desc: [ '햇빛 밝을' ]
-    stroke: 9
+    str: 9
     tag: [30]
   '煜':
     val: '욱'
     desc: [ '빛날' ]
-    stroke: 13
+    str: 13
     tag: [30]
   '郁':
     val: '욱'
     desc: [ '성할' ]
-    stroke: 9
-    originStroke: 13
-    surname: true
+    str: 9
+    oStr: 13
+    fam: true
   '云':
     val: '운'
     desc: [ '이를' ]
-    stroke: 4
+    str: 4
   '雲':
     val: '운'
     desc: [ '구름' ]
-    stroke: 12
-    surname: true
+    str: 12
+    fam: true
   '運':
     val: '운'
-    desc: [ '옮길' ]
-    stroke: 12
-    originStroke: 15
+    desc: [ '옮길','운반' ]
+    str: 12
+    oStr: 15
   '韻':
     val: '운'
     desc: [ '운율','운치' ]
-    stroke: 19
+    str: 19
   '芸':
     val: '운'
     desc: [ '평지' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [300]
-    surname: true
+    fam: true
   '蔚':
     val: '울'
     desc: [ '고을이름','울산' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
   '鬱':
     val: '울'
     desc: [ '울창할','답답할' ]
-    stroke: 29
+    str: 29
   '雄':
     val: '웅'
-    desc: [ '수컷' ]
-    stroke: 12
+    desc: [ '수컷','영웅','자웅' ]
+    str: 12
     tag: [80]
   '熊':
     val: '웅'
-    desc: [ '곰' ]
-    stroke: 14
+    desc: [ '곰','웅담' ]
+    str: 14
     tag: [200]
   '元':
     val: '원'
     desc: [ '으뜸' ]
-    stroke: 4
+    str: 4
     tag: [20]
-    surname: true
+    fam: true
   '原':
     val: '원'
     desc: [ '언덕','근원' ]
-    stroke: 10
+    str: 10
     tag: [20]
-    surname: true
+    fam: true
   '願':
     val: '원'
-    desc: [ '원할' ]
-    stroke: 19
+    desc: [ '원할','소원' ]
+    str: 19
   '遠':
     val: '원'
-    desc: [ '멀' ]
-    stroke: 13
-    originStroke: 16
+    desc: [ '멀','요원','원근' ]
+    str: 13
+    oStr: 16
   '園':
     val: '원'
     desc: [ '동산' ]
-    stroke: 13
+    str: 13
   '怨':
     val: '원'
     desc: [ '원망할' ]
-    stroke: 9
+    str: 9
   '圓':
     val: '원'
     desc: [ '둥글' ]
-    stroke: 13
+    str: 13
   '源':
     val: '원'
-    desc: [ '근원' ]
-    stroke: 13
-    originStroke: 14
+    desc: [ '근원','원천' ]
+    str: 13
+    oStr: 14
   '援':
     val: '원'
-    desc: [ '도울' ]
-    stroke: 12
-    originStroke: 13
+    desc: [ '도울','구원','원조' ]
+    str: 12
+    oStr: 13
     tag: [115]
   '院':
     val: '원'
     desc: [ '집' ]
-    stroke: 10
-    originStroke: 15
-    tag: [115]
+    str: 10
+    oStr: 15
   '袁':
     val: '원'
     desc: [ '성씨' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '垣':
     val: '원'
     desc: [ '담','울타리' ]
-    stroke: 9
+    str: 9
     tag: [330]
   '瑗':
     val: '원'
     desc: [ '구슬' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [60]
   '媛':
     val: '원'
     desc: [ '예쁠' ]
-    stroke: 12
+    str: 12
     tag: [10]
   '猿':
     val: '원'
     desc: [ '원숭이' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [200]
   '鴛':
     val: '원'
     desc: [ '원앙' ]
-    stroke: 16
+    str: 16
     tag: [115,200]
   '員':
     val: '원'
     desc: [ '인원' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '月':
     val: '월'
     desc: [ '달' ]
-    stroke: 4
+    str: 4
   '越':
     val: '월'
-    desc: [ '넘을' ]
-    stroke: 12
+    desc: [ '넘을','초월' ]
+    str: 12
     tag: [20]
   '鉞':
     val: '월'
-    desc: [ '도끼' ]
-    stroke: 13
+    desc: [ '도끼','부월' ]
+    str: 13
     tag: [80]
   '位':
     val: '위'
     desc: [ '자리','지위' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '危':
     val: '위'
     desc: [ '위태할' ]
-    stroke: 6
+    str: 6
   '爲':
     val: '위'
     desc: [ '할','되다' ]
-    stroke: 12
+    str: 12
   '偉':
     val: '위'
     desc: [ '클','위대할' ]
-    stroke: 11
+    str: 11
     tag: [20,40,90]
   '威':
     val: '위'
     desc: [ '위엄' ]
-    stroke: 9
+    str: 9
     tag: [140]
   '胃':
     val: '위'
     desc: [ '위장' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
     tag: [350]
   '謂':
     val: '위'
-    desc: [ '이를' ]
-    stroke: 16
+    desc: [ '이를','소위(이른바)' ]
+    str: 16
   '圍':
     val: '위'
-    desc: [ '에워쌀' ]
-    stroke: 12
+    desc: [ '에워쌀','주위','범위' ]
+    str: 12
   '衛':
     val: '위'
-    desc: [ '지킬' ]
-    stroke: 15
+    desc: [ '지킬','방위','위생','위성' ]
+    str: 15
     tag: [80]
   '違':
     val: '위'
     desc: [ '어긋날','위반' ]
-    stroke: 12
-    originStroke: 15
+    str: 12
+    oStr: 15
   '委':
     val: '위'
     desc: [ '맡길','위임' ]
-    stroke: 8
+    str: 8
   '慰':
     val: '위'
     desc: [ '위로할' ]
-    stroke: 15
+    str: 15
     tag: [115]
   '僞':
     val: '위'
-    desc: [ '거짓' ]
-    stroke: 14
+    desc: [ '거짓','위장' ]
+    str: 14
   '緯':
     val: '위'
     desc: [ '씨줄','가로','위도' ]
-    stroke: 15
+    str: 15
   '尉':
     val: '위'
     desc: [ '벼슬','위관' ]
-    stroke: 11
-    surname: true
+    str: 11
+    fam: true
   '韋':
     val: '위'
-    desc: [ '가죽' ]
-    stroke: 9
-    surname: true
+    desc: [ '가죽','위편삼절' ]
+    str: 9
+    fam: true
   '渭':
     val: '위'
     desc: [ '물이름' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [310]
   '魏':
     val: '위'
     desc: [ '나라이름' ]
-    stroke: 17
-    surname: true
+    str: 17
+    fam: true
   '萎':
     val: '위'
-    desc: [ '시들' ]
-    stroke: 12
-    originStroke: 14
+    desc: [ '시들','위축' ]
+    str: 12
+    oStr: 14
   '葦':
     val: '위'
     desc: [ '갈대' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [300]
   '蔿':
     val: '위'
     desc: [ '애기풀' ]
-    stroke: 16
-    originStroke: 18
+    str: 16
+    oStr: 18
     tag: [300]
   '蝟':
     val: '위'
     desc: [ '고슴도치' ]
-    stroke: 15
+    str: 15
     tag: [200]
   '由':
     val: '유'
     desc: [ '말미암을','이유' ]
-    stroke: 5
+    str: 5
   '油':
     val: '유'
     desc: [ '기름' ]
-    stroke: 8
-    originStroke: 9
-    ta: [310]
+    str: 8
+    oStr: 9
   '酉':
     val: '유'
     desc: [ '닭' ]
-    stroke: 7
+    str: 7
     ta: [200,400]
   '有':
     val: '유'
     desc: [ '있을' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '猶':
     val: '유'
     desc: [ '오히려','유예','원숭이' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [200]
   '唯':
     val: '유'
-    desc: [ '오직' ]
-    stroke: 11
+    desc: [ '오직','유일' ]
+    str: 11
   '遊':
     val: '유'
-    desc: [ '놀' ]
-    stroke: 12
-    originStroke: 15
+    desc: [ '놀','유람' ]
+    str: 12
+    oStr: 15
     tag: [150]
   '柔':
     val: '유'
-    desc: [ '부드러울' ]
-    stroke: 9
+    desc: [ '부드러울','유순' ]
+    str: 9
     tag: [150]
   '遺':
     val: '유'
-    desc: [ '남길' ]
-    stroke: 15
-    originStroke: 18
+    desc: [ '남길','유전' ]
+    str: 15
+    oStr: 18
     tag: [40]
   '幼':
     val: '유'
-    desc: [ '어릴' ]
-    stroke: 5
+    desc: [ '어릴','유치','유아' ]
+    str: 5
   '幽':
     val: '유'
     desc: [ '그윽할','검을','유령' ]
-    stroke: 9
+    str: 9
   '惟':
     val: '유'
-    desc: [ '생각할' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '생각할','사유' ]
+    str: 11
+    oStr: 12
   '維':
     val: '유'
     desc: [ '벼리','유지할','섬유' ]
-    stroke: 14
+    str: 14
   '乳':
     val: '유'
-    desc: [ '젖' ]
-    stroke: 8
+    desc: [ '젖','우유' ]
+    str: 8
   '儒':
     val: '유'
-    desc: [ '선비' ]
-    stroke: 16
-    tag: [70]
+    desc: [ '선비','유교','유생' ]
+    str: 16
+    tag: [70,500]
   '裕':
     val: '유'
-    desc: [ '넉넉할' ]
-    stroke: 12
+    desc: [ '넉넉할','여유' ]
+    str: 12
+    oStr: 13
     tag: [130]
   '誘':
     val: '유'
     desc: [ '꾈','유혹' ]
-    stroke: 14
+    str: 14
   '悠':
     val: '유'
     desc: [ '멀','유구하다' ]
-    stroke: 11
+    str: 11
   '喩':
     val: '유'
-    desc: [ '깨우칠' ]
-    stroke: 12
-    tag: [70]
+    desc: [ '깨우칠','비유' ]
+    str: 12
   '兪':
     val: '유'
-    desc: [ '대답할' ]
-    stroke: 9
-    surname: true
+    desc: [ '대답할','성씨' ]
+    str: 9
+    fam: true
   '楡':
     val: '유'
     desc: [ '느릅나무' ]
-    stroke: 13
+    str: 13
     tag: [300]
   '柚':
     val: '유'
     desc: [ '유자' ]
-    stroke: 9
+    str: 9
     tag: [300]
   '釉':
     val: '유'
     desc: [ '광택','유약' ]
-    stroke: 12
+    str: 12
   '愉':
     val: '유'
     desc: [ '즐거울','유쾌' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
     tag: [150]
   '揄':
     val: '유'
     desc: [ '야유할' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '楢':
     val: '유'
     desc: [ '졸참나무' ]
-    stroke: 13
+    str: 13
     tag: [300]
   '游':
     val: '유'
-    desc: [ '헤엄칠' ]
-    stroke: 12
-    originStroke: 13
+    desc: [ '헤엄칠','유영' ]
+    str: 12
+    oStr: 13
     tag: [310]
   '癒':
     val: '유'
     desc: [ '병나을','치유' ]
-    stroke: 18
+    str: 18
     tag: [360]
   '萸':
     val: '유'
     desc: [ '수유','산수유' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
     tag: [300]
   '諭':
     val: '유'
     desc: [ '타이를','권유' ]
-    stroke: 16
+    str: 16
   '蹂':
     val: '유'
     desc: [ '밟을','유린' ]
-    stroke: 16
+    str: 16
   '逾':
     val: '유'
     desc: [ '넘을','유월절' ]
-    stroke: 12
-    originStroke: 15
+    str: 12
+    oStr: 15
     tag: [500]
   '鍮':
     val: '유'
     desc: [ '놋쇠','유기' ]
-    stroke: 17
-    tag: [340]
-  '鍮':
-    val: '유'
-    desc: [ '놋쇠','유기' ]
-    stroke: 17
+    str: 17
     tag: [340]
   '庾':
     val: '유'
-    desc: [ '곳집' ]
-    stroke: 11
-    surname: true
+    desc: [ '곳집','성씨' ]
+    str: 11
+    fam: true
   '肉':
     val: '육'
     desc: [ '고기' ]
-    stroke: 6
-    tag: [200]
+    str: 6
   '育':
     val: '육'
     desc: [ '기를','교육' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [70]
   '閏':
     val: '윤'
     desc: [ '윤달' ]
-    stroke: 12
+    str: 12
   '潤':
     val: '윤'
     desc: [ '불을','이윤','윤택할' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
     tag: [40,130]
   '尹':
     val: '윤'
     desc: [ '성씨' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '允':
     val: '윤'
-    desc: [ '맏' ]
-    stroke: 4
-  '聿':
-    val: '율'
-    desc: [ '붓' ]
-    stroke: 6
+    desc: [ '맏','윤허' ]
+    str: 4
   '融':
     val: '융'
-    desc: [ '녹을' ]
-    stroke: 16
+    desc: [ '녹을','금융' ]
+    str: 16
   '戎':
     val: '융'
     desc: [ '병장기','오랑캐','서융' ]
-    stroke: 6
+    str: 6
     tag: [80]
   '絨':
     val: '융'
     desc: [ '가는 베','융단' ]
-    stroke: 12
+    str: 12
   '恩':
     val: '은'
     desc: [ '은혜' ]
-    stroke: 10
+    str: 10
     tag: [115]
   '銀':
     val: '은'
     desc: [ '은' ]
-    stroke: 14
+    str: 14
     tag: [340]
   '隱':
     val: '은'
-    desc: [ '숨을' ]
-    stroke: 17
-    originStroke: 22
-    surname: true
+    desc: [ '숨을','은닉' ]
+    str: 17
+    oStr: 22
+    fam: true
   '殷':
     val: '은'
     desc: [ '성할','은나라' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '乙':
     val: '을'
     desc: [ '새' ]
-    stroke: 1
+    str: 1
     tag: [200,400]
-    surname: true
+    fam: true
   '音':
     val: '음'
     desc: [ '소리' ]
-    stroke: 9
+    str: 9
     tag: [155]
   '吟':
     val: '음'
     desc: [ '읊을' ]
-    stroke: 7
+    str: 7
   '飮':
     val: '음'
-    desc: [ '마실' ]
-    stroke: 13
+    desc: [ '마실','음료' ]
+    str: 13
   '陰':
     val: '음'
-    desc: [ '그늘' ]
-    stroke: 11
-    originStroke: 16
-    surname: true
+    desc: [ '그늘','음양' ]
+    str: 11
+    oStr: 16
+    fam: true
   '蔭':
     val: '음'
     desc: [ '그늘' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
   '淫':
     val: '음'
     desc: [ '음란할' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '邑':
     val: '읍'
     desc: [ '고을' ]
-    stroke: 7
+    str: 7
   '泣':
     val: '읍'
-    desc: [ '울' ]
-    stroke: 8
-    originStroke: 9
+    desc: [ '울','읍소' ]
+    str: 8
+    oStr: 9
   '揖':
     val: '읍'
     desc: [ '읍할' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '應':
     val: '응'
-    desc: [ '응할' ]
-    stroke: 17
+    desc: [ '응할','대응' ]
+    str: 17
   '凝':
     val: '응'
-    desc: [ '엉길' ]
-    stroke: 16
+    desc: [ '엉길','응고' ]
+    str: 16
   '膺':
     val: '응'
-    desc: [ '가슴' ]
-    stroke: 17
-    originStroke: 19
+    desc: [ '가슴','응징','응수' ]
+    str: 17
+    oStr: 19
     tag: [350]
   '鷹':
     val: '응'
     desc: [ '매' ]
-    stroke: 24
+    str: 24
     tag: [200]
   '衣':
     val: '의'
     desc: [ '옷' ]
-    stroke: 6
+    str: 6
   '依':
     val: '의'
     desc: [ '의지할' ]
-    stroke: 8
+    str: 8
   '義':
     val: '의'
     desc: [ '옳을' ]
-    stroke: 13
+    str: 13
     tag: [110]
   '議':
     val: '의'
     desc: [ '의논할' ]
-    stroke: 20
+    str: 20
   '矣':
     val: '의'
     desc: [ '어조사' ]
-    stroke: 7
+    str: 7
   '醫':
     val: '의'
     desc: [ '의원' ]
-    stroke: 18
+    str: 18
     tag: [75,140]
   '意':
     val: '의'
     desc: [ '뜻' ]
-    stroke: 13
+    str: 13
     tag: [110]
   '宜':
     val: '의'
     desc: [ '마땅' ]
-    stroke: 8
+    str: 8
     tag: [110]
   '儀':
     val: '의'
-    desc: [ '거동','법도' ]
-    stroke: 15
+    desc: [ '거동','법도','예의' ]
+    str: 15
     tag: [140]
   '疑':
     val: '의'
     desc: [ '의심할' ]
-    stroke: 14
+    str: 14
     tag: [140]
-  '倚':
-    val: '의'
-    desc: [ '의지할' ]
-    stroke: 10
-    tag: [115]
   '誼':
     val: '의'
-    desc: [ '정','도리' ]
-    stroke: 15
-    tag: [115,140]
+    desc: [ '정','도리','우의' ]
+    str: 15
+    tag: [115]
   '毅':
     val: '의'
-    desc: [ '굳셀' ]
-    stroke: 15
+    desc: [ '굳셀','의연' ]
+    str: 15
     tag: [90,110]
   '擬':
     val: '의'
     desc: [ '비길','모의' ]
-    stroke: 17
-    originStroke: 18
+    str: 17
+    oStr: 18
   '椅':
     val: '의'
     desc: [ '의자' ]
-    stroke: 12
+    str: 12
   '薏':
     val: '의'
     desc: [ '율무' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
     tag: [300]
   '蟻':
     val: '의'
     desc: [ '개미' ]
-    stroke: 19
+    str: 19
     tag: [200]
   '二':
     val: '이'
     desc: [ '두' ]
-    stroke: 2
+    str: 2
   '以':
     val: '이'
     desc: [ '~써' ]
-    stroke: 5
+    str: 5
   '已':
     val: '이'
     desc: [ '이미' ]
-    stroke: 3
+    str: 3
   '耳':
     val: '이'
     desc: [ '귀' ]
-    stroke: 6
+    str: 6
     tag: [350]
   '而':
     val: '이'
     desc: [ '그리고','그러나' ]
-    stroke: 6
+    str: 6
   '異':
     val: '이'
     desc: [ '다를' ]
-    stroke: 11
+    str: 11
   '移':
     val: '이'
-    desc: [ '옮길' ]
-    stroke: 11
+    desc: [ '옮길','이사' ]
+    str: 11
   '夷':
     val: '이'
     desc: [ '오랑캐','동이' ]
-    stroke: 6
+    str: 6
+    tag: [80]
   '珥':
     val: '이'
     desc: [ '귀고리' ]
-    stroke: 10
+    str: 10
     tag: [60]
   '伊':
     val: '이'
     desc: [ '저','성씨','이태리' ]
-    stroke: 6
-    surname: true
+    str: 6
+    fam: true
   '姨':
     val: '이'
     desc: [ '이모' ]
-    stroke: 9
+    str: 9
     tag: [115]
   '貳':
     val: '이'
     desc: [ '두','둘' ]
-    stroke: 12
-    originStroke: 2
+    str: 12
+    oStr: 2
   '栮':
     val: '이'
     desc: [ '목이버섯' ]
-    stroke: 10
+    str: 10
     tag: [300]
   '易':
     val: '이'
     desc: [ '쉬울' ]
-    stroke: 8
+    str: 8
   '益':
     val: '익'
-    desc: [ '더할','넘칠' ]
-    stroke: 10
-    surname: true
+    desc: [ '더할','넘칠','이익' ]
+    str: 10
+    fam: true
   '翼':
     val: '익'
-    desc: [ '날개' ]
-    stroke: 17
+    desc: [ '날개','좌익','우익' ]
+    str: 17
   '翌':
     val: '익'
-    desc: [ '다음날' ]
-    stroke: 11
-    surname: true
+    desc: [ '다음날','익일' ]
+    str: 11
+    fam: true
   '人':
     val: '인'
     desc: [ '사람' ]
-    stroke: 2
+    str: 2
   '引':
     val: '인'
     desc: [ '끌','견인' ]
-    stroke: 4
+    str: 4
   '仁':
     val: '인'
     desc: [ '어질' ]
-    stroke: 4
+    str: 4
     tag: [110]
-    surname: true
+    fam: true
   '因':
     val: '인'
     desc: [ '인할','원인' ]
-    stroke: 6
+    str: 6
   '忍':
     val: '인'
-    desc: [ '참을' ]
-    stroke: 7
+    desc: [ '참을','인내' ]
+    str: 7
     tag: [110,125]
   '認':
     val: '인'
     desc: [ '알','인식' ]
-    stroke: 14
+    str: 14
     tag: [70]
   '寅':
     val: '인'
     desc: [ '범','호랑이' ]
-    stroke: 11
+    str: 11
     tag: [200,400]
   '印':
     val: '인'
     desc: [ '도장' ]
-    stroke: 5
-    surname: true
+    str: 5
+    fam: true
   '姻':
     val: '인'
     desc: [ '혼인' ]
-    stroke: 9
+    str: 9
     tag: [115]
   '湮':
     val: '인'
     desc: [ '묻힐','인멸' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '蚓':
     val: '인'
     desc: [ '지렁이' ]
-    stroke: 10
+    str: 10
     tag: [200]
   '刃':
     val: '인'
     desc: [ '칼날' ]
-    stroke: 3
+    str: 3
     tag: [80]
   '一':
     val: '일'
     desc: [ '한' ]
-    stroke: 1
+    str: 1
     tag: [20]
   '日':
     val: '일'
     desc: [ '날' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '逸':
     val: '일'
     desc: [ '편안할','일탈','독일' ]
-    stroke: 11
-    originStroke: 14
+    str: 11
+    oStr: 14
     tag: [130]
   '溢':
     val: '일'
     desc: [ '넘칠','해일' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
     tag: [310]
   '壹':
     val: '일'
     desc: [ '한','하나' ]
-    stroke: 12
-    originStroke: 1
+    str: 12
+    oStr: 1
     tag: [20]
   '壬':
     val: '임'
     desc: [ '북방' ]
-    stroke: 4
+    str: 4
     tag: [400]
   '任':
     val: '임'
-    desc: [ '맡길' ]
-    stroke: 6
-    surname: true
+    desc: [ '맡길','임명' ]
+    str: 6
+    fam: true
   '賃':
     val: '임'
-    desc: [ '품삯' ]
-    stroke: 13
+    desc: [ '품삯','임금' ]
+    str: 13
   '妊':
     val: '임'
     desc: [ '임신할' ]
-    stroke: 7
+    str: 7
     tag: [115]
   '荏':
     val: '임'
     desc: [ '들깨' ]
-    stroke: 10
-    originStroke: 12
+    str: 10
+    oStr: 12
     tag: [300]
   '入':
     val: '입'
     desc: [ '들' ]
-    stroke: 2
+    str: 2
   '剩':
     val: '잉'
     desc: [ '남을','잉여' ]
-    stroke: 12
+    str: 12
     tag: [130]
   '孕':
     val: '잉'
     desc: [ '아이 밸','잉태' ]
-    stroke: 5
+    str: 5
     tag: [115]
   '子':
     val: '자'
     desc: [ '아들' ]
-    stroke: 3
+    str: 3
     tag: [115]
   '字':
     val: '자'
     desc: [ '글자' ]
-    stroke: 6
+    str: 6
   '自':
     val: '자'
     desc: [ '스스로' ]
-    stroke: 6
+    str: 6
   '者':
     val: '자'
     desc: [ '놈' ]
-    stroke: 8
+    str: 8
   '姊':
     val: '자'
-    desc: [ '윗누이' ]
-    stroke: 8
+    desc: [ '윗누이','자매' ]
+    str: 8
     tag: [115]
   '慈':
     val: '자'
-    desc: [ '사랑' ]
-    stroke: 13
+    desc: [ '사랑','자비' ]
+    str: 13
     tag: [115]
-    surname: true
+    fam: true
   '玆':
     val: '자'
     desc: [ '검을' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '紫':
     val: '자'
     desc: [ '자줏빛' ]
-    stroke: 12
+    str: 12
     tag: [160]
   '資':
     val: '자'
-    desc: [ '재물' ]
-    stroke: 13
+    desc: [ '재물','자본' ]
+    str: 13
     tag: [40]
   '姿':
     val: '자'
     desc: [ '모양','자세' ]
-    stroke: 9
+    str: 9
   '恣':
     val: '자'
     desc: [ '마음대로','방자할' ]
-    stroke: 10
+    str: 10
   '刺':
     val: '자'
-    desc: [ '찌를' ]
-    stroke: 8
+    desc: [ '찌를','자극' ]
+    str: 8
     tag: [140]
   '仔':
     val: '자'
-    desc: [ '자세할' ]
-    stroke: 5
+    desc: [ '자세할','자상할' ]
+    str: 5
     tag: [140]
   '孖':
     val: '자'
     desc: [ '쌍둥이' ]
-    stroke: 6
+    str: 6
     tag: [115]
   '磁':
     val: '자'
     desc: [ '자석' ]
-    stroke: 14
-    tag: [330]
+    str: 14
   '瓷':
     val: '자'
     desc: [ '사기그릇','도자기' ]
-    stroke: 11
-  '炙':
-    val: '자'
-    desc: [ '구울' ]
-    stroke: 8
-    tag: [320]
+    str: 11
   '蔗':
     val: '자'
     desc: [ '사탕수수' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
     tag: [300]
   '柘':
     val: '자'
     desc: [ '산뽕나무' ]
-    stroke: 9
+    str: 9
     tag: [300]
   '作':
     val: '작'
     desc: [ '지을' ]
-    stroke: 7
+    str: 7
   '昨':
     val: '작'
     desc: [ '어제' ]
-    stroke: 9
+    str: 9
   '酌':
     val: '작'
-    desc: [ '술부을' ]
-    stroke: 10
+    desc: [ '술부을','작부' ]
+    str: 10
   '爵':
     val: '작'
-    desc: [ '벼슬' ]
-    stroke: 17
+    desc: [ '벼슬','공작,백작' ]
+    str: 17
     tag: [40]
   '灼':
     val: '작'
     desc: [ '불사를','작열' ]
-    stroke: 7
+    str: 7
     tag: [320]
   '芍':
     val: '작'
     desc: [ '함박꽃','작약' ]
-    stroke: 7
-    originStroke: 9
+    str: 7
+    oStr: 9
     tag: [300]
   '雀':
     val: '작'
-    desc: [ '참새' ]
-    stroke: 11
-    tag: [200]
+    desc: [ '참새','주작' ]
+    str: 11
+    tag: [50,200]
   '鵲':
     val: '작'
     desc: [ '까치','오작교' ]
-    stroke: 19
+    str: 19
     tag: [200]
   '勺':
     val: '작'
     desc: [ '구기','잔','피리' ]
-    stroke: 3
+    str: 3
   '殘':
     val: '잔'
     desc: [ '잔인할' ]
-    stroke: 12
+    str: 12
   '盞':
     val: '잔'
     desc: [ '잔' ]
-    stroke: 13
+    str: 13
   '潛':
     val: '잠'
     desc: [ '잠길' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
   '暫':
     val: '잠'
-    desc: [ '잠깐' ]
-    stroke: 15
+    desc: [ '잠깐','잠시' ]
+    str: 15
   '箴':
     val: '잠'
     desc: [ '경계','잠언' ]
-    stroke: 15
+    str: 15
     tag: [125,140]
   '蠶':
     val: '잠'
-    desc: [ '누에' ]
-    stroke: 24
+    desc: [ '누에','잠실' ]
+    str: 24
     tag: [200]
   '雜':
     val: '잡'
-    desc: [ '섞일' ]
-    stroke: 18
+    desc: [ '섞일','혼잡' ]
+    str: 18
   '長':
     val: '장'
     desc: [ '길' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '章':
     val: '장'
     desc: [ '글' ]
-    stroke: 11
-    surname: true
+    str: 11
+    fam: true
   '場':
     val: '장'
     desc: [ '마당' ]
-    stroke: 12
-    surname: true
+    str: 12
+    fam: true
   '將':
     val: '장'
     desc: [ '장수','장군' ]
-    stroke: 11
+    str: 11
     tag: [20,45,80]
   '壯':
     val: '장'
     desc: [ '장할' ]
-    stroke: 7
+    str: 7
     tag: [20,80,90]
   '丈':
     val: '장'
     desc: [ '어른' ]
-    stroke: 3
+    str: 3
   '張':
     val: '장'
     desc: [ '베풀','주장','긴장' ]
-    stroke: 11
-    surname: true
+    str: 11
+    fam: true
   '帳':
     val: '장'
     desc: [ '장막' ]
-    stroke: 11
+    str: 11
   '莊':
     val: '장'
     desc: [ '씩씩할' ]
-    stroke: 11
-    originStroke: 13
+    str: 11
+    oStr: 13
     tag: [80,90]
-    surname: true
+    fam: true
   '裝':
     val: '장'
-    desc: [ '꾸밀' ]
-    stroke: 13
+    desc: [ '꾸밀','장식' ]
+    str: 13
   '獎':
     val: '장'
     desc: [ '권면할','장려' ]
-    stroke: 15
+    str: 15
   '墻':
     val: '장'
     desc: [ '담' ]
-    stroke: 16
+    str: 16
   '葬':
     val: '장'
     desc: [ '장사지낼' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
   '粧':
     val: '장'
-    desc: [ '단장할' ]
-    stroke: 12
+    desc: [ '단장할','화장' ]
+    str: 12
     tag: [10]
   '掌':
     val: '장'
-    desc: [ '손바닥' ]
-    stroke: 12
+    desc: [ '손바닥','장갑' ]
+    str: 12
   '藏':
     val: '장'
-    desc: [ '감출' ]
-    stroke: 18
-    originStroke: 20
+    desc: [ '감출','저장','포장' ]
+    str: 18
+    oStr: 20
   '臟':
     val: '장'
     desc: [ '오장','장기' ]
-    stroke: 22
-    originStroke: 24
+    str: 22
+    oStr: 24
     tag: [350]
   '障':
     val: '장'
-    desc: [ '막을' ]
-    stroke: 14
-    originStroke: 19
+    desc: [ '막을','장애','보장' ]
+    str: 14
+    oStr: 19
   '腸':
     val: '장'
     desc: [ '창자' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [350]
   '匠':
     val: '장'
     desc: [ '장인' ]
-    stroke: 6
+    str: 6
     tag: [75]
   '杖':
     val: '장'
-    desc: [ '지팡이' ]
-    stroke: 7
+    desc: [ '지팡이','곤장' ]
+    str: 7
   '樟':
     val: '장'
     desc: [ '녹나무' ]
-    stroke: 15
+    str: 15
     tag: [300]
   '薔':
     val: '장'
     desc: [ '장미' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
     tag: [300]
   '蔣':
     val: '장'
     desc: [ '성씨' ]
-    stroke: 15
-    originStroke: 17
-    surname: true
+    str: 15
+    oStr: 17
+    fam: true
   '仗':
     val: '장'
     desc: [ '병장기' ]
-    stroke: 5
+    str: 5
   '欌':
     val: '장'
     desc: [ '장롱' ]
-    stroke: 22
+    str: 22
   '獐':
     val: '장'
     desc: [ '노루' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [200]
   '狀':
     val: '장'
     desc: [ '문서' ]
-    stroke: 8
+    str: 8
   '才':
     val: '재'
     desc: [ '재주' ]
-    stroke: 3
-    originStroke: 4
+    str: 3
+    oStr: 4
     tag: [75]
   '材':
     val: '재'
     desc: [ '재목' ]
-    stroke: 7
+    str: 7
   '財':
     val: '재'
     desc: [ '재물' ]
-    stroke: 10
+    str: 10
     tag: [40]
   '在':
     val: '재'
     desc: [ '있을' ]
-    stroke: 6
+    str: 6
   '栽':
     val: '재'
-    desc: [ '심을' ]
-    stroke: 10
+    desc: [ '심을','재배' ]
+    str: 10
   '再':
     val: '재'
     desc: [ '다시' ]
-    stroke: 6
+    str: 6
   '哉':
     val: '재'
     desc: [ '어조사','처음','비로소' ]
-    stroke: 9
+    str: 9
   '災':
     val: '재'
     desc: [ '재앙' ]
-    stroke: 7
+    str: 7
     tag: [320]
   '裁':
     val: '재'
-    desc: [ '마를','자르다' ]
-    stroke: 12
+    desc: [ '마를','자르다','재단' ]
+    str: 12
   '載':
     val: '재'
-    desc: [ '실을' ]
-    stroke: 13
+    desc: [ '실을','등재' ]
+    str: 13
   '宰':
     val: '재'
     desc: [ '재상' ]
-    stroke: 10
+    str: 10
     tag: [20,40,120]
   '齋':
     val: '재'
     desc: [ '정진하다','목욕재계' ]
-    stroke: 17
+    str: 17
     tag: [100,110,125]
   '爭':
     val: '쟁'
     desc: [ '다툴' ]
-    stroke: 8
+    str: 8
   '錚':
     val: '쟁'
     desc: [ '쇳소리','쟁반' ]
-    stroke: 14
+    str: 14
     tag: [340]
   '箏':
     val: '쟁'
     desc: [ '쟁','아쟁' ]
-    stroke: 14
+    str: 14
     tag: [155]
   '著':
     val: '저'
     desc: [ '나타날','현저','저작' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
   '貯':
     val: '저'
     desc: [ '쌓을','저축' ]
-    stroke: 12
+    str: 12
     tag: [40,120]
   '低':
     val: '저'
     desc: [ '낮을' ]
-    stroke: 7
+    str: 7
     tag: [125]
   '底':
     val: '저'
     desc: [ '밑','바닥','속' ]
-    stroke: 8
+    str: 8
   '抵':
     val: '저'
     desc: [ '막을','저항' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '邸':
     val: '저'
     desc: [ '집','저택' ]
-    stroke: 8
-    originStroke: 13
+    str: 8
+    oStr: 13
   '楮':
     val: '저'
     desc: [ '닥나무' ]
-    stroke: 12
+    str: 12
     tag: [300]
-  '沮':
-    val: '저'
-    desc: [ '막을' ]
-    stroke: 8
-    originStroke: 9
   '咀':
     val: '저'
     desc: [ '씹을','저주' ]
-    stroke: 8
+    str: 8
   '猪':
     val: '저'
     desc: [ '돼지' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
     tag: [200]
   '的':
     val: '적'
     desc: [ '과녁' ]
-    stroke: 8
+    str: 8
   '赤':
     val: '적'
     desc: [ '붉을' ]
-    stroke: 7
+    str: 7
     tag: [160]
   '適':
     val: '적'
     desc: [ '맞을','적합할' ]
-    stroke: 14
-    originStroke: 17
+    str: 14
+    oStr: 17
   '敵':
     val: '적'
     desc: [ '대적할' ]
-    stroke: 15
+    str: 15
   '滴':
     val: '적'
-    desc: [ '물방울' ]
-    stroke: 14
-    originStroke: 15
-    tag: [310]
+    desc: [ '물방울','연적' ]
+    str: 14
+    oStr: 15
   '摘':
     val: '적'
-    desc: [ '딸','지적' ]
-    stroke: 14
-    originStroke: 15
+    desc: [ '따다','지적' ]
+    str: 14
+    oStr: 15
     tag: [140]
   '寂':
     val: '적'
-    desc: [ '고요할' ]
-    stroke: 11
+    desc: [ '고요할','적막','한적' ]
+    str: 11
     tag: [130]
   '籍':
     val: '적'
     desc: [ '문서','서적' ]
-    stroke: 20
+    str: 20
   '賊':
     val: '적'
-    desc: [ '도둑' ]
-    stroke: 13
+    desc: [ '도둑','도적' ]
+    str: 13
   '跡':
     val: '적'
-    desc: [ '발자취' ]
-    stroke: 13
+    desc: [ '발자취','흔적' ]
+    str: 13
   '積':
     val: '적'
-    desc: [ '쌓을' ]
-    stroke: 16
+    desc: [ '쌓을','누적','적극' ]
+    str: 16
     tag: [120,125]
   '績':
     val: '적'
     desc: [ '길쌈할' ]
-    stroke: 17
+    str: 17
   '狄':
     val: '적'
     desc: [ '오랑캐','북적' ]
-    stroke: 7
-    originStroke: 8
-    surname: true
+    str: 7
+    oStr: 8
+    fam: true
   '迹':
     val: '적'
-    desc: [ '자취' ]
-    stroke: 9
-    originStroke: 12
+    desc: [ '자취','흔적' ]
+    str: 9
+    oStr: 12
   '笛':
     val: '적'
     desc: [ '피리' ]
-    stroke: 11
+    str: 11
     tag: [155]
   '田':
     val: '전'
     desc: [ '밭' ]
-    stroke: 5
-    surname: true
+    str: 5
+    fam: true
   '全':
     val: '전'
     desc: [ '온전할' ]
-    stroke: 6
+    str: 6
     tag: [140]
-    surname: true
+    fam: true
   '典':
     val: '전'
     desc: [ '법' ]
-    stroke: 8
+    str: 8
     tag: [140]
   '前':
     val: '전'
     desc: [ '앞' ]
-    stroke: 9
+    str: 9
   '展':
     val: '전'
     desc: [ '펼','전망','전개' ]
-    stroke: 10
+    str: 10
   '戰':
     val: '전'
-    desc: [ '싸움' ]
-    stroke: 16
+    desc: [ '싸움','전쟁' ]
+    str: 16
     tag: [80]
   '電':
     val: '전'
-    desc: [ '번개' ]
-    stroke: 13
+    desc: [ '번개','전기' ]
+    str: 13
   '錢':
     val: '전'
     desc: [ '돈' ]
-    stroke: 16
-    surname: true
+    str: 16
+    fam: true
   '傳':
     val: '전'
-    desc: [ '전할' ]
-    stroke: 13
+    desc: [ '전할','전달' ]
+    str: 13
   '專':
     val: '전'
     desc: [ '오로지','전문' ]
-    stroke: 11
+    str: 11
     tag: [75]
   '轉':
     val: '전'
     desc: [ '구를','전환' ]
-    stroke: 18
+    str: 18
   '殿':
     val: '전'
     desc: [ '전각' ]
-    stroke: 13
+    str: 13
   '煎':
     val: '전'
     desc: [ '달일','전병' ]
-    stroke: 13
+    str: 13
     tag: [320]
   '節':
     val: '절'
     desc: [ '마디' ]
-    stroke: 13
+    str: 13
   '絶':
     val: '절'
-    desc: [ '끊을' ]
-    stroke: 12
+    desc: [ '끊을','절대' ]
+    str: 12
     tag: [125,140]
   '切':
     val: '절'
-    desc: [ '끊을' ]
-    stroke: 4
+    desc: [ '끊을','적절','절실' ]
+    str: 4
     tag: [125,140]
   '折':
     val: '절'
-    desc: [ '꺽을' ]
-    stroke: 7
-    originStroke: 8
-  '竊':
-    val: '절'
-    desc: [ '훔칠' ]
-    stroke: 22
+    desc: [ '꺽을','절반','좌절' ]
+    str: 7
+    oStr: 8
   '店':
     val: '점'
     desc: [ '가게' ]
-    stroke: 8
+    str: 8
   '占':
     val: '점'
     desc: [ '점령할','점치다' ]
-    stroke: 5
-    surname: true
+    str: 5
+    fam: true
   '點':
     val: '점'
     desc: [ '점' ]
-    stroke: 17
+    str: 17
   '漸':
     val: '점'
     desc: [ '점점' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
   '粘':
     val: '점'
     desc: [ '붙을','끈끈할' ]
-    stroke: 11
+    str: 11
   '鮎':
     val: '점'
     desc: [ '메기' ]
-    stroke: 16
+    str: 16
     tag: [200]
   '接':
     val: '접'
-    desc: [ '이을' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '이을','접속' ]
+    str: 11
+    oStr: 12
   '蝶':
     val: '접'
-    desc: [ '나비' ]
-    stroke: 15
+    desc: '나비'
+    ex: '호접몽(胡蝶夢)'
+    str: 15
     tag: [200]
   '鰈':
     val: '접'
     desc: [ '가자미' ]
-    stroke: 20
+    str: 20
     tag: [200]
   '丁':
     val: '정'
     desc: [ '고무래','장정' ]
-    stroke: 2
-    surname: true
+    str: 2
+    fam: true
   '頂':
     val: '정'
-    desc: [ '정수리' ]
-    stroke: 11
-    tag: [20]
+    desc: [ '정수리','정상' ]
+    str: 11
+    tag: [20,40,45]
   '停':
     val: '정'
-    desc: [ '머무를' ]
-    stroke: 11
+    desc: [ '머무를','정지' ]
+    str: 11
   '井':
     val: '정'
     desc: [ '우물' ]
-    stroke: 4
+    str: 4
     tag: [310]
   '正':
     val: '정'
     desc: [ '바를' ]
-    stroke: 5
+    str: 5
     tag: [110]
   '政':
     val: '정'
-    desc: [ '정사','정치','칠' ]
-    stroke: 9
-    tag: [80]
+    desc: [ '정사','정치' ]
+    str: 9
   '定':
     val: '정'
     desc: [ '정할' ]
-    stroke: 8
+    str: 8
   '貞':
     val: '정'
     desc: [ '곧을' ]
-    stroke: 9
+    str: 9
     tag: [110]
-    surname: true
+    fam: true
   '精':
     val: '정'
     desc: [ '정성스럽다','찧다' ]
-    stroke: 14
+    str: 14
     tag: [100]
   '情':
     val: '정'
     desc: [ '뜻','인정' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
     tag: [115]
   '靜':
     val: '정'
-    desc: [ '고요할' ]
-    stroke: 16
+    desc: [ '고요할','정숙','진정' ]
+    str: 16
     tag: [130]
   '淨':
     val: '정'
-    desc: [ '깨끗할' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '깨끗할','정화' ]
+    str: 11
+    oStr: 12
     tag: [100]
   '庭':
     val: '정'
     desc: [ '뜰' ]
-    stroke: 10
+    str: 10
   '亭':
     val: '정'
     desc: [ '정자' ]
-    stroke: 9
+    str: 9
+    tag: [130]
   '訂':
     val: '정'
-    desc: [ '바로잡을' ]
-    stroke: 9
+    desc: [ '바로잡을','수정' ]
+    str: 9
     tag: [110]
   '廷':
     val: '정'
     desc: [ '조정' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '程':
     val: '정'
     desc: [ '한도','길' ]
-    stroke: 12
-    surname: true
+    str: 12
+    fam: true
   '征':
     val: '정'
-    desc: [ '칠' ]
-    stroke: 8
+    desc: [ '칠','정벌' ]
+    str: 8
     tag: [80]
   '整':
     val: '정'
     desc: [ '가지런할','정리' ]
-    stroke: 16
+    str: 16
     tag: [100]
   '町':
     val: '정'
     desc: [ '밭두둑' ]
-    stroke: 7
+    str: 7
   '偵':
     val: '정'
     desc: [ '염탐할','탐정' ]
-    stroke: 11
+    str: 11
     tag: [140]
   '楨':
     val: '정'
     desc: [ '광나무' ]
-    stroke: 13
+    str: 13
     tag: [300]
   '鼎':
     val: '정'
     desc: [ '솥' ]
-    stroke: 12
+    str: 12
   '晶':
     val: '정'
     desc: [ '맑을','수정' ]
-    stroke: 12
+    str: 12
     tag: [60,100]
   '錠':
     val: '정'
     desc: [ '덩이','정제' ]
-    stroke: 16
+    str: 16
   '鄭':
     val: '정'
-    desc: [ '정나라' ]
-    stroke: 15
-    originStroke: 20
-    surname: true
+    desc: [ '정나라','성씨' ]
+    str: 15
+    oStr: 20
+    fam: true
   '炡':
     val: '정'
     desc: [ '빛날' ]
-    stroke: 9
-    tag: [30,320]
+    str: 9
+    tag: [30]
   '釘':
     val: '정'
-    desc: [ '못' ]
-    stroke: 10
+    desc: [ '못','압정' ]
+    str: 10
     tag: [340]
   '睛':
     val: '정'
-    desc: [ '눈동자' ]
-    stroke: 13
+    desc: [ '눈동자','화룡점정' ]
+    str: 13
     tag: [350]
   '穽':
     val: '정'
     desc: [ '함정' ]
-    stroke: 9
+    str: 9
   '艇':
     val: '정'
-    desc: [ '배' ]
-    stroke: 13
+    desc: [ '배','함정' ]
+    str: 13
   '弟':
     val: '제'
-    desc: [ '아우' ]
-    stroke: 7
+    desc: [ '아우','형제' ]
+    str: 7
     tag: [115]
   '第':
     val: '제'
     desc: [ '차례','과거시험' ]
-    stroke: 11
+    str: 11
   '祭':
     val: '제'
     desc: [ '제사' ]
-    stroke: 11
+    str: 11
     tag: [500]
   '帝':
     val: '제'
     desc: [ '임금' ]
-    stroke: 9
+    str: 9
     tag: [40]
   '題':
     val: '제'
     desc: [ '제목' ]
-    stroke: 18
+    str: 18
   '除':
     val: '제'
-    desc: [ '덜다','나누다' ]
-    stroke: 10
-    originStroke: 15
+    desc: [ '덜다','나누다','제거' ]
+    str: 10
+    oStr: 15
   '諸':
     val: '제'
-    desc: [ '모두' ]
-    stroke: 15
-    surname: true
+    desc: [ '모두','제군' ]
+    str: 15
+    fam: true
   '製':
     val: '제'
-    desc: [ '지을','만들다' ]
-    stroke: 14
+    desc: [ '지을','만들다','제작' ]
+    str: 14
     tag: [75]
   '提':
     val: '제'
     desc: [ '끌','거느리다','제공' ]
-    stroke: 12
-    originStroke: 13
+    str: 12
+    oStr: 13
   '堤':
     val: '제'
-    desc: [ '둑' ]
-    stroke: 12
-    tag: [330]
-    surname: true
+    desc: [ '둑','제방' ]
+    str: 12
+    fam: true
   '制':
     val: '제'
-    desc: [ '절제할' ]
-    stroke: 8
+    desc: [ '절제할','제도','제한' ]
+    str: 8
     tag: [125,140]
   '際':
     val: '제'
-    desc: [ '즈음','끝' ]
-    stroke: 14
-    originStroke: 19
+    desc: [ '즈음','끝','실제','국제' ]
+    str: 14
+    oStr: 19
   '齊':
     val: '제'
-    desc: [ '가지런할' ]
-    stroke: 14
-    tag: [100]
+    desc: [ '가지런할','일제히' ]
+    str: 14
   '濟':
     val: '제'
     desc: [ '건널','구제하다','경제' ]
-    stroke: 17
-    originStroke: 18
+    str: 17
+    oStr: 18
   '劑':
     val: '제'
     desc: [ '약제' ]
-    stroke: 16
+    str: 16
   '薺':
     val: '제'
     desc: [ '냉이' ]
-    stroke: 18
-    originStroke: 20
+    str: 18
+    oStr: 20
     tag: [300]
-  '隄':
-    val: '제'
-    desc: [ '둑' ]
-    stroke: 12
-    originStroke: 17
-    tag: [330]
   '兆':
     val: '조'
-    desc: [ '조짐','숫자 조' ]
-    stroke: 6
+    desc: [ '조짐','조(단위)' ]
+    str: 6
   '早':
     val: '조'
     desc: [ '이를' ]
-    stroke: 6
+    str: 6
   '造':
     val: '조'
-    desc: [ '지을' ]
-    stroke: 10
-    originStroke: 13
+    desc: [ '지을','창조' ]
+    str: 10
+    oStr: 13
     tag: [75]
   '鳥':
     val: '조'
     desc: [ '새' ]
-    stroke: 11
-    tag: [200]
+    str: 11
   '朝':
     val: '조'
     desc: [ '아침' ]
-    stroke: 12
+    str: 12
   '助':
     val: '조'
-    desc: [ '도울' ]
-    stroke: 7
+    desc: [ '도울','원조','부조' ]
+    str: 7
     tag: [115]
   '弔':
     val: '조'
     desc: [ '조상할' ]
-    stroke: 4
+    str: 4
   '燥':
     val: '조'
     desc: [ '마를','건조' ]
-    stroke: 17
+    str: 17
     tag: [320]
   '操':
     val: '조'
     desc: [ '잡을','조종' ]
-    stroke: 16
-    originStroke: 17
+    str: 16
+    oStr: 17
   '照':
     val: '조'
     desc: [ '비칠','조명' ]
-    stroke: 13
+    str: 13
     tag: [30]
   '條':
     val: '조'
     desc: [ '가지','조항' ]
-    stroke: 10
+    str: 10
   '潮':
     val: '조'
     desc: [ '밀물','조수' ]
-    stroke: 15
-    originStroke: 16
+    str: 15
+    oStr: 16
     tag: [310]
   '租':
     val: '조'
     desc: [ '조세' ]
-    stroke: 10
+    str: 10
   '組':
     val: '조'
     desc: [ '짤','조직' ]
-    stroke: 11
+    str: 11
   '祖':
     val: '조'
     desc: [ '할아버지','조상' ]
-    stroke: 9
+    str: 9
   '彫':
     val: '조'
-    desc: [ '새길' ]
-    stroke: 11
+    desc: [ '새길','조각' ]
+    str: 11
     tag: [155]
   '措':
     val: '조'
     desc: [ '두다','놓다','조치' ]
-    stroke: 11
-    originStroke: 12
+    str: 11
+    oStr: 12
   '祚':
     val: '조'
     desc: [ '복' ]
-    stroke: 9
+    str: 9
     tag: [50]
   '趙':
     val: '조'
     desc: [ '나라' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '釣':
     val: '조'
     desc: [ '낚을','유혹' ]
-    stroke: 11
+    str: 11
   '曹':
     val: '조'
     desc: [ '무리','성씨' ]
-    stroke: 11
-    surname: true
+    str: 11
+    fam: true
   '曺':
     val: '조'
     desc: [ '무리','성씨' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '遭':
     val: '조'
     desc: [ '만날','조우' ]
-    stroke: 14
-    originStroke: 17
+    str: 14
+    oStr: 17
   '眺':
     val: '조'
-    desc: [ '바라볼' ]
-    stroke: 11
+    desc: [ '바라볼','조망' ]
+    str: 11
   '爪':
     val: '조'
     desc: [ '손톱' ]
-    stroke: 4
+    str: 4
     tag: [350]
   '粗':
     val: '조'
-    desc: [ '거칠' ]
-    stroke: 11
+    desc: [ '거칠','조잡' ]
+    str: 11
   '糟':
     val: '조'
-    desc: [ '술 지게미' ]
-    stroke: 17
+    desc: [ '술 지게미','조강지처' ]
+    str: 17
   '蚤':
     val: '조'
     desc: [ '벼룩' ]
-    stroke: 9
+    str: 9
     tag: [200]
   '調':
     val: '조'
     desc: [ '고를','조정' ]
-    stroke: 15
+    str: 15
   '足':
     val: '족'
     desc: [ '발' ]
-    stroke: 7
+    str: 7
     tag: [350]
   '族':
     val: '족'
     desc: [ '겨레','일가' ]
-    stroke: 11
+    str: 11
     tag: [115]
   '存':
     val: '존'
     desc: [ '있을','존재' ]
-    stroke: 6
+    str: 6
   '尊':
     val: '존'
     desc: [ '높을','존경' ]
-    stroke: 12
+    str: 12
     tag: [125]
   '卒':
     val: '졸'
-    desc: [ '마칠' ]
-    stroke: 8
+    desc: [ '마칠','졸업' ]
+    str: 8
   '拙':
     val: '졸'
     desc: [ '옹졸할' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '猝':
     val: '졸'
-    desc: [ '갑자기' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '갑자기','졸지에' ]
+    str: 11
+    oStr: 12
   '宗':
     val: '종'
     desc: [ '마루','으뜸','제사','우두머리' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
+    tag: [20]
   '種':
     val: '종'
     desc: [ '씨','종자' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '鐘':
     val: '종'
     desc: [ '쇠북' ]
-    stroke: 20
+    str: 20
     tag: [340]
-    surname: true
+    fam: true
   '鍾':
     val: '종'
     desc: [ '쇠북' ]
-    stroke: 17
+    str: 17
     tag: [340]
   '終':
     val: '종'
-    desc: [ '마칠' ]
-    stroke: 11
+    desc: [ '마칠','종료' ]
+    str: 11
   '從':
     val: '종'
     desc: [ '좇을','복종' ]
-    stroke: 11
+    str: 11
     tag: [125]
   '縱':
     val: '종'
-    desc: [ '세로' ]
-    stroke: 17
+    desc: [ '세로','종횡' ]
+    str: 17
   '倧':
     val: '종'
     desc: [ '상고 신인','대종교' ]
-    stroke: 10
+    str: 10
     tag: [500]
   '慫':
     val: '종'
     desc: [ '권할','종용할' ]
-    stroke: 15
+    str: 15
   '腫':
     val: '종'
     desc: [ '종기' ]
-    stroke: 13
-    originStroke: 15
+    str: 13
+    oStr: 15
     tag: [360]
   '棕':
     val: '종'
     desc: [ '종려나무' ]
-    stroke: 12
+    str: 12
     tag: [300]
   '左':
     val: '좌'
     desc: [ '왼' ]
-    stroke: 5
-    surname: true
+    str: 5
+    fam: true
   '坐':
     val: '좌'
     desc: [ '앉을' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '佐':
     val: '좌'
-    desc: [ '도울' ]
-    stroke: 7
-    surname: true
+    desc: [ '도울','보좌' ]
+    str: 7
+    fam: true
   '座':
     val: '좌'
-    desc: [ '자리' ]
-    stroke: 10
+    desc: [ '자리','좌석' ]
+    str: 10
   '挫':
     val: '좌'
     desc: [ '꺽을','좌절' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
   '主':
     val: '주'
     desc: [ '임금','주인' ]
-    stroke: 5
+    str: 5
   '注':
     val: '주'
     desc: [ '부을','주문','주입' ]
-    stroke: 8
-    originStroke: 9
+    str: 8
+    oStr: 9
   '住':
     val: '주'
     desc: [ '살','거주' ]
-    stroke: 7
+    str: 7
   '朱':
     val: '주'
     desc: [ '붉을' ]
-    stroke: 6
+    str: 6
     tag: [160]
-    surname: true
+    fam: true
   '宙':
     val: '주'
     desc: [ '집','우주' ]
-    stroke: 8
+    str: 8
   '走':
     val: '주'
-    desc: [ '달릴' ]
-    stroke: 7
+    desc: [ '달릴','주행' ]
+    str: 7
   '酒':
     val: '주'
     desc: [ '술' ]
-    stroke: 10
+    str: 10
   '晝':
     val: '주'
-    desc: [ '낮' ]
-    stroke: 11
+    desc: [ '낮','주간' ]
+    str: 11
   '舟':
     val: '주'
-    desc: [ '배' ]
-    stroke: 6
+    desc: [ '배','방주' ]
+    str: 6
   '周':
     val: '주'
-    desc: [ '두루' ]
-    stroke: 8
-    surname: true
+    desc: [ '두루','주위' ]
+    str: 8
+    fam: true
   '株':
     val: '주'
     desc: [ '그루','주식' ]
-    stroke: 10
+    str: 10
   '州':
     val: '주'
     desc: [ '고을' ]
-    stroke: 6
+    str: 6
   '洲':
     val: '주'
     desc: [ '물가' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [310]
   '柱':
     val: '주'
-    desc: [ '기둥','버틸' ]
-    stroke: 9
+    desc: [ '기둥','버틸','지주' ]
+    str: 9
   '奏':
     val: '주'
     desc: [ '아뢸','연주' ]
-    stroke: 9
+    str: 9
   '珠':
     val: '주'
     desc: [ '구슬' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
     tag: [60]
-    surname: true
+    fam: true
   '鑄':
     val: '주'
     desc: [ '불릴','주조' ]
-    stroke: 22
+    str: 22
     tag: [340]
   '週':
     val: '주'
     desc: [ '돌','주일' ]
-    stroke: 11
-    originStroke: 14
+    str: 11
+    oStr: 14
   '駐':
     val: '주'
     desc: [ '머무를','주둔' ]
-    stroke: 15
+    str: 15
   '姝':
     val: '주'
     desc: [ '예쁠' ]
-    stroke: 9
+    str: 9
     tag: [10]
   '侏':
     val: '주'
     desc: [ '난쟁이' ]
-    stroke: 8
+    str: 8
   '做':
     val: '주'
-    desc: [ '지을' ]
-    stroke: 11
+    desc: [ '지을','간주하다' ]
+    str: 11
   '呪':
     val: '주'
     desc: [ '빌','주문','저주' ]
-    stroke: 8
+    str: 8
+    tag: [500]
   '紬':
     val: '주'
     desc: [ '명주' ]
-    stroke: 11
+    str: 11
+    tag: [10]
   '蛛':
     val: '주'
     desc: [ '거미' ]
-    stroke: 12
+    str: 12
     tag: [200]
-  '誅':
-    val: '주'
-    desc: [ '벨' ]
-    stroke: 13
   '竹':
     val: '죽'
     desc: [ '대','대나무' ]
-    stroke: 6
+    str: 6
     tag: [300]
   '粥':
     val: '죽'
     desc: [ '죽','미음' ]
-    stroke: 12
-    tag: [300]
+    str: 12
   '準':
     val: '준'
     desc: [ '준할','준비','표준' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
   '俊':
     val: '준'
     desc: [ '준걸' ]
-    stroke: 9
+    str: 9
     tag: [20]
-    surname: true
+    fam: true
   '遵':
     val: '준'
     desc: [ '좇을','준수할' ]
-    stroke: 15
-    originStroke: 18
+    str: 15
+    oStr: 18
     tag: [140]
   '峻':
     val: '준'
     desc: [ '높을','준엄할' ]
-    stroke: 10
+    str: 10
     tag: [140,330]
   '浚':
     val: '준'
-    desc: [ '깊게 할' ]
-    stroke: 10
-    originStroke: 11
+    desc: [ '깊게 할','준설' ]
+    str: 10
+    oStr: 11
   '晙':
     val: '준'
     desc: [ '밝을' ]
-    stroke: 11
+    str: 11
     tag: [30]
   '竣':
     val: '준'
     desc: [ '마칠','준공' ]
-    stroke: 12
-  '畯':
-    val: '준'
-    desc: [ '농부' ]
-    stroke: 12
+    str: 12
   '駿':
     val: '준'
     desc: [ '준마' ]
-    stroke: 17
+    str: 17
   '准':
     val: '준'
     desc: [ '준할','비준' ]
-    stroke: 10
+    str: 10
   '茁':
     val: '줄'
     desc: [ '싹','싹트다' ]
-    stroke: 9
-    originStroke: 11
+    str: 9
+    oStr: 11
     tag: [300]
   '乼':
     val: '줄'
     desc: [ '줄','끈' ]
-    stroke: 9
+    str: 9
   '中':
     val: '중'
     desc: [ '가운데' ]
-    stroke: 4
+    str: 4
   '重':
     val: '중'
     desc: [ '무거울' ]
-    stroke: 9
-    surname: true
+    str: 9
+    fam: true
   '衆':
     val: '중'
-    desc: [ '무리' ]
-    stroke: 12
+    desc: [ '무리','대중' ]
+    str: 12
   '仲':
     val: '중'
     desc: [ '버금','중개' ]
-    stroke: 6
+    str: 6
   '卽':
     val: '즉'
     desc: [ '곧' ]
-    stroke: 9
+    str: 9
   '則':
     val: '즉'
     desc: [ '곧' ]
-    stroke: 9
-    surname: true
+    str: 9
+    fam: true
   '櫛':
     val: '즐'
     desc: [ '머리빗','즐비하다' ]
-    stroke: 17
+    str: 17
   '汁':
     val: '즙'
     desc: [ '즙','짤' ]
-    stroke: 5
-    originStroke: 6
+    str: 5
+    oStr: 6
   '曾':
     val: '증'
     desc: [ '일찍','이미' ]
-    stroke: 12
-    surname: true
+    str: 12
+    fam: true
   '增':
     val: '증'
-    desc: [ '더할' ]
-    stroke: 15
+    desc: [ '더할','증가' ]
+    str: 15
   '憎':
     val: '증'
-    desc: [ '미울' ]
-    stroke: 15
-    originStroke: true
+    desc: [ '미울','증오' ]
+    str: 15
+    oStr: true
   '贈':
     val: '증'
     desc: [ '줄','증여' ]
-    stroke: 19
+    str: 19
   '症':
     val: '증'
     desc: [ '증세' ]
-    stroke: 10
+    str: 10
     tag: [360]
   '蒸':
     val: '증'
-    desc: [ '찔' ]
-    stroke: 14
-    originStroke: 16
+    desc: [ '찔','증기' ]
+    str: 14
+    oStr: 16
   '只':
     val: '지'
     desc: [ '다만' ]
-    stroke: 5
+    str: 5
   '支':
     val: '지'
     desc: [ '지탱할' ]
-    stroke: 4
+    str: 4
   '枝':
     val: '지'
     desc: [ '가지' ]
-    stroke: 8
+    str: 8
     tag: [300]
   '止':
     val: '지'
-    desc: [ '그칠' ]
-    stroke: 4
+    desc: [ '그칠','금지' ]
+    str: 4
   '之':
     val: '지'
     desc: [ '갈' ]
-    stroke: 4
+    str: 4
   '知':
     val: '지'
-    desc: [ '알' ]
-    stroke: 8
-    surname: true
+    desc: [ '알','지식' ]
+    str: 8
+    fam: true
+    tag: [20,70]
   '地':
     val: '지'
     desc: [ '땅' ]
-    stroke: 6
+    str: 6
     tag: [330]
   '指':
     val: '지'
-    desc: [ '가리킬' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '가리킬','지시' ]
+    str: 9
+    oStr: 10
   '志':
     val: '지'
-    desc: [ '뜻' ]
-    stroke: 7
+    desc: [ '뜻','의지' ]
+    str: 7
     tag: [110]
   '至':
     val: '지'
-    desc: [ '이를' ]
-    stroke: 6
+    desc: [ '이를','경지' ]
+    str: 6
   '紙':
     val: '지'
     desc: [ '종이' ]
-    stroke: 10
+    str: 10
   '持':
     val: '지'
-    desc: [ '가질' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '가질','유지','지지' ]
+    str: 9
+    oStr: 10
   '池':
     val: '지'
     desc: [ '못' ]
-    stroke: 6
-    originStroke: 7
+    str: 6
+    oStr: 7
     tag: [310]
-    surname: true
+    fam: true
   '誌':
     val: '지'
     desc: [ '기록할' ]
-    stroke: 14
+    str: 14
   '智':
     val: '지'
     desc: [ '슬기','지혜' ]
-    stroke: 12
+    str: 12
     tag: [70]
-    surname: true
+    fam: true
   '遲':
     val: '지'
-    desc: [ '더딜' ]
-    stroke: 15
-    originStroke: 18
-    surname: true
+    desc: [ '더딜','지체','지각' ]
+    str: 15
+    oStr: 18
+    fam: true
+  '旨':
+    val: '지'
+    desc: [ '뜻','취지','요지' ]
+    str: 6
   '祉':
     val: '지'
-    desc: [ '복' ]
-    stroke: 8
+    desc: [ '복','복지' ]
+    str: 8
     tag: [50]
   '趾':
     val: '지'
-    desc: [ '발' ]
-    stroke: 11
-    tag: [350]
+    desc: [ '발','터' ]
+    str: 11
   '芝':
     val: '지'
     desc: [ '버섯','영지' ]
-    stroke: 8
-    originStroke: 10
+    str: 8
+    oStr: 10
     tag: [300]
   '摯':
     val: '지'
     desc: [ '잡을','진지할' ]
-    stroke: 15
+    str: 15
   '脂':
     val: '지'
-    desc: [ '기름' ]
-    stroke: 10
+    desc: [ '기름','지방' ]
+    str: 10
   '枳':
     val: '지'
     desc: [ '탱자' ]
-    stroke: 9
+    str: 9
     tag: [300]
   '肢':
     val: '지'
-    desc: [ '팔다리' ]
-    stroke: 8
-    originStroke: 10
-    tag: [350]
+    desc: [ '팔다리','사지' ]
+    str: 8
+    oStr: 10
   '直':
     val: '직'
     desc: [ '곧을' ]
-    stroke: 8
+    str: 8
     tag: [110]
-    surname: true
+    fam: true
   '職':
     val: '직'
     desc: [ '직업' ]
-    stroke: 18
+    str: 18
     tag: [120]
   '稷':
     val: '직'
     desc: [ '피','곡신','사직' ]
-    stroke: 15
+    str: 15
     tag: [300,500]
   '眞':
     val: '진'
-    desc: [ '참' ]
-    stroke: 10
+    desc: [ '참','진리' ]
+    str: 10
     tag: [110]
-    surname: true
+    fam: true
   '進':
     val: '진'
-    desc: [ '나아갈' ]
-    stroke: 11
-    originStroke: 14
+    desc: [ '나아갈','진행' ]
+    str: 11
+    oStr: 14
     tag: [45]
   '盡':
     val: '진'
-    desc: [ '다할' ]
-    stroke: 14
+    desc: [ '다할','소진' ]
+    str: 14
     tag: [120]
   '振':
     val: '진'
     desc: [ '떨칠','진흥' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
     tag: [45]
   '鎭':
     val: '진'
     desc: [ '진압할' ]
-    stroke: 18
+    str: 18
     tag: [45,80]
   '陣':
     val: '진'
     desc: [ '진칠' ]
-    stroke: 10
-    originStroke: 15
+    str: 10
+    oStr: 15
     tag: [80]
   '陳':
     val: '진'
     desc: [ '베풀','진열' ]
-    stroke: 11
-    originStroke: 16
-    surname: true
+    str: 11
+    oStr: 16
+    fam: true
   '珍':
     val: '진'
-    desc: [ '보배' ]
-    stroke: 9
-    originStroke: 10
+    desc: [ '보배','진미' ]
+    str: 9
+    oStr: 10
     tag: [20,60]
   '震':
     val: '진'
     desc: [ '우레','지진' ]
-    stroke: 15
-    surname: true
+    str: 15
+    fam: true
   '晉':
     val: '진'
     desc: [ '나아갈','나라' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '津':
     val: '진'
     desc: [ '나루' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
     tag: [310]
   '秦':
     val: '진'
     desc: [ '성씨','나라' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '塵':
     val: '진'
     desc: [ '티끌' ]
-    stroke: 14
+    str: 14
     tag: [125]
   '診':
     val: '진'
     desc: [ '진찰할' ]
-    stroke: 12
+    str: 12
     tag: [360]
   '縝':
     val: '진'
     desc: [ '고울' ]
-    stroke: 16
+    str: 16
     tag: [10]
   '榛':
     val: '진'
     desc: [ '개암나무' ]
-    stroke: 14
+    str: 14
     tag: [300]
   '辰':
     val: '진'
     desc: [ '별','때' ]
-    stroke: 7
-    tag: [400]
+    str: 7
+    tag: [370,400]
   '質':
     val: '질'
     desc: [ '바탕','본질' ]
-    stroke: 15
+    str: 15
   '秩':
     val: '질'
     desc: [ '차례','질서' ]
-    stroke: 10
+    str: 10
   '疾':
     val: '질'
     desc: [ '병','질병' ]
-    stroke: 10
+    str: 10
     tag: [360]
   '姪':
     val: '질'
-    desc: [ '조카' ]
-    stroke: 9
+    desc: [ '조카','생질' ]
+    str: 9
     tag: [115]
   '叱':
     val: '질'
     desc: [ '꾸짖을','질타' ]
-    stroke: 5
+    str: 5
   '嫉':
     val: '질'
     desc: [ '미워할','질투' ]
-    stroke: 13
+    str: 13
   '帙':
     val: '질'
     desc: [ '책권' ]
-    stroke: 8
+    str: 8
   '窒':
     val: '질'
     desc: [ '막힐','질식' ]
-    stroke: 11
+    str: 11
   '膣':
     val: '질'
     desc: [ '음도' ]
-    stroke: 15
-    originStroke: 17
+    str: 15
+    oStr: 17
     tag: [350]
   '斟':
     val: '짐'
     desc: [ '짐작할' ]
-    stroke: 13
+    str: 13
   '朕':
     val: '짐'
     desc: [ '나' ]
-    stroke: 10
-    originStroke: 12
+    str: 10
+    oStr: 12
   '鴆':
     val: '짐'
     desc: [ '짐새' ]
-    stroke: 15
+    str: 15
     tag: [200]
   '集':
     val: '집'
-    desc: [ '모을' ]
-    stroke: 12
+    desc: [ '모을','모집','집중' ]
+    str: 12
   '執':
     val: '집'
-    desc: [ '잡을' ]
-    stroke: 11
+    desc: [ '잡을','집행' ]
+    str: 11
   '輯':
     val: '집'
     desc: [ '모을','편집' ]
-    stroke: 16
+    str: 16
   '徵':
     val: '징'
-    desc: [ '부를' ]
-    stroke: 15
+    desc: [ '부를','특징','상징','징후' ]
+    str: 15
   '懲':
     val: '징'
     desc: [ '징계할' ]
-    stroke: 19
+    str: 19
   '澄':
     val: '징'
-    desc: [ '맑을' ]
-    stroke: 15
-    originStroke: 16
-    tag: [310]
+    desc: [ '맑을','명징' ]
+    str: 15
+    oStr: 16
+    tag: [100]
   '車':
     val: '차'
     desc: [ '수레' ]
-    stroke: 7
-    surname: true
+    str: 7
+    fam: true
   '且':
     val: '차'
     desc: [ '또' ]
-    stroke: 5
+    str: 5
   '次':
     val: '차'
-    desc: [ '버금' ]
-    stroke: 6
+    desc: [ '버금','차례' ]
+    str: 6
   '此':
     val: '차'
     desc: [ '이','이것' ]
-    stroke: 6
+    str: 6
   '借':
     val: '차'
-    desc: [ '빌릴' ]
-    stroke: 10
+    desc: [ '빌릴','차용' ]
+    str: 10
   '差':
     val: '차'
-    desc: [ '다를' ]
-    stroke: 9
+    desc: [ '다를','차이' ]
+    str: 9
   '叉':
     val: '차'
     desc: [ '갈래','교차' ]
-    stroke: 3
+    str: 3
   '着':
     val: '착'
-    desc: [ '붙을' ]
-    stroke: 11
+    desc: [ '붙을','부착' ]
+    str: 11
   '錯':
     val: '착'
     desc: [ '어긋날','착오' ]
-    stroke: 16
+    str: 16
   '捉':
     val: '착'
     desc: [ '잡을','포착' ]
-    stroke: 10
-    originStroke: 11
+    str: 10
+    oStr: 11
   '搾':
     val: '착'
     desc: [ '짤','착유','착취' ]
-    stroke: 13
-    originStroke: 14
+    str: 13
+    oStr: 14
   '窄':
     val: '착'
     desc: [ '좁을','협착' ]
-    stroke: 10
+    str: 10
   '鑿':
     val: '착'
-    desc: [ '뚫을' ]
-    stroke: 28
+    desc: [ '뚫을','굴착' ]
+    str: 28
   '齪':
     val: '착'
     desc: [ '악착할' ]
-    stroke: 22
+    str: 22
     tag: [125]
   '贊':
     val: '찬'
     desc: [ '도울','찬성' ]
-    stroke: 19
+    str: 19
   '讚':
     val: '찬'
-    desc: [ '기릴' ]
-    stroke: 26
-  '撰':
-    val: '찬'
-    desc: [ '지을' ]
-    stroke: 15
-    originStroke: 16
+    desc: [ '기릴','찬양' ]
+    str: 26
   '纂':
     val: '찬'
     desc: [ '모을','편찬' ]
-    stroke: 20
-  '粲':
-    val: '찬'
-    desc: [ '정미','고울','환하다' ]
-    stroke: 13
-    tag: [10]
+    str: 20
   '澯':
     val: '찬'
     desc: [ '맑을' ]
-    stroke: 16
-    originStroke: 17
+    str: 16
+    oStr: 17
     tag: [100]
   '燦':
     val: '찬'
     desc: [ '빛날' ]
-    stroke: 17
+    str: 17
     tag: [30]
   '察':
     val: '찰'
-    desc: [ '살필' ]
-    stroke: 14
+    desc: [ '살필','관찰','경찰' ]
+    str: 14
+    tag: [140]
   '札':
     val: '찰'
     desc: [ '편지','서찰' ]
-    stroke: 5
+    str: 5
   '刹':
     val: '찰'
     desc: [ '절','사찰' ]
-    stroke: 8
+    str: 8
     tag: [500]
   '擦':
     val: '찰'
     desc: [ '문지를','마찰' ]
-    stroke: 17
-    originStroke: 18
+    str: 17
+    oStr: 18
   '參':
     val: '참'
     desc: [ '참여할' ]
-    stroke: 11
+    str: 11
   '慘':
     val: '참'
     desc: [ '참혹할' ]
-    stroke: 14
-    originStroke: 15
-  '慙':
-    val: '참'
-    desc: [ '부끄러울','참회' ]
-    stroke: 15
+    str: 14
+    oStr: 15
   '僭':
     val: '참'
     desc: [ '주제넘을','참람할' ]
-    stroke: 14
+    str: 14
   '塹':
     val: '참'
     desc: [ '구덩이','참호' ]
-    stroke: 14
+    str: 14
     tag: [330]
   '懺':
     val: '참'
     desc: [ '뉘우칠','참회' ]
-    stroke: 20
-    originStroke: 21
+    str: 20
+    oStr: 21
   '斬':
     val: '참'
     desc: [ '벨' ]
-    stroke: 11
+    str: 11
   '站':
     val: '참'
     desc: [ '역마을' ]
-    stroke: 10
+    str: 10
   '讖':
     val: '참'
     desc: [ '예언' ]
-    stroke: 24
+    str: 24
+    tag: [500]
   '昌':
     val: '창'
     desc: [ '창성할','번창' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '唱':
     val: '창'
     desc: [ '부를' ]
-    stroke: 11
+    str: 11
     tag: [155]
   '窓':
     val: '창'
     desc: [ '창문' ]
-    stroke: 11
+    str: 11
   '倉':
     val: '창'
     desc: [ '곳집','창고' ]
-    stroke: 10
-    surname: true
+    str: 10
+    fam: true
   '創':
     val: '창'
     desc: [ '비롯할','창조' ]
-    stroke: 12
+    str: 12
     tag: [70]
   '蒼':
     val: '창'
-    desc: [ '푸를' ]
-    stroke: 14
-    originStroke: 16
+    desc: [ '푸를','창공' ]
+    str: 14
+    oStr: 16
     tag: [160]
   '暢':
     val: '창'
     desc: [ '화창할' ]
-    stroke: 14
+    str: 14
   '菖':
     val: '창'
     desc: [ '창포' ]
-    stroke: 12
-    originStroke: 14
+    str: 12
+    oStr: 14
     tag: [300]
   '敞':
     val: '창'
     desc: [ '시원할','높다','탁트일' ]
-    stroke: 12
+    ex: ['고창군(高敞郡)']
+    str: 12
+  '廠':
+    val: '창'
+    desc: [ '공장','헛간' ]
+    ex: ['기지창(基地廠)','공창(工廠)']
+    str: 15
   '槍':
     val: '창'
     desc: [ '창(무기)' ]
-    stroke: 14
+    str: 14
     tag: [80]
   '漲':
     val: '창'
     desc: [ '넘칠' ]
-    stroke: 14
-    originStroke: 15
+    str: 14
+    oStr: 15
     tag: [310]
+  '猖':
+    val: '창'
+    desc: [ '미쳐날뛸' ]
+    ex: ['창궐']
+    str: 11
+    oStr: 12
+  '瘡':
+    val: '창'
+    desc: [ '부스럼','종기' ]
+    ex: ['두창(痘瘡)','만신창이']
+    str: 15
+    tag: [360]
   '脹':
     val: '창'
-    desc: [ '부을','창자' ]
-    stroke: 12
-    originStroke: 14
-    tag: [200]
+    desc: [ '붓다','창자' ]
+    ex: ['팽창(膨脹)']
+    str: 12
+    oStr: 14
   '艙':
     val: '창'
     desc: [ '부두' ]
-    stroke: 16
+    ex: ['선창(船艙)']
+    str: 16
   '滄':
     val: '창'
     desc: [ '큰바다' ]
-    stroke: 13
-    originStroke: 14
+    ex: ['창해일속(滄海一粟)']
+    str: 13
+    oStr: 14
     tag: [310]
   '菜':
     val: '채'
-    desc: [ '나물' ]
-    stroke: 12
-    originStroke: 14
+    desc: [ '나물','채소' ]
+    str: 12
+    oStr: 14
     tag: [300]
-    surname: true
+    fam: true
   '採':
     val: '채'
     desc: [ '캘' ]
-    stroke: 11
-    originStroke: 12
+    ex: ['채용','채취']
+    str: 11
+    oStr: 12
   '彩':
     val: '채'
     desc: [ '채색','무늬' ]
-    stroke: 11
+    str: 11
     tag: [160]
   '債':
     val: '채'
     desc: [ '빚' ]
-    stroke: 13
+    ex: ['채무']
+    str: 13
   '采':
     val: '채'
     desc: [ '풍채' ]
-    stroke: 8
-    surname: true
+    str: 8
+    fam: true
   '蔡':
     val: '채'
     desc: [ '성씨','풀' ]
-    stroke: 15
-    originStroke: 17
-    surname: true
+    str: 15
+    oStr: 17
+    fam: true
   '冊':
     val: '책'
     desc: [ '책' ]
-    stroke: 5
+    str: 5
     tag: [70]
-    surname: true
+    fam: true
   '策':
     val: '책'
-    desc: [ '꾀','계책','채찍','산책' ]
-    stroke: 12
+    desc: [ '꾀','채찍' ]
+    ex: ['정책','계책','산책' ]
+    str: 12
     tag: [70]
   '柵':
     val: '책'
     desc: [ '울타리' ]
-    stroke: 9
+    ex: ['철책(鐵柵)','목책(木柵)']
+    str: 9
   '責':
     val: '책'
     desc: [ '꾸짖을' ]
-    stroke: 11
-    tag: [140]
-  '責':
-    val: '책'
-    desc: [ '꾸짖을' ]
-    stroke: 11
+    ex: ['책임','질책']
+    str: 11
     tag: [140]
   '翟':
     val: '책'
     desc: [ '고을이름' ]
-    stroke: 14
-    surname: true
+    str: 14
+    fam: true
   '妻':
     val: '처'
     desc: [ '아내' ]
-    stroke: 8
+    str: 8
     tag: [115]
   '處':
     val: '처'
     desc: [ '곳','장소' ]
-    stroke: 11
+    str: 11
   '凄':
     val: '처'
-    desc: [ '쓸쓸할' ]
-    stroke: 10
+    desc: [ '쓸쓸할','처량할' ]
+    str: 10
   '悽':
     val: '처'
     desc: [ '슬퍼할' ]
-    stroke: 11
-    originStroke: 12
+    ex: ['처절','처참']
+    str: 11
+    oStr: 12
   '尺':
     val: '척'
     desc: [ '자' ]
-    stroke: 4
+    ex: ['삼척동자']
+    str: 4
   '斥':
     val: '척'
     desc: [ '물리칠' ]
-    stroke: 5
+    ex: ['배척(排斥)하다']
+    str: 5
   '拓':
     val: '척'
     desc: [ '넓힐' ]
-    stroke: 8
-    originStroke: 9
-    surname: true
+    ex: ['간척(干拓)','개척(開拓)']
+    str: 8
+    oStr: 9
+    tag: [90,120]
+    fam: true
   '戚':
     val: '척'
     desc: [ '친척' ]
-    stroke: 11
+    str: 11
     tag: [115]
   '陟':
     val: '척'
     desc: [ '오를' ]
-    stroke: 10
-    originStroke: 15
+    ex: ['진척(進陟)','삼척군(三陟郡)']
+    str: 10
+    oStr: 15
   '剔':
     val: '척'
     desc: [ '바를' ]
-    stroke: 10
+    ex: ['척결(剔抉)']
+    str: 10
     tag: [110]
   '擲':
     val: '척'
     desc: [ '던질','투척' ]
-    stroke: 18
-    originStroke: 19
+    str: 18
+    oStr: 19
   '滌':
     val: '척'
-    desc: [ '씻을' ]
-    stroke: 13
-    originStroke: 14
+    desc: [ '씻을','세척' ]
+    str: 13
+    oStr: 14
   '瘠':
     val: '척'
     desc: [ '여윌','수척' ]
-    stroke: 15
+    str: 15
     tag: [360]
   '脊':
     val: '척'
-    desc: [ '등마루','척수' ]
-    stroke: 10
-    originStroke: 12
+    desc: [ '등마루','척수','척추' ]
+    str: 10
+    oStr: 12
     tag: [350]
   '蹠':
     val: '척'
     desc: [ '밟을','이르다' ]
-    stroke: 18
+    ex: ['대척점(對蹠點)']
+    str: 18
   '天':
     val: '천'
     desc: [ '하늘' ]
-    stroke: 4
-    surname: true
+    str: 4
+    fam: true
   '千':
     val: '천'
     desc: [ '일천' ]
-    stroke: 3
-    surname: true
+    str: 3
+    fam: true
   '川':
     val: '천'
     desc: [ '내' ]
-    stroke: 3
+    str: 3
   '泉':
     val: '천'
     desc: [ '샘' ]
-    stroke: 9
+    ex: ['원천(源泉)','온천']
+    str: 9
     tag: [310]
   '淺':
     val: '천'
-    desc: [ '얕을' ]
-    stroke: 11
-    originStroke: 12
+    desc: [ '얕을','천박' ]
+    str: 11
+    oStr: 12
   '賤':
     val: '천'
     desc: [ '천할' ]
-    stroke: 15
+    ex: ['귀천(貴賤)','천대(賤待)']
+    str: 15
   '踐':
     val: '천'
     desc: [ '밟을','실천' ]
-    stroke: 15
+    str: 15
   '遷':
     val: '천'
     desc: [ '옮길' ]
-    stroke: 15
-    originStroke: 18
-    surname: true
+    ex: ['천도(遷都)','좌천(左遷)']
+    per:['사마천(司馬遷)']
+    str: 15
+    oStr: 18
+    fam: true
   '薦':
     val: '천'
     desc: [ '천거할' ]
-    stroke: 17
-    originStroke: 19
+    str: 17
+    oStr: 19
   '喘':
     val: '천'
     desc: [ '숨찰','천식' ]
-    stroke: 12
+    str: 12
     tag: [360]
   '穿':
     val: '천'
     desc: [ '뚫을','천공' ]
-    stroke: 9
+    str: 9
+
+
+
+
+
+
+
+
   '鐵':
     val: '철'
-    desc: [ '쇠' ]
-    stroke: 21
+    desc: '쇠'
+    str: 21
+    tag: [340]
+  '鉄':
+    val: '철'
+    desc: '쇠'
+    str: 13
     tag: [340]
   '哲':
     val: '철'
-    desc: [ '밝을','철학' ]
-    stroke: 10
+    desc: '밝을'
+    ex: '철학'
+    str: 10
     tag: [70]
   '徹':
     val: '철'
-    desc: [ '통할','관철','철야' ]
-    stroke: 15
+    desc: '통할'
+    ex: '관철, 철야'
+    str: 15
   '澈':
     val: '철'
-    desc: [ '맑을' ]
-    stroke: 15
-    originStroke: 16
+    desc: '맑을'
+    per: '정철(鄭澈)'
+    str: 15
+    oStr: 16
     tag: [100]
   '撤':
     val: '철'
-    desc: [ '거둘','철회' ]
-    stroke: 15
-    originStroke: 16
+    desc: '거둘'
+    ex: '철수, 철회, 철거'
+    str: 15
+    oStr: 16
   '轍':
     val: '철'
-    desc: [ '바퀴자국','궤철' ]
-    stroke: 19
+    desc: '바퀴자국, 궤도'
+    ex: '전철(前轍)을 밟다, 당랑거철(螳螂拒轍)'
+    str: 19
   '綴':
     val: '철'
-    desc: [ '엮을','보철' ]
-    stroke: 14
+    desc: '엮을'
+    ex: '보철(補綴), 점철(點綴)'
+    str: 14
   '凸':
     val: '철'
-    desc: [ '볼록할','요철' ]
-    stroke: 5
+    desc: '볼록할'
+    ex: '요철(凹凸)'
+    str: 5
   '尖':
     val: '첨'
-    desc: [ '뾰족할' ]
-    stroke: 6
+    desc: '뾰족할'
+    ex: '첨단, 첨탑'
+    str: 6
     tag: [140]
   '添':
     val: '첨'
-    desc: [ '더할' ]
-    stroke: 11
-    originStroke: 12
+    desc: '더할'
+    ex: '첨가, 첨부, 첨삭(添削)'
+    str: 11
+    oStr: 12
   '僉':
     val: '첨'
-    desc: [ '다','여러','첨지' ]
-    stroke: 13
+    desc: '다, 여러'
+    ex: '김(金)첨지(僉知)'
+    str: 13
   '籤':
     val: '첨'
-    desc: [ '제비(뽑기)','추첨' ]
-    stroke: 23
+    desc: '제비(뽑기)'
+    ex: '추첨'
+    str: 23
   '諂':
     val: '첨'
-    desc: [ '아첨할' ]
-    stroke: 15
-  '甜':
-    val: '첨'
-    desc: [ '달','기분좋을' ]
-    stroke: 11
+    desc: '아첨할'
+    str: 15
   '甛':
     val: '첨'
-    desc: [ '달','기분좋을' ]
-    stroke: 11
+    desc: '달, 기분좋을'
+    ex: '첨밀밀(甛蜜蜜)'
+    str: 11
   '妾':
     val: '첩'
-    desc: [ '첩' ]
-    stroke: 8
+    desc: '첩'
+    ex: '애첩(愛妾)'
+    str: 8
   '帖':
     val: '첩'
-    desc: [ '문서' ]
-    stroke: 8
+    desc: '문서'
+    ex: '수첩(手帖)'
+    str: 8
   '捷':
     val: '첩'
-    desc: [ '빠를' ]
-    stroke: 11
-    originStroke: 12
+    desc: '빠를, 이길'
+    ex: '민첩, 명량 대첩(大捷)'
+    str: 11
+    oStr: 12
+    tag: [45]
   '牒':
     val: '첩'
-    desc: [ '편지' ]
-    stroke: 13
+    desc: '편지, 문서'
+    ex: '청첩장, 통첩'
+    str: 13
   '疊':
     val: '첩'
-    desc: [ '거듭','중첩' ]
-    stroke: 22
+    desc: '거듭, 중첩'
+    str: 22
   '諜':
     val: '첩'
-    desc: [ '염탐할','간첩' ]
-    stroke: 16
+    desc: '염탐할'
+    ex: '간첩'
+    str: 16
   '靑':
     val: '청'
-    desc: [ '푸를' ]
-    stroke: 8
+    desc: '푸를'
+    str: 8
     tag: [160]
   '淸':
     val: '청'
-    desc: [ '맑을' ]
-    stroke: 11
-    originStroke: 12
+    desc: '맑을'
+    ex: '청명, 청계천(淸溪川)'
+    str: 11
+    oStr: 12
     tag: [100]
   '晴':
     val: '청'
-    desc: [ '갤' ]
-    stroke: 12
+    desc: '갤'
+    ex: '쾌청'
+    str: 12
   '請':
     val: '청'
-    desc: [ '바랄','부를' ]
-    stroke: 15
+    desc: '바랄, 부를'
+    ex: '신청, 청구'
+    str: 15
   '廳':
     val: '청'
-    desc: [ '관청' ]
-    stroke: 25
+    desc: '관청'
+    str: 25
   '聽':
     val: '청'
-    desc: [ '들을' ]
-    stroke: 22
+    desc: '들을'
+    str: 22
   '鯖':
     val: '청'
-    desc: [ '청어' ]
-    stroke: 19
+    desc: '청어'
+    str: 19
     tag: [200]
   '體':
     val: '체'
-    desc: [ '몸' ]
-    stroke: 22
+    desc: '몸, 신체'
+    str: 22
     tag: [350]
   '替':
     val: '체'
-    desc: [ '바꿀' ]
-    stroke: 12
+    desc: '바꿀, 교체'
+    str: 12
   '遞':
     val: '체'
-    desc: [ '갈릴','우체' ]
-    stroke: 13
-    originStroke: 16
+    desc: '갈리다, 전하다'
+    ex: '우체국'
+    str: 13
+    oStr: 16
   '滯':
     val: '체'
-    desc: [ '막힐','정체' ]
-    stroke: 14
-    originStroke: 15
+    desc: '막힐'
+    ex: '정체'
+    str: 14
+    oStr: 15
   '逮':
     val: '체'
-    desc: [ '잡을' ]
-    stroke: 11
-    originStroke: 14
+    desc: '잡을, 체포'
+    str: 11
+    oStr: 14
   '締':
     val: '체'
-    desc: [ '맺을' ]
-    stroke: 15
+    desc: '맺을'
+    ex: '체결'
+    str: 15
   '諦':
     val: '체'
-    desc: [ '살필' ]
-    stroke: 16
+    desc: '살필, 이치'
+    ex: '체념, 요체(要諦)'
+    str: 16
   '初':
     val: '초'
-    desc: [ '처음' ]
-    stroke: 7
+    desc: '처음'
+    str: 7
+    oStr: 8
   '草':
     val: '초'
-    desc: [ '풀' ]
-    stroke: 10
-    originStroke: 12
+    desc: '풀'
+    str: 10
+    oStr: 12
     tag: [300]
   '招':
     val: '초'
-    desc: [ '부를' ]
-    stroke: 8
-    originStroke: 9
+    desc: '부를'
+    ex: '초대, 자초(自招)'
+    str: 8
+    oStr: 9
   '肖':
     val: '초'
-    desc: [ '닮을','초상' ]
-    stroke: 7
-    originStroke: 9
-    surname: true
+    desc: '닮을'
+    ex: '초상화, 불초자식(不肖子息)'
+    str: 7
+    oStr: 9
+    fam: true
   '超':
     val: '초'
-    desc: [ '뛰어넘을','초월' ]
-    stroke: 12
-    tag: [200]
+    desc: '뛰어넘을'
+    ex: '초월'
+    str: 12
   '抄':
     val: '초'
-    desc: [ '뽑을','베낄' ]
-    stroke: 7
-    originStroke: 8
+    desc: '뽑을, 베낄'
+    ex: '초본(抄本)'
+    str: 7
+    oStr: 8
   '礎':
     val: '초'
-    desc: [ '주춧돌' ]
-    stroke: 18
+    desc: '주춧돌'
+    ex: '기초'
+    str: 18
   '秒':
     val: '초'
-    desc: [ '분초' ]
-    stroke: 9
+    desc: '초(시간단위)'
+    str: 9
   '焦':
     val: '초'
-    desc: [ '탈','초점' ]
-    stroke: 12
+    desc: '타다, 태우다, 안달하다'
+    ex: '초점, 초조'
+    str: 12
   '蕉':
     val: '초'
-    desc: [ '파초' ]
-    stroke: 16
-    originStroke: 18
+    desc: '파초(芭蕉)'
+    str: 16
+    oStr: 18
     tag: [300]
   '楚':
     val: '초'
-    desc: [ '초나라' ]
-    stroke: 13
-    surname: true
+    desc: '초나라'
+    str: 13
+    fam: true
   '哨':
     val: '초'
-    desc: [ '망볼' ]
-    stroke: 10
+    desc: '망볼'
+    ex: '초소, 전초(前哨)기지'
+    str: 10
   '憔':
     val: '초'
-    desc: [ '파리할','초췌' ]
-    stroke: 15
+    desc: '파리할, 초췌할'
+    str: 15
   '炒':
     val: '초'
-    desc: [ '볶을' ]
-    stroke: 8
+    desc: '볶을'
+    str: 8
   '硝':
     val: '초'
-    desc: [ '화약' ]
-    stroke: 12
-    tag: [320]
+    desc: '화약'
+    str: 12
+  '礁':
+    val: '초'
+    desc: '암초'
+    str: 17
   '酢':
     val: '초'
-    desc: [ '신맛','식초' ]
-    stroke: 12
+    desc: '신맛, 식초'
+    str: 12
   '促':
     val: '촉'
-    desc: [ '재촉할' ]
-    stroke: 9
+    desc: '재촉할, 독촉할'
+    str: 9
   '燭':
     val: '촉'
-    desc: [ '촛불' ]
-    stroke: 17
+    desc: '촛불'
+    ex: '화촉(華燭)'
+    str: 17
     tag: [320]
-    surname: true
+    fam: true
   '觸':
     val: '촉'
-    desc: [ '닿을' ]
-    stroke: 20
+    desc: '닿을, 접촉'
+    str: 20
   '囑':
     val: '촉'
-    desc: [ '부탁할','촉탁' ]
-    stroke: 24
+    desc: '부탁할, 촉탁'
+    str: 24
   '寸':
     val: '촌'
-    desc: [ '마디' ]
-    stroke: 3
+    desc: '마디'
+    str: 3
   '村':
     val: '촌'
-    desc: [ '마을' ]
-    stroke: 7
+    desc: '마을'
+    str: 7
     tag: [115]
   '銃':
     val: '총'
-    desc: [ '총' ]
-    stroke: 14
+    desc: '총'
+    ex: '권총, 소총'
+    str: 14
   '總':
     val: '총'
-    desc: [ '다','모두' ]
-    stroke: 17
+    desc: '다, 모두'
+    ex: '총리, 총괄'
+    str: 17
   '聰':
     val: '총'
-    desc: [ '귀밝을','총명' ]
-    stroke: 17
+    desc: '귀밝을'
+    ex: '총명'
+    per: '설총(薛聰)'
+    str: 17
     tag: [70]
   '寵':
     val: '총'
-    desc: [ '사랑할','총애' ]
-    stroke: 19
+    desc: '사랑할, 총애할'
+    str: 19
     tag: [115]
   '叢':
     val: '총'
-    desc: [ '떨기','모일' ]
-    stroke: 18
-  '悤':
-    val: '총'
-    desc: [ '바쁠','총명할' ]
-    stroke: 11
+    desc: '떨기, 모으다'
+    ex: '총석정(叢石亭), 고금소총(古今笑叢)'
+    str: 18
   '撮':
     val: '촬'
-    desc: [ '촬영' ]
-    stroke: 15
-    originStroke: 16
+    desc: '모으다, 골라내다'
+    ex: '사진촬영'
+    str: 15
+    oStr: 16
     tag: [155]
   '最':
     val: '최'
-    desc: [ '가장' ]
-    stroke: 12
+    desc: '가장'
+    ex: '최고, 최초'
+    str: 12
     tag: [20]
   '催':
     val: '최'
-    desc: [ '재촉할','개최' ]
-    stroke: 13
+    desc: '재촉할'
+    ex: '개최, 주최, 최고장'
+    str: 13
   '崔':
     val: '최'
-    desc: [ '성씨' ]
-    stroke: 11
-    surname: true
+    desc: '성씨'
+    str: 11
+    fam: true
   '秋':
     val: '추'
-    desc: [ '가을' ]
-    stroke: 9
+    desc: '가을'
+    str: 9
   '追':
     val: '추'
-    desc: [ '쫓을' ]
-    stroke: 9
-    originStroke: 12
-    surname: true
+    desc: '쫓을'
+    ex: '추적'
+    str: 9
+    oStr: 12
+    fam: true
   '推':
     val: '추'
-    desc: [ '밀','추진' ]
-    stroke: 11
-    originStroke: 12
+    desc: '추진하다, 추천하다, 추측하다'
+    str: 11
+    oStr: 12
   '抽':
     val: '추'
-    desc: [ '뽑을','추첨' ]
-    stroke: 8
-    originStroke: 9
+    desc: '뽑을'
+    ex: '추첨, 추출, 추상'
+    str: 8
+    oStr: 9
   '醜':
     val: '추'
-    desc: [ '추할' ]
-    stroke: 16
+    desc: '추할'
+    str: 16
   '錐':
     val: '추'
-    desc: [ '송곳' ]
-    stroke: 16
+    desc: '송곳'
+    ex: '시추(試錐), 낭중지추(囊中之錐)'
+    str: 16
   '錘':
     val: '추'
-    desc: [ '저울' ]
-    stroke: 16
+    desc: '저울, 늘어지다'
+    ex: '시계추(時計錘)'
+    str: 16
   '墜':
     val: '추'
-    desc: [ '떨어질','추락' ]
-    stroke: 15
+    desc: '떨어질'
+    ex: '추락'
+    str: 15
   '椎':
     val: '추'
-    desc: [ '쇠몽치','등골','척추' ]
-    stroke: 12
+    desc: '쇠몽치, 등골'
+    ex: '척추'
+    str: 12
+  '芻':
+    val: '추'
+    desc: '꼴, 풀먹는 짐승'
+    ex: '반추동물'
+    str: 10
+  '趨':
+    val: '추'
+    desc: '달리다, 뒤쫓다'
+    ex: '추세(趨勢), 귀추(歸趨)'
+    str: 17
   '酋':
     val: '추'
-    desc: [ '우무머리','추장' ]
-    stroke: 9
+    desc: '우무머리, 추장'
+    str: 9
     tag: [20]
+  '雛':
+    val: '추'
+    desc: '병아리, 새의 새끼'
+    ex: '와룡(臥龍)봉추(鳳雛)'
+    str: 18
+    tag: [200]
   '鰍':
     val: '추'
-    desc: [ '미꾸라지' ]
-    stroke: 20
+    desc: '미꾸라지'
+    ex: '추어탕'
+    str: 20
     tag: [200]
   '丑':
     val: '축'
-    desc: [ '소' ]
-    stroke: 4
+    desc: '소'
+    str: 4
     tag: [200,400]
   '祝':
     val: '축'
-    desc: [ '빌' ]
-    stroke: 9
+    desc: '빌다, 축하하다'
+    ex: '축하, 축제'
+    str: 9
     tag: [50,500]
   '蓄':
     val: '축'
-    desc: [ '모을' ]
-    stroke: 14
-    originStroke: 16
+    desc: '모을'
+    desc: '저축, 축적'
+    str: 14
+    oStr: 16
     tag: [125]
   '畜':
     val: '축'
-    desc: [ '짐승' ]
-    stroke: 10
+    desc: '짐승'
+    desc: '가축'
+    str: 10
     tag: [200]
   '築':
     val: '축'
-    desc: [ '쌓을','건축' ]
-    stroke: 16
+    desc: '쌓을'
+    ex: '건축'
+    str: 16
     tag: [75]
   '逐':
     val: '축'
-    desc: [ '쫓을' ]
-    stroke: 10
-    originStroke: 13
+    desc: '쫓을'
+    ex: '축출(逐出), 구축함'
+    str: 10
+    oStr: 13
   '縮':
     val: '축'
-    desc: [ '줄일','수축' ]
-    stroke: 17
+    desc: '줄일'
+    ex: '수축, 신축성'
+    str: 17
   '軸':
     val: '축'
-    desc: [ '굴대' ]
-    stroke: 12
+    desc: '굴대, 축'
+    str: 12
   '蹴':
     val: '축'
-    desc: [ '찰','축구' ]
-    stroke: 19
+    desc: '찰'
+    ex: '축구'
+    str: 19
   '春':
     val: '춘'
-    desc: [ '봄' ]
-    stroke: 9
-  '春':
-    val: '춘'
-    desc: [ '봄' ]
-    stroke: 9
+    desc: '봄'
+    str: 9
   '椿':
     val: '춘'
-    desc: [ '참죽나무' ]
-    stroke: 13
+    desc: '참죽나무'
+    str: 13
     tag: [300]
   '瑃':
     val: '춘'
-    desc: [ '옥이름' ]
-    stroke: 13
-    originStroke: 14
+    desc: '옥이름'
+    str: 13
+    oStr: 14
     tag: [60]
   '出':
     val: '출'
-    desc: [ '날' ]
-    stroke: 5
+    desc: '날'
+    str: 5
   '黜':
     val: '출'
-    desc: [ '내칠' ]
-    stroke: 17
+    desc: '내칠'
+    ex: '출당(黜黨)'
+    str: 17
   '充':
     val: '충'
-    desc: [ '채울','충전' ]
-    stroke: 6
-    surname: true
+    desc: '채울'
+    str: 6
+    tag: [130]
+    fam: true
   '忠':
     val: '충'
-    desc: [ '충성' ]
-    stroke: 8
+    desc: '충성'
+    str: 8
     tag: [110]
   '蟲':
     val: '충'
-    desc: [ '벌레' ]
-    stroke: 18
+    desc: '벌레'
+    str: 18
     tag: [200]
   '衝':
     val: '충'
-    desc: [ '찌를','충돌' ]
-    stroke: 15
+    desc: '찌르다, 부딪치다'
+    ex: '충돌, 절충'
+    str: 15
   '萃':
     val: '췌'
-    desc: [ '모을','발췌' ]
-    stroke: 12
-    originStroke: 14
+    desc: '모을'
+    ex: '발췌'
+    str: 12
+    oStr: 14
   '悴':
     val: '췌'
-    desc: [ '파리할','초췌' ]
-    stroke: 11
-    originStroke: 12
+    desc: '파리할, 초췌할' ]
+    str: 11
+    oStr: 12
   '膵':
     val: '췌'
     desc: [ '췌장' ]
-    stroke: 16
-    originStroke: 18
+    str: 16
+    oStr: 18
     tag: [350]
   '取':
     val: '취'
-    desc: [ '가질' ]
-    stroke: 8
+    desc: '가질'
+    ex: '취득, 취소'
+    str: 8
   '吹':
     val: '취'
-    desc: [ '불','관악기' ]
-    stroke: 7
+    desc: '불, 관악기'
+    ex: '고취, 취주악'
+    str: 7
     tag: [155]
   '就':
     val: '취'
-    desc: [ '나아갈' ]
-    stroke: 12
+    desc: '나아갈'
+    ex: '취업, 성취'
+    str: 12
     tag: [45]
   '臭':
     val: '취'
-    desc: [ '냄새' ]
-    stroke: 10
+    desc: '냄새'
+    str: 10
   '醉':
     val: '취'
-    desc: [ '취할' ]
-    stroke: 15
+    desc: '취하다'
+    ex: '심취, 마취, 취객'
+    str: 15
   '趣':
     val: '취'
-    desc: [ '뜻','취미' ]
-    stroke: 15
+    desc: '뜻, 내용, 향하다'
+    ex: '취지, 취미, 취향'
+    str: 15
   '翠':
     val: '취'
-    desc: [ '푸를','물총새' ]
-    stroke: 14
+    desc: '푸를, 물총새'
+    ex: '비취색'
+    str: 14
     tag: [160,200]
   '聚':
     val: '취'
-    desc: [ '모을' ]
-    stroke: 14
+    desc: '모을, 취합하다'
+    str: 14
   '炊':
     val: '취'
-    desc: [ '불땔','취사' ]
-    stroke: 8
+    desc: '불땔'
+    ex: '취사(炊事), 자취생'
+    str: 8
     tag: [320]
   '側':
     val: '측'
-    desc: [ '곁','옆' ]
-    stroke: 11
+    desc: '곁, 옆'
+    str: 11
   '測':
     val: '측'
-    desc: [ '헤아릴' ]
-    stroke: 12
-    originStroke: 13
+    desc: '헤아릴, 추측하다'
+    str: 12
+    oStr: 13
     tag: [70]
+  '惻':
+    val: '측'
+    desc: '슬퍼할'
+    ex: '측은지심(惻隱之心)'
+    str: 12
+    oStr: 13
   '廁':
     val: '측'
-    desc: [ '뒷간' ]
-    stroke: 12
+    desc: '뒷간'
+    ex: '측간(廁間)'
+    str: 12
   '治':
     val: '치'
-    desc: [ '다스릴' ]
-    stroke: 8
-    originStroke: 9
+    desc: '다스릴'
+    str: 8
+    oStr: 9
     tag: [20]
   '致':
     val: '치'
-    desc: [ '이를' ]
-    stroke: 10
+    desc: '이를, 빽빽할'
+    ex: '일치, 경치, 납치'
+    str: 10
   '齒':
     val: '치'
-    desc: [ '이' ]
-    stroke: 15
-    tag: [200]
+    desc: '이, 치아'
+    str: 15
   '値':
     val: '치'
-    desc: [ '값' ]
-    stroke: 10
-    tag: [40]
+    desc: '값, 가치'
+    str: 10
   '置':
     val: '치'
-    desc: [ '두다','놓다' ]
-    stroke: 13
+    desc: '두다','놓다'
+    ex: '설치, 배치'
+    str: 13
   '恥':
     val: '치'
-    desc: [ '부끄러울' ]
-    stroke: 10
+    desc: '부끄러울'
+    ex: '수치심'
+    str: 10
   '熾':
     val: '치'
-    desc: [ '성할','치열' ]
-    stroke: 16
-    tag: [120]
+    desc: '왕성하다, 불사르다'
+    ex: '치열'
+    str: 16
+    tag: [120,320]
   '峙':
     val: '치'
-    desc: [ '언덕' ]
-    stroke: 9
-    tag: [330]
+    desc: '언덕, 멈추다'
+    ex: '대치하다'
+    str: 9
   '雉':
     val: '치'
-    desc: [ '꿩' ]
-    stroke: 13
+    desc: '꿩'
+    ex: '치악산'
+    str: 13
     tag: [200]
+  '馳':
+    val: '치'
+    desc: '달리다'
+    ex: '배치(背馳)되다, 상치(相馳)되다'
+    str: 13
   '侈':
     val: '치'
-    desc: [ '사치할' ]
-    stroke: 8
+    desc: '사치할'
+    str: 8
   '幟':
     val: '치'
-    desc: [ '기','기치' ]
-    stroke: 15
+    desc: '기'
+    ex: '기치(旗幟)'
+    str: 15
   '梔':
     val: '치'
-    desc: [ '치자나무' ]
-    stroke: 11
+    desc: '치자나무'
+    str: 11
     tag: [300]
   '癡':
     val: '치'
-    desc: [ '어리석을' ]
-    stroke: 19
+    desc: '어리석을'
+    ex: '음치, 백치, 치매'
+    str: 19
     tag: [360]
   '痴':
     val: '치'
-    desc: [ '어리석을' ]
-    stroke: 13
+    desc: '어리석을'
+    ex: '치매'
+    str: 13
     tag: [360]
   '緻':
     val: '치'
-    desc: [ '빽빽할' ]
-    stroke: 16
+    desc: '빽빽할'
+    ex: '치밀, 치졸'
+    str: 16
   '稚':
     val: '치'
-    desc: [ '어릴','유치' ]
-    stroke: 13
+    desc: '어릴'
+    ex: '유치'
+    str: 13
   '勅':
     val: '칙'
-    desc: [ '칙서' ]
-    stroke: 9
+    desc: '칙서'
+    str: 9
   '敕':
     val: '칙'
-    desc: [ '칙서' ]
-    stroke: 11
-  '勅':
-    val: '칙'
-    desc: [ '칙서' ]
-    stroke: 9
+    desc: '칙서'
+    str: 11
   '親':
     val: '친'
-    desc: [ '친할' ]
-    stroke: 16
+    desc: '친할'
+    str: 16
     tag: [115]
   '七':
     val: '칠'
-    desc: [ '일곱' ]
-    stroke: 2
-    originStroke: 7
+    desc: '일곱'
+    str: 2
+    oStr: 7
   '漆':
     val: '칠'
-    desc: [ '옻' ]
-    stroke: 14
-    originStroke: 15
+    desc: '옻'
+    ex: '칠기'
+    str: 14
+    oStr: 15
     tag: [300]
   '沈':
     val: '침'
-    desc: [ '잠길' ]
-    stroke: 7
-    originStroke: 8
+    desc: '잠길, 가라앉다'
+    ex: '침묵, 침몰, 침수'
+    str: 7
+    oStr: 8
+    tag: [310]
+  '浸':
+    val: '침'
+    desc: '잠길, 적시다'
+    ex: '침투, 침식'
+    str: 10
+    oStr: 11
     tag: [310]
   '針':
     val: '침'
-    desc: [ '바늘' ]
-    stroke: 10
+    desc: '바늘'
+    str: 10
     tag: [340]
   '侵':
     val: '침'
-    desc: [ '침노할' ]
-    stroke: 9
-  '浸':
-    val: '침'
-    desc: [ '잠길' ]
-    stroke: 10
-    originStroke: 11
-    tag: [310]
+    desc: '침노할'
+    str: 9
   '寢':
     val: '침'
-    desc: [ '잠잘' ]
-    stroke: 14
+    desc: '잠잘'
+    ex: '침대'
+    str: 14
   '枕':
     val: '침'
-    desc: [ '베게' ]
-    stroke: 8
+    desc: '베게'
+    ex: '목침(木枕), 금침(衾枕)'
+    str: 8
   '蟄':
     val: '칩'
-    desc: [ '숨을','칩거','경칩' ]
-    stroke: 17
+    desc: '숨을'
+    ex: '칩거, 경칩(驚蟄)'
+    str: 17
   '稱':
     val: '칭'
-    desc: [ '일컬을' ]
-    stroke: 14
+    desc: '일컬을, 칭찬하다'
+    str: 14
   '秤':
     val: '칭'
-    desc: [ '저울' ]
-    stroke: 10
+    desc: '저울, 천칭'
+    str: 10
+    tag: [140]
   '快':
     val: '쾌'
-    desc: [ '쾌할' ]
-    stroke: 7
-    originStroke: 8
+    desc: '쾌할, 시원하다'
+    str: 7
+    oStr: 8
     tag: [90]
   '他':
     val: '타'
-    desc: [ '다를' ]
-    stroke: 5
+    desc: '다를'
+    str: 5
   '打':
     val: '타'
-    desc: [ '칠' ]
-    stroke: 5
-    originStroke: 6
+    desc: '칠, 때리다'
+    str: 5
+    oStr: 6
   '妥':
     val: '타'
-    desc: [ '온당할' ]
-    stroke: 7
+    desc: '온당할'
+    ex: '타당, 타협'
+    str: 7
   '墮':
     val: '타'
-    desc: [ '떨어질','타락' ]
-    stroke: 15
+    desc: '떨어질'
+    ex: '타락'
+    str: 15
   '咤':
     val: '타'
-    desc: [ '꾸짖을','질타' ]
-    stroke: 9
+    desc: '꾸짖을'
+    ex: '질타'
+    str: 9
   '唾':
     val: '타'
-    desc: [ '침','타액' ]
-    stroke: 11
+    desc: '침'
+    ex: '타액'
+    str: 11
   '惰':
     val: '타'
-    desc: [ '게으를','타성' ]
-    stroke: 12
-    originStroke: 13
+    desc: '게으를'
+    ex: '타성'
+    str: 12
+    oStr: 13
   '舵':
     val: '타'
-    desc: [ '(배의) 키','조타' ]
-    stroke: 11
+    desc: '키'
+    ex: '조타수'
+    str: 11
   '駝':
     val: '타'
-    desc: [ '낙타' ]
-    stroke: 15
+    desc: '낙타'
+    str: 15
     tag: [200]
   '鴕':
     val: '타'
-    desc: [ '타조' ]
-    stroke: 16
+    desc: '타조'
+    str: 16
     tag: [200]
   '濁':
     val: '탁'
-    desc: [ '흐릴' ]
-    stroke: 16
-    originStroke: 17
-  '托':
-    val: '탁'
-    desc: [ '맡길' ]
-    stroke: 6
-    originStroke: 7
+    desc: '흐릴, 탁하다'
+    str: 16
+    oStr: 17
   '濯':
     val: '탁'
-    desc: [ '씻을' ]
-    stroke: 17
-    originStroke: 18
-    surname: true
+    desc: '씻을'
+    ex: '세탁'
+    str: 17
+    oStr: 18
+    fam: true
   '卓':
     val: '탁'
-    desc: [ '높을','탁월' ]
-    stroke: 8
+    desc: '높을'
+    ex: '탁자, 탁구, 탁월'
+    str: 8
     tag: [20]
-    surname: true
+    fam: true
   '倬':
     val: '탁'
     desc: [ '클','밝다','빼어나다' ]
-    stroke: 10
+    str: 10
     tag: [20,30,90]
   '託':
     val: '탁'
-    desc: [ '부탁할' ]
-    stroke: 10
+    desc: '부탁할'
+    ex: '신탁, 의탁'
+    str: 10
   '擢':
     val: '탁'
-    desc: [ '뽑을','발탁' ]
-    stroke: 17
-    originStroke: 18
+    desc: '뽑을, 발탁하다'
+    str: 17
+    oStr: 18
     tag: [20]
   '鐸':
     val: '탁'
-    desc: [ '방울','목탁' ]
-    stroke: 21
+    desc: '방울'
+    ex: '목탁'
+    str: 21
+  '琢':
+    val: '탁'
+    desc: '다듬을'
+    ex: '조탁(彫琢), 절차탁마(切磋琢磨)'
+    str: 12
+    oStr: 13
+    tag: [120]
   '炭':
     val: '탄'
-    desc: [ '숯' ]
-    stroke: 9
+    desc: '숯'
+    str: 9
     tag: [320]
-    surname: true
+    fam: true
   '歎':
     val: '탄'
-    desc: [ '탄식할' ]
-    stroke: 15
+    desc: '탄식할'
+    str: 15
   '嘆':
     val: '탄'
-    desc: [ '탄식할' ]
-    stroke: 14
+    desc: '탄식할'
+    str: 14
   '彈':
     val: '탄'
-    desc: [ '탄알' ]
-    stroke: 15
-    surname: true
+    desc: '탄알, 탄핵하다, 탄압하다'
+    str: 15
+    fam: true
   '誕':
     val: '탄'
-    desc: [ '낳을' ]
-    stroke: 14
+    desc: '낳을, 탄생하다'
+    str: 14
   '呑':
     val: '탄'
-    desc: [ '삼킬' ]
-    stroke: 7
-    surname: true
+    desc: '삼킬'
+    ex: '병탄, 감탄고토(甘呑苦吐)'
+    str: 7
+    fam: true
   '坦':
     val: '탄'
-    desc: [ '평탄할','너그러울' ]
-    stroke: 8
+    desc: '평탄할, 너그러울'
+    str: 8
     tag: [90,130]
   '灘':
     val: '탄'
-    desc: [ '여울' ]
-    stroke: 22
-    originStroke: 23
+    desc: '여울'
+    ex: '한탄강'
+    str: 22
+    oStr: 23
     tag: [310]
   '憚':
     val: '탄'
-    desc: [ '꺼릴' ]
-    stroke: 15
-    originStroke: 16
-    surname: true
+    desc: '꺼릴'
+    ex: '기탄'
+    str: 15
+    oStr: 16
+    fam: true
   '綻':
     val: '탄'
-    desc: [ '터질','탄로' ]
-    stroke: 14
+    desc: '터질, 피다'
+    ex: '탄로, 파탄'
+    str: 14
   '奪':
     val: '탈'
-    desc: [ '빼앗을' ]
-    stroke: 14
+    desc: '빼앗을'
+    ex: '박탈, 탈환, 약탈'
+    str: 14
   '脫':
     val: '탈'
-    desc: [ '벗을' ]
-    stroke: 11
-    originStroke: 13
+    desc: '벗을'
+    str: 11
+    oStr: 13
   '探':
     val: '탐'
-    desc: [ '찾을' ]
-    stroke: 11
-    originStroke: 12
+    desc: '찾을'
+    str: 11
+    oStr: 12
   '貪':
     val: '탐'
-    desc: [ '탐낼' ]
-    stroke: 11
+    desc: '탐낼'
+    str: 11
   '耽':
     val: '탐'
-    desc: [ '즐길','탐닉' ]
-    stroke: 10
+    desc: '즐길'
+    ex: '탐닉, 탐라(제주도)'
+    str: 10
     tag: [150]
   '眈':
     val: '탐'
-    desc: [ '노려볼','탐탐' ]
-    stroke: 9
+    desc: '노려볼'
+    ex: '호시탐탐(虎視眈眈)'
+    str: 9
   '塔':
     val: '탑'
-    desc: [ '탑' ]
-    stroke: 13
+    desc: '탑'
+    str: 13
   '湯':
     val: '탕'
-    desc: [ '끓일' ]
-    stroke: 12
-    originStroke: 13
+    desc: '끓일'
+    str: 12
+    oStr: 13
   '宕':
     val: '탕'
-    desc: [ '호탕할' ]
-    stroke: 8
+    desc: '호탕할, 탕건'
+    str: 8
     tag: [90]
   '帑':
     val: '탕'
-    desc: [ '금고' ]
-    stroke: 8
+    desc: '금고'
+    ex: '내탕금'
+    str: 8
     tag: [40]
   '糖':
     val: '탕'
-    desc: [ '엿' ]
-    stroke: 16
+    desc: '엿, 사탕'
+    ex: '탕수육'
+    str: 16
   '蕩':
     val: '탕'
-    desc: [ '방탕할' ]
-    stroke: 16
-    originStroke: 18
+    desc: '방탕할'
+    str: 16
+    oStr: 18
   '太':
     val: '태'
-    desc: [ '클' ]
-    stroke: 4
+    desc: '클'
+    ex: '태양, 태극기'
+    str: 4
     tag: [90]
-    surname: true
+    fam: true
   '泰':
     val: '태'
-    desc: [ '클' ]
-    stroke: 10
+    desc: '클'
+    ex: '태산, 태연(泰然), 태국(泰國)'
+    str: 10
     tag: [90]
-    surname: true
+    fam: true
   '怠':
     val: '태'
-    desc: [ '게으를','나태' ]
-    stroke: 9
+    desc: '게으를'
+    ex: '나태, 태만'
+    str: 9
   '殆':
     val: '태'
-    desc: [ '거의','위태할' ]
-    stroke: 9
+    desc: '거의, 위태할'
+    str: 9
   '態':
     val: '태'
-    desc: [ '모습','상태' ]
-    stroke: 14
+    desc: '모습, 상태'
+    str: 14
   '汰':
     val: '태'
-    desc: [ '일다','도태' ]
-    stroke: 7
-    originStroke: 8
+    desc: '일, 걸러내다'
+    ex: '도태, 산사태'
+    str: 7
+    oStr: 8
   '台':
     val: '태'
-    desc: [ '별' ]
-    stroke: 5
+    desc: '별, 태풍'
+    ex: '천태종'
+    str: 5
+    tag: [370]
   '胎':
     val: '태'
-    desc: [ '아이 벨' ]
-    stroke: 9
-    originStroke: 11
+    desc: '아이 벨'
+    str: 9
+    oStr: 11
   '笞':
     val: '태'
-    desc: [ '볼기칠','태형' ]
-    stroke: 11
+    desc: '볼기칠, 태형'
+    str: 11
   '苔':
     val: '태'
-    desc: [ '이끼' ]
-    stroke: 9
-    originStroke: 11
+    desc: '이끼'
+    ex: '선태류'
+    str: 9
+    oStr: 11
     tag: [300]
-    surname: true
+    fam: true
   '跆':
     val: '태'
-    desc: [ '밟을','태권도' ]
-    stroke: 12
+    desc: '밟을'
+    ex: '태권도'
+    str: 12
     tag: [80]
   '颱':
     val: '태'
-    desc: [ '태풍' ]
-    stroke: 14
-    tag: [80]
+    desc: '태풍'
+    str: 14
   '宅':
     val: '택'
-    desc: [ '집' ]
-    stroke: 6
-    surname: true
+    desc: '집'
+    str: 6
+    fam: true
   '撑':
     val: '탱'
-    desc: [ '버틸','지탱' ]
-    stroke: 15
-    originStroke: 16
+    desc: '버틸, 지탱하다'
+    str: 15
+    oStr: 16
   '攄':
     val: '터'
-    desc: [ '펼','터득' ]
-    stroke: 18
-    originStroke: 19
-    tag: [70]
+    desc: '펼, 나타내다'
+    ex: '터득'
+    str: 18
+    oStr: 19
   '土':
     val: '토'
-    desc: [ '흙' ]
-    stroke: 3
+    desc: '흙'
+    str: 3
     tag: [330]
   '吐':
     val: '토'
-    desc: [ '토할' ]
-    stroke: 6
+    desc: '토할'
+    str: 6
   '討':
     val: '토'
-    desc: [ '칠','토벌' ]
-    stroke: 10
+    desc: '칠, 공격하다'
+    ex: '토벌'
+    str: 10
     tag: [80]
   '兎':
     val: '토'
-    desc: [ '토끼' ]
-    stroke: 7
+    desc: '토끼'
+    str: 7
     tag: [200]
   '兔':
     val: '토'
-    desc: [ '토끼' ]
-    stroke: 8
+    desc: '토끼'
+    str: 8
     tag: [200]
-  '噋':
-    val: '톤'
-    desc: [ '느릿할' ]
-    stroke: 15
-    tag: [130]
   '通':
     val: '통'
-    desc: [ '통할' ]
-    stroke: 10
-    originStroke: 13
+    desc: '통할'
+    str: 10
+    oStr: 13
   '統':
     val: '통'
-    desc: [ '거느릴' ]
-    stroke: 12
+    desc: '거느릴'
+    ex: '대통령'
+    str: 12
+    tag: [40]
   '痛':
     val: '통'
-    desc: [ '아플' ]
-    stroke: 12
+    desc: '아플'
+    str: 12
     tag: [360]
   '桶':
     val: '통'
-    desc: [ '통' ]
-    stroke: 11
+    desc: '통'
+    ex: '휴지통'
+    str: 11
   '慟':
     val: '통'
-    desc: [ '서러워할' ]
-    stroke: 14
-    originStroke: 15
+    desc: '서러워할, 울다'
+    ex: '통곡, 비통'
+    str: 14
+    oStr: 15
   '洞':
     val: '통'
-    desc: [ '밝을','통찰' ]
-    stroke: 9
-    originStroke: 10
+    desc: '밝을, 꿰뚫다'
+    ex: '통찰'
+    str: 9
+    oStr: 10
     tag: [70]
   '筒':
     val: '통'
-    desc: [ '대통' ]
-    stroke: 12
+    desc: '대통, 통발'
+    ex: '필통, 우체통'
+    str: 12
   '退':
     val: '퇴'
-    desc: [ '물러날' ]
-    stroke: 9
-    originStroke: 12
+    desc: '물러날'
+    str: 9
+    oStr: 12
   '堆':
     val: '퇴'
-    desc: [ '쌓을','퇴적' ]
-    stroke: 11
+    desc: '쌓을'
+    ex: '퇴적'
+    str: 11
     tag: [330]
   '槌':
     val: '퇴'
-    desc: [ '망치' ]
-    stroke: 13
-    tag: [80]
+    desc: '망치'
+    ex: '철퇴(鐵槌)'
+    str: 13
   '腿':
     val: '퇴'
-    desc: [ '넓적다리' ]
-    stroke: 13
-    originStroke: 15
+    desc: '넓적다리'
+    ex: '대퇴부'
+    str: 13
+    oStr: 15
     tag: [350]
   '投':
     val: '투'
-    desc: [ '던질' ]
-    stroke: 7
-    originStroke: 8
+    desc: '던질'
+    str: 7
+    oStr: 8
   '透':
     val: '투'
-    desc: [ '사무칠','투명' ]
-    stroke: 10
-    originStroke: 13
+    desc: '사무칠, 꿰뚫다'
+    ex: '투명, 침투'
+    str: 10
+    oStr: 13
   '鬪':
     val: '투'
-    desc: [ '싸울' ]
-    stroke: 20
+    desc: '싸울'
+    str: 20
     tag: [80]
   '套':
     val: '투'
-    desc: [ '씌울','봉투' ]
-    stroke: 10
+    desc: '씌울'
+    ex: '봉투, 외투, 상투적'
+    str: 10
   '妬':
     val: '투'
-    desc: [ '샘낼','질투' ]
-    stroke: 8
+    desc: '샘낼'
+    ex: '질투'
+    str: 8
   '特':
     val: '특'
-    desc: [ '특별할' ]
-    stroke: 10
+    desc: '특별할'
+    str: 10
     tag: [20]
   '慝':
     val: '특'
-    desc: [ '사특할' ]
-    stroke: 15
+    desc: '사특할, 간사하다'
+    str: 15
   '闖':
     val: '틈'
-    desc: [ '틈' ]
-    stroke: 18
+    desc: '엿볼'
+    str: 18
   '破':
     val: '파'
-    desc: [ '깨뜨릴' ]
-    stroke: 10
+    desc: '깨뜨릴'
+    str: 10
     tag: [80]
   '波':
     val: '파'
-    desc: [ '물결' ]
-    stroke: 8
-    originStroke: 9
+    desc: '물결'
+    str: 8
+    oStr: 9
     tag: [310]
   '派':
     val: '파'
-    desc: [ '갈래' ]
-    stroke: 9
-    originStroke: 10
+    desc: '갈래'
+    str: 9
+    oStr: 10
   '播':
     val: '파'
-    desc: [ '뿌릴','전파','파종' ]
-    stroke: 15
-    originStroke: 16
+    desc: '뿌릴, 퍼뜨리다'
+    ex: '전파, 파종'
+    str: 15
+    oStr: 16
   '罷':
     val: '파'
-    desc: [ '마칠','파업','파면' ]
-    stroke: 15
+    desc: '마칠, 그만두다'
+    ex: '파업, 파면'
+    str: 15
   '頗':
     val: '파'
-    desc: [ '자못','상당히' ]
-    stroke: 14
+    desc: '자못, 상당히'
+    ex: '편파(偏頗), 파다(頗多)'
+    str: 14
   '把':
     val: '파'
-    desc: [ '잡을','파수' ]
-    stroke: 7
-    originStroke: 8
+    desc: '잡을, 긁다'
+    ex: '파악, 파수(把守)'
+    str: 7
+    oStr: 8
   '巴':
     val: '파'
-    desc: [ '꼬리','구라파' ]
-    stroke: 4
-    surname: true
+    desc: '꼬리, 땅이름'
+    ex: '구라파'
+    str: 4
+    fam: true
   '芭':
     val: '파'
-    desc: [ '파초' ]
-    stroke: 8
-    originStroke: 10
+    desc: '파초(芭蕉)'
+    str: 8
+    oStr: 10
     tag: [300]
   '琶':
     val: '파'
-    desc: [ '비파' ]
-    stroke: 12
-    originStroke: 13
+    desc: '비파'
+    str: 12
+    oStr: 13
     tag: [155]
   '坡':
     val: '파'
-    desc: [ '언덕' ]
-    stroke: 8
+    desc: '언덕'
+    ex: '파주(坡州), 송파구(松坡區)'
+    str: 8
     tag: [330]
   '杷':
     val: '파'
-    desc: [ '비파나무' ]
-    stroke: 8
+    desc: '비파나무'
+    str: 8
     tag: [300]
   '婆':
     val: '파'
-    desc: [ '할머니' ]
-    stroke: 11
+    desc: '할머니'
+    ex: '노파'
+    str: 11
     tag: [115]
   '爬':
     val: '파'
-    desc: [ '긁을','파충류' ]
-    stroke: 8
+    desc: '긁을, 기다'
+    ex: '파충류'
+    str: 8
   '跛':
     val: '파'
-    desc: [ '절름발이' ]
-    stroke: 12
+    desc: '절름발이'
+    ex: '파행(跛行)'
+    str: 12
   '菠':
     val: '파'
-    desc: [ '시금치' ]
-    stroke: 12
-    originStroke: 14
+    desc: '시금치'
+    str: 12
+    oStr: 14
     tag: [300]
   '判':
     val: '판'
-    desc: [ '판단할' ]
-    stroke: 7
+    desc: '판단할'
+    str: 7
     tag: [40,140]
-    surname: true
+    fam: true
   '板':
     val: '판'
-    desc: [ '널빤지' ]
-    stroke: 8
-    surname: true
+    desc: '널빤지'
+    ex: '간판, 게시판, 판교(板橋)'
+    str: 8
+    fam: true
   '販':
     val: '판'
-    desc: [ '팔','판매' ]
-    stroke: 11
+    desc: '팔, 판매하다'
+    str: 11
   '版':
     val: '판'
-    desc: [ '판목','출판' ]
-    stroke: 8
+    desc: '판목'
+    ex: '출판, 번호판'
+    str: 8
     tag: [70]
   '阪':
     val: '판'
-    desc: [ '언덕' ]
-    stroke: 7
-    originStroke: 12
+    desc: '언덕'
+    ex: '오사카(大阪)'
+    str: 7
+    oStr: 12
     tag: [330]
   '坂':
     val: '판'
-    desc: [ '언덕' ]
-    stroke: 7
+    desc: '언덕, 비탈'
+    ex: '구절판(九折坂)'
+    str: 7
     tag: [330]
   '辦':
     val: '판'
-    desc: [ '힘들일' ]
-    stroke: 16
+    desc: '힘들일'
+    ex: '판공비(辦公費)'
+    str: 16
     tag: [120]
   '八':
     val: '팔'
-    desc: [ '여덟' ]
-    stroke: 2
-    originStroke: 8
+    desc: '여덟'
+    str: 2
+    oStr: 8
   '叭':
     val: '팔'
-    desc: [ '입 벌릴','나팔' ]
-    stroke: 5
+    desc: '나팔'
+    str: 5
     tag: [155]
   '敗':
     val: '패'
-    desc: [ '패할' ]
-    stroke: 11
+    desc: '패할'
+    str: 11
   '浿':
     val: '패'
-    desc: [ '강이름','패수' ]
-    stroke: 10
-    originStroke: 11
+    desc: '강이름, 패수'
+    str: 10
+    oStr: 11
     tag: [310]
   '佩':
     val: '패'
-    desc: [ '차다','지니다','패물' ]
-    stroke: 8
+    desc: '차다, 지니다'
+    ex: '패물(佩物), 패옥(佩玉)'
+    str: 8
   '牌':
     val: '패'
-    desc: [ '패','명패' ]
-    stroke: 12
+    desc: '패, 간판, 명찰'
+    ex: '명패, 방패, 위패'
+    str: 12
   '悖':
     val: '패'
-    desc: [ '거스를','행패' ]
-    stroke: 10
-    originStroke: 11
+    desc: '거스를'
+    ex: '행패(行悖), 패륜, 음담패설'
+    str: 10
+    oStr: 11
   '狽':
     val: '패'
-    desc: [ '이리','낭패' ]
-    stroke: 10
-    originStroke: 11
+    desc: '이리'
+    ex: '낭패(狼狽)'
+    str: 10
+    oStr: 11
+    tag: [200]
   '稗':
     val: '패'
-    desc: [ '피(잡초)','잘다' ]
-    stroke: 13
+    desc: '피(잡초), 작다'
+    ex: '패관문학'
+    str: 13
     tag: [300]
-  '霸':
+  '覇':
     val: '패'
-    desc: [ '으뜸','두목' ]
-    stroke: 21
+    desc: '으뜸'
+    ex: '제패(制覇), 초패왕(楚覇王)'
+    str: 19
     tag: [45,80]
   '貝':
     val: '패'
-    desc: [ '조개' ]
-    stroke: 7
+    desc: '조개'
+    str: 7
     tag: [200]
   '彭':
     val: '팽'
-    desc: [ '성씨' ]
-    stroke: 12
-    surname: true
+    desc: '성씨'
+    str: 12
+    fam: true
   '澎':
     val: '팽'
-    desc: [ '물소리' ]
-    stroke: 15
-    originStroke: 16
+    desc: '물소리, 물결치다'
+    ex: '팽배(澎湃)'
+    str: 15
+    oStr: 16
   '烹':
     val: '팽'
-    desc: [ '삶을' ]
-    stroke: 11
+    desc: '삶을'
+    ex: '토사구팽'
+    str: 11
   '膨':
     val: '팽'
-    desc: [ '부를','팽창' ]
-    stroke: 16
-    originStroke: 18
+    desc: '부를, 부풀다'
+    ex: '팽창'
+    str: 16
+    oStr: 18
   '愎':
     val: '퍅'
-    desc: [ '강퍅할' ]
-    stroke: 12
-    originStroke: 13
+    desc: '강퍅할'
+    ex: '괴팍(乖愎)스럽다'
+    str: 12
+    oStr: 13
   '片':
     val: '편'
-    desc: [ '조각' ]
-    stroke: 4
-    surname: true
+    desc: '조각'
+    str: 4
+    fam: true
   '便':
     val: '편'
-    desc: [ '편할' ]
-    stroke: 9
+    desc: '편할'
+    str: 9
     tag: [130]
   '篇':
     val: '편'
-    desc: [ '책' ]
-    stroke: 15
-    tag: [70]
+    desc: '책'
+    str: 15
   '編':
     val: '편'
-    desc: [ '엮을','편집' ]
-    stroke: 15
-    tag: [70]
+    desc: '엮을'
+    ex: '편집, 개편'
+    str: 15
   '遍':
     val: '편'
-    desc: [ '두루','보편' ]
-    stroke: 12
-    originStroke: 15
+    desc: '두루, 모든'
+    ex: '보편'
+    str: 12
+    oStr: 15
   '偏':
     val: '편'
-    desc: [ '치우칠','편견' ]
-    stroke: 11
+    desc: '치우칠'
+    ex: '편견'
+    str: 11
   '扁':
     val: '편'
-    desc: [ '작을' ]
-    stroke: 9
-    surname: true
+    desc: '작을, 좁다'
+    ex: '편도선, 편주(扁舟)'
+    str: 9
+    fam: true
   '翩':
     val: '편'
-    desc: [ '나부낄' ]
-    stroke: 15
+    desc: '나부낄'
+    str: 15
   '鞭':
     val: '편'
-    desc: [ '채찍','편달' ]
-    stroke: 18
+    desc: '채찍'
+    ex: '편달(鞭撻), 편충(鞭蟲), 주마가편(走馬加鞭)'
+    str: 18
     tag: [140]
   '騙':
     val: '편'
-    desc: [ '속일','편취' ]
-    stroke: 19
+    desc: '속일'
+    ex: '편취(騙取)'
+    str: 19
   '蝙':
     val: '편'
-    desc: [ '박쥐' ]
-    stroke: 15
+    desc: '박쥐'
+    str: 15
     tag: [200]
   '貶':
-    val: '편'
-    desc: [ '낮출','폄하' ]
-    stroke: 12
+    val: '폄'
+    desc: '낮출'
+    ex: '폄하(貶下), 폄훼(貶毁), 포폄(褒貶)'
+    str: 12
   '平':
     val: '평'
-    desc: [ '평평할' ]
-    stroke: 5
-    surname: true
+    desc: '평평할'
+    str: 5
+    fam: true
   '評':
     val: '평'
-    desc: [ '평할' ]
-    stroke: 12
+    desc: '평할'
+    ex: '비평'
+    str: 12
   '坪':
     val: '평'
-    desc: [ '들','평수' ]
-    stroke: 8
+    desc: '들, 평수(단위)'
+    str: 8
   '萍':
     val: '평'
-    desc: [ '부평초' ]
-    stroke: 12
-    originStroke: 14
+    desc: '부평초'
+    str: 12
+    oStr: 14
     tag: [300]
   '閉':
     val: '폐'
-    desc: [ '닫을' ]
-    stroke: 11
+    desc: '닫을'
+    str: 11
   '肺':
     val: '폐'
-    desc: [ '허파' ]
-    stroke: 8
-    originStroke: 10
+    desc: '허파'
+    str: 8
+    oStr: 10
     tag: [350]
   '廢':
     val: '폐'
-    desc: [ '폐할' ]
-    stroke: 15
+    desc: '폐할, 버릴'
+    str: 15
   '弊':
     val: '폐'
-    desc: [ '폐단' ]
-    stroke: 14
+    desc: '폐단, 해, 부정행위'
+    str: 14
   '蔽':
     val: '폐'
-    desc: [ '덮을','은폐' ]
-    stroke: 15
-    originStroke: 17
+    desc: '덮을, 은폐'
+    str: 15
+    oStr: 17
   '幣':
     val: '폐'
-    desc: [ '화폐' ]
-    stroke: 14
+    desc: '화폐'
+    str: 14
     tag: [40]
   '陛':
     val: '폐'
-    desc: [ '대궐 섬돌 폐','폐하' ]
-    stroke: 10
-    originStroke: 15
+    desc: '대궐 섬돌 폐'
+    ex: '폐하(陛下)'
+    str: 10
+    oStr: 15
   '布':
     val: '포'
-    desc: [ '베' ]
-    stroke: 5
+    desc: '베, 펴다, 벌이다'
+    ex: '배포, 살포, 포고'
+    str: 5
   '抱':
     val: '포'
-    desc: [ '안을' ]
-    stroke: 8
-    originStroke: 9
+    desc: '안을'
+    ex: '포옹, 포부, 회포'
+    str: 8
+    oStr: 9
     tag: [115]
   '包':
     val: '포'
-    desc: [ '쌀','포장' ]
-    stroke: 5
-    surname: true
+    desc: '쌀, 포장'
+    str: 5
+    fam: true
   '胞':
     val: '포'
-    desc: [ '세포' ]
-    stroke: 9
-    originStroke: 11
+    desc: '세포'
+    str: 9
+    oStr: 11
   '飽':
     val: '포'
-    desc: [ '배부를' ]
-    stroke: 13
+    desc: '배부를, 포만'
+    str: 13
     tag: [130]
   '浦':
     val: '포'
-    desc: [ '개','포구' ]
-    stroke: 10
-    originStroke: 11
+    desc: '개, 포구'
+    str: 10
+    oStr: 11
     tag: [310]
   '捕':
     val: '포'
-    desc: [ '잡을' ]
-    stroke: 10
-    originStroke: 11
+    desc: '잡을'
+    ex: '체포'
+    str: 10
+    oStr: 11
   '葡':
     val: '포'
-    desc: [ '포도' ]
-    stroke: 13
-    originStroke: 15
+    desc: '포도'
+    str: 13
+    oStr: 15
     tag: [300]
   '褒':
     val: '포'
-    desc: [ '기릴','포상' ]
-    stroke: 15
+    desc: '기릴, 칭찬하다, 크다'
+    ex: '포상(褒賞), 포폄(褒貶)'
+    str: 15
+    tag: [20]
   '砲':
     val: '포'
-    desc: [ '대포' ]
-    stroke: 10
+    desc: '대포, 포탄'
+    str: 10
     tag: [80]
   '鋪':
     val: '포'
-    desc: [ '펼','가게','점포' ]
-    stroke: 15
+    desc: '펼, 늘어놓다, 가게'
+    ex: '점포, 포장(鋪裝)도로'
+    str: 15
   '佈':
     val: '포'
-    desc: [ '펼','포고' ]
-    stroke: 7
+    desc: '펼'
+    ex: '포고'
+    str: 7
   '匍':
     val: '포'
-    desc: [ '기다','포복' ]
-    stroke: 9
+    desc: '길, 기어가다'
+    ex: '포복(匍匐)'
+    str: 9
+  '咆':
+    val: '포'
+    desc: '고함지를'
+    ex: '포효(咆哮)'
+    str: 8
   '怖':
     val: '포'
-    desc: [ '두려워할' ]
-    stroke: 8
-    originStroke: 9
+    desc: '두려워할, 공포'
+    str: 8
+    oStr: 9
   '泡':
     val: '포'
-    desc: [ '거품','포말' ]
-    stroke: 8
-    originStroke: 9
+    desc: '거품'
+    ex: '기포(氣泡), 포말'
+    str: 8
+    oStr: 9
   '脯':
     val: '포'
-    desc: [ '포','육포' ]
-    stroke: 11
-    originStroke: 13
+    desc: '포, 포를 뜨다'
+    ex: '육포'
+    str: 11
+    oStr: 13
   '蒲':
     val: '포'
-    desc: [ '부들','창포' ]
-    stroke: 14
-    originStroke: 16
+    desc: '부들, 창포'
+    str: 14
+    oStr: 16
     tag: [300]
+  '袍':
+    val: '포'
+    desc: '도포(道袍), 두루마기'
+    ex: '폐포파립(敝袍破笠)'
+    str: 10
+    oStr: 11
   '逋':
     val: '포'
-    desc: [ '도망갈','포탈' ]
-    stroke: 10
-    originStroke: 13
+    desc: '도망갈'
+    ex: '세금 포탈(逋脫)'
+    str: 10
+    oStr: 13
   '抛':
     val: '포'
-    desc: [ '던질','포기' ]
-    stroke: 7
-    originStroke: 8
+    desc: '던질'
+    ex: '포기, 포물선'
+    str: 7
+    oStr: 8
   '暴':
     val: '폭'
-    desc: [ '사나울' ]
-    stroke: 15
+    desc: '사나울'
+    ex: '폭력, 폭등'
+    str: 15
   '爆':
     val: '폭'
-    desc: [ '터질' ]
-    stroke: 19
+    desc: '터질, 폭발하다'
+    str: 19
     tag: [320]
   '幅':
     val: '폭'
-    desc: [ '폭','너비' ]
-    stroke: 12
+    desc: '폭, 너비'
+    str: 12
   '瀑':
     val: '폭'
-    desc: [ '폭포' ]
-    stroke: 18
-    originStroke: 19
+    desc: '폭포'
+    str: 18
+    oStr: 19
     tag: [310]
   '表':
     val: '표'
-    desc: [ '겉' ]
-    stroke: 8
-    surname: true
+    desc: '겉, 도표(圖表), 규범'
+    ex: '대표, 표현, 발표'
+    str: 8
+    fam: true
   '票':
     val: '표'
-    desc: [ '표' ]
-    stroke: 11
+    desc: '표'
+    ex: '투표, 우표'
+    str: 11
   '標':
     val: '표'
-    desc: [ '표시' ]
-    stroke: 15
-    surname: true
+    desc: '표할, 나타내다, 기록하다'
+    ex: '목표, 표준, 지표'
+    str: 15
+    fam: true
   '漂':
     val: '표'
-    desc: [ '떠다닐','표류' ]
-    stroke: 14
-    originStroke: 15
+    desc: '떠다닐, 표류'
+    str: 14
+    oStr: 15
   '豹':
     val: '표'
-    desc: [ '표범' ]
-    stroke: 10
+    desc: '표범'
+    str: 10
     tag: [200]
+  '剽':
+    val: '표'
+    desc: '겁박할, 도둑질하다'
+    ex: '표절(剽竊)'
+    str: 13
+  '慓':
+    val: '표'
+    desc: '급할, 날래다, 용맹하다'
+    ex: '표독(慓毒)스럽다'
+    str: 14
+    oStr: 15
+    tag: [80]
   '瓢':
     val: '표'
-    desc: [ '바가지' ]
-    stroke: 16
-    tag: [200]
+    desc: '바가지, 표주박'
+    ex: '단사표음(簞食瓢飮)'
+    str: 16
   '品':
     val: '품'
-    desc: [ '물건' ]
-    stroke: 9
+    desc: '물건'
+    ex: '상품(商品)'
+    str: 9
+  '稟':
+    val: '품'
+    desc: '여쭐, 바탕'
+    ex: '기품(氣稟), 성품(性稟)'
+    str: 13
   '風':
     val: '풍'
-    desc: [ '바람' ]
-    stroke: 9
+    desc: '바람'
+    str: 9
   '豐':
     val: '풍'
-    desc: [ '풍년' ]
-    stroke: 18
+    desc: '풍년'
+    str: 18
     tag: [130]
   '豊':
     val: '풍'
-    desc: [ '풍년' ]
-    stroke: 13
+    desc: '풍년, 풍성하다'
+    str: 13
     tag: [130]
   '諷':
     val: '풍'
-    desc: [ '풍자할' ]
-    stroke: 16
+    desc: '풍자할'
+    str: 16
     tag: [140]
   '馮':
     val: '풍'
-    desc: [ '성씨' ]
-    stroke: 12
-    surname: true
+    desc: '성씨'
+    str: 12
+    fam: true
   '楓':
     val: '풍'
-    desc: [ '단풍' ]
-    stroke: 13
+    desc: '단풍'
+    str: 13
     tag: [300]
   '皮':
     val: '피'
-    desc: [ '가죽','겉' ]
-    stroke: 5
-    surname: true
+    desc: '가죽, 겉'
+    str: 5
+    fam: true
   '彼':
     val: '피'
-    desc: [ '저','그' ]
-    stroke: 8
+    desc: '저, 그'
+    str: 8
   '疲':
     val: '피'
-    desc: [ '피곤할' ]
-    stroke: 10
+    desc: '피곤할'
+    str: 10
     tag: [360]
   '被':
     val: '피'
-    desc: [ '입을','당할' ]
-    stroke: 10
+    desc: '입을, 당할'
+    str: 10
+    oStr: 11
   '避':
     val: '피'
-    desc: [ '피할' ]
-    stroke: 16
-    originStroke: 19
+    desc: '피할'
+    str: 16
+    oStr: 19
   '披':
     val: '피'
-    desc: [ '펴다','열다' ]
-    stroke: 8
-    originStroke: 9
-  '腷':
-    val: '픽'
-    desc: [ '답답할','울적할' ]
-    stroke: 13
-    originStroke: 15
+    desc: '헤칠, 펴다, 열다'
+    ex: '피력(披瀝), 창피(猖披), 피로연(披露宴)'
+    str: 8
+    oStr: 9
   '必':
     val: '필'
-    desc: [ '반드시' ]
-    stroke: 5
+    desc: '반드시'
+    str: 5
   '匹':
     val: '필'
-    desc: [ '짝','배필' ]
-    stroke: 4
+    desc: '짝, 상대, 맞수, 마리(단위), 보통사람'
+    ex: '배필, 필적(匹敵), 필부(匹夫)'
+    str: 4
     tag: [115]
   '筆':
     val: '필'
-    desc: [ '붓' ]
-    stroke: 12
-    tag: [70]
+    desc: '붓'
+    str: 12
   '畢':
     val: '필'
-    desc: [ '마칠' ]
-    stroke: 11
+    desc: '마칠'
+    ex: '필경(畢竟), 검사필(檢査畢)'
+    str: 11
   '弼':
     val: '필'
-    desc: [ '도울' ]
-    stroke: 12
-    surname: true
+    desc: '도울, 보필하다'
+    str: 12
+    fam: true
   '乏':
     val: '핍'
-    desc: [ '모자랄' ]
-    stroke: 5
+    desc: '모자랄'
+    ex: '결핍, 궁핍'
+    str: 5
   '逼':
     val: '핍'
-    desc: [ '핍박할' ]
-    stroke: 12
-    originStroke: 15
+    desc: '핍박할'
+    str: 12
+    oStr: 15
   '下':
     val: '하'
-    desc: [ '아래' ]
-    stroke: 3
+    desc: '아래'
+    str: 3
     tag: [125]
   '夏':
     val: '하'
-    desc: [ '여름' ]
-    stroke: 10
-    surname: true
+    desc: '여름'
+    str: 10
+    fam: true
   '賀':
     val: '하'
-    desc: [ '하례할','축하' ]
-    stroke: 12
-    surname: true
+    desc: '하례할, 축하'
+    str: 12
+    fam: true
   '何':
     val: '하'
-    desc: [ '어찌','꾸짖을' ]
-    stroke: 7
-    surname: true
+    desc: '어찌, 꾸짖을'
+    str: 7
+    fam: true
   '河':
     val: '하'
-    desc: [ '물' ]
-    stroke: 8
-    originStroke: 9
+    desc: '물'
+    str: 8
+    oStr: 9
     tag: [310]
-    surname: true
+    fam: true
   '荷':
     val: '하'
-    desc: [ '메다','부담하다' ]
-    stroke: 11
-    originStroke: 13
+    desc: '메다, 부담하다'
+    ex: '과부하(過負荷), 저하(底荷)'
+    str: 11
+    oStr: 13
   '霞':
     val: '하'
-    desc: [ '노을' ]
-    stroke: 17
+    desc: '노을'
+    ex: '자하문(紫霞門)'
+    str: 17
+  '瑕':
+    val: '하'
+    desc: '허물, 티'
+    ex: '하자(瑕疵)'
+    str: 13
+    oStr: 14
+  '蝦':
+    val: '하'
+    desc: '새우, 두꺼비'
+    ex: '경전하사(鯨戰蝦死)'
+    str: 15
+    tag: [200]
   '鰕':
     val: '하'
-    desc: [ '새우' ]
-    stroke: 20
+    desc: '새우'
+    str: 20
     tag: [200]
+  '嚇':
+    val: '하'
+    desc: '웃음소리'
+    str: 17
+    tag: [150]
   '學':
     val: '학'
-    desc: [ '배울' ]
-    stroke: 16
+    desc: '배울'
+    str: 16
     tag: [70]
   '鶴':
     val: '학'
-    desc: [ '학','두루미' ]
-    stroke: 21
+    desc: '학, 두루미'
+    str: 21
     tag: [10,135,200]
   '虐':
     val: '학'
-    desc: [ '모질','학대' ]
-    stroke: 9
+    desc: '모질, 혹독하다'
+    ex: '학대, 학살'
+    str: 9
   '謔':
     val: '학'
-    desc: [ '희롱할','해학' ]
-    stroke: 16
+    desc: '희롱할'
+    ex: '해학(諧謔)'
+    str: 16
     tag: [150]
   '閑':
     val: '한'
-    desc: [ '한가할' ]
-    stroke: 12
+    desc: '한가할'
+    str: 12
     tag: [130]
   '寒':
     val: '한'
-    desc: [ '찰','추울' ]
-    stroke: 12
+    desc: '찰, 추울'
+    str: 12
   '恨':
     val: '한'
-    desc: [ '한','한탄' ]
-    stroke: 9
-    originStroke: 10
+    desc: '한, 한탄할'
+    str: 9
+    oStr: 10
   '限':
     val: '한'
-    desc: [ '한정할','한계' ]
-    stroke: 9
-    originStroke: 14
+    desc: '한정할, 경계'
+    ex: '제한, 한계, 권한'
+    str: 9
+    oStr: 14
   '韓':
     val: '한'
-    desc: [ '한국','나라' ]
-    stroke: 17
-    surname: true
+    desc: '한국, 나라'
+    ex: '한신(韓信)'
+    str: 17
+    fam: true
   '漢':
     val: '한'
-    desc: [ '한수','한나라' ]
-    stroke: 14
-    originStroke: 15
-    surname: true
+    desc: '한수, 한나라'
+    ex: '한강, 한자, 한라산, 문외한(門外漢)'
+    str: 14
+    oStr: 15
+    fam: true
   '旱':
     val: '한'
-    desc: [ '가물' ]
-    stroke: 7
+    desc: '가물'
+    ex: '한발(旱魃)'
+    str: 7
   '汗':
     val: '한'
-    desc: [ '땀' ]
-    stroke: 6
-    originStroke: 7
+    desc: '땀'
+    ex: '불한당(不汗黨)'
+    str: 6
+    oStr: 7
   '瀚':
     val: '한'
-    desc: [ '넓고 큰 모양' ]
-    stroke: 19
-    originStroke: 20
+    desc: '넓고 큰 모양'
+    str: 19
+    oStr: 20
     tag: [90]
   '翰':
     val: '한'
-    desc: [ '편지','서한' ]
-    stroke: 16
+    desc: '편지, 서한'
+    str: 16
   '閒':
     val: '한'
-    desc: [ '한가할' ]
-    stroke: 12
+    desc: '한가할'
+    str: 12
     tag: [130]
   '罕':
     val: '한'
-    desc: [ '드물' ]
-    stroke: 7
+    desc: '드물, 희소하다, 희한하다'
+    str: 7
   '僩':
     val: '한'
-    desc: [ '굳셀' ]
-    stroke: 14
+    desc: '굳셀'
+    str: 14
     tag: [80]
   '嫺':
     val: '한'
-    desc: [ '우아할' ]
-    stroke: 15
+    desc: '우아할'
+    str: 15
     tag: [10]
   '割':
     val: '할'
-    desc: [ '베다','자르다' ]
-    stroke: 12
+    desc: '벨, 가르다'
+    ex: '역할, 할당, 할인'
+    str: 12
   '咸':
     val: '함'
-    desc: [ '모두','짜다' ]
-    stroke: 9
-    surname: true
+    desc: '모두, 짤'
+    ex: '함양군(咸陽郡), 함흥차사(咸興差使)'
+    str: 9
+    fam: true
   '含':
     val: '함'
-    desc: [ '머금을','포함' ]
-    stroke: 7
+    desc: '머금을, 품다, 포함하다'
+    str: 7
   '陷':
     val: '함'
-    desc: [ '빠질','함정' ]
-    stroke: 11
-    originStroke: 16
+    desc: '빠질, 모함하다'
+    ex: '함정, 함락, 결함'
+    str: 11
+    oStr: 16
   '函':
     val: '함'
-    desc: [ '상자','함수' ]
-    stroke: 8
+    desc: '함, 상자'
+    ex: '함수, 함곡관(函谷關)'
+    str: 8
   '涵':
     val: '함'
-    desc: [ '젖을','함양' ]
-    stroke: 11
-    originStroke: 12
-    tag: [310]
+    desc: '젖을, 잠기다'
+    ex: '함양(涵養)'
+    str: 11
+    oStr: 12
   '艦':
     val: '함'
-    desc: [ '큰 배','함정' ]
-    stroke: 20
+    desc: '큰 배'
+    ex: '군함, 잠수함'
+    str: 20
+  '喊':
+    val: '함'
+    desc: '소리칠, 다물'
+    ex: '함성, 고함'
+    str: 20
   '緘':
     val: '함'
-    desc: [ '봉할','함구' ]
-    stroke: 15
+    desc: '봉할'
+    ex: '함구(緘口)'
+    str: 15
   '銜':
     val: '함'
-    desc: [ '재갈','직함','명함' ]
-    stroke: 14
+    desc: '재갈, 직함'
+    ex: '명함, 존함'
+    str: 14
   '合':
     val: '합'
-    desc: [ '합할' ]
-    stroke: 6
-    surname: true
+    desc: '합할'
+    str: 6
+    fam: true
   '盒':
     val: '합'
-    desc: [ '합(소반뚜껑)','찬합' ]
-    stroke: 11
+    desc: '합(소반뚜껑), 찬합'
+    str: 11
   '蛤':
     val: '합'
-    desc: [ '조개','대합조개' ]
-    stroke: 12
+    desc: '조개, 대합조개'
+    str: 12
     tag: [200]
   '恒':
     val: '항'
-    desc: [ '항상' ]
-    stroke: 9
-    originStroke: 10
+    desc: '항상'
+    str: 9
+    oStr: 10
   '巷':
     val: '항'
-    desc: [ '거리' ]
-    stroke: 9
+    desc: '거리'
+    ex: '항간(巷間)'
+    str: 9
   '港':
     val: '항'
-    desc: [ '항구' ]
-    stroke: 12
-    originStroke: 13
-    tag: [310]
+    desc: '항구'
+    str: 12
+    oStr: 13
   '項':
     val: '항'
-    desc: [ '항목' ]
-    stroke: 12
+    desc: '항목'
+    str: 12
   '抗':
     val: '항'
-    desc: [ '겨룰','저항' ]
-    stroke: 7
-    originStroke: 8
+    desc: '겨룰, 대항하다, 막다'
+    ex: '저항, 항의'
+    str: 7
+    oStr: 8
     tag: [80]
   '航':
     val: '항'
-    desc: [ '배','항해','항공' ]
-    stroke: 10
+    desc: '배'
+    ex: '항해(航海), 항공(航空)'
+    str: 10
   '亢':
     val: '항'
-    desc: [ '높을' ]
-    stroke: 4
+    desc: '높을'
+    ex: '항룡유회(亢龍有悔)'
+    str: 4
+    tag: [40]
   '沆':
     val: '항'
-    desc: [ '넓을' ]
-    stroke: 7
-    originStroke: 8
+    desc: '넓을'
+    str: 7
+    oStr: 8
     tag: [90]
   '姮':
     val: '항'
-    desc: [ '항아','어린 궁녀' ]
-    stroke: 9
+    desc: '항아, 어린 궁녀'
+    str: 9
     tag: [10]
   '缸':
     val: '항'
-    desc: [ '항아리' ]
-    stroke: 9
+    desc: '항아리'
+    str: 9
   '肛':
     val: '항'
-    desc: [ '항문' ]
-    stroke: 7
-    originStroke: 9
+    desc: '항문'
+    str: 7
+    oStr: 9
     tag: [350]
   '害':
     val: '해'
-    desc: [ '해할' ]
-    stroke: 10
+    desc: '해할'
+    str: 10
   '海':
     val: '해'
-    desc: [ '바다' ]
-    stroke: 10
-    originStroke: 11
+    desc: '바다'
+    str: 10
+    oStr: 11
     tag: [310]
-    surname: true
+    fam: true
   '亥':
     val: '해'
-    desc: [ '돼지' ]
-    stroke: 6
+    desc: '돼지'
+    str: 6
     tag: [200,400]
   '解':
     val: '해'
-    desc: [ '풀다','깨닫다' ]
-    stroke: 13
+    desc: '풀, 깨닫다, 분해하다'
+    str: 13
     tag: [70]
-    surname: true
+    fam: true
   '奚':
     val: '해'
-    desc: [ '어찌' ]
-    stroke: 10
+    desc: '어찌'
+    ex: '해금(奚琴)'
+    str: 10
   '該':
     val: '해'
-    desc: [ '갖출','마땅','해박' ]
-    stroke: 13
-    tag: [70]
+    desc: '갖출, 겸하다, 마땅'
+    ex: '해당, 해박'
+    str: 13
   '偕':
     val: '해'
-    desc: [ '함께','해로' ]
-    stroke: 11
+    desc: '함께'
+    ex: '백년해로(百年偕老)'
+    str: 11
     tag: [115]
+  '楷':
+    val: '해'
+    desc: '본보기, 바르다'
+    ex: '해서(楷書)'
+    str: 13
+    tag: [20,110]
   '獬':
     val: '해'
-    desc: [ '해태' ]
-    stroke: 16
-    originStroke: 17
+    desc: '해태(獬豸)'
+    str: 16
+    oStr: 17
     tag: [200]
   '諧':
     val: '해'
-    desc: [ '화해할' ]
-    stroke: 16
+    desc: '화할, 어울리다'
+    ex: '해학'
+    str: 16
+  '孩':
+    val: '해'
+    desc: '어린아이'
+    ex: '영해'
+    str: 9
+  '邂':
+    val: '해'
+    desc: '만날, 우연'
+    ex: '해후(邂逅)'
+    str: 16
+    oStr: 19
+  '駭':
+    val: '해'
+    desc: '놀랄, 소란스럽다'
+    ex: '해괴'
+    str: 16
+  '骸':
+    val: '해'
+    desc: '뼈'
+    ex: '유해'
+    str: 15
   '核':
     val: '핵'
-    desc: [ '씨' ]
-    stroke: 10
+    desc: '씨'
+    str: 10
   '劾':
     val: '핵'
-    desc: [ '꾸짖을','탄핵' ]
-    stroke: 8
+    desc: '꾸짖을, 캐묻다'
+    ex: '탄핵'
+    str: 8
     tag: [140]
   '幸':
     val: '행'
-    desc: [ '다행' ]
-    stroke: 8
+    desc: '다행'
+    str: 8
     tag: [50]
-    surname: true
+    fam: true
   '杏':
     val: '행'
-    desc: [ '살구' ]
-    stroke: 7
-    tag: [300]
+    desc: '살구'
+    ex: '행단(杏亶), 행인(杏仁)'
+    str: 7
+    tag: [70,300]
   '倖':
     val: '행'
-    desc: [ '요행','사랑하다' ]
-    stroke: 10
-    tag: [115]
+    desc: '요행, 사행(射倖)'
+    str: 10
+    tag: [50]
   '行':
     val: '행'
-    desc: [ '다닐' ]
-    stroke: 6
+    desc: '다닐'
+    str: 6
   '向':
     val: '향'
-    desc: [ '향할' ]
-    stroke: 6
+    desc: '향할'
+    str: 6
   '香':
     val: '향'
-    desc: [ '향기' ]
-    stroke: 9
-    surname: true
+    desc: '향기'
+    str: 9
+    fam: true
   '鄕':
     val: '향'
-    desc: [ '시골' ]
-    stroke: 13
-    originStroke: 17
+    desc: '시골'
+    str: 13
+    oStr: 17
     tag: [115]
-    surname: true
+    fam: true
   '響':
     val: '향'
-    desc: [ '울릴','음향' ]
-    stroke: 21
-    tag: [155]
+    desc: '울릴, 음향'
+    str: 21
   '享':
     val: '향'
-    desc: [ '누릴' ]
-    stroke: 8
+    desc: '누릴'
+    ex: '향락(享樂), 향년(享年)'
+    str: 8
   '虛':
     val: '허'
-    desc: [ '빌' ]
-    stroke: 12
+    desc: '빌'
+    ex: '겸허(謙虛), 허구(虛構)'
+    str: 12
+    tag: [125]
   '許':
     val: '허'
-    desc: [ '허락할' ]
-    stroke: 11
-    surname: true
+    desc: '허락할'
+    str: 11
+    fam: true
   '墟':
     val: '허'
-    desc: [ '터','폐허' ]
-    stroke: 14
+    desc: '터'
+    ex: '폐허, 은허(殷墟)'
+    str: 14
     tag: [330]
   '軒':
     val: '헌'
-    desc: [ '집' ]
-    stroke: 10
+    desc: '집'
+    ex: '오죽헌(烏竹軒), 동헌(東軒)'
+    str: 10
   '憲':
     val: '헌'
-    desc: [ '법' ]
-    stroke: 16
+    desc: '법, 헌법'
+    str: 16
     tag: [140]
   '獻':
     val: '헌'
-    desc: [ '드릴' ]
-    stroke: 20
+    desc: '드릴'
+    ex: '헌혈, 공헌'
+    str: 20
     tag: [115,125]
   '歇':
     val: '헐'
-    desc: [ '쉴','간헐','싸다' ]
-    stroke: 13
+    desc: '쉴, 그치다, 싸다'
+    ex: '간헐, 헐값'
+    str: 13
     tag: [130]
   '險':
     val: '험'
-    desc: [ '험할' ]
-    stroke: 16
-    originStroke: 21
+    desc: '험할'
+    ex: '위험, 보험'
+    str: 16
+    oStr: 21
   '驗':
     val: '험'
-    desc: [ '시험' ]
-    stroke: 23
-  '嶮':
-    val: '험'
-    desc: [ '험할' ]
-    stroke: 16
+    desc: '시험'
+    str: 23
   '革':
     val: '혁'
-    desc: [ '가죽' ]
-    stroke: 9
+    desc: '가죽'
+    str: 9
   '赫':
     val: '혁'
-    desc: [ '빛날' ]
-    stroke: 14
+    desc: '빛날'
+    ex: '혁혁하다'
+    str: 14
     tag: [30]
-    surname: true
+    fam: true
   '現':
     val: '현'
-    desc: [ '나타날' ]
-    stroke: 11
+    desc: '나타날'
+    ex: '현재, 표현'
+    str: 11
   '賢':
     val: '현'
-    desc: [ '어질' ]
-    stroke: 15
+    desc: '어질, 현명할'
+    str: 15
     tag: [70]
   '玄':
     val: '현'
-    desc: [ '검을' ]
-    stroke: 5
+    desc: '검을, 심오하다'
+    ex: '현관(玄關), 현미(玄米), 현무암'
+    str: 5
     tag: [160]
-    surname: true
+    fam: true
   '絃':
     val: '현'
-    desc: [ '줄' ]
-    stroke: 11
+    desc: '줄'
+    ex: '현악기'
+    str: 11
   '縣':
     val: '현'
-    desc: [ '고을' ]
-    stroke: 16
+    desc: '고을'
+    str: 16
   '懸':
     val: '현'
-    desc: [ '달','현수막','현상금' ]
-    stroke: 20
-    surname: true
+    desc: '매달'
+    ex:'현수막, 현상금'
+    str: 20
+    fam: true
   '顯':
     val: '현'
-    desc: [ '나타날' ]
-    stroke: 23
+    desc: '나타날'
+    ex: '현저(顯著), 현미경'
+    str: 23
   '炫':
     val: '현'
-    desc: [ '밝을' ]
-    stroke: 9
+    desc: '밝을'
+    str: 9
     tag: [30]
   '玹':
     val: '현'
-    desc: [ '옥돌' ]
-    stroke: 9
-    originStroke: 10
+    desc: '옥돌'
+    str: 9
+    oStr: 10
     tag: [60]
   '血':
     val: '혈'
-    desc: [ '피' ]
-    stroke: 6
+    desc: '피'
+    str: 6
   '穴':
     val: '혈'
-    desc: [ '구멍' ]
-    stroke: 5
+    desc: '구멍'
+    ex: '혈거(穴居), 삼성혈(三姓穴)'
+    str: 5
   '孑':
     val: '혈'
-    desc: [ '외로울' ]
-    stroke: 3
+    desc: '외로울'
+    ex: '혈혈단신'
+    str: 3
   '頁':
     val: '혈'
-    desc: [ '머리' ]
-    stroke: 9
+    desc: '머리'
+    str: 9
   '協':
     val: '협'
-    desc: [ '화합할' ]
-    stroke: 8
+    desc: '화합할, 돕다'
+    ex: '협력'
+    str: 8
   '脅':
     val: '협'
-    desc: [ '위협할' ]
-    stroke: 10
-    originStroke: 12
+    desc: '위협할'
+    str: 10
+    oStr: 12
   '俠':
     val: '협'
-    desc: [ '의기로울' ]
-    stroke: 9
+    desc: '의기로울'
+    ex: '의협(義俠)'
+    str: 9
     tag: [110]
-    surname: true
+    fam: true
   '挾':
     val: '협'
-    desc: [ '낄','협공' ]
-    stroke: 10
-    originStroke: 11
+    desc: '낄'
+    ex: '협공(挾攻)'
+    str: 10
+    oStr: 11
   '狹':
     val: '협'
-    desc: [ '좁을' ]
-    stroke: 10
-    originStroke: 11
+    desc: '좁을'
+    ex: '협소(狹小), 편협(偏狹)'
+    str: 10
+    oStr: 11
   '峽':
     val: '협'
-    desc: [ '골짜기' ]
-    stroke: 10
-    tag: [330]
+    desc: '골짜기'
+    ex: '해협(海峽)'
+    str: 10
   '兄':
     val: '형'
-    desc: [ '형' ]
-    stroke: 5
+    desc: '형'
+    str: 5
     tag: [115]
   '刑':
     val: '형'
-    desc: [ '형벌' ]
-    stroke: 6
+    desc: '형벌'
+    str: 6
     tag: [140]
-    surname: true
+    fam: true
   '形':
     val: '형'
-    desc: [ '모양' ]
-    stroke: 7
+    desc: '모양'
+    ex: '형식, 형태'
+    str: 7
+  '型':
+    val: '형'
+    desc: '모형'
+    ex: '유형, 대형(大型), 전형적'
+    str: 9
+  '邢':
+    val: '형'
+    desc: '성씨'
+    str: 7
+    oStr: 11
+    fam: true
   '亨':
     val: '형'
-    desc: [ '형통할' ]
-    stroke: 7
+    desc: '형통할'
+    str: 7
   '螢':
     val: '형'
-    desc: [ '반딧불이' ]
-    stroke: 16
+    desc: '반딧불이'
+    ex: '형광, 형설지공(螢雪之功)'
+    str: 16
     tag: [200]
   '衡':
     val: '형'
-    desc: [ '저울대','형평','균형' ]
-    stroke: 16
+    desc: '저울대'
+    ex: '균형, 형평'
+    str: 16
     tag: [110]
-  '型':
-    val: '형'
-    desc: [ '모형' ]
-    stroke: 9
-  '邢':
-    val: '형'
-    desc: [ '성씨' ]
-    stroke: 7
-    originStroke: 11
-    surname: true
   '炯':
     val: '형'
     desc: [ '빛날' ]
-    stroke: 9
+    str: 9
     tag: [30]
   '荊':
     val: '형'
     desc: [ '가시나무','형극' ]
-    stroke: 10
-    originStroke: 12
+    str: 10
+    oStr: 12
     tag: [300]
-    surname: true
+    fam: true
   '惠':
     val: '혜'
-    desc: [ '은혜' ]
-    stroke: 12
+    desc: '은혜'
+    str: 12
     tag: [115]
   '慧':
     val: '혜'
-    desc: [ '슬기로울' ]
-    stroke: 15
+    desc: '슬기로울, 지혜'
+    str: 15
     tag: [70]
   '兮':
     val: '혜'
-    desc: [ '어조사' ]
-    stroke: 4
+    desc: '어조사, 감탄사'
+    str: 4
   '蕙':
     val: '혜'
-    desc: [ '풀이름','혜초' ]
-    stroke: 16
-    originStroke: 18
+    desc: '풀이름, 혜초'
+    str: 16
+    oStr: 18
     tag: [300]
   '醯':
     val: '혜'
-    desc: [ '식혜' ]
-    stroke: 19
+    desc: '식혜'
+    str: 19
   '鞋':
     val: '혜'
-    desc: [ '신','당혜' ]
-    stroke: 15
+    desc: '신'
+    ex: '당혜'
+    str: 15
   '戶':
     val: '호'
-    desc: [ '집' ]
-    stroke: 4
+    desc: '집'
+    str: 4
   '乎':
     val: '호'
-    desc: [ '어조사' ]
-    stroke: 5
+    desc: '어조사'
+    ex: '단호(斷乎)히'
+    str: 5
   '呼':
     val: '호'
-    desc: [ '부를' ]
-    stroke: 8
+    desc: '부를, 호흡할'
+    ex: '호소, 호응, 호칭'
+    str: 8
   '好':
     val: '호'
-    desc: [ '좋을' ]
-    stroke: 6
-    surname: true
+    desc: '좋을'
+    str: 6
+    fam: true
   '虎':
     val: '호'
-    desc: [ '범' ]
-    stroke: 8
+    desc: '범'
+    str: 8
     tag: [200]
   '號':
     val: '호'
-    desc: [ '이름','호칭' ]
-    stroke: 13
+    desc: '이름, 부르짖을'
+    ex: '기호, 번호'
+    str: 13
   '湖':
     val: '호'
-    desc: [ '호수' ]
-    stroke: 12
-    originStroke: 13
+    desc: '호수'
+    str: 12
+    oStr: 13
     tag: [310]
   '互':
     val: '호'
-    desc: [ '서로' ]
-    stroke: 4
+    desc: '서로'
+    str: 4
   '胡':
     val: '호'
-    desc: [ '오랑캐' ]
-    stroke: 9
-    originStroke: 11
-    surname: true
+    desc: '오랑캐, 되(단위)'
+    ex: '호도(胡桃), 호밀'
+    str: 9
+    oStr: 11
+    fam: true
   '浩':
     val: '호'
-    desc: [ '넓을' ]
-    stroke: 10
-    originStroke: 11
+    desc: '넓을'
+    ex: '호연지기(浩然之氣)'
+    str: 10
+    oStr: 11
     tag: [90]
   '毫':
     val: '호'
-    desc: [ '터럭' ]
-    stroke: 11
+    desc: '터럭'
+    ex: '추호(秋毫)'
+    str: 11
   '豪':
     val: '호'
-    desc: [ '호걸' ]
-    stroke: 14
-    tag: [20,90]
+    desc: '호걸, 귀인, 사치, 뛰어나다'
+    ex: '호화(豪華), 호사(豪奢)'
+    str: 14
+    tag: [20,40]
   '護':
     val: '호'
-    desc: [ '도울' ]
-    stroke: 21
-    tag: [115]
+    desc: '도울'
+    ex: '변호, 보호'
+    str: 21
   '晧':
     val: '호'
-    desc: [ '밝을' ]
-    stroke: 11
+    desc: '밝을'
+    str: 11
     tag: [30]
   '皓':
     val: '호'
-    desc: [ '희다','깨끗하다' ]
-    stroke: 12
+    desc: '희다, 깨끗하다'
+    ex: '단순호치(丹脣皓齒)'
+    str: 12
     tag: [100,160]
+  '昊':
+    val: '호'
+    desc: '하늘, 크다, 밝다'
+    str: 8
+    tag: [30,90]
   '濠':
     val: '호'
-    desc: [ '호주(오스트레일리아)' ]
-    stroke: 17
-    originStroke: 18
+    desc: '호주(오스트레일리아)'
+    str: 17
+    oStr: 18
   '琥':
     val: '호'
-    desc: [ '호박(보석)' ]
-    stroke: 12
-    originStroke: 13
+    desc: '호박(보석)'
+    str: 12
+    oStr: 13
     tag: [60]
   '瑚':
     val: '호'
-    desc: [ '산호' ]
-    stroke: 13
-    originStroke: 14
+    desc: '산호'
+    str: 13
+    oStr: 14
   '扈':
     val: '호'
-    desc: [ '따를','파랑새','발호' ]
-    stroke: 11
-    surname: true
+    desc: '따를, 퍼지다'
+    ex: '발호(跋扈)'
+    str: 11
+    fam: true
+  '鎬':
+    val: '호'
+    desc: '호경(鎬京), 빛나다'
+    str: 18
+    tag: [30]
+  '壕':
+    val: '호'
+    desc: '해자, 도랑'
+    ex: '참호(塹壕)'
+    str: 17
+  '壺':
+    val: '호'
+    desc: '병, 술병'
+    ex: '투호(投壺)'
+    str: 12
+  '滸':
+    val: '호'
+    desc: '물가'
+    ex: '수호지(水滸誌)'
+    str: 14
+    oStr: 15
+    tag: [310]
   '弧':
     val: '호'
-    desc: [ '활' ]
-    stroke: 8
+    desc: '활, 곡선, 휘다'
+    ex: '괄호(括弧), 원호(圓弧)'
+    str: 8
     tag: [80]
   '狐':
     val: '호'
-    desc: [ '여우' ]
-    stroke: 8
-    originStroke: 9
+    desc: '여우'
+    str: 8
+    oStr: 9
     tag: [200]
   '糊':
     val: '호'
-    desc: [ '풀칠할','죽' ]
-    stroke: 15
+    desc: '풀칠할, 죽'
+    ex: '호도(糊塗)하다, 모호, 호구지책'
+    str: 15
+  '縞':
+    val: '호'
+    desc: '명주, 고운빛깔, 흰빛'
+    ex: '호마노(縞瑪瑙), 간섭호(干涉縞), 빙호(氷縞)'
+    str: 15
+    tag: [10,30]
+  '葫':
+    val: '호'
+    desc: '마늘, 호로병'
+    str: 13
+    oStr: 15
+  '蝴':
+    val: '호'
+    desc: '나비'
+    ex: '호접몽(胡蝶夢)'
+    str: 15
+    tag: [200]
   '或':
     val: '혹'
-    desc: [ '혹시' ]
-    stroke: 8
+    desc: '혹시'
+    str: 8
   '惑':
     val: '혹'
-    desc: [ '미혹할' ]
-    stroke: 12
+    desc: '미혹할'
+    str: 12
   '酷':
     val: '혹'
-    desc: [ '심할' ]
-    stroke: 14
+    desc: '심할'
+    str: 14
   '婚':
     val: '혼'
-    desc: [ '혼인할' ]
-    stroke: 11
+    desc: '혼인할'
+    str: 11
     tag: [115]
   '混':
     val: '혼'
-    desc: [ '섞을','혼돈' ]
-    stroke: 11
+    desc: '섞을'
+    str: 11
   '昏':
     val: '혼'
-    desc: [ '어두울','황혼' ]
-    stroke: 8
+    desc: '어두울'
+    ex: '황혼'
+    str: 8
   '魂':
     val: '혼'
-    desc: [ '넋' ]
-    stroke: 13
+    desc: '넋'
+    str: 13
   '渾':
     val: '혼'
-    desc: [ '흐릴','온통' ]
-    stroke: 12
-    originStroke: 13
+    desc: '흐릴, 온통'
+    ex: '혼신(渾身), 혼연일체(渾然一體)'
+    str: 12
+    oStr: 13
+  '琿':
+    val: '혼'
+    desc: '아름다운 옥'
+    str: 13
+    oStr: 14
+    tag: [60]
   '忽':
     val: '홀'
-    desc: [ '갑자기','홀연' ]
-    stroke: 8
+    desc: '갑자기, 소홀하다'
+    ex: '홀연(忽然), 소홀(疏忽), 홀대(忽待)'
+    str: 8
   '惚':
     val: '홀'
-    desc: [ '황홀할' ]
-    stroke: 11
-    originStroke: 12
+    desc: '황홀할'
+    str: 11
+    oStr: 12
   '笏':
     val: '홀'
-    desc: [ '홀' ]
-    stroke: 10
+    desc: '홀'
+    str: 10
   '紅':
     val: '홍'
-    desc: [ '붉을' ]
-    stroke: 9
+    desc: '붉을'
+    str: 9
     tag: [160]
   '洪':
     val: '홍'
-    desc: [ '넓을','홍수' ]
-    stroke: 9
-    originStroke: 10
+    desc: '넓을'
+    ex: '홍수(洪水), 홍천군(洪川郡)'
+    str: 9
+    oStr: 10
     tag: [90]
-    surname: true
+    fam: true
   '弘':
     val: '홍'
-    desc: [ '클','넓을' ]
-    stroke: 5
+    desc: '클, 넓을'
+    ex: '홍보(弘報), 홍익인간'
+    str: 5
     tag: [90]
-    surname: true
+    fam: true
   '鴻':
     val: '홍'
-    desc: [ '기러기' ]
-    stroke: 17
-    tag: [200]
+    desc: '(큰)기러기, 넓다'
+    ex: '홍학(鴻學)'
+    str: 17
+    tag: [90,200]
+  '烘':
+    val: '홍'
+    desc: '화톳불'
+    str: 10
+    tag: [320]
+  '虹':
+    val: '홍'
+    desc: '무지개'
+    ex: '홍채(虹彩)'
+    str: 10
+    tag: [320]
   '哄':
     val: '홍'
-    desc: [ '떠들썩할' ]
-    stroke: 9
+    desc: '떠들썩할'
+    str: 9
+    tag: [150]
   '火':
     val: '화'
-    desc: [ '불' ]
-    stroke: 4
+    desc: '불'
+    str: 4
     tag: [320]
   '化':
     val: '화'
-    desc: [ '될' ]
-    stroke: 4
-    surname: true
+    desc: '될'
+    str: 4
+    fam: true
   '花':
     val: '화'
-    desc: [ '꽃' ]
-    stroke: 8
-    originStroke: 10
+    desc: '꽃'
+    str: 8
+    oStr: 10
     tag: [10,300]
-    surname: true
+    fam: true
   '貨':
     val: '화'
-    desc: [ '재물' ]
-    stroke: 11
+    desc: '재물'
+    str: 11
     tag: [40]
   '和':
     val: '화'
-    desc: [ '화할' ]
-    stroke: 8
+    desc: '화할'
+    str: 8
     tag: [115]
-    surname: true
+    fam: true
   '話':
     val: '화'
-    desc: [ '말씀' ]
-    stroke: 13
+    desc: '말씀'
+    str: 13
   '畫':
     val: '화'
-    desc: [ '그림' ]
-    stroke: 12
+    desc: '그림'
+    str: 12
     tag: [155]
   '華':
     val: '화'
-    desc: [ '빛날' ]
-    stroke: 11
-    originStroke: 13
+    desc: '빛날'
+    str: 11
+    oStr: 13
     tag: [20,30]
-    surname: true
+    fam: true
   '禾':
     val: '화'
-    desc: [ '벼' ]
-    stroke: 5
+    desc: '벼'
+    str: 5
     tag: [300]
   '禍':
     val: '화'
-    desc: [ '재앙' ]
-    stroke: 12
+    desc: '재앙'
+    str: 12
   '樺':
     val: '화'
-    desc: [ '벚나무','자작나무' ]
-    stroke: 15
+    desc: '벚나무, 자작나무'
+    str: 15
     tag: [300]
   '靴':
     val: '화'
-    desc: [ '신발' ]
-    stroke: 13
+    desc: '신발'
+    str: 13
   '確':
     val: '확'
-    desc: [ '굳을' ]
-    stroke: 15
+    desc: '굳을'
+    str: 15
   '穫':
     val: '확'
-    desc: [ '거둘' ]
-    stroke: 19
+    desc: '거둘'
+    ex: '수확'
+    str: 19
   '擴':
     val: '확'
-    desc: [ '넓힐' ]
-    stroke: 17
-    originStroke: 18
+    desc: '넓힐'
+    str: 17
+    oStr: 18
     tag: [90]
   '歡':
     val: '환'
-    desc: [ '기쁠' ]
-    stroke: 22
+    desc: '기쁠'
+    str: 22
     tag: [150]
   '患':
     val: '환'
-    desc: [ '근심' ]
-    stroke: 11
+    desc: '근심'
+    str: 11
   '丸':
     val: '환'
-    desc: [ '둥글' ]
-    stroke: 3
+    desc: '둥글'
+    str: 3
   '換':
     val: '환'
-    desc: [ '바꿀' ]
-    stroke: 12
-    originStroke: 13
+    desc: '바꿀'
+    ex: '교환'
+    str: 12
+    oStr: 13
   '環':
     val: '환'
-    desc: [ '고리' ]
-    stroke: 17
-    originStroke: 18
+    desc: '고리'
+    str: 17
+    oStr: 18
   '還':
     val: '환'
-    desc: [ '돌아올' ]
-    stroke: 16
-    originStroke: 19
+    desc: '돌아올'
+    str: 16
+    oStr: 19
   '喚':
     val: '환'
-    desc: [ '부를','소환' ]
-    stroke: 12
+    desc: '부를, 소환'
+    str: 12
   '奐':
     val: '환'
-    desc: [ '빛날' ]
-    stroke: 9
+    desc: '빛날'
+    str: 9
     tag: [30]
   '煥':
     val: '환'
-    desc: [ '불꽃','빛날' ]
-    stroke: 13
+    desc: '불꽃, 빛날'
+    ex: '민영환(閔泳煥), 전두환(全斗煥)'
+    str: 13
     tag: [30,320]
   '幻':
     val: '환'
-    desc: [ '헛보일','환영' ]
-    stroke: 4
+    desc: '헛보일'
+    ex: '환상'
+    str: 4
   '桓':
     val: '환'
-    desc: [ '굳셀','크다' ]
-    stroke: 10
+    desc: '굳셀, 크다'
+    ex: '환웅(桓雄)'
+    str: 10
     tag: [80,90]
-  '桓':
+    fam: true
+  '宦':
     val: '환'
-    desc: [ '굳셀','크다' ]
-    stroke: 10
-    tag: [90]
-    surname: true
+    desc: '벼슬, 내시, 환관'
+    str: 9
   '滑':
     val: '활'
-    desc: [ '미끄러울','윤활' ]
-    stroke: 12
-    originStroke: 13
+    desc: '미끄러울, 부드러울'
+    ex: '윤활, 원활'
+    str: 12
+    oStr: 13
   '活':
     val: '활'
-    desc: [ '살','생활' ]
-    stroke: 9
-    originStroke: 10
+    desc: '살, 생활'
+    str: 9
+    oStr: 10
   '闊':
     val: '활'
-    desc: [ '넓을' ]
-    stroke: 17
+    desc: '넓을'
+    ex: '활보(闊步), 활엽수'
+    str: 17
     tag: [90]
   '猾':
     val: '활'
-    desc: [ '교활할' ]
-    stroke: 12
-    originStroke: 13
+    desc: '교활할'
+    str: 12
+    oStr: 13
   '黃':
     val: '황'
-    desc: [ '누를' ]
-    stroke: 12
+    desc: '누를, 황색'
+    str: 12
     tag: [160]
-    surname: true
+    fam: true
   '皇':
     val: '황'
-    desc: [ '임금','황제' ]
-    stroke: 9
+    desc: '임금, 황제'
+    str: 9
     tag: [20,40]
-    surname: true
+    fam: true
   '況':
     val: '황'
-    desc: [ '상황' ]
-    stroke: 8
-    originStroke: 9
+    desc: '상황'
+    str: 8
+    oStr: 9
   '荒':
     val: '황'
-    desc: [ '거칠' ]
-    stroke: 10
-    originStroke: 12
+    desc: '거칠'
+    ex: '황무지, 황당'
+    str: 10
+    oStr: 12
   '凰':
     val: '황'
-    desc: [ '봉황(암컷)' ]
-    stroke: 11
+    desc: '봉황(암컷)'
+    str: 11
     tag: [20,40]
   '晃':
     val: '황'
-    desc: [ '밝을' ]
-    stroke: 10
+    desc: '밝을'
+    str: 10
     tag: [30]
   '滉':
     val: '황'
-    desc: [ '깊을' ]
-    stroke: 13
-    originStroke: 14
-    tag: [310]
+    desc: '물깊을'
+    ex: '이황(李滉)'
+    str: 13
+    oStr: 14
   '煌':
     val: '황'
-    desc: [ '빛날' ]
-    stroke: 13
-    tag: [30,320]
+    desc: '빛날'
+    ex: '휘황찬란'
+    str: 13
+  '璜':
+    val: '황'
+    desc: '패옥'
+    str: 15
+    oStr: 16
+    tag: [60]
   '徨':
     val: '황'
-    desc: [ '헤맬','방황' ]
-    stroke: 12
+    desc: '헤맬, 방황'
+    str: 12
   '恍':
     val: '황'
-    desc: [ '황홀할' ]
-    stroke: 9
-    originStroke: 10
+    desc: '황홀할'
+    str: 9
+    oStr: 10
   '惶':
     val: '황'
-    desc: [ '두려울','황송' ]
-    stroke: 12
-    originStroke: 13
+    desc: '두려울, 황송'
+    str: 12
+    oStr: 13
   '慌':
     val: '황'
-    desc: [ '어리둥절할','당황' ]
-    stroke: 13
-    originStroke: 14
+    desc: '어리둥절할, 당황'
+    ex: '공황(恐慌)'
+    str: 13
+    oStr: 14
+  '簧':
+    val: '황'
+    desc: '서, 피리'
+    ex: '생황(笙簧)'
+    str: 17
+    tag: [155]
+  '遑':
+    val: '황'
+    desc: '급할'
+    ex: '황급'
+    str: 12
+    oStr: 15
+  '隍':
+    val: '황'
+    desc: '해자'
+    ex: '성황당(城隍堂)'
+    str: 12
+    oStr: 17
+  '肓':
+    val: '황'
+    desc: '명치끝, 고황(膏肓)'
+    ex: '천석고황(泉石膏肓), 병입고환(病入膏肓)'
+    str: 7
+    oStr: 9
+    tag: [350]
   '回':
     val: '회'
-    desc: [ '돌아올' ]
-    stroke: 6
+    desc: '돌아올'
+    str: 6
   '會':
     val: '회'
-    desc: [ '모일' ]
-    stroke: 13
+    desc: '모일'
+    str: 13
     tag: [115]
   '悔':
     val: '회'
-    desc: [ '뉘우칠' ]
-    stroke: 10
-    originStroke: 11
+    desc: '뉘우칠'
+    ex: '후회'
+    str: 10
+    oStr: 11
   '懷':
     val: '회'
-    desc: [ '품을' ]
-    stroke: 19
-    originStroke: 20
+    desc: '품을'
+    ex: '회의적(懷疑), 회유(懷柔), 회귤(懷橘)'
+    str: 19
+    oStr: 20
   '廻':
     val: '회'
-    desc: [ '돌','선회' ]
-    stroke: 9
+    desc: '돌, 선회하다'
+    ex: '우회(迂廻), 순회'
+    str: 9
   '恢':
     val: '회'
-    desc: [ '넓을','회복할' ]
-    stroke: 9
-    originStroke: 10
+    desc: '넓을'
+    ex: '회복(恢復)'
+    str: 9
+    oStr: 10
     tag: [90]
+  '晦':
+    val: '회'
+    desc: '그믐, 어둠, 감추다'
+    str: 17
+    tag: [125]
   '檜':
     val: '회'
-    desc: [ '전나무' ]
-    stroke: 17
+    desc: '전나무'
+    str: 17
     tag: [300]
   '繪':
     val: '회'
-    desc: [ '그림','회화' ]
-    stroke: 19
+    desc: '그림, 회화'
+    str: 19
     tag: [155]
   '徊':
     val: '회'
-    desc: [ '머뭇거릴','배회' ]
-    stroke: 9
+    desc: '머뭇거릴, 배회하다'
+    str: 9
   '淮':
     val: '회'
-    desc: [ '물이름' ]
-    stroke: 11
-    originStroke: 12
+    desc: '물이름'
+    str: 11
+    oStr: 12
     tag: [310]
   '膾':
     val: '회'
-    desc: [ '회','얇게 썰다' ]
-    stroke: 17
-    originStroke: 19
+    desc: '회, 얇게 썰다'
+    ex: '회자(膾炙)'
+    str: 17
+    oStr: 19
+  '灰':
+    val: '회'
+    desc: '재, 석회, 회색'
+    str: 6
+    tag: [160]
   '獲':
     val: '획'
-    desc: [ '얻을','획득' ]
-    stroke: 17
-    originStroke: 18
+    desc: '얻을'
+    str: 17
+    oStr: 18
   '劃':
     val: '획'
-    desc: [ '그을' ]
-    stroke: 14
+    desc: '그을'
+    str: 14
   '橫':
     val: '횡'
-    desc: [ '가로' ]
-    stroke: 16
+    desc: '가로'
+    str: 16
   '孝':
     val: '효'
-    desc: [ '효도' ]
-    stroke: 7
-    surname: true
+    desc: '효도'
+    str: 7
+    fam: true
   '效':
     val: '효'
-    desc: [ '본받을','효과' ]
-    stroke: 10
+    desc: '본받을, 나타내다'
+    ex: '효과(效果), 효율(效率)'
+    str: 10
   '曉':
     val: '효'
-    desc: [ '새벽','깨닫다' ]
-    stroke: 16
+    desc: '새벽, 깨닫다'
+    ex: '효성(曉星), 원효(元曉)'
+    str: 16
     tag: [70]
   '爻':
     val: '효'
-    desc: [ '사귀다','괘' ]
-    stroke: 4
+    desc: '사귈, 괘이름'
+    str: 4
   '驍':
     val: '효'
-    desc: [ '날랠' ]
-    stroke: 22
+    desc: '날랠'
+    str: 22
     tag: [80]
   '哮':
     val: '효'
-    desc: [ '성낼','포효' ]
-    stroke: 10
-    tag: [80]
+    desc: '성낼'
+    ex: '포효(咆哮)'
+    str: 10
+  '梟':
+    val: '효'
+    desc: '올빼미, 매달다'
+    ex: '효수(梟首), 효시(梟示)'
+    str: 10
+  '肴':
+    val: '효'
+    desc: '안주'
+    ex: '진미가효(珍味佳肴)'
+    str: 8
+    oStr: 10
   '酵':
     val: '효'
-    desc: [ '삭힐','발효' ]
-    stroke: 14
+    desc: '삭힐, 발효'
+    str: 14
   '後':
     val: '후'
-    desc: [ '뒤' ]
-    stroke: 9
+    desc: '뒤'
+    str: 9
   '厚':
     val: '후'
-    desc: [ '두터울' ]
-    stroke: 9
+    desc: '두터울'
+    ex: '중후(重厚), 후안무치(厚顔無恥)'
+    str: 9
   '侯':
     val: '후'
-    desc: [ '제후' ]
-    stroke: 9
+    desc: '제후'
+    str: 9
   '候':
     val: '후'
-    desc: [ '기후','징후','후보' ]
-    stroke: 10
+    desc: '기후(氣候), 상황, 조짐'
+    ex: '후보(候補), 징후'
+    str: 10
   '后':
     val: '후'
-    desc: [ '왕후' ]
-    stroke: 6
+    desc: '뒤, 후비, 왕후'
+    str: 6
     tag: [20,40]
-    surname: true
+    fam: true
   '逅':
     val: '후'
-    desc: [ '만날' ]
-    stroke: 9
-    originStroke: 12
+    desc: '만날'
+    ex: '해후(邂逅)'
+    str: 9
+    oStr: 12
   '吼':
     val: '후'
-    desc: [ '울부짖을','사자후' ]
-    stroke: 7
+    desc: '울부짖을'
+    ex: '사자후'
+    str: 7
     tag: [80]
   '嗅':
     val: '후'
-    desc: [ '맡을','후각' ]
-    stroke: 13
+    desc: '맡을'
+    ex: '후각'
+    str: 13
   '朽':
     val: '후'
-    desc: [ '썩을','노쇠할','노후' ]
-    stroke: 6
+    desc: '썩을, 노쇠할'
+    ex: '불후, 노후'
+    str: 6
   '喉':
     val: '후'
-    desc: [ '목구멍' ]
-    stroke: 12
+    desc: '목구멍'
+    str: 12
     tag: [350]
   '訓':
     val: '훈'
-    desc: [ '가르칠' ]
-    stroke: 10
+    desc: '가르칠'
+    str: 10
     tag: [70]
   '勳':
     val: '훈'
-    desc: [ '공','훈장' ]
-    stroke: 16
+    desc: '공, 공로'
+    ex: '훈장'
+    str: 16
   '薰':
     val: '훈'
-    desc: [ '향초','훈훈할','훈풍' ]
-    stroke: 18
-    originStroke: 20
+    desc: '향초'
+    ex: '훈훈, 훈풍'
+    str: 18
+    oStr: 20
   '燻':
     val: '훈'
-    desc: [ '연기낄','훈증' ]
-    stroke: 18
+    desc: '연기낄'
+    ex: '훈증, 훈제'
+    str: 18
     tag: [320]
   '萱':
     val: '훤'
-    desc: [ '원추리' ]
-    stroke: 13
-    originStroke: 15
+    desc: '원추리'
+    ex: '견훤, 훤당(萱堂)'
+    str: 13
+    oStr: 15
     tag: [300]
+  '煊':
+    val: '훤'
+    desc: '마를, 빛날, 세차다'
+    str: 13
+    tag: [30,320]
   '毁':
     val: '훼'
-    desc: [ '헐','훼손' ]
-    stroke: 13
+    desc: '헐'
+    ex: '훼손, 폄훼, 훼방'
+    str: 13
   '揮':
     val: '휘'
-    desc: [ '휘두를' ]
-    stroke: 12
-    originStroke: 13
-    tag: [40]
+    desc: '휘두를, 뿌리다, 날아오르다'
+    ex: '지휘, 휘발유, 휘호(揮毫)'
+    str: 12
+    oStr: 13
   '輝':
     val: '휘'
-    desc: [ '빛날' ]
-    stroke: 15
+    desc: '빛날'
+    ex: '휘황찬란(輝煌燦爛)'
+    str: 15
     tag: [30]
   '彙':
     val: '휘'
-    desc: [ '무리','어휘' ]
-    stroke: 13
+    desc: '무리'
+    ex: '어휘, 만휘군상(萬彙群象)'
+    str: 13
   '徽':
     val: '휘'
-    desc: [ '아름다울' ]
-    stroke: 17
+    desc: '아름다울'
+    str: 17
     tag: [10]
   '休':
     val: '휴'
-    desc: [ '쉴' ]
-    stroke: 6
+    desc: '쉴'
+    str: 6
     tag: [130]
   '携':
     val: '휴'
-    desc: [ '이끌다','휴대' ]
-    stroke: 13
-    originStroke: 14
+    desc: '이끌, 휴대하다'
+    ex: '제휴, 휴대'
+    str: 13
+    oStr: 14
   '恤':
     val: '휼'
-    desc: [ '불쌍할' ]
-    stroke: 9
-    originStroke: 10
+    desc: '불쌍할'
+    ex: '구휼, 환난상휼'
+    str: 9
+    oStr: 10
   '凶':
     val: '흉'
-    desc: [ '흉할' ]
-    stroke: 4
+    desc: '흉할'
+    str: 4
   '胸':
     val: '흉'
-    desc: [ '가슴' ]
-    stroke: 10
-    originStroke: 12
+    desc: '가슴'
+    str: 10
+    oStr: 12
     tag: [350]
+  '兇':
+    val: '흉'
+    desc: '흉악할'
+    ex: '원흉'
+    str: 10
+  '匈':
+    val: '흉'
+    desc: '오랑캐, 흉노'
+    str: 6
+  '洶':
+    val: '흉'
+    desc: '용솟음칠, 혼란스럽다'
+    ex: '흉흉하다'
+    str: 6
   '欣':
     val: '흔'
-    desc: [ '기쁠','흔쾌' ]
-    stroke: 8
+    desc: '기쁠'
+    ex: '흔쾌'
+    str: 8
     tag: [150]
+  '昕':
+    val: '흔'
+    desc: '새벽'
+    str: 8
+  '痕':
+    val: '흔'
+    desc: '흔적'
+    str: 11
+  '屹':
+    val: '흘'
+    desc: '우뚝솟을'
+    str: 6
+    tag: [330]
   '吃':
     val: '흘'
-    desc: [ '말더듬을','머뭇거리다' ]
-    stroke: 6
+    desc: '말더듬을, 먹다'
+    ex: '흘수선(吃水線)'
+    str: 6
+  '訖':
+    val: '흘'
+    desc: '이를, 마치다'
+    str: 10
   '欽':
     val: '흠'
     desc: [ '공경할','흠모' ]
-    stroke: 12
+    str: 12
   '欠':
     val: '흠'
     desc: [ '하품' ]
-    stroke: 4
+    str: 4
   '歆':
     val: '흠'
     desc: [ '흠향할' ]
-    stroke: 13
+    str: 13
   '吸':
     val: '흡'
     desc: [ '마실' ]
-    stroke: 7
+    str: 7
   '洽':
     val: '흡'
     desc: [ '흡족할' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
   '恰':
     val: '흡'
     desc: [ '흡사할' ]
-    stroke: 9
-    originStroke: 10
+    str: 9
+    oStr: 10
   '希':
     val: '희'
     desc: [ '바랄' ]
-    stroke: 7
+    str: 7
   '喜':
     val: '희'
     desc: [ '기쁠' ]
-    stroke: 12
+    str: 12
     tag: [150]
-    surname: true
+    fam: true
   '稀':
     val: '희'
     desc: [ '드물' ]
-    stroke: 12
+    str: 12
     tag: [60]
   '詰':
     val: '힐'
     desc: [ '물을','힐문' ]
-    stroke: 13
+    str: 13
     tag: [140]
