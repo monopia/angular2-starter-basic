@@ -1,2371 +1,2811 @@
 hanjaMaster = 
   '家':
     val: '가'
-    desc: [ '집' ]
+    desc: '집'
     str: 10
     tag: [115]
-  '加':
-    val: '가'
-    desc: [ '더할' ]
-    str: 5
   '佳':
     val: '가'
-    desc: [ '아름다울' ]
+    desc: '아름다울'
+    ex: '가인박명, 점입가경'
     str: 8
-    tag: [ 10 ]
-  '嘉':
-    val: '가'
-    desc: [ '아름다울','기뻐할' ]
-    str: 14
-    tag: [10,150]
+    tag: [10]
   '街':
     val: '가'
-    desc: [ '거리' ]
+    desc: '거리'
     str: 12
-  '賈':
+  '可':
     val: '가'
-    desc: [ '값' ]
-    str: 13
-    tag: [ 40 ]
-    fam: true
+    desc: '옳을'
+    str: 5
+    tag: [110]
+  '歌':
+    val: '가'
+    desc: '노래'
+    str: 14
+    tag: [150,155]
+  '加':
+    val: '가'
+    desc: '더할'
+    str: 5
   '價':
     val: '가'
-    desc: [ '값' ]
+    desc: '값'
     str: 15
-    tag: [ 40 ]
+    tag: [40]
     fam: true
   '假':
     val: '가'
-    desc: [ '거짓','임시' ]
+    desc: '거짓, 임시'
     str: 11
-  '暇':
-    val: '가'
-    desc: [ '한가할' ]
-    str: 13
-    tag: [ 130 ]
-  '可':
-    val: '가'
-    desc: [ '옳을' ]
-    str: 5
-    tag: [ 110 ]
-  '哥':
-    val: '가'
-    desc: [ '성씨(낮춤말)' ]
-    str: 10
-  '歌':
-    val: '가'
-    desc: [ '노래' ]
-    str: 14
-    tag: [150,155]
-  '嫁':
-    val: '가'
-    desc: [ '시집갈' ]
-    str: 13
-    tag: [ 115 ]
-  '稼':
-    val: '가'
-    desc: [ '심을' ]
-    str: 15
-    tag: [120]
   '架':
     val: '가'
-    desc: [ '시렁','건너지르다' ]
+    desc: '시렁, 건너지르다'
+    ex: '가공(架空)의, 가교(架橋)'
     str: 9
+  '暇':
+    val: '가'
+    desc: '틈, 겨를'
+    ex: '한가, 휴가'
+    str: 13
+    tag: [130]
+  '嘉':
+    val: '가'
+    desc: '아름다울, 기뻐할'
+    ex: '가배절(嘉俳節)'
+    str: 14
+    tag: [10,150]
+  '嫁':
+    val: '가'
+    desc: '시집갈, 떠넘기다'
+    ex: '출가외인(出嫁外人), 전가(轉嫁)'
+    str: 13
+  '稼':
+    val: '가'
+    desc: '심을'
+    ex: '가동률(稼動率)'
+    str: 15
+    tag: [120]
+  '賈':
+    val: '가'
+    desc: '값'
+    str: 13
+    tag: [40]
+    fam: true
   '駕':
     val: '가'
-    desc: [ '멍에','능가할' ]
+    desc: '멍에, 탈것'
+    ex: '능가(凌駕), 가락국(駕洛國)'
     str: 15
-    tag: [ 120 ]
   '伽':
     val: '가'
-    desc: [ '절(寺)','가야(伽倻)' ]
+    desc: '절(寺), 가야(伽倻)'
+    ex: '가람(伽藍)'
     str: 7
     tag: [500]
   '迦':
     val: '가'
-    desc: [ '부처이름' ]
+    desc: '부처이름'
+    ex: '석가모니(釋迦牟尼)'
     str: 9
     oStr: 12
-    tag: [ 500 ]
-  '袈':
-    val: '가'
-    desc: [ '가사(승려가 입는 법의)' ]
-    str: 11
-    tag: [ 500 ]
-  '哿':
-    val: '가'
-    desc: [ '옳을' ]
-    str: 10
-    tag: [ 110 ]
-  '檟':
-    val: '가'
-    desc: [ '개오동나무' ]
-    str: 17
-    tag: [ 300 ]
-  '葭':
-    val: '가'
-    desc: [ '갈대' ]
-    str: 13
-    oStr: 15
-    tag: [ 300 ]
-  '謌':
-    val: '가'
-    desc: [ '노래' ]
-    str: 17
-    tag: [150,155]
+    tag: [500]
   '柯':
     val: '가'
-    desc: [ '가지','모밀잣밤나무' ]
+    desc: '가지, 줄기'
+    ex: '남가일몽(南柯一夢)'
     str: 9
     tag: [ 300 ]
   '呵':
     val: '가'
-    desc: [ '꾸짖을','껄껄 웃을' ]
+    desc: '꾸짖을, 껄껄 웃을'
     str: 8
-    tag: [ 140 ]
-  '訶':
+  '哥':
     val: '가'
-    desc: [ '꾸짖을' ]
-    str: 12
-    tag: [ 140 ]
+    desc: '성씨(낮춤말)'
+    str: 10
   '珂':
     val: '가'
-    desc: [ '마노','흰 옥돌' ]
+    desc: '마노, 흰 옥돌'
     str: 9
     oStr: 10
-    tag: [ 60 ]
+    tag: [60]
   '苛':
     val: '가'
-    desc: [ '가혹할','옴' ]
+    desc: '가혹할'
+    ex: '가렴주구(苛斂誅求), 가정맹어호(苛政猛於虎)'
     str: 9
     oStr: 11
-  '榎':
+  '袈':
     val: '가'
-    desc: [ '개오동나무','팽나무' ]
-    str: 14
-    tag: [ 300 ]
+    desc: '가사(袈裟)'
+    str: 11
+    tag: [500]
+  '跏':
+    val: '가'
+    desc: '책상다리할'
+    ex: '가부좌(跏趺坐)'
+    str: 12
+  '檟':
+    val: '가'
+    desc: '개오동나무'
+    str: 17
+    tag: [300]
+  '葭':
+    val: '가'
+    desc: '갈대'
+    str: 13
+    oStr: 15
+    tag: [300]
   '各':
     val: '각'
-    desc: [ '각각' ]
+    desc: '각각'
     str: 6
-  '閣':
-    val: '각'
-    desc: [ '집' ]
-    str: 14
-    tag: [ 115 ]
   '角':
     val: '각'
-    desc: [ '뿔' ]
+    desc: '뿔'
     str: 7
   '脚':
     val: '각'
-    desc: [ '다리' ]
+    desc: '다리'
     str: 11
     oStr: 13
-    tag: [ 350 ]
+    tag: [350]
+  '閣':
+    val: '각'
+    desc: '집'
+    str: 14
   '却':
     val: '각'
-    desc: [ '물리칠' ]
+    desc: '물리칠'
+    ex: '기각, 소각'
     str: 7
   '覺':
     val: '각'
-    desc: [ '깨달을' ]
+    desc: '깨달을'
+    ex: '시각, 각오, 각성'
     str: 20
-    tag: [ 70 ]
+    tag: [70]
   '刻':
     val: '각'
-    desc: [ '새길' ]
+    desc: '새길'
+    ex: '각인, 즉각, 심각'
     str: 8
   '恪':
     val: '각'
-    desc: [ '삼갈' ]
+    desc: '삼갈, 공경하다'
     str: 9
     oStr: 10
+    tag: [125]
   '殼':
     val: '각'
-    desc: [ '껍질','내려칠' ]
+    desc: '껍질'
+    ex: '지각(地殼), 갑각류'
     str: 12
   '慤':
     val: '각'
-    desc: [ '성실할' ]
+    desc: '성실할, 삼가다'
     str: 15
-    tag: [ 120 ]
+    tag: [120,125]
   '干':
     val: '간'
-    desc: [ '방패','줄기' ]
+    desc: '방패, 줄기'
     str: 3
     fam: true
   '間':
     val: '간'
-    desc: [ '사이' ]
+    desc: '사이'
     str: 12
   '看':
     val: '간'
-    desc: [ '볼' ]
+    desc: '볼'
     str: 9
   '刊':
     val: '간'
-    desc: [ '새길' ]
+    desc: '새길, 책을 펴내다'
+    ex: '간행'
     str: 5
   '肝':
     val: '간'
-    desc: [ '간' ]
+    desc: '간'
     str: 7
     oStr: 9
-    tag: [ 350 ]
+    tag: [350]
   '幹':
     val: '간'
-    desc: [ '줄기' ]
+    desc: '줄기'
+    ex: '간부, 근간'
     str: 13
-  '榦':
-    val: '간'
-    desc: [ '줄기' ]
-    str: 14
   '簡':
     val: '간'
-    desc: [ '대쪽','간략할' ]
+    desc: '대쪽, 간략할'
+    ex: '간단'
     str: 13
     fam: true
   '姦':
     val: '간'
-    desc: [ '간음할' ]
+    desc: '간음할'
     str: 9
   '懇':
     val: '간'
-    desc: [ '간절할' ]
+    desc: '간절할'
     str: 17
   '艮':
     val: '간'
-    desc: [ '괘이름','그칠' ]
+    desc: '괘이름, 그칠'
     str: 6
   '侃':
     val: '간'
-    desc: [ '굳셀' ]
+    desc: '굳셀'
     str: 8
-    tag: [ 80 ]
-  '偘':
-    val: '간'
-    desc: [ '굳셀' ]
-    str: 11
-    tag: [ 80 ]
+    tag: [80]
   '杆':
     val: '간'
-    desc: [ '몽둥이','박달나무' ]
+    desc: '몽둥이, 난간'
+    ex: '간상세포'
     str: 8
-    tag: [ 300 ]
   '竿':
     val: '간'
-    desc: [ '낚싯대' ]
+    desc: '낚싯대, 장대'
+    ex: '백척간두'
     str: 9
     fam: true
   '揀':
     val: '간'
-    desc: [ '가릴','분간' ]
+    desc: '가릴, 분간하다'
+    ex: '간택'
     str: 12
     oStr: 13
-  '柬':
-    val: '간'
-    desc: [ '고를','간략할' ]
-    str: 9
   '諫':
     val: '간'
-    desc: [ '간할' ]
+    desc: '간할'
     str: 16
   '墾':
     val: '간'
-    desc: [ '개간할' ]
+    desc: '개간할'
     str: 16
-    tag: [ 120 ]
+    tag: [120]
   '奸':
     val: '간'
-    desc: [ '간사할' ]
+    desc: '간사할'
     str: 6
+  '柬':
+    val: '간'
+    desc: '고를, 간략할'
+    str: 9
   '澗':
     val: '간'
-    desc: [ '산골 물' ]
+    desc: '산골 물'
     str: 15
-    tag: [ 310 ]
+    tag: [310]
   '艱':
     val: '간'
-    desc: [ '어려울','간난' ]
+    desc: '어려울, 간난'
     str: 17
   '茛':
     val: '간'
-    desc: [ '미나리아재비' ]
+    desc: '미나리아재비'
     str: 10
     oStr: 12
-    tag: [ 300 ]
-  '桿':
-    val: '간'
-    desc: [ '난간' ]
-    str: 11
+    tag: [300]
   '渴':
     val: '갈'
-    desc: [ '목마를' ]
+    desc: '목마를'
+    ex: '갈증, 갈망'
     str: 12
-    tag: [ 320 ]
   '葛':
     val: '갈'
-    desc: [ '칡' ]
+    desc: '칡'
+    ex: '제갈량(諸葛亮), 갈등(葛藤)'
     str: 13
     oStr: 15
-    tag: [ 300 ]
+    tag: [300]
     fam: true
   '乫':
     val: '갈'
-    desc: [ '땅이름' ]
+    desc: '땅이름'
     str: 6
     fam: true
   '喝':
     val: '갈'
-    desc: [ '꾸짖을' ]
+    desc: '꾸짖을, 위협하다, 외치다'
+    ex: '공갈, 갈취, 갈채'
     str: 12
   '褐':
     val: '갈'
-    desc: [ '갈색' ]
+    desc: '갈색'
     str: 14
     oStr: 15
-    tag: [ 160 ]
+    tag: [160]
   '蝎':
     val: '갈'
-    desc: [ '전갈' ]
+    desc: '전갈'
     str: 15
-    tag: [ 200 ]
+    tag: [200]
   '鞨':
     val: '갈'
-    desc: [ '말갈' ]
+    desc: '말갈'
     str: 18
   '甘':
     val: '감'
-    desc: [ '달다' ]
+    desc: '달'
+    ex: '감수(甘受), 고진감래(苦盡甘來)'
     str: 5
     fam: true
   '減':
     val: '감'
-    desc: [ '덜' ]
+    desc: '덜'
+    ex: '감소'
     str: 12
     oStr: 13
   '感':
     val: '감'
-    desc: [ '느낄' ]
+    desc: '느낄'
     str: 13
   '敢':
     val: '감'
-    desc: [ '감히' ]
+    desc: '감히'
     str: 12
   '監':
     val: '감'
-    desc: [ '볼','감시' ]
+    desc: '볼'
+    ex: '감시,감독,감옥'
     str: 14
   '鑑':
     val: '감'
-    desc: [ '거울','살펴볼','감상' ]
+    desc: '거울, 살펴볼'
+    ex: '감상, 귀감'
     str: 22
   '勘':
     val: '감'
-    desc: [ '헤아릴','감안하다' ]
+    desc: '헤아릴'
+    ex: '감안하다'
     str: 11
-    tag: [ 70 ]
   '堪':
     val: '감'
-    desc: [ '견딜','감당' ]
+    desc: '견딜'
+    ex: '감당'
     str: 12
-    tag: [ 80 ]
   '瞰':
     val: '감'
-    desc: [ '굽어볼','조감' ]
+    desc: '굽어볼'
+    ex: '조감도'
     str: 16
   '坎':
     val: '감'
-    desc: [ '구덩이','감 괘' ]
+    desc: '구덩이, 감 괘'
     str: 7
+  '嵌':
+    val: '감'
+    desc: '산골짜기, 새겨넣다'
+    ex: '상감(象嵌)'
+    str: 12
   '憾':
     val: '감'
-    desc: [ '섭섭할','유감' ]
+    desc: '섭섭할'
+    ex: '유감(遺憾)'
     str: 16
     oStr: 17
   '戡':
     val: '감'
-    desc: [ '이길' ]
+    desc: '이길, 승리'
     str: 13
-    tag: [ 45 ]
+    tag: [45]
   '柑':
     val: '감'
-    desc: [ '귤' ]
+    desc: '귤'
     str: 9
-    tag: [ 300 ]
+    tag: [300]
   '橄':
     val: '감'
-    desc: [ '감람나무' ]
+    desc: '감람나무'
     str: 16
-    tag: [ 300 ]
+    tag: [300]
   '紺':
     val: '감'
-    desc: [ '감색','연보라' ]
+    desc: '감색, 연보라'
     str: 11
-    tag: [ 160 ]
+    tag: [160]
+  '龕':
+    val: '감'
+    desc: '감실(龕室)'
+    str: 22
+    tag: [500]
   '泔':
     val: '감'
-    desc: [ '뜨물' ]
+    desc: '뜨물'
     str: 8
     oStr: 9
-    tag: [ 310 ]
+    tag: [310]
   '甲':
     val: '갑'
-    desc: [ '갑옷','첫째 천간' ]
+    desc: '갑옷, 첫째 천간'
     str: 5
-    tag: [ 400 ]
+    tag: [400]
   '鉀':
     val: '갑'
-    desc: [ '갑옷' ]
+    desc: '갑옷'
     str: 5
-    tag: [ 80 ]
+    tag: [80]
   '匣':
     val: '갑'
-    desc: [ '갑','장갑','지갑' ]
+    desc: '갑(작은상자)'
+    ex: '장갑, 지갑'
     str: 7
   '岬':
     val: '갑'
-    desc: [ '곶' ]
+    desc: '곶'
     str: 8
-    tag: [ 330 ]
   '胛':
     val: '갑'
-    desc: [ '어깨뼈' ]
+    desc: '어깨뼈'
+    ex: '견갑골(肩胛骨)'
     str: 9
     oStr: 11
-    tag: [ 350 ]
+    tag: [350]
   '閘':
     val: '갑'
-    desc: [ '수문' ]
+    desc: '수문, 갑문'
     str: 13
   '江':
     val: '강'
-    desc: [ '강' ]
+    desc: '강'
     str: 6
     oStr: 7
-    tag: [ 310 ]
+    tag: [310]
     fam: true
   '降':
     val: '강'
-    desc: [ '내릴' ]
+    desc: '내릴'
     str: 9
     oStr: 14
   '講':
     val: '강'
-    desc: [ '외울' ]
+    desc: '외울'
+    ex: '강의'
     str: 17
-    tag: [ 70 ]
+    tag: [70]
   '強':
     val: '강'
-    desc: [ '강할' ]
+    desc: '강할'
     str: 11
-    tag: [ 80 ]
+    tag: [80]
     fam: true
   '强':
     val: '강'
-    desc: [ '강할' ]
+    desc: '강할'
     str: 12
-    tag: [ 80 ]
+    tag: [80]
   '康':
     val: '강'
-    desc: [ '편안할','건강' ]
+    desc: '편안할'
+    ex: '건강'
     str: 11
-    tag: [ 130 ]
+    tag: [130]
     fam: true
   '剛':
     val: '강'
-    desc: [ '굳셀' ]
+    desc: '굳셀'
+    ex: '금강산(金剛山), 외유내강(外柔內剛)'
     str: 10
-    tag: [ 80 ]
+    tag: [80]
   '彊':
     val: '강'
-    desc: [ '굳셀' ]
+    desc: '굳셀'
+    ex: '강구(彊求)'
     str: 16
-    tag: [ 80 ]
+    tag: [80]
   '鋼':
     val: '강'
-    desc: [ '강철' ]
+    desc: '강철'
     str: 16
-    tag: [ 80,340 ]
+    tag: [80,340]
   '綱':
     val: '강'
-    desc: [ '벼리','기강' ]
+    desc: '벼리'
+    ex: '기강, 삼강오륜'
     str: 14
     tag: [140]
-  '杠':
-    val: '강'
-    desc: [ '외나무다리' ]
-    str: 7
   '姜':
     val: '강'
-    desc: [ '성씨','생강' ]
+    desc: '성씨, 생강'
     str: 9
     fam: true
   '橿':
     val: '강'
-    desc: [ '감탕나무','박달나무' ]
+    desc: '감탕나무, 박달나무'
     str: 17
-    tag: [ 300 ]
+    tag: [300]
   '慷':
     val: '강'
-    desc: [ '슬플','강개' ]
+    desc: '슬플'
+    ex: '비분강개(悲憤慷慨)'
     str: 14
     oStr: 15
+  '疆':
+    val: '강'
+    desc: '지경, 한계'
+    ex: '만수무강(萬壽無疆)'
+    str: 19
   '糠':
     val: '강'
-    desc: [ '겨','조강지처' ]
+    desc: '겨, 작은것'
+    ex: '조강지처(糟糠之妻), 강하(糠蝦)'
     str: 17
   '絳':
     val: '강'
-    desc: [ '진홍' ]
+    desc: '진홍, 짙은 붉은색'
     str: 12
-    tag: [ 160 ]
+    tag: [160]
+  '羌':
+    val: '강'
+    desc: '오랑캐, 강족'
+    str: 7
+  '腔':
+    val: '강'
+    desc: '속 빌'
+    ex: '복강, 강장동물(腔腸動物)'
+    str: 12
+    oStr: 14
   '薑':
     val: '강'
-    desc: [ '생강' ]
+    desc: '생강(生薑)'
     str: 17
     oStr: 19
-    tag: [ 300 ]
+    tag: [300]
+  '鱇':
+    val: '강'
+    desc: '아귀'
+    str: 22
+    tag: [200]
+  '僵':
+    val: '강'
+    desc: '넘어질'
+    ex: '강시(僵屍)'
+    str: 15
   '罡':
     val: '강'
-    desc: [ '북두칠성' ]
+    desc: '북두칠성'
     str: 10
-    tag: [ 370 ]
+    tag: [370]
   '改':
     val: '개'
-    desc: [ '고칠' ]
+    desc: '고칠'
     str: 7
   '皆':
     val: '개'
-    desc: [ '다' ]
+    desc: '다, 모두'
     str: 9
   '個':
     val: '개'
-    desc: [ '낱' ]
+    desc: '낱'
     str: 10
   '開':
     val: '개'
-    desc: [ '열다' ]
+    desc: '열, 열리다'
     str: 12
   '介':
     val: '개'
-    desc: [ '낄','소개','중개' ]
+    desc: '낄, 소개하다'
     str: 4
     fam: true
   '慨':
     val: '개'
-    desc: [ '슬퍼할','분개','개탄' ]
+    desc: '슬퍼할'
+    ex: '분개, 개탄'
     str: 14
     oStr: 15
   '槪':
     val: '개'
-    desc: [ '대개' ]
+    desc: '대개, 절개'
+    ex: '개념'
     str: 15
   '蓋':
     val: '개'
-    desc: [ '덮을' ]
+    desc: '덮을'
+    ex: '복개(覆蓋), 개연성, 슬개골'
     str: 14
     oStr: 16
     fam: true
   '凱':
     val: '개'
-    desc: [ '이길','개선할' ]
+    desc: '이길, 개선할'
     str: 12
-    tag: [ 45 ]
-  '愷':
-    val: '개'
-    desc: [ '편안할' ]
-    str: 13
-    oStr: 14
-    tag: [ 150 ]
+    tag: [45]
   '漑':
     val: '개'
-    desc: [ '물댈','관개' ]
+    desc: '물댈, 관개'
     str: 14
     oStr: 15
-    tag: [ 310 ]
+    tag: [310]
   '塏':
     val: '개'
-    desc: [ '높은땅' ]
+    desc: '높은땅'
+    ex: '이개(李塏)'
     str: 13
-    tag: [ 330 ]
+    tag: [330]
   '愾':
     val: '개'
-    desc: [ '성낼','적개심' ]
+    desc: '성낼'
+    ex: '적개심'
     str: 13
     oStr: 14
   '芥':
     val: '개'
-    desc: [ '겨자' ]
+    desc: '겨자'
     str: 8
     oStr: 10
-    tag: [ 300 ]
+    tag: [300]
   '豈':
     val: '개'
-    desc: [ '승전악' ]
+    desc: '승전악'
     str: 10
-    tag: [ 45 ]
+    tag: [45]
   '客':
     val: '객'
-    desc: [ '손' ]
+    desc: '손'
     str: 9
-    tag: [ 115 ]
   '坑':
     val: '갱'
-    desc: [ '구덩이','묻을' ]
+    desc: '구덩이, 묻을'
+    ex: '분서갱유'
     str: 7
-    tag: [ 330 ]
   '更':
     val: '갱'
-    desc: [ '고칠' ]
+    desc: '다시'
+    ex: '갱생'
     str: 13
   '醵':
     val: '갹'
-    desc: [ '추렴할','갹출' ]
+    desc: '추렴할, 갹출'
     str: 20
   '去':
     val: '거'
-    desc: [ '갈' ]
+    desc: '갈'
+    ex: '과거, 거래, 거취'
     str: 5
   '巨':
     val: '거'
-    desc: [ '클' ]
+    desc: '클'
+    ex: '거인'
     str: 5
-    tag: [ 50 ]
+    tag: [50]
   '居':
     val: '거'
-    desc: [ '살','주거' ]
+    desc: '살'
+    ex: '주거지'
     str: 8
   '擧':
     val: '거'
-    desc: [ '들다','선거' ]
+    desc: '들다'
+    ex: '선거, 과거(科擧)'
     str: 18
   '距':
     val: '거'
-    desc: [ '떨어져있을','(떨어진) 거리' ]
+    desc: '상거할'
+    ex: '장거리, 단거리'
     str: 12
   '拒':
     val: '거'
-    desc: [ '막을','거부' ]
+    desc: '막을'
+    ex: '거절, 거부'
     str: 8
-  '據':
-    val: '거'
-    desc: [ '근거' ]
-    str: 16
-    oStr: 17
   '倨':
     val: '거'
-    desc: [ '거만할' ]
+    desc: '거만할'
     str: 10
   '据':
     val: '거'
-    desc: [ '의지할','거치' ]
+    desc: '근거, 의지할'
+    ex: '거치'
     str: 11
     oStr: 12
+  '鋸':
+    val: '거'
+    desc: '톱'
+    str: 16
+  '莒':
+    val: '거'
+    desc: '감자'
+    str: 10
+    oStr: 12
+    tag: [300]
   '車':
     val: '거'
-    desc: [ '수레' ]
+    desc: '수레 (cf:차)'
     str: 7
   '建':
     val: '건'
-    desc: [ '세울' ]
+    desc: '세울'
+    ex: '건물, 건축'
     str: 9
-    tag: [ 120 ]
+    tag: [120]
   '乾':
     val: '건'
-    desc: [ '하늘','마를' ]
+    desc: '하늘, 마를'
+    ex: '건조, 건달'
     str: 11
   '件':
     val: '건'
-    desc: [ '물건' ]
+    desc: '물건, 사건'
     str: 6
   '健':
     val: '건'
-    desc: [ '굳셀','건강' ]
+    desc: '굳셀, 건강'
     str: 11
-    tag: [ 80 ]
+    tag: [80]
   '巾':
     val: '건'
-    desc: [ '수건' ]
+    desc: '수건'
     str: 3
   '虔':
     val: '건'
-    desc: [ '공경할','경건' ]
+    desc: '공경할, 경건'
     str: 10
-    tag: [ 125 ]
-  '楗':
-    val: '건'
-    desc: [ '문빗장' ]
-    str: 13
+    tag: [125]
   '鍵':
     val: '건'
-    desc: [ '열쇠' ]
+    desc: '열쇠, 자물쇠'
+    ex: '건반, 관건'
+    str: 17
+  '腱':
+    val: '건'
+    desc: '아킬레스건'
+    ex: '아킬레스건'
+    str: 13
+    oStr: 15
+    tag: [350]
+  '蹇':
+    val: '건'
+    desc: '절뚝발이, 굼뜨다'
     str: 17
   '騫':
     val: '건'
-    desc: [ '이지러질' ]
+    desc: '이지러질'
     str: 20
     fam: true
   '傑':
     val: '걸'
-    desc: [ '뛰어날' ]
+    desc: '뛰어날'
+    ex: '준걸, 인걸'
     str: 12
-    tag: [ 20 ]
+    tag: [20]
   '杰':
     val: '걸'
-    desc: [ '뛰어날' ]
+    desc: '뛰어날'
     str: 8
-    tag: [ 20 ]
+    tag: [20]
   '乞':
     val: '걸'
-    desc: [ '빌' ]
+    desc: '빌'
     str: 3
   '儉':
     val: '검'
-    desc: [ '검소할' ]
+    desc: '검소할'
     str: 15
-    tag: [ 125 ]
+    tag: [125]
   '劍':
     val: '검'
-    desc: [ '칼' ]
+    desc: '칼'
     str: 15
-    tag: [ 80 ]
+    tag: [80]
   '檢':
     val: '검'
-    desc: [ '검사할' ]
+    desc: '검사할'
     str: 17
-    tag: [ 40,140 ]
+    tag: [40,140]
   '瞼':
     val: '검'
-    desc: [ '눈꺼풀' ]
+    desc: '눈꺼풀'
     str: 18
-    tag: [ 350 ]
+    tag: [350]
+  '鈐':
+    val: '검'
+    desc: '비녀장, 도장'
+    ex: '검인(鈐印)'
+    str: 12
+  '黔':
+    val: '검'
+    desc: '검을, 땅이름'
+    ex: '검려지기(黔驢之技)'
+    str: 16
   '劫':
     val: '겁'
-    desc: [ '위협할' ]
+    desc: '위협할'
     str: 7
   '怯':
     val: '겁'
-    desc: [ '겁낼' ]
+    desc: '겁낼'
     str: 8
     oStr: 9
   '憩':
     val: '게'
-    desc: [ '쉴','휴게' ]
+    desc: '쉴'
+    ex: '휴게실'
     str: 16
-    tag: [ 130 ]
+    tag: [130]
   '格':
     val: '격'
-    desc: [ '격식' ]
+    desc: '격식'
     str: 10
   '擊':
     val: '격'
-    desc: [ '칠','타격' ]
+    desc: '칠, 부딪히다'
+    ex: '공격, 충격'
     str: 17
-    tag: [ 80 ]
   '激':
     val: '격'
-    desc: [ '격할' ]
+    desc: '격할'
+    ex: '격려, 격렬'
     str: 16
     oStr: 17
+  '檄':
+    val: '격'
+    desc: '격문, 편지'
+    ex: '격문, 우격(羽檄)'
+    str: 17
   '隔':
     val: '격'
-    desc: [ '사이뜰','유격' ]
+    desc: '사이뜰'
+    ex: '간격, 격차, 원격'
     str: 13
     oStr: 18
+  '膈':
+    val: '격'
+    desc: '가슴'
+    ex: '횡격막(橫膈膜)'
+    str: 14
+    oStr: 16
   '犬':
     val: '견'
-    desc: [ '개' ]
+    desc: '개'
     str: 4
-    tag: [ 200 ]
+    tag: [200]
   '見':
     val: '견'
-    desc: [ '볼' ]
+    desc: '볼'
     str: 7
   '堅':
     val: '견'
-    desc: [ '굳을' ]
+    desc: '굳을'
     str: 11
     tag: [80]
     fam: true
   '肩':
     val: '견'
-    desc: [ '어깨' ]
+    desc: '어깨'
     str: 8
     oStr: 10
-    tag: [ 350 ]
+    tag: [350]
   '絹':
     val: '견'
-    desc: [ '비단' ]
+    desc: '비단'
+    ex: '견직물, 견사(絹絲)'
     str: 13
   '遣':
     val: '견'
-    desc: [ '보낼','파견' ]
+    desc: '보낼'
+    ex: '파견'
     str: 14
     oStr: 17
   '牽':
     val: '견'
-    desc: [ '이끌','견인' ]
+    desc: '이끌'
+    ex: '견인, 견제'
     str: 11
   '鵑':
     val: '견'
-    desc: [ '두견','진달래' ]
+    desc: '두견, 진달래'
     str: 18
-    tag: [ 200,300 ]
+    tag: [200,300]
   '甄':
     val: '견'
-    desc: [ '질그릇' ]
+    desc: '질그릇'
+    ex: '견훤(甄萱)'
     str: 14
     fam: true
+  '譴':
+    val: '견'
+    desc: '꾸짖을'
+    ex: '견책'
+    str: 14
   '決':
     val: '결'
-    desc: [ '결단할' ]
+    desc: '결단할'
     str: 7
     oStr: 8
     fam: true
   '結':
     val: '결'
-    desc: [ '맺을' ]
+    desc: '맺을'
+    ex: '결혼, 결과'
     str: 12
-    tag: [ 115 ]
+    tag: [115]
   '潔':
     val: '결'
-    desc: [ '깨끗할','정결' ]
+    desc: '깨끗할'
+    ex: '정결'
     str: 15
     oStr: 16
-    tag: [ 100 ]
+    tag: [100]
   '缺':
     val: '결'
-    desc: [ '이지러질','결핍' ]
+    desc: '이지러질, 모자라다'
+    ex: '결핍, 결함'
     str: 10
-  '訣  ':
+  '訣':
     val: '결'
-    desc: [ '이별할','결별' ]
+    desc: '이별할, 비결'
+    ex: '결별'
     str: 11
+  '抉':
+    val: '결'
+    desc: '도려낼'
+    ex: '척결'
+    str: 7
+    oStr: 8
   '兼':
     val: '겸'
-    desc: [ '겸할' ]
+    desc: '겸할'
     str: 10
   '謙':
     val: '겸'
-    desc: [ '겸손할' ]
+    desc: '겸손할'
     str: 17
-    tag: [ 125 ]
+    tag: [125]
+  '慊':
+    val: '겸'
+    desc: '마음에 차지 않을'
+    ex: '겸연쩍다'
+    str: 13
+    oStr: 14
   '袷':
     val: '겹'
-    desc: [ '겹옷' ]
+    desc: '겹옷'
     str: 17
     oStr: 18
     fam: true
   '更':
     val: '경'
-    desc: [ '고칠' ]
+    desc: '고칠'
+    ex: '변경, 경질'
     str: 7
   '京':
     val: '경'
-    desc: [ '서울' ]
+    desc: '서울'
     str: 8
     fam: true
   '景':
     val: '경'
-    desc: [ '별' ]
+    desc: '별'
     str: 12
-    tag: [ 370 ]
+    tag: [370]
     fam: true
   '庚':
     val: '경'
-    desc: [ '별' ]
+    desc: '별'
     str: 8
-    tag: [ 370,400 ]
+    tag: [370,400]
     fam: true
   '經':
     val: '경'
-    desc: [ '지날','다스릴','글' ]
+    desc: '지날, 다스릴, 글'
+    ex: '경과, 경제, 대장경'
     str: 13
     tag: [40]
   '耕':
     val: '경'
-    desc: [ '밭 갈' ]
+    desc: '밭 갈'
+    ex: '경작'
     str: 10
-    tag: [ 120 ]
+    tag: [120]
   '敬':
     val: '경'
-    desc: [ '공경할' ]
+    desc: '공경할'
     str: 13
     tag: [115,125]
     fam: true
   '輕':
     val: '경'
-    desc: [ '가벼울' ]
+    desc: '가벼울'
     str: 14
   '驚':
     val: '경'
-    desc: [ '놀랄' ]
+    desc: '놀랄'
+    ex: '경악, 경칩'
     str: 23
-  '警':
-    val: '경'
-    desc: [ '깨우칠' ]
-    str: 20
-    tag: [ 70 ]
   '慶':
     val: '경'
-    desc: [ '경사' ]
+    desc: '경사'
+    ex: '경상도'
     str: 15
-    tag: [ 150 ]
+    tag: [150]
     fam: true
   '競':
     val: '경'
-    desc: [ '다툴','경쟁' ]
+    desc: '다툴'
+    ex: '경쟁'
     str: 20
   '竟':
     val: '경'
-    desc: [ '마침내' ]
+    desc: '마침내'
+    ex: '필경'
     str: 11
   '境':
     val: '경'
-    desc: [ '지경','경우' ]
+    desc: '지경, 경우'
+    ex: '환경, 경계'
     str: 14
   '鏡':
     val: '경'
-    desc: [ '거울' ]
+    desc: '거울'
+    ex: '안경, 현미경'
     str: 19
   '頃':
     val: '경'
-    desc: [ '잠간','경각' ]
+    desc: '이랑, 잠간'
+    ex: '경각'
     str: 11
   '傾':
     val: '경'
-    desc: [ '기울','경사' ]
+    desc: '기울'
+    ex: '경사'
     str: 13
   '硬':
     val: '경'
-    desc: [ '굳을' ]
+    desc: '굳을'
+    ex: '경직, 강경'
     str: 12
+  '警':
+    val: '경'
+    desc: '깨우칠'
+    ex: '경찰, 경계'
+    str: 20
   '徑':
     val: '경'
-    desc: [ '지름길' ]
+    desc: '지름길'
+    ex: '첩경, 직경'
     str: 10
   '卿':
     val: '경'
-    desc: [ '벼슬' ]
+    desc: '벼슬'
     str: 12
-    tag: [ 40 ]
+    tag: [40]
   '鯨':
     val: '경'
-    desc: [ '고래' ]
+    desc: '고래'
     str: 19
-    tag: [ 200 ]
+    tag: [200]
   '耿':
     val: '경'
-    desc: [ '빛' ]
+    desc: '빛'
     str: 10
-    tag: [ 30 ]
+    tag: [30]
     fam: true
-  '憬':
-    val: '경'
-    desc: [ '깨달을','동경할' ]
-    str: 15
-    oStr: 16
-    tag: [ 70 ]
-  '璟':
-    val: '경'
-    desc: [ '옥빛' ]
-    str: 16
-    oStr: 17
-    tag: [ 60 ]
-  '瓊':
-    val: '경'
-    desc: [ '구슬' ]
-    str: 19
-    oStr: 20
-    tag: [ 60 ]
-  '璥':
-    val: '경'
-    desc: [ '경옥' ]
-    str: 17
-    oStr: 18
-    tag: [ 60 ]
-  '儆':
-    val: '경'
-    desc: [ '경계할' ]
-    str: 15
-    tag: [140]
   '炅':
     val: '경'
-    desc: [ '빛날' ]
+    desc: '빛날'
     str: 8
-    tag: [ 30,320 ]
-  '烱':
+    tag: [30,320]
+  '梗':
     val: '경'
-    desc: [ '빛날' ]
+    desc: '줄기, 막힐'
+    ex: '경색'
     str: 11
-    tag: [ 30,320 ]
+  '憬':
+    val: '경'
+    desc: '깨달을, 동경할'
+    str: 15
+    oStr: 16
+  '璟':
+    val: '경'
+    desc: '옥빛'
+    str: 16
+    oStr: 17
+    tag: [60]
+  '瓊':
+    val: '경'
+    desc: '구슬'
+    ex: '경단'
+    str: 19
+    oStr: 20
+    tag: [60]
+  '璥':
+    val: '경'
+    desc: '경옥'
+    str: 17
+    oStr: 18
+    tag: [60]
+  '磬':
+    val: '경'
+    desc: '경쇠'
+    ex: '풍경(風磬), 편경(編磬)'
+    str: 16
+    tag: [155]
+  '脛':
+    val: '경'
+    desc: '정강이'
+    str: 11
+    oStr: 13
+    tag: [350]
   '頸':
     val: '경'
-    desc: [ '목' ]
+    desc: '목'
+    ex: '경추, 경동맥'
     str: 16
     oStr: 21
-    tag: [ 350 ]
+    tag: [350]
   '鶊':
     val: '경'
-    desc: [ '꾀꼬리' ]
+    desc: '꾀꼬리'
     str: 19
-    tag: [ 200 ]
+    tag: [200]
   '癸':
     val: '계'
-    desc: [ '북방','열째 천간' ]
+    desc: '북방, 열째 천간'
     str: 9
-    tag: [ 400 ]
+    tag: [400]
   '季':
     val: '계'
-    desc: [ '계절' ]
+    desc: '계절'
     str: 8
     fam: true
   '界':
     val: '계'
-    desc: [ '지경','세계' ]
+    desc: '지경, 세계'
     str: 9
   '計':
     val: '계'
-    desc: [ '셀','계산' ]
+    desc: '셀, 계산'
     str: 9
-    tag: [ 75 ]
+    tag: [75]
   '溪':
     val: '계'
-    desc: [ '시내','계곡' ]
+    desc: '시내 ,계곡'
     str: 13
     oStr: 14
-    tag: [ 310 ]
+    tag: [310]
     fam: true
   '鷄':
     val: '계'
-    desc: [ '닭' ]
+    desc: '닭'
     str: 21
-    tag: [ 200 ]
+    tag: [200]
   '系':
     val: '계'
-    desc: [ '맬','이을','계통' ]
+    desc: '맬, 이을, 계통'
     str: 7
   '係':
     val: '계'
-    desc: [ '맬','이을','관계' ]
+    desc: '맬, 이을, 관계'
     str: 9
-    tag: [ 115 ]
   '繼':
     val: '계'
-    desc: [ '이을','계속' ]
+    desc: '이을, 계속'
     str: 20
-    tag: [ 115 ]
   '繫':
     val: '계'
-    desc: [ '맬','이을','연계' ]
+    desc: '맬, 이을, 연계'
     str: 19
   '契':
     val: '계'
-    desc: [ '맺을','계약' ]
+    desc: '맺을, 계약'
     str: 9
   '戒':
     val: '계'
-    desc: [ '경계할' ]
+    desc: '경계할'
+    ex: '징계, 일벌백계'
     str: 7
   '誡':
     val: '계'
-    desc: [ '경계할' ]
+    desc: '경계할'
+    ex: '십계명'
     str: 14
+    tag: [500]
   '械':
     val: '계'
-    desc: [ '기계' ]
+    desc: '기계'
     str: 11
-    tag: [ 75 ]
+    tag: [75]
   '桂':
     val: '계'
-    desc: [ '계수나무' ]
+    desc: '계수나무'
     str: 10
-    tag: [ 300 ]
+    tag: [300]
     fam: true
   '啓':
     val: '계'
-    desc: [ '열','일깨우다','계몽' ]
+    desc: '열, 일깨우다'
+    ex: '계몽'
     str: 11
-    tag: [ 70 ]
+    tag: [70]
     fam: true
   '階':
     val: '계'
-    desc: [ '섬돌','계단' ]
+    desc: '섬돌, 계단'
     str: 12
     oStr: 17
   '古':
     val: '고'
-    desc: [ '옛' ]
+    desc: '옛'
     str: 5
     tag: [135]
   '故':
     val: '고'
-    desc: [ '연고' ]
+    desc: '연고, 고향, 고장'
     str: 9
-    tag: [ 115 ]
+    tag: [115]
   '固':
     val: '고'
-    desc: [ '굳을' ]
+    desc: '굳을'
+    ex: '견고, 고집'
     str: 8
     fam: true
   '苦':
     val: '고'
-    desc: [ '쓸','힘들' ]
+    desc: '쓸, 힘들'
     str: 9
     oStr: 11
   '高':
     val: '고'
-    desc: [ '높을' ]
+    desc: '높을'
     str: 10
     fam: true
   '考':
     val: '고'
-    desc: [ '생각할','살필' ]
+    desc: '생각할, 살필'
+    ex: '참고, 고려'
     str: 6
   '告':
     val: '고'
-    desc: [ '고할' ]
+    desc: '고할'
+    ex: '광고, 경고'
     str: 7
   '誥':
     val: '고'
-    desc: [ '고할' ]
+    desc: '고할'
     str: 14
   '枯':
     val: '고'
-    desc: [ '마를' ]
+    desc: '마를, 시들다'
+    ex: '고갈, 고엽'
     str: 9
   '姑':
     val: '고'
-    desc: [ '시어머니' ]
+    desc: '시어머니'
+    ex: '고부'
     str: 8
   '庫':
     val: '고'
-    desc: [ '창고' ]
+    desc: '곳집, 창고'
     str: 10
   '孤':
     val: '고'
-    desc: [ '외로울' ]
+    desc: '외로울'
     str: 8
     fam: true
   '鼓':
     val: '고'
-    desc: [ '북' ]
+    desc: '북, 두드리다'
+    ex: '고무(鼓舞), 고복격양(鼓腹擊壤)'
     str: 13
-    tag: [ 155 ]
+    tag: [155]
   '敲':
     val: '고'
-    desc: [ '두드릴' ]
+    desc: '두드릴, 후려치다'
+    ex: '퇴고(推敲)'
     str: 14
   '叩':
     val: '고'
-    desc: [ '두드릴','조아릴' ]
+    desc: '두드릴, 조아릴'
+    ex: '고두사죄(叩頭謝罪)'
     str: 5
   '稿':
     val: '고'
-    desc: [ '볏짚','원고' ]
+    desc: '볏짚, 원고'
     str: 15
+  '雇':
+    val: '고'
+    desc: '품 팔, 고용하다'
+    str: 12
   '顧':
     val: '고'
-    desc: [ '돌아볼','고객' ]
+    desc: '돌아볼'
+    ex: '고객, 회고, 삼고초려'
     str: 21
+  '皐':
+    val: '고'
+    desc: '언덕, 논, 오월'
+    ex: '장보고(張保皐)'
+    str: 11
+  '呱':
+    val: '고'
+    desc: '울, 아이 우는 소리'
+    str: 8
+  '拷':
+    val: '고'
+    desc: '칠, 때리다'
+    ex: '고문(拷問), 고신(拷訊)'
+    str: 9
+    oStr: 10
+  '羔':
+    val: '고'
+    desc: '새끼양'
+    str: 10
+    tag: [200]
   '股':
     val: '고'
-    desc: [ '넓적다리' ]
+    desc: '넓적다리'
+    ex: '고관절(股關節), 고굉지신(股肱之臣)'
     str: 8
     oStr: 10
-    tag: [ 350 ]
+    tag: [350]
   '膏':
     val: '고'
-    desc: [ '기름' ]
+    desc: '기름'
+    ex: '고량진미(膏粱珍味), 천석고황(泉石膏肓)'
+    str: 14
+    oStr: 16
+  '錮':
+    val: '고'
+    desc: '막을, 가두다'
+    ex: '금고형(禁錮刑)'
     str: 14
     oStr: 16
   '杲':
     val: '고'
-    desc: [ '밝을' ]
+    desc: '밝을'
     str: 8
-    tag: [ 30 ]
+    tag: [30]
   '谷':
     val: '곡'
-    desc: [ '골' ]
+    desc: '골'
     str: 7
     fam: true
   '曲':
     val: '곡'
-    desc: [ '굽을' ]
+    desc: '굽을'
     str: 6
     fam: true
   '穀':
     val: '곡'
-    desc: [ '곡식' ]
+    desc: '곡식'
     str: 15
   '哭':
     val: '곡'
-    desc: [ '울' ]
+    desc: '울, 곡하다'
     str: 10
   '鵠':
     val: '곡'
-    desc: [ '고니' ]
+    desc: '고니'
     str: 18
-    tag: [ 200 ]
+    tag: [200]
   '困':
     val: '곤'
-    desc: [ '곤할' ]
+    desc: '곤할'
+    ex: '피곤, 곤경'
     str: 7
   '坤':
     val: '곤'
-    desc: [ '땅' ]
+    desc: '땅'
     str: 8
-    tag: [ 330 ]
+    tag: [330]
   '昆':
     val: '곤'
-    desc: [ '맏','벌레','곤충' ]
+    desc: '맏, 벌레'
+    ex: '곤충'
     str: 8
-    tag: [ 200 ]
+  '崑':
+    val: '곤'
+    desc: '산이름, 곤륜산'
+    str: 11
+    tag: [330]
   '琨':
     val: '곤'
-    desc: [ '옥돌' ]
+    desc: '옥돌'
     str: 12
     oStr: 13
-    tag: [ 60 ]
+    tag: [60]
   '棍':
     val: '곤'
-    desc: [ '몽둥이','곤봉' ]
+    desc: '몽둥이'
+    ex: '곤봉, 곤장'
     str: 12
-    tag: [ 80 ]
   '衮':
     val: '곤'
-    desc: [ '곤룡포' ]
+    desc: '곤룡포'
     str: 10
-    tag: [ 40 ]
+    tag: [40]
   '骨':
     val: '골'
-    desc: [ '뼈' ]
+    desc: '뼈'
     str: 10
-    tag: [ 350 ]
+    tag: [350]
     fam: true
   '汨':
     val: '골'
-    desc: [ '골몰할' ]
+    desc: '골몰할'
     str: 7
     oStr: 8
-    tag: [ 310 ]
   '鶻':
     val: '골'
-    desc: [ '송골매' ]
+    desc: '송골매'
     str: 21
-    tag: [ 200 ]
+    tag: [200]
   '滑':
     val: '골'
-    desc: [ '익살스러울','골계' ]
+    desc: '익살스러울'
+    ex: '골계(滑稽)'
     str: 13
     oStr: 14
-    tag: [ 310 ]
+    tag: [310]
   '工':
     val: '공'
-    desc: [ '장인' ]
+    desc: '장인'
     str: 3
-    tag: [ 75 ]
+    tag: [75]
   '功':
     val: '공'
-    desc: [ '공로','성공' ]
+    desc: '공, 공로'
     str: 5
-    tag: [ 40,120 ]
+    tag: [40,120]
   '空':
     val: '공'
-    desc: [ '빌','공간' ]
+    desc: '빌, 공간'
     str: 8
     fam: true
-    tag: [ 500 ]
   '共':
     val: '공'
-    desc: [ '한가지' ]
+    desc: '한가지'
     str: 6
   '公':
     val: '공'
-    desc: [ '공평할','벼슬' ]
+    desc: '공평할, 벼슬'
     str: 4
-    tag: [ 40 ]
+    tag: [40]
     fam: true
   '孔':
     val: '공'
-    desc: [ '구멍','공자의 이름' ]
+    desc: '구멍, 공자'
     str: 4
     fam: true
   '供':
     val: '공'
-    desc: [ '이바지할' ]
+    desc: '이바지할'
+    ex: '공급, 제공'
     str: 8
-    tag: [ 120 ]
+    tag: [120]
   '恭':
     val: '공'
-    desc: [ '공손할' ]
+    desc: '공손할'
     str: 10
-    tag: [ 125 ]
+    tag: [125]
   '攻':
     val: '공'
-    desc: [ '칠' ]
+    desc: '칠, 공격하다'
     str: 7
-    tag: [ 80 ]
+    tag: [80]
   '恐':
     val: '공'
-    desc: [ '두려워할' ]
+    desc: '두려워할, 공포'
     str: 10
   '貢':
     val: '공'
-    desc: [ '바칠' ]
+    desc: '바칠, 공물'
+    ex: '공헌'
     str: 10
     fam: true
   '珙':
     val: '공'
-    desc: [ '옥' ]
+    desc: '옥'
     str: 10
     oStr: 11
-    tag: [ 60 ]
+    tag: [60]
   '控':
     val: '공'
-    desc: [ '당길','던질','공제' ]
+    desc: '당길, 공제하다'
     str: 11
     oStr: 12
+  '蚣':
+    val: '공'
+    desc: '지네'
+    str: 10
+    tag: [200]
+  '鞏':
+    val: '공'
+    desc: '굳을'
+    ex: '공고(鞏固)하게'
+    str: 15
+  '箜':
+    val: '공'
+    desc: '공후'
+    ex: '공후인(箜篌引)'
+    str: 14
+    tag: [155]
   '果':
     val: '과'
-    desc: [ '열매' ]
+    desc: '열매'
     str: 8
   '課':
     val: '과'
-    desc: [ '공부할','과정' ]
+    desc: '공부할, 과정'
     str: 15
-    tag: [ 70 ]
+    tag: [70]
   '科':
     val: '과'
-    desc: [ '과목' ]
+    desc: '과목'
     str: 9
   '過':
     val: '과'
-    desc: [ '지날' ]
+    desc: '지날, 과거'
     str: 13
     oStr: 16
   '誇':
     val: '과'
-    desc: [ '자랑할' ]
+    desc: '자랑할'
+    ex: '과장, 과시'
     str: 13
   '寡':
     val: '과'
-    desc: [ '적을','과부' ]
+    desc: '적을, 과부'
+    ex: '독과점'
     str: 14
+  '菓':
+    val: '과'
+    desc: '과자'
+    str: 12
+    oStr: 14
   '戈':
     val: '과'
-    desc: [ '창' ]
+    desc: '창'
     str: 4
-    tag: [ 80 ]
   '瓜':
     val: '과'
-    desc: [ '오이' ]
+    desc: '오이'
     str: 5
-    tag: [ 300 ]
+    tag: [300]
     fam: true
   '郭':
     val: '곽'
-    desc: [ '둘레','성곽' ]
+    desc: '둘레, 성곽'
     str: 11
     oStr: 15
     fam: true
   '廓':
     val: '곽'
-    desc: [ '둘레','외곽' ]
+    desc: '둘레, 윤곽'
     str: 14
   '藿':
     val: '곽'
-    desc: [ '콩잎','미역' ]
+    desc: '콩잎, 미역'
     str: 20
     oStr: 22
     fam: true
   '官':
     val: '관'
-    desc: [ '벼슬' ]
+    desc: '벼슬, 관청'
     str: 8
-    tag: [ 40 ]
+    tag: [40]
     fam: true
   '觀':
     val: '관'
-    desc: [ '볼' ]
+    desc: '볼'
+    ex: '관람'
     str: 25
-    tag: [ 500 ]
   '關':
     val: '관'
-    desc: [ '관계할' ]
+    desc: '관계할'
     str: 19
-    tag: [ 115 ]
   '館':
     val: '관'
-    desc: [ '집' ]
+    desc: '집'
+    ex: '도서관'
     str: 16
-    tag: [ 115 ]
   '管':
     val: '관'
-    desc: [ '대롱','주관할' ]
+    desc: '대롱, 주관할'
+    ex: '관리, 보관'
     str: 14
   '貫':
     val: '관'
-    desc: [ '꿸','관통' ]
+    desc: '꿸, 관통'
     str: 11
   '慣':
     val: '관'
-    desc: [ '익숙할','습관' ]
+    desc: '익숙할, 버릇'
+    ex: '습관'
     str: 14
     oStr: 15
   '冠':
     val: '관'
-    desc: [ '갓' ]
+    desc: '갓'
+    ex: '관혼(冠婚), 약관(弱冠)'
     str: 9
-    tag: [ 40 ]
   '寬':
     val: '관'
-    desc: [ '너그러울','관용' ]
+    desc: '너그러울, 관대하다'
+    ex: '관용'
     str: 15
     fam: true
   '款':
     val: '관'
-    desc: [ '항목','돈','정성','약관' ]
+    desc: '항목, 돈, 정성'
+    ex: '차관, 약관'
     str: 12
   '琯':
     val: '관'
-    desc: [ '옥피리' ]
+    desc: '옥피리'
     str: 12
     oStr: 13
-    tag: [ 155 ]
+    tag: [155]
   '灌':
     val: '관'
-    desc: [ '물댈','관개' ]
+    desc: '물댈'
+    ex: '관개'
     str: 21
     oStr: 22
-    tag: [ 310 ]
+    tag: [310]
   '串':
     val: '관'
-    desc: [ '꿸','꼬챙이' ]
+    desc: '꿸, 꼬챙이'
     str: 7
   '棺':
     val: '관'
-    desc: [ '널' ]
+    desc: '널'
     str: 12
   '括':
     val: '괄'
-    desc: [ '묶을','일괄' ]
+    desc: '묶을'
+    ex: '일괄, 괄호'
     str: 9
     oStr: 10
   '刮':
     val: '괄'
-    desc: [ '긁을','비빌','괄목상대' ]
+    desc: '긁을, 비빌'
+    ex: '괄목상대'
     str: 8
   '光':
     val: '광'
-    desc: [ '빛' ]
+    desc: '빛'
     str: 6
-    tag: [ 30 ]
+    tag: [30]
     fam: true
   '廣':
     val: '광'
-    desc: [ '넓을' ]
+    desc: '넓을'
+    ex: '광장, 광고'
     str: 15
-    tag: [ 90 ]
+    tag: [90]
     fam: true
   '鑛':
     val: '광'
-    desc: [ '쇳돌' ]
+    desc: '쇳돌'
+    ex: '광물, 탄광'
     str: 23
-    tag: [ 340 ]
+    tag: [340]
   '狂':
     val: '광'
-    desc: [ '미칠' ]
+    desc: '미칠'
     str: 7
     oStr: 8
   '匡':
     val: '광'
-    desc: [ '바를' ]
+    desc: '바를, 구원하다'
     str: 6
-    tag: [ 110 ]
+    tag: [110]
   '筐':
     val: '광'
-    desc: [ '광주리' ]
+    desc: '광주리'
     str: 12
+  '胱':
+    val: '광'
+    desc: '오줌통, 방광'
+    str: 10
+    oStr: 12
   '炚':
     val: '광'
-    desc: [ '빛' ]
+    desc: '빛'
     str: 8
-    tag: [ 30,320 ]
+    tag: [30]
   '掛':
     val: '괘'
-    desc: [ '걸' ]
+    desc: '걸'
+    ex: '괘종, 괘념'
     str: 11
     oStr: 12
   '卦':
     val: '괘'
-    desc: [ '점괘' ]
+    desc: '점괘'
     str: 8
   '塊':
     val: '괴'
-    desc: [ '덩어리' ]
+    desc: '덩어리'
+    ex: '금괴, 단괴'
     str: 13
-    tag: [ 330 ]
   '愧':
     val: '괴'
-    desc: [ '부끄러울' ]
+    desc: '부끄러울'
+    ex: '자괴감, 앙불괴어천(仰不愧於天)'
     str: 13
     oStr: 14
   '怪':
     val: '괴'
-    desc: [ '괴이할' ]
+    desc: '괴이할'
     str: 8
     oStr: 9
   '壞':
     val: '괴'
-    desc: [ '무너질','파괴' ]
+    desc: '무너질, 파괴'
     str: 19
-    tag: [ 330 ]
+  '乖':
+    val: '괴'
+    desc: '어그러질, 삐뚤어지다'
+    ex: '괴리, 괴팍'
+    str: 19
   '傀':
     val: '괴'
-    desc: [ '허수아비','괴뢰' ]
+    desc: '허수아비'
+    ex: '괴뢰정부'
     str: 12
+  '拐':
+    val: '괴'
+    desc: '후릴, 유인하다'
+    ex: '유괴'
+    str: 8
+    oStr: 9
   '槐':
     val: '괴'
-    desc: [ '회화나무' ]
+    desc: '회화나무'
     str: 14
-    tag: [ 300 ]
+    tag: [300]
     fam: true
   '瑰':
     val: '괴'
-    desc: [ '구슬이름' ]
+    desc: '구슬이름'
     str: 14
     oStr: 15
-    tag: [ 60 ]
+    tag: [60]
   '璝':
     val: '괴'
-    desc: [ '구슬이름' ]
+    desc: '구슬이름'
     str: 16
     oStr: 17
-    tag: [ 60 ]
+    tag: [60]
   '宏':
     val: '굉'
-    desc: [ '클' ]
+    desc: '클'
+    ex: '굉장히'
     str: 7
-    tag: [ 90 ]
+    tag: [90]
   '肱':
     val: '굉'
-    desc: [ '팔뚝' ]
+    desc: '팔뚝'
+    ex: '고굉지신(股肱之臣)'
     str: 8
     oStr: 10
-    tag: [ 350 ]
+    tag: [350]
   '轟':
     val: '굉'
-    desc: [ '울릴','굉음' ]
+    desc: '울릴, 굉음'
     str: 21
   '交':
     val: '교'
-    desc: [ '사귈' ]
+    desc: '사귈'
     str: 6
-    tag: [ 115 ]
+    tag: [115]
   '校':
     val: '교'
-    desc: [ '학교' ]
+    desc: '학교'
     str: 10
-    tag: [ 70 ]
   '橋':
     val: '교'
-    desc: [ '다리' ]
+    desc: '다리'
     str: 16
   '敎':
     val: '교'
-    desc: [ '가르칠' ]
+    desc: '가르칠'
     str: 11
-    tag: [ 70 ]
+    tag: [70]
   '郊':
     val: '교'
-    desc: [ '들','교외' ]
+    desc: '들'
+    ex: '근교, 교외'
     str: 9
     oStr: 13
   '較':
     val: '교'
-    desc: [ '견줄' ]
+    desc: '견줄, 비교하다'
     str: 13
   '巧':
     val: '교'
-    desc: [ '공교할' ]
+    desc: '공교할, 솜씨있을'
+    ex: '교묘, 기교'
     str: 5
+    tag: [75]
   '矯':
     val: '교'
-    desc: [ '바로잡을' ]
+    desc: '바로잡을'
+    ex: '교정, 교도소'
     str: 17
-    tag: [ 110 ]
+    tag: [110]
   '佼':
     val: '교'
-    desc: [ '예쁠' ]
+    desc: '예쁠'
     str: 8
-    tag: [ 10 ]
+    tag: [10]
+  '僑':
+    val: '교'
+    desc: '더부살이, 타관살이'
+    ex: '교포, 교민'
+    str: 8
   '喬':
     val: '교'
-    desc: [ '높을','교목' ]
+    desc: '높을, 뛰어나다'
+    ex: '교목'
     str: 12
+    tag: [20]
   '嬌':
     val: '교'
-    desc: [ '아리따울' ]
+    desc: '아리따울, 사랑스러울'
+    ex: '교태, 교언영색'
     str: 15
-    tag: [ 10 ]
-  '憍':
-    val: '교'
-    desc: [ '교만할' ]
-    str: 15
-    oStr: 16
+    tag: [10]
   '膠':
     val: '교'
-    desc: [ '아교' ]
+    desc: '아교'
     str: 15
     oStr: 17
-  '晈':
+  '攪':
     val: '교'
-    desc: [ '달빛' ]
-    str: 10
-    tag: [ 30 ]
-  '皎':
+    desc: '흔들, 어지럽히다'
+    ex: '교란'
+    str: 23
+    oStr: 24
+  '狡':
     val: '교'
-    desc: [ '달밝을' ]
-    str: 11
-    tag: [ 30 ]
+    desc: '교활할'
+    str: 9
+    oStr: 10
+  '絞':
+    val: '교'
+    desc: '목맬, 비방하다'
+    ex: '교수형(絞首刑)'
+    str: 12
+  '蕎':
+    val: '교'
+    desc: '메밀'
+    str: 16
+    oStr: 18
+    tag: [300]
   '蛟':
     val: '교'
-    desc: [ '교룡' ]
+    desc: '교룡(뿔 없는 용)'
     str: 12
-    tag: [ 200 ]
+    tag: [200]
+  '餃':
+    val: '교'
+    desc: '경단, 교자'
+    str: 14
+  '驕':
+    val: '교'
+    desc: '교만할'
+    str: 22
+  '鮫':
+    val: '교'
+    desc: '상어'
+    str: 17
+    tag: [200]
+  '鵁':
+    val: '교'
+    desc: '해오라기, 백로'
+    str: 17
+    tag: [200]
   '九':
     val: '구'
-    desc: [ '아홉' ]
+    desc: '아홉'
     str: 2
     oStr: 9
   '口':
     val: '구'
-    desc: [ '입' ]
+    desc: '입'
     str: 3
-    tag: [ 350 ]
-  '句':
-    val: '구'
-    desc: [ '글귀' ]
-    str: 5
+    tag: [350]
   '求':
     val: '구'
-    desc: [ '구할' ]
+    desc: '구할'
+    ex: '요구, 청구'
     str: 7
   '救':
     val: '구'
-    desc: [ '구원할' ]
+    desc: '구원할'
+    ex: '구출, 구조'
     str: 11
   '究':
     val: '구'
-    desc: [ '연구할' ]
+    desc: '연구할'
     str: 7
-    tag: [ 70,75 ]
+    tag: [70,75]
   '久':
     val: '구'
-    desc: [ '오랠' ]
+    desc: '오랠'
     str: 3
     tag: [135]
+  '句':
+    val: '구'
+    desc: '글귀'
+    ex: '구절, 고구려(高句麗)'
+    str: 5
   '舊':
     val: '구'
-    desc: ['예','옛']
+    desc: '예, 옛'
     str: 18
-    tag: [135]
   '具':
     val: '구'
-    desc: [ '갖출','도구' ]
+    desc: '갖출, 도구'
     str: 8
     fam: true
   '俱':
     val: '구'
-    desc: [ '갖출','함께','구현' ]
+    desc: '갖출, 함께'
+    ex: '구현'
     str: 10
   '區':
     val: '구'
-    desc: [ '구분할','지경' ]
+    desc: '구분할, 지경'
+    ex: '구역, 구간, 구별'
     str: 11
   '驅':
     val: '구'
-    desc: [ '몰','빨리 달릴','내쫓다' ]
+    desc: '몰, 빨리 달릴, 내쫓다'
+    ex: '구사(驅使), 구축함(驅逐艦), 구충(驅蟲)'
     str: 21
   '苟':
     val: '구'
-    desc: [ '진실로','구차할' ]
+    desc: '진실로, 다만, 구차할'
     str: 9
     oStr: 11
   '拘':
     val: '구'
-    desc: [ '잡을','구부릴','구속' ]
+    desc: '잡을, 구속하다, 구부리다'
     str: 8
     oStr: 9
   '狗':
     val: '구'
-    desc: [ '개','강아지' ]
+    desc: '개, 강아지'
+    ex: '토사구팽(兎死狗烹), 당구풍월(堂狗風月)'
     str: 8
     oStr: 9
-    tag: [ 200 ]
+    tag: [200]
   '丘':
     val: '구'
-    desc: [ '언덕','구릉' ]
+    desc: '언덕, 구릉'
     str: 5
-    tag: [ 330 ]
+    tag: [330]
     fam: true
   '邱':
     val: '구'
-    desc: [ '언덕','대구' ]
+    desc: '언덕'
+    ex: '대구(大邱)'
     str: 8
     oStr: 12
-    tag: [ 330 ]
+    tag: [330]
     fam: true
   '懼':
     val: '구'
-    desc: [ '두려워할','송구' ]
+    desc: '두려워할'
+    ex: '송구, 의구심'
     str: 21
     oStr: 22
   '瞿':
     val: '구'
-    desc: [ '놀랄' ]
+    desc: '놀랄'
     str: 18
     fam: true
   '構':
     val: '구'
-    desc: [ '얽을','닥나무' ]
+    desc: '얽을, 닥나무'
+    ex: '구조, 구성, 구축'
     str: 14
-    tag: [ 300 ]
+    tag: [300]
   '球':
     val: '구'
-    desc: [ '공' ]
+    desc: '공'
+    ex: '축구'
     str: 11
     oStr: 12
   '毆':
     val: '구'
-    desc: [ '때릴','구타' ]
+    desc: '때릴'
+    ex: '구타'
     str: 15
   '玖':
     val: '구'
-    desc: [ '옥돌' ]
+    desc: '옥돌'
     str: 7
     oStr: 8
-    tag: [ 60 ]
+    tag: [60]
+  '灸':
+    val: '구'
+    desc: '뜸'
+    str: 7
+  '溝':
+    val: '구'
+    desc: '도랑'
+    ex: '지구대(地溝帶)'
+    str: 13
+    oStr: 14
   '臼':
     val: '구'
-    desc: [ '절구' ]
+    desc: '절구'
     str: 6
+  '購':
+    val: '살, 구하다'
+    desc: '구매, 구독'
+    str: 17
   '鳩':
     val: '구'
-    desc: [ '비둘기' ]
+    desc: '비둘기'
     str: 13
-    tag: [ 200 ]
+    tag: [200]
   '鷗':
     val: '구'
-    desc: [ '갈매기' ]
+    desc: '갈매기'
     str: 22
-    tag: [ 200 ]
+    tag: [200]
   '鸜':
     val: '구'
-    desc: [ '구관조' ]
+    desc: '구관조'
     str: 29
-    tag: [ 200 ]
+    tag: [200]
+  '軀':
+    val: '구'
+    desc: '몸, 체구'
+    str: 18
+    tag: [350]
   '枸':
     val: '구'
-    desc: [ '구기자' ]
+    desc: '구기자'
     str: 9
-    tag: [ 300 ]
+    tag: [300]
   '仇':
     val: '구'
-    desc: [ '원수' ]
+    desc: '원수, 적, 짝'
     str: 4
     fam: true
+  '鉤':
+    val: '구'
+    desc: '갈고리'
+    str: 13
+  '咎':
+    val: '구'
+    desc: '허물, 미워하다'
+    str: 8
+  '駒':
+    val: '구'
+    desc: '망아지'
+    str: 15
+    tag: [200]
+  '垢':
+    val: '구'
+    desc: '때, 티끌, 더럽다'
+    ex: '순진무구'
+    str: 9
+  '寇':
+    val: '구'
+    desc: '도적'
+    ex: '왜구'
+    str: 11
+  '嶇':
+    val: '구'
+    desc: '험할'
+    ex: '기구하다'
+    str: 14
+    tag: [330]
+  '廏':
+    val: '구'
+    desc: '마구간'
+    str: 14
+  '柩':
+    val: '구'
+    desc: '널'
+    ex: '영구차(靈柩車)'
+    str: 9
   '歐':
     val: '구'
-    desc: [ '구라파(유럽)' ]
+    desc: '구라파(유럽)'
     str: 15
   '釦':
     val: '구'
-    desc: [ '금테두를' ]
+    desc: '금테두를'
     str: 11
-    tag: [ 40 ]
+    tag: [40]
+  '韭':
+    val: '구'
+    desc: '부추'
+    str: 9
+    tag: [300]
   '裘':
     val: '구'
-    desc: [ '갖옷' ]
+    desc: '갖옷'
     str: 13
     fam: true
-  '龜':
-    val: '구'
-    desc: [ '땅이름' ]
-    str: 16
   '國':
     val: '국'
-    desc: [ '나라' ]
+    desc: '나라'
     str: 11
     fam: true
   '菊':
     val: '국'
-    desc: [ '국화' ]
+    desc: '국화'
     str: 12
     oStr: 14
-    tag: [ 300 ]
+    tag: [300]
   '局':
     val: '국'
-    desc: [ '판','관청','모임' ]
+    desc: '판, 관청, 모임'
     str: 7
   '鞠':
     val: '국'
-    desc: [ '가죽 공','국화' ]
+    desc: '가죽 공, 국화'
     str: 17
     fam: true
   '麴':
     val: '국'
-    desc: [ '누룩','술','국선생' ]
+    desc: '누룩, 술'
+    ex: '국선생전'
     str: 19
   '君':
     val: '군'
-    desc: [ '임금' ]
+    desc: '임금'
     str: 7
-    tag: [ 40 ]
+    tag: [40]
     fam: true
   '郡':
     val: '군'
-    desc: [ '고을' ]
+    desc: '고을'
     str: 10
     oStr: 14
   '軍':
     val: '군'
-    desc: [ '군사' ]
+    desc: '군사'
     str: 9
-    tag: [ 80 ]
+    tag: [80]
   '屈':
     val: '굴'
-    desc: [ '굽힐','굴복','굴절' ]
+    desc: '굽힐'
+    ex: '굴복, 굴절'
     str: 8
   '窟':
     val: '굴'
-    desc: [ '굴','동굴' ]
+    desc: '굴, 동굴'
     str: 13
   '掘':
     val: '굴'
-    desc: [ '파다','채굴' ]
+    desc: '팔, 파내다'
+    ex: '채굴'
     str: 11
     oStr: 12
   '弓':
     val: '궁'
-    desc: [ '활' ]
+    desc: '활'
     str: 3
     fam: true
   '宮':
     val: '궁'
-    desc: [ '집' ]
+    desc: '집, 궁전'
     str: 10
-    tag: [ 115 ]
     fam: true
   '窮':
     val: '궁'
-    desc: [ '다할','궁할','궁극' ]
+    desc: '다할, 궁할'
+    ex: '궁극, 무궁화, 곤궁'
     str: 15
-    tag: [ 120,125 ]
+    tag: [120,125]
   '鴌':
     val: '궉'
-    desc: [ '꿩' ]
+    desc: '꿩'
     str: 15
-    tag: [ 200 ]
+    tag: [200]
     fam: true
   '券':
     val: '권'
-    desc: [ '문서','증권' ]
+    desc: '문서'
+    ex: '증권, 복권, 상품권'
     str: 8
-    tag: [ 70 ]
   '權':
     val: '권'
-    desc: [ '권세' ]
+    desc: '권세'
     str: 22
-    tag: [ 40 ]
+    tag: [40]
     fam: true
   '勸':
     val: '권'
-    desc: [ '권할' ]
+    desc: '권할, 권장'
     str: 20
   '卷':
     val: '권'
-    desc: [ '책','두루마리' ]
+    desc: '책, 두루마리'
     str: 8
-    tag: [ 70 ]
+    tag: [70]
   '拳':
     val: '권'
-    desc: [ '주먹' ]
+    desc: '주먹'
+    ex: '권법, 권투'
     str: 10
-    tag: [ 80 ]
-  '眷':
-    val: '권'
-    desc: [ '돌볼','권속' ]
-    str: 11
-    tag: [115]
+    tag: [80]
   '圈':
     val: '권'
-    desc: [ '우리','경계' ]
+    desc: '우리, 경계'
+    ex: '수도권'
     str: 11
+  '眷':
+    val: '권'
+    desc: '돌볼, 권속'
+    str: 11
+    tag: [115]
+  '倦':
+    val: '권'
+    desc: '게으를, 고달프다'
+    ex: '권태기'
+    str: 11
+  '捲':
+    val: '권'
+    desc: '거둘, 감다, 분발하다'
+    ex: '권토중래(捲土重來)'
+    str: 11
+    oStr: 12
   '厥':
     val: '궐'
-    desc: [ '그' ]
+    desc: '그, 오랑캐'
+    ex: '돌궐'
     str: 12
   '闕':
     val: '궐'
-    desc: [ '대궐' ]
+    desc: '대궐'
     str: 18
-    tag: [ 40 ]
+    tag: [40]
   '獗':
     val: '궐'
-    desc: [ '날뛸','창궐' ]
+    desc: '날뛸, 창궐'
     str: 15
     oStr: 16
+  '蕨':
+    val: '궐'
+    desc: '고사리'
+    str: 16
+    oStr: 18
   '軌':
     val: '궤'
-    desc: [ '바퀴자국','궤도' ]
+    desc: '바퀴자국, 궤도'
     str: 15
   '机':
     val: '궤'
-    desc: [ '책상' ]
-    str: 4
+    desc: '책상'
+    str: 6
   '貴':
     val: '귀'
-    desc: [ '귀할' ]
+    desc: '귀할'
     str: 12
-    tag: [ 40 ]
+    tag: [40]
   '歸':
     val: '귀'
-    desc: [ '돌아갈' ]
+    desc: '돌아갈'
     str: 18
     fam: true
   '鬼':
     val: '귀'
-    desc: [ '귀신' ]
+    desc: '귀신'
     str: 9
   '龜':
     val: '귀'
-    desc: [ '거북' ]
+    desc: '거북'
     str: 16
-    tag: [ 120,135,200 ]
+    tag: [135,200]
   '叫':
     val: '규'
-    desc: [ '부르짖을' ]
+    desc: '부르짖을'
+    ex: '절규, 아비규환'
     str: 5
   '規':
     val: '규'
-    desc: [ '법' ]
+    desc: '법'
     str: 11
-    tag: [ 70 ]
+    tag: [140]
   '糾':
     val: '규'
-    desc: [ '얽힐','규명','규탄' ]
+    desc: '얽힐, 규명하다'
+    ex: '규탄, 분규, 규합'
     str: 8
   '圭':
     val: '규'
-    desc: [ '서옥','홀' ]
+    desc: '서옥, 홀'
     str: 6
-    tag: [ 60 ]
+    tag: [60]
+  '珪':
+    val: '규'
+    desc: '서옥, 홀'
+    str: 10
+    oStr: 11
+    tag: [60]
   '硅':
     val: '규'
-    desc: [ '규소' ]
+    desc: '규소'
     str: 11
-    tag: [ 330 ]
+    tag: [330]
   '奎':
     val: '규'
-    desc: [ '별' ]
+    desc: '별'
+    ex: '규장각'
     str: 9
-    tag: [ 370 ]
+    tag: [370]
   '葵':
     val: '규'
-    desc: [ '해바라기','접시꽃','규화보전' ]
+    desc: '해바라기, 접시꽃'
+    ex: '규화보전'
     str: 13
     oStr: 15
-    tag: [ 300 ]
+    tag: [300]
   '槻':
     val: '규'
-    desc: [ '물푸레나무' ]
+    desc: '물푸레나무'
     str: 15
-    tag: [ 300 ]
+    tag: [300]
   '菌':
     val: '균'
-    desc: [ '버섯' ]
+    desc: '버섯, 세균'
     str: 12
     oStr: 14
   '均':
     val: '균'
-    desc: [ '고를','균등' ]
+    desc: '고를, 균등'
     str: 7
   '勻':
     val: '균'
-    desc: [ '고를','같을' ]
+    desc: '고를, 같을'
     str: 4
   '龜':
     val: '균'
-    desc: [ '터질','균열' ]
+    desc: '터질, 균열'
     str: 16
   '橘':
-    val: '균'
-    desc: [ '귤' ]
+    val: '귤'
+    desc: '귤'
     str: 16
-    tag: [ 300 ]
+    tag: [300]
   '極':
     val: '극'
-    desc: [ '극진할' ]
+    desc: '극진할, 다할'
     str: 13
-    tag: [ 120 ]
+    tag: [120]
   '克':
     val: '극'
-    desc: [ '이길' ]
+    desc: '이길, 극복'
     str: 7
-    tag: [ 45 ]
+    tag: [45]
     fam: true
+  '剋':
+    val: '극'
+    desc: '이길'
+    ex: '상극, 하극상'
+    str: 9
   '劇':
     val: '극'
-    desc: [ '심할','연극' ]
+    desc: '심할, 연극'
     str: 15
+  '隙':
+    val: '극'
+    desc: '틈, 간극'
+    str: 13
+    oStr: 18
   '戟':
     val: '극'
-    desc: [ '창' ]
+    desc: '창'
+    ex: '자극'
     str: 12
-    tag: [ 80 ]
   '棘':
     val: '극'
-    desc: [ '가시' ]
+    desc: '가시'
+    ex: '형극(荊棘)'
     str: 12
   '近':
     val: '근'
-    desc: [ '가까울' ]
+    desc: '가까울'
     str: 8
     oStr: 11
   '勤':
     val: '근'
-    desc: [ '부지런할','근심할' ]
+    desc: '부지런할, 근심할'
+    ex: '근무, 근면'
     str: 13
-    tag: [ 120 ]
+    tag: [120]
   '懃':
     val: '근'
-    desc: [ '은근할','수고할' ]
+    desc: '은근할, 수고할'
     str: 17
-    tag: [ 120 ]
+    tag: [120]
   '根':
     val: '근'
-    desc: [ '뿌리' ]
+    desc: '뿌리'
     str: 10
   '斤':
     val: '근'
-    desc: [ '도끼' ]
+    desc: '도끼'
     str: 4
-    tag: [ 80 ]
     fam: true
   '僅':
     val: '근'
-    desc: [ '겨우' ]
+    desc: '겨우'
+    ex: '근근, 근소(僅少)'
     str: 13
   '謹':
     val: '근'
-    desc: [ '삼갈' ]
+    desc: '삼갈'
+    ex: '근조, 근신, 근하신년'
     str: 18
-    tag: [ 140 ]
   '槿':
     val: '근'
-    desc: [ '무궁화' ]
+    desc: '무궁화'
+    ex: '박근혜(朴槿惠)'
     str: 15
-    tag: [ 300 ]
-  '瑾':
-    val: '근'
-    desc: [ '붉은옥' ]
-    str: 15
-    oStr: 16
-    tag: [ 60 ]
+    tag: [300]
   '筋':
     val: '근'
-    desc: [ '힘줄' ]
+    desc: '힘줄'
     str: 12
-    tag: [ 350 ]
+    tag: [350]
   '芹':
     val: '근'
-    desc: [ '미나리' ]
+    desc: '미나리'
     str: 8
     oStr: 10
-    tag: [ 300 ]
+    tag: [300]
   '饉':
     val: '근'
-    desc: [ '주릴','흉년' ]
+    desc: '주릴, 흉년'
+    ex: '기근'
     str: 19
   '金':
     val: '금'
-    desc: [ '쇠' ]
+    desc: '쇠'
     str: 8
-    tag: [ 340 ]
+    tag: [340]
   '今':
     val: '금'
-    desc: [ '이제' ]
+    desc: '이제'
     str: 4
   '禁':
     val: '금'
-    desc: [ '금할' ]
+    desc: '금할'
     str: 13
   '錦':
     val: '금'
-    desc: [ '비단' ]
+    desc: '비단'
     str: 16
-    tag: [ 10,40,60 ]
+    tag: [10,40,60]
   '禽':
     val: '금'
-    desc: [ '날짐승','사로잡을' ]
+    desc: '새, 사로잡을'
+    ex: '금획, 금수(禽獸)'
     str: 13
   '琴':
     val: '금'
-    desc: [ '거문고' ]
+    desc: '거문고'
     str: 12
     oStr: 14
-    tag: [ 155 ]
+    tag: [155]
     fam: true
   '衾':
     val: '금'
-    desc: [ '이불' ]
+    desc: '이불'
+    ex: '고침단금(孤枕單衾)'
     str: 10
+  '襟':
+    val: '금'
+    desc: '옷깇, 앞섶'
+    ex: '흉금'
+    str: 18
+    oStr: 19
+  '衿':
+    val: '금'
+    desc: '옷깇, 앞섶'
+    ex: '청금록(靑衿錄), 금천구(衿川區)'
+    str: 9
+    oStr: 10
   '昑':
     val: '금'
-    desc: [ '밝을' ]
+    desc: '밝을'
     str: 8
-    tag: [ 30 ]
+    tag: [30]
   '檎':
     val: '금'
-    desc: [ '능금나무' ]
+    desc: '능금나무'
     str: 17
-    tag: [ 300 ]
+    tag: [300]
   '及':
     val: '급'
-    desc: [ '미칠','언급' ]
+    desc: '미칠, 닿다'
+    ex: '언급, 소급, 보급'
     str: 4
   '給':
     val: '급'
-    desc: [ '줄','급여' ]
+    desc: '줄'
+    ex: '급여, 공급'
     str: 12
   '急':
     val: '급'
-    desc: [ '급할' ]
+    desc: '급할'
     str: 9
   '級':
     val: '급'
-    desc: [ '등급' ]
+    desc: '등급'
     str: 10
+  '汲':
+    val: '급'
+    desc: '물 길을'
+    ex: '초동급부(樵童汲婦)'
+    str: 10
+  '扱':
+    val: '급'
+    desc: '미칠, 이르다, 다루다'
+    ex: '취급(取扱)'
+    str: 7
+    oStr: 8
   '肯':
     val: '긍'
-    desc: [ '즐길','긍정' ]
+    desc: '즐길, 수긍하다, 긍정'
     str: 10
-    tag: [ 150 ]
+    tag: [150]
   '兢':
     val: '긍'
-    desc: [ '떨리다','삼갈','전전긍긍' ]
+    desc: '떨, 삼갈'
+    ex: '전전긍긍'
     str: 14
+  '矜':
+    val: '긍'
+    desc: '자랑할'
+    ex: '긍지(矜持)'
+    str: 9
   '豈':
     val: '기'
-    desc: [ '어찌','그' ]
+    desc: '어찌, 그'
     str: 10
-  '其':
-    val: '기'
-    desc: [ '그','기타' ]
-    str: 8
   '己':
     val: '기'
-    desc: [ '몸' ]
+    desc: '몸, 자기'
     str: 3
   '記':
     val: '기'
-    desc: [ '기록할' ]
+    desc: '기록할'
     str: 10
   '起':
     val: '기'
-    desc: [ '일어날' ]
+    desc: '일어날'
     str: 10
     fam: true
+  '其':
+    val: '기'
+    desc: '그, 아마도'
+    ex: '기타, 각기, 급기야'
+    str: 8
   '期':
     val: '기'
-    desc: [ '기약할' ]
+    desc: '기약할'
+    ex: '기간, 기대'
     str: 12
   '基':
     val: '기'
-    desc: [ '터','기초' ]
+    desc: '터, 기초'
     str: 11
-    tag: [ 330 ]
+    tag: [330]
   '氣':
     val: '기'
-    desc: [ '기운' ]
+    desc: '기운'
     str: 10
   '技':
     val: '기'
-    desc: [ '재주','기술' ]
+    desc: '재주, 기술'
     str: 7
     oStr: 8
     tag: [75]
   '幾':
     val: '기'
-    desc: [ '몇' ]
+    desc: '몇, 거의'
+    ex: '기미(幾微), 기하학'
     str: 12
   '旣':
     val: '기'
-    desc: [ '이미' ]
+    desc: '이미'
     str: 11
   '紀':
     val: '기'
-    desc: [ '벼리','기강','세기' ]
+    desc: '벼리, 세월'
+    ex: '기강, 세기(世紀)'
     str: 9
   '忌':
     val: '기'
-    desc: [ '꺼릴','기피' ]
+    desc: '꺼릴, 미워하다'
+    ex: '기피, 시기, 투기, 금기'
     str: 7
   '旗':
     val: '기'
-    desc: [ '깃발' ]
+    desc: '깃발'
     str: 14
   '欺':
     val: '기'
-    desc: [ '속일','사기' ]
+    desc: '속일'
+    ex: '사기, 기만'
     str: 12
   '奇':
     val: '기'
-    desc: [ '기묘','기적','기발' ]
+    desc: '기특할'
+    ex: '기묘, 기적, 기발'
     str: 8
     fam: true
   '騎':
     val: '기'
-    desc: [ '말탈','기마' ]
+    desc: '말탈, 기마'
+    ex: '기병, 기사'
     str: 18
   '寄':
     val: '기'
-    desc: [ '부칠','기부','기여' ]
+    desc: '부칠, 보내다'
+    ex: '기부, 기여'
     str: 11
   '棄':
     val: '기'
-    desc: [ '버릴','포기' ]
+    desc: '버릴, 그만두다'
+    ex: '기각, 포기'
     str: 12
   '祈':
     val: '기'
-    desc: [ '빌','기원할' ]
+    desc: '빌, 기원할'
+    ex: '기도, 기우제'
     str: 9
     fam: true
+    tag: [500]
   '企':
     val: '기'
-    desc: [ '꾀할','기업' ]
+    desc: '꾀할, 도모하다'
+    ex: '기업, 기획'
     str: 6
   '畿':
     val: '기'
-    desc: [ '경기도' ]
+    desc: '경기(京畿)'
     str: 15
   '飢':
     val: '기'
-    desc: [ '주릴','기아' ]
+    desc: '주릴, 흉년'
+    ex: '기아'
     str: 10
   '器':
     val: '기'
-    desc: [ '그릇' ]
+    desc: '그릇'
+    ex: '무기, 호흡기, 대기만성'
     str: 16
   '機':
     val: '기'
-    desc: [ '틀','기계' ]
+    desc: '틀, 기계, 기회'
+    ex: '계기, 기관, 위기'
     str: 16
   '沂':
     val: '기'
-    desc: [ '물이름' ]
+    desc: '물이름'
     str: 7
     oStr: 8
-    tag: [ 310 ]
+    tag: [310]
   '琪':
     val: '기'
-    desc: [ '아름다운 옥' ]
+    desc: '아름다운 옥'
     str: 12
     oStr: 13
-    tag: [ 60 ]
+    tag: [60]
   '棋':
     val: '기'
-    desc: [ '바둑' ]
+    desc: '바둑'
+    ex: '장기(將棋), 기원(棋院)'
     str: 12
   '璣':
     val: '기'
-    desc: [ '구슬','별이름' ]
+    desc: '구슬, 별이름'
     str: 16
     oStr: 17
-    tag: [ 60,370 ]
+    tag: [60,370]
+  '祺':
+    val: '기'
+    desc: '길할, 복'
+    str: 12
+    tag: [50,130]
   '麒':
     val: '기'
-    desc: [ '기린' ]
+    desc: '기린'
     str: 19
-    tag: [ 200 ]
+    tag: [200]
+  '嗜':
+    val: '기'
+    desc: '즐길'
+    ex: '기호(嗜好)식품'
+    str: 13
   '玘':
     val: '기'
-    desc: [ '패옥' ]
+    desc: '패옥'
     str: 7
     oStr: 8
-    tag: [ 60 ]
+    tag: [60]
   '杞':
     val: '기'
-    desc: [ '구기자' ]
+    desc: '구기자'
     str: 7
-    tag: [ 300 ]
+    tag: [300]
+  '崎':
+    val: '기'
+    desc: '험할'
+    ex: '기구(崎嶇)하다'
+    str: 11
   '妓':
     val: '기'
-    desc: [ '기생' ]
+    desc: '기생'
     str: 7
   '琦':
     val: '기'
-    desc: [ '옥이름' ]
+    desc: '옥이름'
     str: 12
     oStr: 13
-    tag: [ 60 ]
-  '岐':
+    tag: [60]
+  '綺':
     val: '기'
-    desc: [ '갈림길','기로' ]
-    str: 7
-  '崎':
-    val: '기'
-    desc: [ '험할','기구할' ]
-    str: 11
-  '饑':
-    val: '기'
-    desc: [ '주릴','기아' ]
-    str: 20
+    desc: '비단, 아름답다'
+    ex: '기라성(綺羅星), 기상곡(綺想曲)'
+    str: 14
+    tag: [10,20]
   '箕':
     val: '기'
-    desc: [ '키','삼태기','별이름' ]
+    desc: '키, 삼태기, 쓰레받이'
+    ex: '기자(箕子)'
     str: 14
     tag: [ 370 ]
     fam: true
+  '岐':
+    val: '기'
+    desc: '갈림길'
+    ex: '기로(岐路), 연기군(燕岐郡)'
+    str: 7
   '緊':
     val: '긴'
-    desc: [ '긴할' ]
+    desc: '긴할'
+    ex: '요긴, 긴급'
     str: 14
   '吉':
     val: '길'
-    desc: [ '길할' ]
+    desc: '길할'
     str: 6
-    tag: [ 50 ]
+    tag: [50]
     fam: true
   '桔':
     val: '길'
-    desc: [ '도라지' ]
+    desc: '도라지'
     str: 10
-    tag: [ 300 ]
+    tag: [300]
   '金':
     val: '김'
-    desc: [ '성씨' ]
+    desc: '성씨'
     str: 8
     fam: true
   '喫':
     val: '끽'
-    desc: [ '먹을','끽연' ]
+    desc: '먹을'
+    ex: '만끽, 끽연'
     str: 12
   '那':
     val: '나'
-    desc: [ '어찌' ]
+    desc: '어찌'
     str: 7
     oStr: 11
     fam: true
   '娜':
     val: '나'
-    desc: [ '아름다울' ]
+    desc: '아름다울'
     str: 10
-    tag: [ 10 ]
+    tag: [10]
   '懦':
     val: '나'
     desc: [ '나약할' ]
@@ -2373,653 +2813,785 @@ hanjaMaster =
     oStr: 18
   '拿':
     val: '나'
-    desc: [ '잡을','나포' ]
+    desc: '잡을'
+    ex: '나포(拿捕)'
     str: 10
   '拏':
     val: '나'
-    desc: [ '붙잡을','한라산' ]
+    desc: '붙잡을'
+    ex: '나포(拏捕), 한라산(한나산)'
     str: 9
   '儺':
     val: '나'
-    desc: [ '푸닥거리','나례' ]
+    desc: '푸닥거리'
+    ex: '나례(儺禮)'
     str: 21
+    tag: [500]
+  '懦':
+    val: '나'
+    desc: '나약할'
+    str: 17
+    oStr: 18
   '暖':
     val: '난'
-    desc: [ '따뜻할' ]
+    desc: '따뜻할'
     str: 13
   '煖':
     val: '난'
-    desc: [ '더울' ]
+    desc: '더울'
     str: 13
-    tag: [ 320 ]
+    tag: [320]
   '難':
     val: '난'
-    desc: [ '어려울' ]
+    desc: '어려울'
     str: 19
   '捺':
     val: '날'
-    desc: [ '누를','날인' ]
+    desc: '누를'
+    ex: '날인'
     str: 11
     oStr: 12
   '捏':
     val: '날'
-    desc: [ '꾸밀','날조' ]
+    desc: '꾸밀'
+    ex: '날조'
     str: 10
     oStr: 11
   '南':
     val: '남'
-    desc: [ '남녘' ]
+    desc: '남녘'
     str: 9
     fam: true
   '男':
     val: '남'
-    desc: [ '사내' ]
+    desc: '사내'
     str: 7
   '楠':
     val: '남'
-    desc: [ '녹나무' ]
+    desc: '녹나무'
     str: 13
-    tag: [ 300 ]
+    tag: [300]
   '納':
     val: '납'
-    desc: [ '들일','수납' ]
+    desc: '들일'
+    ex: '수납, 용납, 납품'
     str: 10
   '衲':
     val: '납'
-    desc: [ '기울','납의' ]
+    desc: '기울, 깁다'
+    ex: '납의(衲衣)'
     str: 9
-    tag: [ 500 ]
+    tag: [500]
   '囊':
     val: '낭'
-    desc: [ '주머니' ]
+    desc: '주머니'
     str: 22
   '內':
     val: '내'
-    desc: [ '안' ]
+    desc: '안'
     str: 4
   '乃':
     val: '내'
-    desc: [ '이에','그래서' ]
+    desc: '이에, 그래서'
     str: 2
     fam: true
   '奈':
     val: '내'
-    desc: [ '어찌' ]
+    desc: '어찌'
+    ex: '막무가내'
     str: 8
     fam: true
   '耐':
     val: '내'
-    desc: [ '견딜','인내' ]
+    desc: '견딜'
+    ex: '인내'
     str: 9
   '柰':
     val: '내'
-    desc: [ '능금나무','말리' ]
+    desc: '능금나무, 말리'
     str: 9
-    tag: [ 300 ]
+    tag: [300]
   '女':
     val: '녀'
-    desc: [ '여자' ]
+    desc: '여자'
     iVal: '여'
     str: 3
   '年':
     val: '년'
-    desc: [ '해' ]
+    desc: '해'
     iVal: '연'
     str: 6
   '念':
     val: '념'
-    desc: [ '생각할' ]
+    desc: '생각할'
     iVal: '염'
     str: 8
   '恬':
     val: '념'
-    desc: [ '편안할','조용할' ]
+    desc: '편안할, 조용할'
     iVal: '염'
     str: 9
     oStr: 10
-    tag: [ 130 ]
+    tag: [130]
   '拈':
     val: '념'
-    desc: [ '집을','염화미소' ]
+    desc: '집을'
+    ex: '염화미소'
     iVal: '염'
     str: 8
     oStr: 9
-    tag: [ 500 ]
+    tag: [500]
   '捻':
     val: '념'
-    desc: [ '비틀','염좌','염출' ]
+    desc: '비틀'
+    ex: '염좌, 염출'
     iVal: '염'
     str: 11
     oStr: 12
   '寧':
     val: '녕'
-    desc: [ '편안할' ]
+    desc: '편안할'
     iVal: '영'
     str: 14
-    tag: [ 130 ]
+    tag: [130]
   '寗':
     val: '녕'
-    desc: [ '차라리' ]
+    desc: '차라리'
     iVal: '영'
     str: 13
     fam: true
   '怒':
     val: '노'
-    desc: [ '성낼','진노' ]
+    desc: '성낼'
+    ex: '진노'
     str: 9
   '奴':
     val: '노'
-    desc: [ '종','노예' ]
+    desc: '종, 노예'
     str: 5
   '努':
     val: '노'
-    desc: [ '힘쓸','노력' ]
+    desc: '힘쓸, 노력'
     str: 7
-    tag: [ 120 ]
+    tag: [120]
   '弩':
     val: '노'
-    desc: [ '쇠뇌' ]
+    desc: '쇠뇌'
     str: 8
-    tag: [ 80 ]
+    tag: [80]
   '瑙':
     val: '노'
-    desc: [ '마노' ]
+    desc: '마노'
     str: 13
     oStr: 14
-    tag: [ 60 ]
+    tag: [60]
   '農':
     val: '농'
-    desc: [ '농사' ]
+    desc: '농사'
     str: 13
   '膿':
     val: '농'
-    desc: [ '고름' ]
+    desc: '고름'
     str: 17
     oStr: 19
   '濃':
     val: '농'
-    desc: [ '짙을','농후','농축' ]
+    desc: '짙을'
+    ex: '농도, 농축'
     str: 16
     oStr: 17
   '腦':
     val: '뇌'
-    desc: [ '골' ]
+    desc: '골'
     str: 13
     oStr: 15
     tag: [350]
   '惱':
     val: '뇌'
-    desc: [ '번뇌할' ]
+    desc: '번뇌할'
     str: 12
     oStr: 13
   '尿':
     val: '뇨'
-    desc: [ '오줌' ]
+    desc: '오줌'
     iVal: '요'
     str: 7
     fam: true
-  '耨':
-    val: '누'
-    desc: [ '김맬' ]
-    str: 16
   '嫩':
     val: '눈'
-    desc: [ '어릴' ]
+    desc: '어릴'
     str: 14
   '訥':
     val: '눌'
-    desc: [ '말 더듬거릴','눌변' ]
+    desc: '말 더듬거릴, 눌변'
     str: 11
   '紐':
     val: '뉴'
-    desc: [ '맺을','유대' ]
+    desc: '맺을, 묶다'
+    ex: '유대'
     iVal: '유'
     str: 10
   '能':
     val: '능'
-    desc: [ '능할' ]
+    desc: '능할'
     str: 10
     oStr: 12
     fam: true
   '泥':
     val: '니'
-    desc: [ '진흙' ]
+    desc: '진흙'
+    ex: '이전투구(泥田鬪狗)'
     iVal: '이'
     str: 8
     oStr: 9
   '尼':
     val: '니'
-    desc: [ '여승' ]
+    desc: '여승'
+    ex: '석가모니(釋迦牟尼), 마니산'
     iVal: '이'
     str: 5
-    tag: [ 500 ]
+    tag: [500]
   '匿':
     val: '닉'
-    desc: [ '숨길','은닉' ]
+    desc: '숨길'
+    ex: '은닉, 익명'
     iVal: '익'
     str: 11
   '溺':
     val: '닉'
-    desc: [ '빠질','탐닉','익사' ]
+    desc: '빠질'
+    ex: '탐닉, 익사'
     iVal: '익'
     str: 13
     oStr: 14
-  '昵':
-    val: '닐'
-    desc: [ '친할','친근할' ]
-    iVal: '일'
-    str: 9
-    tag: [ 115 ]
   '多':
     val: '다'
-    desc: [ '많을' ]
+    desc: '많을'
     str: 6
+  '茶':
+    val: '다'
+    desc: '차'
+    str: 10
+    oStr: 12
   '丹':
     val: '단'
-    desc: [ '붉을' ]
+    desc: '붉을'
+    ex: '단장, 단풍, 일편단심, 단순호치'
     str: 4
-    tag: [ 160 ]
+    tag: [160]
   '但':
     val: '단'
-    desc: [ '다만' ]
+    desc: '다만'
     str: 7
   '單':
     val: '단'
-    desc: [ '홑' ]
+    desc: '홑, 단수'
     str: 12
     fam: true
   '短':
     val: '단'
-    desc: [ '짧을' ]
+    desc: '짧을'
     str: 12
   '端':
     val: '단'
-    desc: [ '끝' ]
+    desc: '끝, 실마리'
+    ex: '첨단, 폐단, 단서, 단오'
     str: 14
     fam: true
   '旦':
     val: '단'
-    desc: [ '아침' ]
+    desc: '아침'
+    ex: '원단(元旦)'
     str: 5
   '段':
     val: '단'
-    desc: [ '계단' ]
+    desc: '계단'
     str: 9
     fam: true
   '壇':
     val: '단'
-    desc: [ '제단' ]
+    desc: '제단'
     str: 16
+    tag: [500]
   '檀':
     val: '단'
-    desc: [ '박달나무' ]
+    desc: '박달나무'
+    ex: '단군(檀君), 흑단, 자단'
     str: 17
-    tag: [ 300 ]
+    tag: [300]
   '椴':
     val: '단'
-    desc: [ '자작나무' ]
+    desc: '자작나무'
     str: 13
-    tag: [ 300 ]
+    tag: [300]
   '斷':
     val: '단'
-    desc: [ '끊을' ]
+    desc: '끊을'
     str: 18
   '團':
     val: '단'
-    desc: [ '둥글','단체' ]
+    desc: '둥글, 모이다'
+    ex: '단체, 집단'
     str: 14
   '緞':
     val: '단'
-    desc: [ '비단' ]
+    desc: '비단'
     str: 15
     tag: [10]
   '鍛':
     val: '단'
-    desc: [ '불릴','두드릴','단련' ]
+    desc: '불릴, 두드릴'
+    ex: '단련'
     str: 17
   '湍':
     val: '단'
-    desc: [ '여울' ]
+    desc: '여울, 급류'
     str: 12
     oStr: 13
-    tag: [ 310 ]
+    tag: [310]
+  '簞':
+    val: '단'
+    desc: '소쿠리, 밥그릇'
+    ex: '단사표음(簞食瓢飮)'
+    str: 18
   '蛋':
     val: '단'
-    desc: [ '새알' ]
+    desc: '새알'
+    ex: '단백질(蛋白質)'
     str: 11
   '達':
     val: '달'
-    desc: [ '통달할' ]
+    desc: '통달할'
     str: 13
-    tag: [ 75 ]
+    tag: [75]
   '撻':
     val: '달'
-    desc: [ '때릴','편달' ]
+    desc: '때릴'
+    ex: '편달'
     str: 16
     oStr: 17
+  '澾':
+    val: '달'
+    desc: '미끄러울'
+    str: 15
+    oStr: 16
   '獺':
     val: '달'
-    desc: [ '수달' ]
+    desc: '수달'
     str: 19
     oStr: 20
     tag: [200]
+  '妲':
+    val: '달'
+    desc: '여자이름, 달기'
+    str: 8
+    tag: [10]
   '談':
     val: '담'
-    desc: [ '말씀' ]
+    desc: '말씀'
     str: 15
   '淡':
     val: '담'
-    desc: [ '맑을' ]
+    desc: '맑을'
+    ex: '담수, 담백'
     str: 11
     oStr: 12
-    tag: [ 100 ]
+    tag: [100]
   '澹':
     val: '담'
-    desc: [ '맑을','조용할','암담' ]
+    desc: '맑을, 조용할'
+    ex: '암담'
     str: 16
     oStr: 17
-    tag: [ 100 ]
+    tag: [100]
   '擔':
     val: '담'
-    desc: [ '멜','담당' ]
+    desc: '멜, 떠맡다'
+    ex: '담당, 부담'
     str: 16
     oStr: 17
+  '譚':
+    val: '담'
+    desc: '클, 말씀'
+    ex: '민담, 영웅담'
+    str: 19
   '膽':
     val: '담'
-    desc: [ '쓸개' ]
+    desc: '쓸개'
     str: 17
     oStr: 19
-    tag: [ 350 ]
+    tag: [350]
+  '憺':
+    val: '담'
+    desc: '편안할, 참담할'
+    str: 16
+    oStr: 17
+  '潭':
+    val: '담'
+    desc: '못'
+    ex: '청담, 담양, 백록담, 백담사'
+    str: 17
+    oStr: 19
+    tag: [310]
   '答':
     val: '답'
-    desc: [ '대답' ]
+    desc: '대답'
     str: 12
   '畓':
     val: '답'
-    desc: [ '논' ]
+    desc: '논'
     str: 9
   '踏':
     val: '답'
-    desc: [ '밟을','답사' ]
+    desc: '밟을'
+    ex: '답사, 답습'
     str: 15
   '堂':
     val: '당'
-    desc: [ '집' ]
+    desc: '집'
     str: 11
-    tag: [ 115 ]
   '當':
     val: '당'
-    desc: [ '마땅','당연' ]
+    desc: '마땅, 맡다'
+    ex: '해당, 당연, 감당'
     str: 13
-  '黨':
-    val: '당'
-    desc: [ '무리' ]
-    str: 20
   '唐':
     val: '당'
-    desc: [ '당나라','당황할' ]
+    desc: '당나라, 당황할'
     str: 10
     fam: true
+  '黨':
+    val: '당'
+    desc: '무리'
+    ex: '정당'
+    str: 20
+  '撞':
+    val: '당'
+    desc: '칠, 부딪히다'
+    ex: '당구, 자가당착(自家撞着)'
+    str: 15
+    oStr: 16
+  '棠':
+    val: '당'
+    desc: '산사나무, 산앵도나무, 팥배나무'
+    ex: '해당화(海棠花)'
+    str: 12
+    tag: [300]
+  '螳':
+    val: '당'
+    desc: '사마귀'
+    ex: '당랑거철(螳螂拒轍)'
+    str: 17
+    tag: [200]
   '糖':
     val: '당'
-    desc: [ '엿' ]
+    desc: '엿'
+    ex: '제당, 당뇨'
     str: 16
-  '蟷':
-    val: '당'
-    desc: [ '사마귀','당랑거철' ]
-    str: 19
-    tag: [ 200 ]
   '大':
     val: '대'
-    desc: [ '클' ]
+    desc: '클'
     str: 3
-    tag: [ 90 ]
+    tag: [90]
     fam: true
   '代':
     val: '대'
-    desc: [ '대신할' ]
+    desc: '대신할, 대리하다, 세대'
     str: 5
   '待':
     val: '대'
-    desc: [ '기다릴' ]
+    desc: '기다릴'
     str: 9
   '對':
     val: '대'
-    desc: [ '대할' ]
+    desc: '대할'
+    ex: '대책, 대상, 반대'
     str: 14
     fam: true
   '帶':
     val: '대'
-    desc: [ '띠' ]
+    desc: '띠'
+    ex: '휴대, 연대'
     str: 11
   '臺':
     val: '대'
-    desc: [ '대' ]
+    desc: '대, 받침대'
+    ex: '청와대, 무대, 대만'
     str: 14
   '貸':
     val: '대'
-    desc: [ '빌릴','대출' ]
+    desc: '빌릴, 주다'
+    ex: '대출, 임대, 대여'
     str: 12
   '隊':
     val: '대'
-    desc: [ '무리','부대' ]
+    desc: '무리, 군대'
+    ex: '부대, 대열'
     str: 12
     oStr: 17
   '垈':
     val: '대'
-    desc: [ '집터','대지' ]
+    desc: '집터'
+    ex: '대지, 낙성대'
     str: 8
+    tag: [330]
   '袋':
     val: '대'
-    desc: [ '자루','포대' ]
+    desc: '자루'
+    ex: '포대, 마대'
     str: 11
   '戴':
     val: '대'
-    desc: [ '머리에 일','추대' ]
+    desc: '머리에 일'
+    ex: '추대, 불구대천(不俱戴天)'
     str: 17
     fam: true
   '旲':
     val: '대'
-    desc: [ '햇빛' ]
+    desc: '햇빛'
     str: 7
-    tag: [ 30 ]
-  '宅':
-    val: '댁'
-    desc: [ '댁' ]
-    str: 6
+    tag: [30]
   '德':
     val: '덕'
-    desc: [ '덕' ]
+    desc: '덕'
     str: 15
-    tag: [ 50,100,110,125 ]
+    tag: [50,100,110,125]
     fam: true
-  '刀':
-    val: '도'
-    desc: [ '칼' ]
-    str: 2
-    tag: [ 80 ]
   '度':
     val: '도'
-    desc: [ '법도','정도' ]
+    desc: '법도'
+    ex: '정도, 제도, 태도, 속도'
     str: 9
-    tag: [ 40,70 ]
+  '刀':
+    val: '도'
+    desc: '칼'
+    str: 2
+    tag: [80]
   '到':
     val: '도'
-    desc: [ '이를' ]
+    desc: '이를'
     str: 8
   '道':
     val: '도'
-    desc: [ '길' ]
+    desc: '길'
     str: 13
     oStr: 16
     fam: true
-  '途':
-    val: '도'
-    desc: [ '길','용도' ]
-    str: 11
-    oStr: 14
-  '導':
-    val: '도'
-    desc: [ '인도할' ]
-    str: 16
-    tag: [ 70,110 ]
   '島':
     val: '도'
-    desc: [ '섬' ]
+    desc: '섬'
     str: 10
   '徒':
     val: '도'
-    desc: [ '무리' ]
+    desc: '무리'
     str: 10
   '圖':
     val: '도'
-    desc: [ '그림' ]
+    desc: '그림'
     str: 14
   '倒':
     val: '도'
-    desc: [ '넘어질' ]
+    desc: '넘어질'
     str: 10
   '都':
     val: '도'
-    desc: [ '도읍' ]
+    desc: '도읍'
     str: 12
     oStr: 16
     fam: true
   '桃':
     val: '도'
-    desc: [ '복숭아' ]
+    desc: '복숭아'
     str: 10
-    tag: [ 300 ]
+    tag: [300]
   '挑':
     val: '도'
-    desc: [ '돋울','도전' ]
+    desc: '돋울'
+    ex: '도전, 도발'
     str: 9
     oStr: 10
   '跳':
     val: '도'
-    desc: [ '뛸','도약' ]
+    desc: '뛸'
+    ex: '도약'
     str: 13
   '逃':
     val: '도'
-    desc: [ '도망할' ]
+    desc: '도망할'
     str: 10
     oStr: 13
   '渡':
     val: '도'
-    desc: [ '건널' ]
+    desc: '건널'
     str: 12
     oStr: 13
   '陶':
     val: '도'
-    desc: [ '질그릇' ]
+    desc: '질그릇, 도공, 기뻐하다'
+    ex: '도자기, 도취, 도산서원'
     str: 11
-    oStr: 15
+    oStr: 16
+    tag: [75,150]
     fam: true
+  '途':
+    val: '도'
+    desc: '길'
+    ex: '별도, 도중, 용도'
+    str: 11
+    oStr: 14
   '稻':
     val: '도'
-    desc: [ '벼' ]
+    desc: '벼'
+    ex: '입도선매(立稻先賣)'
     str: 15
+  '導':
+    val: '도'
+    desc: '인도할'
+    str: 16
+    tag: [70,110]
   '盜':
     val: '도'
-    desc: [ '도둑' ]
+    desc: '도둑'
     str: 12
   '塗':
     val: '도'
-    desc: [ '칠할','도배' ]
+    desc: '칠할'
+    ex: '도배'
     str: 13
   '堵':
     val: '도'
-    desc: [ '담','도열' ]
+    desc: '담, 담장'
+    ex: '도열'
     str: 12
+  '濤':
+    val: '도'
+    desc: '물결'
+    ex: '파도'
+    str: 16
+    oStr: 17
+    tag: [310]
+  '禱':
+    val: '도'
+    desc: '빌, 기원하다'
+    ex: '기도, 묵도'
+    str: 19
+    tag: [500]
   '鍍':
     val: '도'
-    desc: [ '도금할' ]
+    desc: '도금할'
     str: 17
-    tag: [ 340 ]
+    tag: [340]
+  '蹈':
+    val: '도'
+    desc: '밟을'
+    ex: '무도(舞蹈)'
+    str: 17
+  '屠':
+    val: '도'
+    desc: '죽일, 무찌르다'
+    ex: '도살(屠殺), 도축, 도룡지기(屠龍之技)'
+    str: 12
   '悼':
     val: '도'
-    desc: [ '슬퍼할','애도' ]
+    desc: '슬퍼할'
+    ex: '애도(哀悼), 추도(追悼)'
     str: 11
     oStr: 12
   '掉':
     val: '도'
-    desc: [ '흔들' ]
+    desc: '흔들'
     str: 11
     oStr: 12
+  '搗':
+    val: '도'
+    desc: '찧을, 다듬이질'
+    ex: '쌀도정'
+    str: 13
+    oStr: 14
+  '淘':
+    val: '도'
+    desc: '쌀 일, 쌀을 일다, 씻다'
+    ex: '도태(淘汰)'
+    str: 11
+    oStr: 12
+  '滔':
+    val: '도'
+    desc: '물 넘칠'
+    ex: '도도히 흐름'
+    str: 13
+    oStr: 14
   '萄':
     val: '도'
-    desc: [ '포도' ]
+    desc: '포도'
     str: 12
     oStr: 14
-    tag: [ 300 ]
-  '洮':
-    val: '도'
-    desc: [ '씻을' ]
-    str: 9
-    oStr: 10
-    tag: [ 310 ]
+    tag: [300]
   '讀':
     val: '독'
-    desc: [ '읽을' ]
+    desc: '읽을'
     str: 22
-    tag: [ 70 ]
+    tag: [70]
   '獨':
     val: '독'
-    desc: [ '홀로' ]
+    desc: '홀로'
     str: 16
     oStr: 17
     fam: true
   '毒':
     val: '독'
-    desc: [ '독' ]
+    desc: '독'
     str: 9
+  '督':
+    val: '독'
+    desc: '감독할'
+    ex: '독려, 기독교'
+    str: 13
+    tag: [140]
   '篤':
     val: '독'
-    desc: [ '도타울','돈독' ]
+    desc: '도타울'
+    ex: '돈독, 독실'
     str: 16
-    tag: [ 115 ]
+    tag: [115]
   '瀆':
     val: '독'
-    desc: [ '도랑','모독' ]
+    desc: '도랑, 더럽히다'
+    ex: '모독'
     str: 18
     oStr: 19
   '禿':
     val: '독'
-    desc: [ '대머리' ]
+    desc: '대머리'
     str: 7
   '豚':
     val: '돈'
-    desc: [ '돼지' ]
+    desc: '돼지'
     str: 11
-    tag: [ 200 ]
+    tag: [200]
     fam: true
   '敦':
     val: '돈'
-    desc: [ '도타울','돈독' ]
+    desc: '도타울'
+    ex: '돈독'
     str: 12
-    tag: [ 115 ]
+    tag: [115]
     fam: true
-  '暾':
-    val: '돈'
-    desc: [ '아침해' ]
-    str: 16
-    tag: [ 30 ]
-  '燉':
-    val: '돈'
-    desc: [ '불빛' ]
-    str: 16
-    tag: [ 30,320 ]
-  '旽':
-    val: '돈'
-    desc: [ '밝을' ]
-    str: 8
-    tag: [ 30 ]
   '頓':
     val: '돈'
-    desc: [ '조아릴','갑자기','돈오' ]
+    desc: '조아릴, 갑자기'
+    ex: '사돈(査頓), 두둔, 돈오(頓悟)'
     str: 13
-    tag: [ 500 ]
     fam: true
+  '旽':
+    val: '돈'
+    desc: '밝을'
+    str: 8
+    tag: [30]
+  '沌':
+    val: '돈'
+    desc: '엉길'
+    ex: '혼돈(混沌)'
+    str: 7
   '突':
     val: '돌'
     desc: [ '갑자기','돌연' ]
@@ -6551,7 +7123,7 @@ hanjaMaster =
   '奢':
     val: '사'
     desc: [ '사치할' ]
-    str: 11
+    str: 12
   '嗣':
     val: '사'
     desc: [ '대이을','후사' ]
@@ -6889,11 +7461,12 @@ hanjaMaster =
     tag: [125]
   '暑':
     val: '서'
-    desc: [ '더울','피서' ]
-    str: 12
+    desc: '더울'
+    ex: '피서'
+    str: 13
   '緖':
     val: '서'
-    desc: [ '실마리','단서' ]
+    desc: '실마리, 단서'
     str: 15
   '誓':
     val: '서'
@@ -10655,7 +11228,8 @@ hanjaMaster =
     tag: [155]
   '著':
     val: '저'
-    desc: [ '나타날','현저','저작' ]
+    desc: '나타날'
+    ex: '현저, 저작'
     str: 12
     oStr: 14
   '貯':
@@ -10684,8 +11258,8 @@ hanjaMaster =
     oStr: 13
   '楮':
     val: '저'
-    desc: [ '닥나무' ]
-    str: 12
+    desc: '닥나무'
+    str: 13
     tag: [300]
   '咀':
     val: '저'
@@ -10693,9 +11267,9 @@ hanjaMaster =
     str: 8
   '猪':
     val: '저'
-    desc: [ '돼지' ]
-    str: 11
-    oStr: 12
+    desc: '돼지'
+    str: 12
+    oStr: 13
     tag: [200]
   '的':
     val: '적'
@@ -11935,6 +12509,11 @@ hanjaMaster =
     val: '차'
     desc: [ '갈래','교차' ]
     str: 3
+  '茶':
+    val: '차'
+    desc: '차'
+    str: 10
+    oStr: 12
   '着':
     val: '착'
     desc: [ '붙을','부착' ]
@@ -15618,47 +16197,84 @@ hanjaMaster =
     str: 10
   '欽':
     val: '흠'
-    desc: [ '공경할','흠모' ]
+    desc: '공경할, 흠모하다'
     str: 12
   '欠':
     val: '흠'
-    desc: [ '하품' ]
+    desc: '하품'
     str: 4
   '歆':
     val: '흠'
-    desc: [ '흠향할' ]
+    desc: '흠향할'
     str: 13
   '吸':
     val: '흡'
-    desc: [ '마실' ]
+    desc: '마실'
+    ex: '호흡, 흡연'
     str: 7
   '洽':
     val: '흡'
-    desc: [ '흡족할' ]
+    desc: '흡족할'
     str: 9
     oStr: 10
+    tag: [130]
   '恰':
     val: '흡'
-    desc: [ '흡사할' ]
+    desc: '흡사할'
     str: 9
     oStr: 10
   '希':
     val: '희'
-    desc: [ '바랄' ]
+    desc: '바랄, 희망'
     str: 7
   '喜':
     val: '희'
-    desc: [ '기쁠' ]
+    desc: '기쁠'
     str: 12
     tag: [150]
     fam: true
   '稀':
     val: '희'
-    desc: [ '드물' ]
+    desc: '드물'
+    ex: '희귀, 고희'
     str: 12
-    tag: [60]
+    tag: [135]
+  '戲':
+    val: '희'
+    desc: '놀이'
+    ex: '오금희(伍禽戲)'
+    str: 17
+    tag: [150]
+  '姬':
+    val: '희'
+    desc: '여자'
+    ex: '무희(舞姬)'
+    str: 10
+  '禧':
+    val: '희'
+    desc: '복'
+    ex: '축희연(祝禧宴)'
+    str: 16
+    tag: [50,150]
+  '嬉':
+    val: '희'
+    desc: '아름다울'
+    str: 15
+    tag: [10]
+  '羲':
+    val: '희'
+    desc: '복희씨(伏羲氏)'
+    ex: '왕희지(王羲之)'
+    str: 16
+  '熙':
+    val: '희'
+    desc: '빛날'
+    ex: '서희(徐熙), 박정희(朴正熙)'
+    str: 14
+    tag: [30]
   '詰':
     val: '힐'
-    desc: [ '물을','힐문' ]
+    desc: '물을, 꾸짖을'
+    ex: '힐문, 힐책'
     str: 13
     tag: [140]
